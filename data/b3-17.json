@@ -1,0 +1,47 @@
+{
+  "src": {"key":"jfzVNDdCl24","platform":"YouTube","creator":"SHREDHAPPENS","title":"High Protein Chicken & Rice Power Skillet","url":"https://www.youtube.com/watch?v=jfzVNDdCl24","recipes":1},
+  "recipes": [{
+    "id":"lemon-chicken-rice-skillet","title":"Lemon Chicken & Rice Power Skillet","img":"img/lemon-chicken-rice-skillet.jpg","part":1,"t":0,
+    "servings":4,"unit":"serving","time":55,
+    "macros":{"cal":460,"protein":58,"carbs":22,"fat":15},"stated":["cal","protein"],
+    "tags":["Main meal","Chicken","Rice","High protein","Meal prep","Gluten-free"],
+    "groups":[
+      {"name":"Chicken & rice","items":[
+        {"q":5,"u":"","i":"bone-in, skin-on chicken thighs","a":"Meat"},
+        {"q":2,"u":"tsp","i":"olive oil, divided","a":"Pantry","staple":true},
+        {"q":1,"u":"tbsp","i":"onion powder","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"dried oregano","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"sweet paprika","a":"Pantry"},
+        {"q":1,"u":"","i":"lemon, zested and juiced","a":"Produce"},
+        {"q":4,"u":"","i":"garlic cloves, minced","a":"Produce"},
+        {"q":1,"u":"","i":"bag Kaizen high-protein rice (or 4 servings rice of choice)","a":"Pantry"},
+        {"q":0.33,"u":"cup","i":"bone broth","a":"Pantry"},
+        {"q":0.5,"u":"","i":"red onion, finely diced","a":"Produce"},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true}]},
+      {"name":"Express pickled onions","items":[
+        {"q":0.5,"u":"","i":"red onion, very thinly sliced","a":"Produce"},
+        {"q":1,"u":"","i":"lemon, juiced","a":"Produce"},
+        {"q":3,"u":"tbsp","i":"parsley, finely chopped","a":"Produce"},
+        {"q":null,"u":"","i":"salt","a":"Pantry","staple":true}]},
+      {"name":"Herby yogurt spread","items":[
+        {"q":1,"u":"cup","i":"thick Greek yogurt","a":"Dairy"},
+        {"q":1,"u":"tsp","i":"olive oil","a":"Pantry","staple":true},
+        {"q":0.5,"u":"","i":"lemon, juiced","a":"Produce"},
+        {"q":2,"u":"tbsp","i":"mint, finely chopped","a":"Produce"},
+        {"q":2,"u":"tbsp","i":"parsley, finely chopped, plus extra to serve","a":"Produce"},
+        {"q":1,"u":"","i":"garlic clove, minced","a":"Produce"},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Marinate","Toss the chicken with 1 tsp olive oil, salt, pepper, onion powder, oregano, paprika, lemon zest and juice, and garlic. Marinate 1–6 hours if you can, or cook straight away."],
+      ["Sear","Heat the oven to 200 °C (400 °F). Heat 1 tsp olive oil in an ovenproof skillet over medium heat and cook the chicken skin-side down for 8 minutes, flip and cook 8 more. Set aside."],
+      ["Deglaze","Add the bone broth and diced onion to the same skillet and simmer 4–5 minutes, scraping up the browned bits."],
+      ["Add the rice","Cook the rice according to the package, stir it into the skillet and nestle the chicken on top."],
+      ["Bake","Bake 15–20 minutes until the chicken is cooked through."],
+      ["Quick pickles","Toss the sliced onion with the lemon juice, salt and parsley. Rest 5 minutes and toss again."],
+      ["Yogurt spread","Mix the yogurt with the olive oil, lemon juice, mint, parsley, garlic, salt and pepper."],
+      ["Finish","Top the skillet with dollops of yogurt spread, the pickled onions and fresh parsley."]
+    ],
+    "notes":"Recipe, calories and protein per serving come from the video description; macros assume the chicken skin is removed and high-protein Kaizen rice (regular rice will raise the carbs). Carbs and fat are estimates. Marinating time not included."
+  }]
+}

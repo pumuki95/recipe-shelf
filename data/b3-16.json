@@ -1,0 +1,26 @@
+{
+  "src": {"key":"S0ImsfJaLvI","platform":"YouTube","creator":"SHREDHAPPENS","title":"Viral Chocolate Chip Cloud Bread","url":"https://www.youtube.com/watch?v=S0ImsfJaLvI","recipes":1},
+  "recipes": [{
+    "id":"chocolate-chip-cloud-bread","title":"Chocolate Chip Cloud Bread","img":"img/chocolate-chip-cloud-bread.jpg","part":1,"t":0,
+    "servings":1,"unit":"loaf","time":45,
+    "macros":{"cal":150,"protein":11,"carbs":14,"fat":6},"stated":["cal"],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","Low carb","Eggs"],
+    "groups":[
+      {"name":"Cloud bread","items":[
+        {"q":3,"u":"","i":"egg whites (fresh eggs work best)","a":"Dairy"},
+        {"q":1,"u":"tbsp","i":"powdered monk fruit sweetener","a":"Baking"},
+        {"q":null,"u":"","i":"small squeeze of lemon juice","a":"Produce"},
+        {"q":0.25,"u":"cup","i":"low-sugar chocolate chips (¼–⅓ cup), plus extra for the top","a":"Baking"},
+        {"q":1,"u":"tbsp","i":"cornstarch (optional, 1–2 tbsp, for more structure)","a":"Baking"},
+        {"q":null,"u":"","i":"parchment paper","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Whip","Whip the egg whites in a large bowl to medium peaks."],
+      ["Sweeten","Add the monk fruit and lemon juice (and cornstarch, if using) and keep whipping to stiff peaks — this part is critical."],
+      ["Fold","Gently fold in the chocolate chips."],
+      ["Shape","Spread onto a parchment-lined tray or dish and shape into a little loaf with a spatula. Top with more chips if you like."],
+      ["Bake","Bake at 160 °C (315 °F) for 35–40 minutes until golden on top. Rest a couple of minutes, then rip it open."]
+    ],
+    "notes":"Recipe comes from the video description, which says the whole loaf is under 150 calories depending on your chocolate chips. Protein, carbs and fat are estimates (without cornstarch). Low carb unless you add the cornstarch."
+  }]
+}
