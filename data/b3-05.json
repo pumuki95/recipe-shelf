@@ -1,0 +1,24 @@
+{
+  "src": {"key":"2ka8-s35Tdw","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Low Calorie Blueberry Peanut Butter Muffins","url":"https://www.youtube.com/watch?v=2ka8-s35Tdw","recipes":1},
+  "recipes": [{
+    "id":"blueberry-pb-banana-muffins","title":"Flourless Blueberry Peanut Butter Muffins","img":"img/blueberry-pb-banana-muffins.jpg","part":1,"t":0,
+    "servings":9,"unit":"muffin","time":30,
+    "macros":{"cal":171,"protein":7,"carbs":12,"fat":12},"stated":["cal","protein","carbs","fat"],
+    "tags":["Breakfast","Snack","Gluten-free","Low carb","Eggs","Meal prep"],
+    "groups":[
+      {"name":"Muffins","items":[
+        {"q":200,"u":"g","i":"ripe bananas (about 2)","a":"Produce"},
+        {"q":200,"u":"g","i":"peanut butter","a":"Pantry"},
+        {"q":2,"u":"","i":"eggs","a":"Dairy"},
+        {"q":150,"u":"g","i":"blueberries","a":"Produce"},
+        {"q":1,"u":"tsp","i":"baking powder (optional)","a":"Baking","staple":true,"est":true}]}
+    ],
+    "steps":[
+      ["Mix","Mash the bananas, then mix in the peanut butter, eggs and baking powder until smooth. Fold in the blueberries."],
+      ["Fill","Divide between 9 lined muffin cups."],
+      ["Bake","Bake at 180°C (350°F) for 15 minutes."],
+      ["Cool","Let cool for 10 minutes before eating."]
+    ],
+    "notes":"Recipe and per-muffin macros come from the video description (original by @lukezfit; he used 50 g less peanut butter than the original)."
+  }]
+}
