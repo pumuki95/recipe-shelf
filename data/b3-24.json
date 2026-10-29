@@ -1,0 +1,31 @@
+{
+  "src": {"key":"bC4yaDHB_68","platform":"YouTube","creator":"Neil John Thomas","title":"38 y/o retired bodybuilder eats Big Macs everyday while staying 10%bf","url":"https://www.youtube.com/watch?v=bC4yaDHB_68","recipes":1},
+  "recipes": [{
+    "id":"high-protein-big-mac","title":"High-Protein Big Mac Burger","img":"img/high-protein-big-mac.jpg","part":1,"t":0,
+    "servings":1,"unit":"burger","time":15,
+    "macros":{"cal":482,"protein":46,"carbs":35,"fat":16},"stated":["cal","protein"],
+    "tags":["Main meal","Beef","High protein"],
+    "groups":[
+      {"name":"Big Mac sauce","items":[
+        {"q":3,"u":"tbsp","i":"0% fat Greek yogurt","a":"Dairy"},
+        {"q":1,"u":"tbsp","i":"light mayo","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"sugar-free ketchup","a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"yellow mustard","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"pickle juice","a":"Pantry"},
+        {"q":0.25,"u":"tsp","i":"paprika","a":"Pantry"},
+        {"q":3,"u":"tsp","i":"apple cider vinegar","a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"relish","a":"Pantry"}]},
+      {"name":"Burger","items":[
+        {"q":6,"u":"oz","i":"96/4 lean ground beef, as 2 thin patties","a":"Meat"},
+        {"q":null,"u":"","i":"burger seasoning","a":"Pantry"},
+        {"q":1,"u":"","i":"slice ultra-thin Swiss cheese","a":"Dairy"},
+        {"q":1,"u":"","i":"brioche bun","a":"Bakery"}]}
+    ],
+    "steps":[
+      ["Make the sauce","Mix the yogurt, mayo, ketchup, mustard, pickle juice, paprika, apple cider vinegar and relish until smooth. Keep it in a squeeze bottle."],
+      ["Cook the patties","Season the beef and smash into 2 thin patties. Cook on high heat for about 1 minute per side."],
+      ["Stack","Toast the brioche bun, add the patties with the Swiss cheese and a good squeeze of sauce."]
+    ],
+    "notes":"Amounts are from the on-screen text. On screen: the burger is 482 cal and 46 g protein; a serving of sauce has 4 g protein;the beef is 200 cal and 30 g protein; the bun is 160 cal and 6 g protein; the Swiss is 80 cal and 6 g protein. The sauce recipe makes more than one serving. Carbs and fat are estimates."
+  }]
+}

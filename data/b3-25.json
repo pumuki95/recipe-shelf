@@ -1,0 +1,27 @@
+{
+  "src": {"key":"06n1oNCJrWA","platform":"YouTube","creator":"Hyun Opoien","title":"Cottage cheese cloud bread","url":"https://www.youtube.com/watch?v=06n1oNCJrWA","recipes":1},
+  "recipes": [{
+    "id":"cottage-cheese-cloud-bread","title":"Cottage Cheese Cloud Bread","img":"img/cottage-cheese-cloud-bread.jpg","part":1,"t":0,
+    "servings":1,"unit":"loaf","time":40,
+    "macros":{"cal":290,"protein":27,"carbs":14,"fat":14},"stated":["cal","protein"],
+    "tags":["Breakfast","Snack","Vegetarian","Eggs","High protein","Gluten-free","Low carb"],
+    "groups":[
+      {"name":"Cloud bread","items":[
+        {"q":0.5,"u":"cup","i":"cottage cheese","a":"Dairy"},
+        {"q":3,"u":"","i":"eggs, separated","a":"Dairy"},
+        {"q":null,"u":"","i":"few drops of lemon juice","a":"Produce"},
+        {"q":0.25,"u":"tsp","i":"sweetener or vanilla (unclear in video)","a":"Baking","est":true},
+        {"q":1,"u":"tbsp","i":"cornstarch","a":"Baking"},
+        {"q":null,"u":"","i":"a few berries, to dot on top (optional)","a":"Produce"},
+        {"q":null,"u":"","i":"parchment paper","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Blend","Blend the cottage cheese with the 3 egg yolks until smooth."],
+      ["Whip","Whip the egg whites with the lemon juice, the ¼ tsp addition and the cornstarch to stiff peaks."],
+      ["Fold","Fold half the yolk mixture into the whites, then gently fold in the rest."],
+      ["Shape","Pile onto a parchment-lined tray and shape into a dome. Dot with berries if you like."],
+      ["Bake","Bake at 150 °C (300 °F) for 30 minutes."]
+    ],
+    "notes":"Amounts are as said in the video; the whole loaf is 290 cal and 27 g protein per the on-screen text. The ¼ tsp ingredient isn't clear from the audio, and carbs and fat are estimates."
+  }]
+}
