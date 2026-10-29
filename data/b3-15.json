@@ -1,0 +1,37 @@
+{
+  "src": {"key":"7V2TYsJSIvE","platform":"YouTube","creator":"Stefan Bodegrajac","title":"High Protein Chicken Calzone… 🔥","url":"https://www.youtube.com/watch?v=7V2TYsJSIvE","recipes":1},
+  "recipes": [{
+    "id":"chicken-crust-calzone","title":"Chicken-Crust Spinach & Cheese Calzone","img":"img/chicken-crust-calzone.jpg","part":1,"t":0,
+    "servings":1,"unit":"calzone","time":40,
+    "macros":{"cal":490,"protein":76,"carbs":22,"fat":13},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","High protein","Gluten-free","Low carb"],
+    "groups":[
+      {"name":"Chicken base","items":[
+        {"q":200,"u":"g","i":"ground chicken breast","a":"Meat"},
+        {"q":1,"u":"tsp","i":"onion powder","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"garlic powder","a":"Pantry"},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"Italian seasoning","a":"Pantry"},
+        {"q":15,"u":"g","i":"Parmigiano Reggiano, grated","a":"Dairy"},
+        {"q":null,"u":"","i":"parchment paper","a":"Household","staple":true}]},
+      {"name":"Filling","items":[
+        {"q":0.25,"u":"tsp","i":"cooking oil","a":"Pantry","staple":true},
+        {"q":2,"u":"","i":"garlic cloves","a":"Produce"},
+        {"q":2,"u":"cup","i":"spinach","a":"Produce"},
+        {"q":null,"u":"","i":"squeeze of lemon (or lime) juice","a":"Produce"},
+        {"q":null,"u":"","i":"salt","a":"Pantry","staple":true},
+        {"q":180,"u":"g","i":"low-fat cottage cheese","a":"Dairy"}]},
+      {"name":"To dip","items":[
+        {"q":50,"u":"ml","i":"reduced-salt tomato sauce","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Make the base","Spread the ground chicken thinly over a parchment-lined tray with a fork or spoon. Season with salt, pepper, onion powder, garlic powder and Italian seasoning."],
+      ["Blend","Blend the cottage cheese until smooth."],
+      ["Cook the filling","Sauté the garlic in the oil, add the spinach and wilt. Stir in the blended cottage cheese, a squeeze of lemon and salt."],
+      ["Fill and fold","Spread the filling over one half of the chicken base, then use the parchment to fold the other half over."],
+      ["Bake","Top with Parmesan and bake at 200 °C (400 °F) for 20–30 minutes, until golden and 74 °C (165 °F) inside. Oven or air fryer both work."],
+      ["Serve","Warm the tomato sauce for dipping."]
+    ],
+    "notes":"Recipe and whole-calzone macros come from the video description (original by @madelainerascan)."
+  }]
+}

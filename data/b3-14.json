@@ -1,0 +1,27 @@
+{
+  "src": {"key":"biHQ2rp_joU","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Does Susan Approve This Cheesecake… 👀","url":"https://www.youtube.com/watch?v=biHQ2rp_joU","recipes":1},
+  "recipes": [{
+    "id":"lemon-cottage-cheese-cheesecake-cup","title":"Lemon Cottage Cheese Cheesecake Cup","img":"img/lemon-cottage-cheese-cheesecake-cup.jpg","part":1,"t":0,
+    "servings":1,"unit":"serving","time":5,
+    "macros":{"cal":300,"protein":27,"carbs":29,"fat":9},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","No-bake","High protein","Vegetarian"],
+    "groups":[
+      {"name":"Cheesecake","items":[
+        {"q":190,"u":"g","i":"low-fat cottage cheese","a":"Dairy"},
+        {"q":0.5,"u":"","i":"lemon, zested","a":"Produce"},
+        {"q":1.5,"u":"tbsp","i":"lemon juice","a":"Produce"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"sweetener, to taste (optional — e.g. monk fruit drops)","a":"Baking"}]},
+      {"name":"Crumble","items":[
+        {"q":30,"u":"g","i":"graham crackers (or arrowroot / Nice biscuits)","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Blend","Blend the cottage cheese, lemon zest, lemon juice, vanilla, salt and sweetener until completely smooth."],
+      ["Pour","Pour into a bowl or glass."],
+      ["Crush and top","Crush the graham crackers in a bag and scatter over the top."],
+      ["Serve","Eat straight away, or chill for a thicker texture."]
+    ],
+    "notes":"Recipe and macros (per serve) come from the video description (original recipe by @madelainerascan). The description says zest of a lemon; the video uses half."
+  }]
+}
