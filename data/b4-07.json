@@ -1,0 +1,58 @@
+{
+  "src": {"key":"7uw_Q9G2vIE","platform":"YouTube","creator":"Jalalsamfit","title":"High Protein Chicken Shawarma Rice Bowls","url":"https://www.youtube.com/watch?v=7uw_Q9G2vIE","recipes":1},
+  "recipes": [{
+    "id":"chicken-shawarma-rice-bowls","title":"Chicken Shawarma Rice Bowls","img":"img/chicken-shawarma-rice-bowls.jpg","part":1,"t":0,
+    "servings":5,"unit":"bowl","time":50,
+    "macros":{"cal":552,"protein":46,"carbs":48,"fat":19},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","Rice","High protein","Meal prep","Mediterranean"],
+    "groups":[
+      {"name":"Chicken shawarma","items":[
+        {"q":1000,"u":"g","i":"boneless skinless chicken thighs","a":"Meat"},
+        {"q":30,"u":"g","i":"minced garlic","a":"Produce"},
+        {"q":2,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":2,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":2,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"onion powder","a":"Pantry"},
+        {"q":1.5,"u":"tsp","i":"cumin","a":"Pantry"},
+        {"q":1.5,"u":"tsp","i":"cinnamon","a":"Pantry"},
+        {"q":1.5,"u":"tsp","i":"sumac","a":"Pantry"},
+        {"q":3,"u":"tsp","i":"olive oil","a":"Pantry","staple":true},
+        {"q":0.75,"u":"","i":"lemon, juiced","a":"Produce"}]},
+      {"name":"Golden yellow rice","items":[
+        {"q":20,"u":"g","i":"reduced-fat butter","a":"Dairy"},
+        {"q":35,"u":"g","i":"minced garlic","a":"Produce"},
+        {"q":200,"u":"g","i":"white onion, finely chopped","a":"Produce"},
+        {"q":1,"u":"tsp","i":"turmeric","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":250,"u":"g","i":"uncooked basmati rice, washed","a":"Pantry"},
+        {"q":600,"u":"g","i":"water","a":"Pantry","staple":true}]},
+      {"name":"Garlic white sauce (big batch)","items":[
+        {"q":150,"u":"g","i":"fat-free yogurt","a":"Dairy"},
+        {"q":75,"u":"g","i":"light mayo","a":"Pantry"},
+        {"q":25,"u":"g","i":"honey","a":"Pantry"},
+        {"q":0.5,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"garlic powder","a":"Pantry"},
+        {"q":25,"u":"g","i":"pickle juice, to consistency","a":"Pantry"}]},
+      {"name":"Crunchy slaw (big batch)","items":[
+        {"q":250,"u":"g","i":"red onion, thinly sliced","a":"Produce"},
+        {"q":300,"u":"g","i":"cherry tomatoes, chopped","a":"Produce"},
+        {"q":200,"u":"g","i":"pickled gherkins, thinly sliced","a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"fresh parsley, chopped","a":"Produce"},
+        {"q":1,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"sumac","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Marinate","Toss the chicken with the garlic, spices, olive oil and lemon juice until well coated."],
+      ["Cook the chicken","Lay on a sheet pan and bake or air fry at 200 °C (400 °F) for 20 minutes, then broil 3–4 minutes to char. Rest 4–5 minutes, chop into cubes and toss in the pan juices."],
+      ["Start the rice","Melt the butter and cook the garlic and onion over medium-low for 5–6 minutes until soft. Add the turmeric, paprika, salt and rice and toast 2–3 minutes."],
+      ["Simmer","Add the water, bring to a light bubble, cover and simmer 10–12 minutes until cooked, stirring once halfway."],
+      ["Sauce","Mix the yogurt, mayo, honey, salt, pepper and garlic powder, then add pickle juice to the consistency you like."],
+      ["Slaw","Toss the onion, tomatoes, gherkins and parsley with the salt, pepper and sumac."],
+      ["Assemble","Divide the rice and chicken between 5 containers and top with slaw and garlic sauce."]
+    ],
+    "notes":"Recipe and per-bowl macros come from the video description. In the video he also adds a little tomato paste to the chicken marinade. Store the sauce and slaw separately for meal prep."
+  }]
+}

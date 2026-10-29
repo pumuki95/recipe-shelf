@@ -1,0 +1,44 @@
+{
+  "src": {"key":"gLmyk4609S4","platform":"YouTube","creator":"Jalalsamfit","title":"Low Calorie Crispy Garlic Parmesan Chicken Tenders","url":"https://www.youtube.com/watch?v=gLmyk4609S4","recipes":1},
+  "recipes": [{
+    "id":"garlic-parmesan-cornflake-tenders","title":"Crispy Garlic Parmesan Chicken Tenders & Potatoes","img":"img/garlic-parmesan-cornflake-tenders.jpg","part":1,"t":0,
+    "servings":6,"unit":"tender","time":45,
+    "macros":{"cal":179,"protein":19,"carbs":12,"fat":6},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","Potatoes","High protein","Air fryer"],
+    "groups":[
+      {"name":"Chicken","items":[
+        {"q":550,"u":"g","i":"raw chicken breast (500–600 g), cut into strips","a":"Meat"},
+        {"q":1,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":1.5,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+        {"q":1.5,"u":"tsp","i":"oregano","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"garlic powder","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"onion powder","a":"Pantry"},
+        {"q":3,"u":"tsp","i":"olive oil","a":"Pantry","staple":true},
+        {"q":1,"u":"","i":"medium or large egg","a":"Dairy"},
+        {"q":90,"u":"g","i":"cornflakes, crushed","a":"Pantry"},
+        {"q":30,"u":"g","i":"Parmesan, grated","a":"Dairy"},
+        {"q":null,"u":"","i":"fresh parsley, finely chopped","a":"Produce"}]},
+      {"name":"Crispy potatoes","items":[
+        {"q":500,"u":"g","i":"white potatoes, cubed","a":"Produce"},
+        {"q":1,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"paprika","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"oregano","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"onion powder","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"olive oil","a":"Pantry","staple":true}]},
+      {"name":"Spicy Cane's-style sauce","items":[
+        {"q":50,"u":"g","i":"light mayo","a":"Pantry"},
+        {"q":25,"u":"g","i":"sriracha","a":"Pantry"},
+        {"q":null,"u":"","i":"garlic powder","a":"Pantry"},
+        {"q":null,"u":"","i":"smoked paprika","a":"Pantry"},
+        {"q":null,"u":"","i":"squeeze of lemon","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Season","Slice the chicken into medium strips and toss with the salt, paprika, oregano, garlic powder, onion powder and olive oil."],
+      ["Crumb","Whisk the egg. Dip each strip in egg, let the excess drip off, then press firmly into the crushed cornflakes."],
+      ["Cook the chicken","Lay on a lined tray and air fry or bake at 185 °C (375 °F) for 15–18 minutes until golden and crispy."],
+      ["Potatoes","Toss the cubed potatoes with the same spices and oil, then air fry at 200 °C for 25 minutes until crispy."],
+      ["Sauce and serve","Whisk the sauce ingredients. Top the tenders with Parmesan and parsley and serve with the potatoes and sauce."]
+    ],
+    "notes":"Recipe and per-tender macros come from the video description (macros are for the tenders; potatoes and sauce are extra)."
+  }]
+}

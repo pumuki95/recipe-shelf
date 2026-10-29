@@ -1,0 +1,25 @@
+{
+  "src": {"key":"BtOCnA2QnQ0","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Chocolate Banana Cake Perfection","url":"https://www.youtube.com/watch?v=BtOCnA2QnQ0","recipes":1},
+  "recipes": [{
+    "id":"chocolate-banana-cottage-cheese-cake","title":"Chocolate Banana Cottage Cheese Cake","img":"img/chocolate-banana-cottage-cheese-cake.jpg","part":1,"t":0,
+    "servings":8,"unit":"slice","time":80,
+    "macros":{"cal":103,"protein":7,"carbs":13,"fat":3},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","Breakfast","Vegetarian","Gluten-free","Meal prep"],
+    "groups":[
+      {"name":"Cake","items":[
+        {"q":350,"u":"g","i":"very ripe bananas (3 large)","a":"Produce"},
+        {"q":3,"u":"","i":"medium eggs","a":"Dairy"},
+        {"q":250,"u":"g","i":"high-protein cottage cheese","a":"Dairy"},
+        {"q":30,"u":"g","i":"cocoa powder","a":"Baking"},
+        {"q":20,"u":"ml","i":"sugar-free maple syrup","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"baking powder","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"icing sugar, to dust (optional)","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Mix","Mash the bananas, then mix in the eggs, cottage cheese, cocoa, maple syrup and baking powder until combined."],
+      ["Bake","Pour into a lined loaf tin and bake at 200 °C for about 50 minutes (ovens vary)."],
+      ["Cool","Let it cool at least 20 minutes — it's very moist inside. Dust with icing sugar and cut into 8 slices."]
+    ],
+    "notes":"Recipe and per-slice macros come from the video description (original by @fillingmeals). Tips: use very ripe bananas, add stevia for more sweetness, or top with sugar-free chocolate chips. Gluten-free as made (check your baking powder)."
+  }]
+}
