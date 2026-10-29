@@ -1,0 +1,32 @@
+{
+  "src": {"key":"oLn-qmHyoZY","platform":"YouTube","creator":"Chef Jack Ovens","title":"This Beats Going Out For Date Night And It's Cheaper","url":"https://www.youtube.com/watch?v=oLn-qmHyoZY","recipes":1,"extra":{"label":"Written recipe","url":"https://chefjackovens.com/garlic-prawn-date-night-pasta/"}},
+  "recipes": [{
+    "id":"garlic-prawn-pasta","title":"Creamy Garlic Prawn Pasta","img":"img/garlic-prawn-pasta.jpg","part":1,"t":0,
+    "servings":2,"unit":"serving","time":25,
+    "macros":{"cal":860,"protein":48,"carbs":92,"fat":32},"stated":[],
+    "tags":["Main meal","Fish","Pasta","High protein"],
+    "groups":[
+      {"name":"Pasta","items":[
+        {"q":250,"u":"g","i":"linguine or spaghetti","a":"Pantry"},
+        {"q":300,"u":"g","i":"prawns, peeled and deveined","a":"Seafood"},
+        {"q":20,"u":"g","i":"unsalted butter, divided","a":"Dairy"},
+        {"q":1,"u":"tbsp","i":"olive oil","a":"Pantry","staple":true},
+        {"q":4,"u":"","i":"garlic cloves, finely chopped","a":"Produce"},
+        {"q":0.25,"u":"tsp","i":"chilli flakes (optional), plus extra to serve","a":"Pantry"},
+        {"q":125,"u":"ml","i":"chicken stock","a":"Pantry"},
+        {"q":125,"u":"ml","i":"thickened (heavy) cream","a":"Dairy"},
+        {"q":25,"u":"g","i":"Parmigiano Reggiano, freshly grated, plus extra to serve","a":"Dairy"},
+        {"q":0.5,"u":"","i":"lemon, zested and juiced","a":"Produce"},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"flat-leaf parsley, to serve","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Boil the pasta","Cook the pasta in well-salted boiling water until just shy of al dente; save a cup of pasta water."],
+      ["Sear the prawns","Season the prawns and sear in the olive oil and half the butter over high heat for about a minute per side until just cooked. Remove to a plate."],
+      ["Build the sauce","Lower the heat, add the remaining butter, garlic and chilli flakes and cook until fragrant. Add the stock and reduce by half, then stir in the cream."],
+      ["Toss","Add the pasta, Parmesan, lemon zest and juice, and a splash of pasta water; toss until glossy and coating the pasta. Return the prawns and season."],
+      ["Serve","Finish with parsley, extra Parmesan and chilli flakes."]
+    ],
+    "notes":"Ingredients come from the video description; the full method is on Chef Jack's site (linked). Macros per serving are estimates."
+  }]
+}
