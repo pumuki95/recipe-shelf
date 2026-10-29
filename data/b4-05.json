@@ -1,0 +1,37 @@
+{
+  "src": {"key":"l701xCN9ESM","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Smash Burger Tacos","url":"https://www.youtube.com/watch?v=l701xCN9ESM","recipes":1},
+  "recipes": [{
+    "id":"smash-burger-tacos","title":"High-Protein Smash Burger Tacos","img":"img/smash-burger-tacos.jpg","part":1,"t":0,
+    "servings":1,"unit":"taco","time":15,
+    "macros":{"cal":383,"protein":31,"carbs":13,"fat":23},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Ground beef","Tortillas","High protein","Quick"],
+    "groups":[
+      {"name":"Taco (makes 1)","items":[
+        {"q":120,"u":"g","i":"lean ground beef (95/5)","a":"Meat"},
+        {"q":null,"u":"","i":"salt, pepper and garlic powder","a":"Pantry","staple":true},
+        {"q":1,"u":"","i":"low-calorie tortilla","a":"Bakery"},
+        {"q":1,"u":"","i":"slice light mozzarella","a":"Dairy"}]},
+      {"name":"Big Mac sauce (makes extra)","items":[
+        {"q":120,"u":"g","i":"non-fat Greek yogurt","a":"Dairy"},
+        {"q":40,"u":"g","i":"light mayo","a":"Pantry"},
+        {"q":30,"u":"g","i":"ketchup","a":"Pantry"},
+        {"q":10,"u":"g","i":"yellow mustard","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"pickle juice","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"dill pickles, finely chopped","a":"Pantry"},
+        {"q":0.5,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+        {"q":0.25,"u":"tsp","i":"garlic powder","a":"Pantry"},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true}]},
+      {"name":"Toppings","items":[
+        {"q":null,"u":"","i":"chopped red onion or pickled onions","a":"Produce"},
+        {"q":null,"u":"","i":"shredded lettuce","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Smash","Press the beef into a thin, even layer right onto the tortilla. Season generously with salt, pepper and garlic powder."],
+      ["Sear","Place beef-side down in a hot pan over medium-high heat and cook until crispy."],
+      ["Make the sauce","While it cooks, mix all the sauce ingredients until smooth."],
+      ["Cheese","Flip, add the mozzarella and cover until melted."],
+      ["Load it up","Top with onion, lettuce and sauce, then fold like a taco."]
+    ],
+    "notes":"Recipe and per-taco macros come from the video description (original by @hunt4shredz). The sauce makes extra for more tacos."
+  }]
+}

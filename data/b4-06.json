@@ -1,0 +1,23 @@
+{
+  "src": {"key":"it8bu5b2lGU","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Avocado Chocolate Dessert","url":"https://www.youtube.com/watch?v=it8bu5b2lGU","recipes":1},
+  "recipes": [{
+    "id":"avocado-chocolate-mousse","title":"Avocado Chocolate Mousse","img":"img/avocado-chocolate-mousse.jpg","part":1,"t":0,
+    "servings":1,"unit":"jar","time":5,
+    "macros":{"cal":313,"protein":5,"carbs":42,"fat":13},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","No-bake","Vegetarian","Gluten-free","High fiber","Quick"],
+    "groups":[
+      {"name":"Mousse","items":[
+        {"q":80,"u":"g","i":"avocado","a":"Produce"},
+        {"q":80,"u":"g","i":"banana","a":"Produce"},
+        {"q":10,"u":"g","i":"cocoa powder (about 1 tbsp)","a":"Baking"},
+        {"q":10,"u":"g","i":"honey","a":"Pantry"},
+        {"q":20,"u":"ml","i":"vanilla extract","a":"Baking"},
+        {"q":50,"u":"g","i":"frozen blueberries, to top","a":"Frozen"}]}
+    ],
+    "steps":[
+      ["Blend","Blend the avocado, banana, cocoa, honey and vanilla until completely smooth."],
+      ["Serve","Spoon into a jar and top with the frozen blueberries."]
+    ],
+    "notes":"Recipe and macros come from the video description (original by @james_white_training). Adjust the amounts to fit your macros. You can't taste the avocado. Note the description says 20 ml vanilla — use less if you prefer."
+  }]
+}
