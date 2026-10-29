@@ -340,7 +340,7 @@ function detail(r){
             <span>Protein per 100 cal</span><span class="num">${(m.protein/m.cal*100).toFixed(1)} g</span><span></span>
           </div>
         </div>
-        ${siblings.length?`<div class="section"><h3 style="font-size:16px">Also in this video</h3><div class="tags">${siblings.map(x=>`<a class="tag" style="text-decoration:none" href="#r-${x.id}">${x.part}. ${esc(x.title)}</a>`).join("")}</div></div>`:""}
+        ${siblings.length?`<div class="section"><h3 style="font-size:16px">Also in this ${s.platform==="YouTube"?"video":"doc"}</h3><div class="tags">${siblings.map(x=>`<a class="tag" style="text-decoration:none" href="#r-${x.id}">${x.part}. ${esc(x.title)}</a>`).join("")}</div></div>`:""}
       </div>
       <div>
         <div class="dhead"><h2>${esc(r.title)}</h2><div class="from">${s.recipes>1?`Recipe ${r.part} of ${s.recipes} from`:"From"} “${esc(s.title)}”</div></div>
