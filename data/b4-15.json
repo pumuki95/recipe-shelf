@@ -1,0 +1,37 @@
+{
+  "src": {"key":"ohFOWLMlDDc","platform":"YouTube","creator":"Cooking With Kahnke","title":"Lettuce wraps are life!","url":"https://www.youtube.com/watch?v=ohFOWLMlDDc","recipes":1},
+  "recipes": [{
+    "id":"lettuce-wrap-ideas","title":"Iceberg Lettuce Wraps (4 Fillings)","img":"img/lettuce-wrap-ideas.jpg","part":1,"t":0,
+    "servings":1,"unit":"wrap","time":15,
+    "macros":{"cal":380,"protein":30,"carbs":10,"fat":24},"stated":[],
+    "tags":["Main meal","High protein","Gluten-free","Low carb","Quick"],
+    "groups":[
+      {"name":"The wrap","items":[
+        {"q":4,"u":"","i":"large iceberg lettuce leaves (layered)","a":"Produce","est":true},
+        {"q":null,"u":"","i":"parchment paper, for rolling","a":"Household","staple":true}]},
+      {"name":"BLT egg salad","items":[
+        {"q":2,"u":"","i":"slices cooked bacon","a":"Meat","est":true},
+        {"q":1,"u":"","i":"scoop egg salad","a":"Dairy","est":true},
+        {"q":0.25,"u":"","i":"avocado, sliced","a":"Produce","est":true},
+        {"q":2,"u":"","i":"tomato slices","a":"Produce","est":true}]},
+      {"name":"Crispy chicken","items":[
+        {"q":3,"u":"","i":"crispy chicken bites","a":"Meat","est":true},
+        {"q":null,"u":"","i":"slaw, tomato and a creamy sauce","a":"Produce"}]},
+      {"name":"Chicken salad & cucumber","items":[
+        {"q":120,"u":"g","i":"chicken salad","a":"Meat","est":true},
+        {"q":0.25,"u":"","i":"cucumber, sliced","a":"Produce","est":true},
+        {"q":1,"u":"tbsp","i":"burger-style sauce","a":"Pantry","est":true}]},
+      {"name":"Taco beef","items":[
+        {"q":120,"u":"g","i":"seasoned taco ground beef","a":"Meat","est":true},
+        {"q":30,"u":"g","i":"shredded cheddar","a":"Dairy","est":true},
+        {"q":null,"u":"","i":"pickled jalapeños and a spicy mayo","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Build the base","Lay a sheet of parchment on the board and stack several large iceberg leaves into a bowl shape."],
+      ["Fill","Pile your filling into the centre — pick one of the four combos or use leftovers."],
+      ["Roll","Use the parchment to roll it up tightly like a burrito, tucking in the sides."],
+      ["Cut","Slice through the parchment and serve in halves."]
+    ],
+    "notes":"The video is a montage of lettuce-wrap fillings with no amounts or macros. Fillings are identified from what's shown; amounts and macros (for the taco-beef version) are estimates. The parchment roll is what keeps it together."
+  }]
+}

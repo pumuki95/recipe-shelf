@@ -1,0 +1,169 @@
+{
+ "src": {
+  "key": "sojDfhTWJn8",
+  "platform": "YouTube",
+  "creator": "Chef Jack Ovens",
+  "title": "I Eat This Pasta Every Week | 60g Protein Per Meal",
+  "url": "https://www.youtube.com/watch?v=sojDfhTWJn8",
+  "recipes": 1,
+  "extra": {
+   "label": "Written recipe",
+   "url": "https://chefjackovens.com/chicken-mushroom-protein-pasta/"
+  }
+ },
+ "recipes": [
+  {
+   "id": "lemon-chicken-mushroom-pasta",
+   "title": "Lemon Chicken & Mushroom Protein Pasta",
+   "img": "img/lemon-chicken-mushroom-pasta.jpg",
+   "part": 1,
+   "t": 0,
+   "servings": 5,
+   "unit": "serving",
+   "time": 40,
+   "macros": {
+    "cal": 667,
+    "protein": 60,
+    "carbs": 74,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Chicken",
+    "Pasta",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Chicken & mushroom sauce",
+     "items": [
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "olive oil",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 1,
+       "u": "kg",
+       "i": "chicken thigh fillets, blitzed into mince",
+       "a": "Meat"
+      },
+      {
+       "q": 400,
+       "u": "g",
+       "i": "Swiss brown (cremini) mushrooms, roughly chopped",
+       "a": "Produce"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "brown onion, finely diced",
+       "a": "Produce"
+      },
+      {
+       "q": 6,
+       "u": "",
+       "i": "garlic cloves, grated",
+       "a": "Produce"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "chicken stock pots (1–2, optional)",
+       "a": "Pantry"
+      },
+      {
+       "q": 500,
+       "u": "ml",
+       "i": "chicken stock (2 cups)",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "lemon, zested and juiced",
+       "a": "Produce"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "fresh chives, finely sliced",
+       "a": "Produce"
+      },
+      {
+       "q": 80,
+       "u": "g",
+       "i": "Parmesan, freshly grated, plus extra to serve",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and cracked black pepper",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Pasta",
+     "items": [
+      {
+       "q": 450,
+       "u": "g",
+       "i": "spaghetti (or pasta of choice)",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "cup",
+       "i": "reserved pasta water, as needed",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Brown the chicken",
+     "Heat the oil in a pan over medium-high until just smoking. Spread the chicken mince out, season, and leave it 3–4 minutes to brown, then break it up and cook about 5 minutes total. Remove."
+    ],
+    [
+     "Mushrooms",
+     "In the same pan, add the mushrooms with a pinch of salt and don't touch them for 3–4 minutes so they brown."
+    ],
+    [
+     "Onion and garlic",
+     "Add the onion and cook 3–4 minutes until soft, then the garlic for 1 minute."
+    ],
+    [
+     "Simmer",
+     "Return the chicken and juices, add the stock pots and stock, bring to a simmer and reduce by half, 5–6 minutes, until glossy."
+    ],
+    [
+     "Cook the pasta",
+     "Meanwhile boil the spaghetti in salted water for 2 minutes less than the packet says. Save a cup of pasta water and drain."
+    ],
+    [
+     "Emulsify",
+     "Toss the pasta in the sauce, then take it off the heat. Stir in the Parmesan, lemon zest and juice and two-thirds of the chives, then loosen with pasta water to the consistency you like."
+    ],
+    [
+     "Portion",
+     "Divide into 5 containers and finish with extra Parmesan, pepper and the rest of the chives."
+    ]
+   ],
+   "notes": "Ingredients come from the video description and per-serve macros from the on-screen card; the full method is on Chef Jack's site (linked). No cream — the sauce is a Parmesan and pasta-water emulsion. Chicken thigh mince keeps it juicy."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "src": {"key":"f2RZbrhc3tM","platform":"YouTube","creator":"Stefan Bodegrajac","title":"INSANE Protein Cloud Bread","url":"https://www.youtube.com/watch?v=f2RZbrhc3tM","recipes":1},
+  "recipes": [{
+    "id":"giant-protein-cloud-bread","title":"Giant Protein Cloud Bread","img":"img/giant-protein-cloud-bread.jpg","part":1,"t":0,
+    "servings":1,"unit":"whole recipe","time":25,
+    "macros":{"cal":250,"protein":58,"carbs":3,"fat":0},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","Breakfast","Vegetarian","Gluten-free","Eggs","High protein","Low carb"],
+    "groups":[
+      {"name":"Cloud bread","items":[
+        {"q":300,"u":"g","i":"liquid egg whites","a":"Dairy"},
+        {"q":5,"u":"ml","i":"vanilla (or white chocolate) flavour drops / sweetener","a":"Baking"},
+        {"q":30,"u":"g","i":"protein powder — chocolate in the original, strawberry in his","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Whip","Whip the egg whites and sweetener with an electric mixer for about 8 minutes until thick, glossy and fluffy."],
+      ["Fold","Gently fold through the protein powder."],
+      ["Bake","Pour into a lined baking dish and bake at 180 °C for 15 minutes — it puffs up dramatically."]
+    ],
+    "notes":"Recipe and whole-recipe macros come from the video description (original chocolate version by @supercoach_melissa). An electric mixer is essential. Texture lands between a soufflé, cake and cloud bread."
+  }]
+}
