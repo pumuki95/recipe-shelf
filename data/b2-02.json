@@ -1,0 +1,33 @@
+{
+  "src": {"key":"Yoxz9Vfs5Jo","platform":"YouTube","creator":"Nico's Recipes","title":"Blueberry Pancakes with Greek Yogurt","url":"https://www.youtube.com/watch?v=Yoxz9Vfs5Jo","recipes":1,
+          "extra":{"label":"Full recipe on The Plant-Based School","url":"https://theplantbasedschool.com/greek-yogurt-blueberry-pancakes/"}},
+  "recipes": [{
+    "id":"greek-yogurt-blueberry-pancakes","title":"Greek Yogurt Blueberry Pancakes","img":"img/greek-yogurt-blueberry-pancakes.jpg","part":1,"t":0,
+    "servings":3,"unit":"serving","time":25,
+    "macros":{"cal":330,"protein":17,"carbs":50,"fat":7},"stated":[],
+    "tags":["Breakfast","Eggs","Vegetarian","Sweet tooth","Family friendly"],
+    "groups":[
+      {"name":"Wet","items":[
+        {"q":1,"u":"cup","i":"Greek yogurt","a":"Dairy"},
+        {"q":0.333,"u":"cup","i":"milk (any)","a":"Dairy"},
+        {"q":2,"u":"","i":"eggs","a":"Dairy"},
+        {"q":1.5,"u":"tbsp","i":"honey, maple syrup or sugar","note":"1–2 tbsp","a":"Pantry"},
+        {"q":0.5,"u":"tsp","i":"vanilla extract (optional)","a":"Baking","staple":true}]},
+      {"name":"Dry","items":[
+        {"q":1,"u":"cup","i":"all-purpose flour","a":"Baking"},
+        {"q":2,"u":"tsp","i":"baking powder","a":"Baking","staple":true},
+        {"q":0.25,"u":"tsp","i":"salt","a":"Pantry","staple":true}]},
+      {"name":"Fruit","items":[
+        {"q":1,"u":"cup","i":"blueberries","note":"up to 1½ cups","a":"Produce"},
+        {"q":null,"u":"","i":"butter or oil, for the pan","a":"Dairy","staple":true}]}
+    ],
+    "steps":[
+      ["Mix the wet","Whisk the Greek yogurt, milk, eggs, honey and vanilla until smooth."],
+      ["Add the dry","Add the flour, baking powder and salt and whisk gently, just until combined. Don't overmix."],
+      ["Blueberries","Fold in the blueberries."],
+      ["Cook","Cook scoops of batter on a lightly greased pan over medium heat, 3–4 minutes per side, until golden and cooked through."],
+      ["Serve","Stack and serve with maple syrup and extra berries."]
+    ],
+    "notes":"Ingredients from the video description; method from the narration. The full recipe is on the linked page. Makes about 8 pancakes; servings and nutrition are estimates (without syrup)."
+  }]
+}

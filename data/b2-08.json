@@ -1,0 +1,45 @@
+{
+  "src": {"key":"8anFCcZ_GIg","platform":"YouTube","creator":"Aussie Fitness","title":"High Protein Meal Prep Taco Bell Grilled Cheese Burritos","url":"https://www.youtube.com/watch?v=8anFCcZ_GIg","recipes":1},
+  "recipes": [{
+    "id":"grilled-cheese-burritos","title":"Grilled Cheese Beef Burritos","img":"img/grilled-cheese-burritos.jpg","part":1,"t":0,
+    "servings":10,"unit":"burrito","time":60,
+    "macros":{"cal":663,"protein":55,"carbs":60.4,"fat":23},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Ground beef","Rice","Tortillas","High protein","Meal prep","Freezer friendly","Mexican-inspired"],
+    "groups":[
+      {"name":"Mexican rice","items":[
+        {"q":400,"u":"g","i":"white rice, washed (uncooked)","note":"or store-bought Spanish rice","a":"Pantry"},
+        {"q":150,"u":"g","i":"tomato passata","a":"Pantry"},
+        {"q":150,"u":"g","i":"tomato paste","a":"Pantry"},
+        {"q":750,"u":"ml","i":"beef broth","a":"Pantry"},
+        {"q":4,"u":"","i":"garlic cloves, diced","a":"Produce"},
+        {"q":1.5,"u":"tsp","i":"chicken stock powder","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"onion powder","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"cumin","a":"Pantry","staple":true}]},
+      {"name":"Taco beef","items":[
+        {"q":1.5,"u":"kg","i":"extra-lean ground beef","a":"Meat"},
+        {"q":0.5,"u":"","i":"brown onion, diced","a":"Produce"},
+        {"q":1,"u":"packet","i":"low-sodium taco seasoning","a":"Pantry"},
+        {"q":3,"u":"tsp","i":"chipotle in adobo paste","note":"2–4 tsp to taste","a":"International"},
+        {"q":100,"u":"g","i":"tomato paste","a":"Pantry"},
+        {"q":100,"u":"g","i":"tomato passata","a":"Pantry"},
+        {"q":null,"u":"","i":"cilantro, chopped","a":"Produce"},
+        {"q":0.5,"u":"","i":"lime, juiced","a":"Produce"}]},
+      {"name":"To assemble (10 burritos)","items":[
+        {"q":10,"u":"","i":"large low-carb tortillas (e.g. Mission Carb Balance)","a":"Bakery"},
+        {"q":350,"u":"g","i":"nacho cheese sauce","note":"35 g each","a":"Pantry"},
+        {"q":450,"u":"g","i":"low-fat Greek yogurt or light sour cream","note":"45 g each","a":"Dairy"},
+        {"q":300,"u":"g","i":"light sriracha mayo","note":"30 g each","a":"Pantry"},
+        {"q":250,"u":"g","i":"light grated cheddar","note":"25 g each","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Rice","Combine the rice, passata, tomato paste, beef broth, garlic and spices in a pot. Simmer covered on low 20–25 minutes, then fluff."],
+      ["Beef","Brown the beef with the onion. Add the taco seasoning, chipotle paste, tomato paste and passata, then finish with cilantro and lime juice."],
+      ["Fill","Warm the tortillas. Fill each with about 120 g rice and 150 g beef, plus nacho cheese, yogurt and sriracha mayo."],
+      ["Roll","Roll the burritos up tightly."],
+      ["Grill the cheese","Sprinkle 25 g grated cheddar in a pan, place a burrito seam-side down on it and cook on low 2–4 minutes until the cheese crisps onto the tortilla."],
+      ["Store","Eat fresh, or cool, wrap in foil and refrigerate or freeze for meal prep."]
+    ],
+    "notes":"Recipe and macros per burrito come from the video description (the video has no narration). Brand suggestions are the creator's."
+  }]
+}

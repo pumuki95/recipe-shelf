@@ -1,0 +1,34 @@
+{
+  "src": {"key":"3iC9vu9Y_TM","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Salted Caramel Healthy Twix Bars","url":"https://www.youtube.com/watch?v=3iC9vu9Y_TM","recipes":1},
+  "recipes": [{
+    "id":"salted-caramel-twix-bars","title":"Salted Caramel \"Twix\" Bars","img":"img/salted-caramel-twix-bars.jpg","part":1,"t":0,
+    "servings":7,"unit":"bar","time":30,
+    "macros":{"cal":270,"protein":9,"carbs":15,"fat":20},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","No-bake","Gluten-free","Low carb","Sweet tooth"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":150,"u":"g","i":"almond flour","a":"Baking"},
+        {"q":10,"u":"ml","i":"coconut oil, melted","a":"Pantry"},
+        {"q":30,"u":"g","i":"sugar-free maple syrup","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true}]},
+      {"name":"Salted caramel","items":[
+        {"q":50,"u":"g","i":"PB2 (powdered peanut butter), mixed with water","a":"Pantry"},
+        {"q":30,"u":"g","i":"cashew butter","a":"Pantry"},
+        {"q":30,"u":"g","i":"sugar-free maple syrup","a":"Pantry"},
+        {"q":5,"u":"ml","i":"coconut oil, melted","a":"Pantry"},
+        {"q":null,"u":"","i":"salt, a generous pinch","a":"Pantry","staple":true}]},
+      {"name":"Chocolate coating","items":[
+        {"q":100,"u":"g","i":"sea salt dark chocolate (e.g. Lindt)","a":"Baking"},
+        {"q":null,"u":"","i":"flaky sea salt (fleur de sel)","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Base","Mix the almond flour, melted coconut oil, maple syrup and vanilla. Press firmly into a lined glass dish and freeze 10 minutes."],
+      ["Caramel","Mix the PB2 paste and cashew butter, then add the maple syrup, melted coconut oil and salt and stir until smooth."],
+      ["Layer and freeze","Spread the caramel evenly over the base and freeze 1 hour."],
+      ["Cut","Cut into 7 bars."],
+      ["Coat","Melt the chocolate and dip or pour it over each bar until coated."],
+      ["Set","Sprinkle with flaky salt and refrigerate 30 minutes to set."]
+    ],
+    "notes":"Recipe and macros per bar come from the video description (the creator's lighter version, using PB2 with the cashew butter). Active time only; add about 1½ hours of freezing and chilling."
+  }]
+}

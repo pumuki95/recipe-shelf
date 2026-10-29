@@ -1,0 +1,40 @@
+{
+  "src": {"key":"18AI7WBy13I","platform":"YouTube","creator":"TheContrarianMoney","title":"One-Pan Creamy Tomato Pasta","url":"https://www.youtube.com/watch?v=18AI7WBy13I","recipes":1},
+  "recipes": [{
+    "id":"one-pan-creamy-tomato-pasta","title":"One-Pan Creamy Tomato Pasta","img":"img/one-pan-creamy-tomato-pasta.jpg","part":1,"t":0,
+    "servings":3,"unit":"serving","time":15,
+    "macros":{"cal":720,"protein":17,"carbs":78,"fat":38},"stated":[],
+    "tags":["Main meal","Pasta","Italian","One-pan","Quick"],
+    "groups":[
+      {"name":"Everything in the pan","items":[
+        {"q":225,"u":"g","i":"pappardelle nests","note":"8 oz","a":"Pantry"},
+        {"q":280,"u":"g","i":"cherry tomatoes, halved","note":"10 oz","a":"Produce"},
+        {"q":1,"u":"","i":"small red onion, thinly sliced","a":"Produce"},
+        {"q":2,"u":"handfuls","i":"fresh spinach","a":"Produce"},
+        {"q":6,"u":"","i":"garlic cloves, thinly sliced","a":"Produce"},
+        {"q":170,"u":"g","i":"tomato paste","note":"6 oz","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"dried oregano","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"dried basil","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"dried parsley","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"chili flakes (optional)","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"kosher salt","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":1,"u":"","i":"lemon, zested","a":"Produce"},
+        {"q":45,"u":"ml","i":"olive oil","note":"3 tbsp","a":"Pantry","staple":true},
+        {"q":240,"u":"ml","i":"heavy cream","note":"1 cup","a":"Dairy"},
+        {"q":600,"u":"ml","i":"chicken broth","note":"2½ cups","a":"Pantry"}]},
+      {"name":"To serve","items":[
+        {"q":null,"u":"","i":"fresh basil, torn","a":"Produce"},
+        {"q":null,"u":"","i":"Parmesan, grated","a":"Dairy"},
+        {"q":null,"u":"","i":"grilled chicken, shrimp or Italian sausage (optional)","a":"Meat"}]}
+    ],
+    "steps":[
+      ["Load the pan","Put the pasta nests, tomatoes, onion, spinach and garlic in a large skillet. Sprinkle over the dried herbs, chili, salt, pepper and lemon zest."],
+      ["Add the liquids","Spread the tomato paste over the top, drizzle with olive oil, then pour in the cream and broth."],
+      ["Simmer","Bring to a gentle simmer over medium heat, cover and cook 10 minutes, stirring now and then so the pasta separates and the paste melts into the sauce."],
+      ["Mix","When the pasta is tender and the sauce has thickened, give it a final stir."],
+      ["Serve","Top with basil, Parmesan and a protein if you like."]
+    ],
+    "notes":"Recipe from the video description. Nutrition is an estimate without any added protein."
+  }]
+}

@@ -1,0 +1,27 @@
+{
+  "src": {"key":"pW0Mj0iAn_E","platform":"YouTube","creator":"Dr. Joseph Salhab","title":"Viral High Protein Cream Cheese","url":"https://www.youtube.com/watch?v=pW0Mj0iAn_E","recipes":1},
+  "recipes": [{
+    "id":"high-protein-yogurt-cream-cheese","title":"Greek Yogurt Cream Cheese (Labneh)","img":"img/high-protein-yogurt-cream-cheese.jpg","part":1,"t":0,
+    "servings":6,"unit":"serving","time":10,
+    "macros":{"cal":75,"protein":7,"carbs":3,"fat":4},"stated":[],
+    "tags":["Breakfast","Snack","Vegetarian","High protein","Gluten-free","Low carb","Make-ahead"],
+    "groups":[
+      {"name":"Strained yogurt","items":[
+        {"q":500,"u":"g","i":"Greek yogurt (or regular 5% yogurt)","a":"Dairy"},
+        {"q":1.25,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":2,"u":"tsp","i":"lemon juice","a":"Produce"},
+        {"q":null,"u":"","i":"paper towels or cheesecloth","a":"Household","staple":true}]},
+      {"name":"To serve (optional)","items":[
+        {"q":null,"u":"","i":"olive oil, honey and a squeeze of lemon","a":"Pantry"},
+        {"q":null,"u":"","i":"chives or spring onions","a":"Produce"},
+        {"q":null,"u":"","i":"bagels or toast","a":"Bakery"}]}
+    ],
+    "steps":[
+      ["Season","Stir the salt and lemon juice into the yogurt."],
+      ["Strain","Line a sieve with paper towels or cheesecloth over a bowl, add the yogurt and cover with more paper. For an even thicker result, set something heavy on top."],
+      ["Wait","Refrigerate overnight while the liquid drains out."],
+      ["Serve","Next day it'll be thick like cream cheese. Flavor with chives or spring onion, or top with olive oil, honey and lemon and spread on a bagel."]
+    ],
+    "notes":"Method and amounts from the video narration (the description has no written recipe). Prep time doesn't include straining overnight. Nutrition per 2-tbsp-ish serving is an estimate."
+  }]
+}

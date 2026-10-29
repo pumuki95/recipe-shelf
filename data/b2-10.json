@@ -1,0 +1,28 @@
+{
+  "src": {"key":"6-08ImMML3o","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Crunchy High Protein Cucumber Salad","url":"https://www.youtube.com/watch?v=6-08ImMML3o","recipes":1},
+  "recipes": [{
+    "id":"chicken-cucumber-salad","title":"Peri Peri Chicken Cucumber Salad","img":"img/chicken-cucumber-salad.jpg","part":1,"t":0,
+    "servings":1,"unit":"bowl","time":15,
+    "macros":{"cal":344,"protein":53,"carbs":28,"fat":8},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","High protein","Gluten-free","Quick","Salad","Meal prep"],
+    "groups":[
+      {"name":"Salad","items":[
+        {"q":150,"u":"g","i":"peri peri diced chicken breast","a":"Meat"},
+        {"q":100,"u":"g","i":"cucumber, diced or sliced","a":"Produce"},
+        {"q":80,"u":"g","i":"red onion, finely sliced","a":"Produce"}]},
+      {"name":"Garlic yogurt dressing","items":[
+        {"q":80,"u":"g","i":"high-protein Greek yogurt","a":"Dairy"},
+        {"q":1,"u":"","i":"garlic clove, minced","a":"Produce"},
+        {"q":1,"u":"tsp","i":"avocado or olive oil","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"fresh lemon juice","a":"Produce"},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Cook the chicken","Cook the peri peri chicken until golden and cooked through, then let it cool slightly."],
+      ["Chop","Slice the cucumber and onion into a bowl or lidded container."],
+      ["Dressing","Mix the yogurt, garlic, lemon juice, oil, salt and pepper."],
+      ["Shake","Add the chicken and dressing, put the lid on and shake (or toss) until everything is coated."]
+    ],
+    "notes":"Recipe and macros for the whole bowl come from the video description. Swap in any protein you like."
+  }]
+}

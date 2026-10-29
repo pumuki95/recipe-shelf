@@ -1,0 +1,25 @@
+{
+  "src": {"key":"YAS8RDUzpWA","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Crunchy Peanut Butter & Banana Bark","url":"https://www.youtube.com/watch?v=YAS8RDUzpWA","recipes":1},
+  "recipes": [{
+    "id":"pb-banana-bark","title":"Chocolate Peanut Butter Banana Bark","img":"img/pb-banana-bark.jpg","part":1,"t":0,
+    "servings":10,"unit":"piece","time":10,
+    "macros":{"cal":92,"protein":2,"carbs":11,"fat":5},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","No-bake","Plant-based","Gluten-free","Low carb","Freezer friendly"],
+    "groups":[
+      {"name":"Bark","items":[
+        {"q":3,"u":"","i":"ripe bananas","a":"Produce"},
+        {"q":40,"u":"g","i":"smooth peanut butter","a":"Pantry"},
+        {"q":50,"u":"g","i":"70% dark chocolate, melted","a":"Baking"},
+        {"q":15,"u":"g","i":"crushed mixed nuts or salted peanuts","a":"Baking"},
+        {"q":null,"u":"","i":"baking paper","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Smash","Lay the bananas on baking paper and press them flat into an even layer (a second tray on top makes it easy)."],
+      ["Peanut butter","Spread the peanut butter over the banana."],
+      ["Chocolate","Spread or drizzle the melted dark chocolate over the top and sprinkle with the nuts."],
+      ["Freeze","Freeze a couple of hours until completely set."],
+      ["Break","Cut or break into 10 pieces and keep them in the freezer."]
+    ],
+    "notes":"Recipe and macros per piece come from the video description. Freezing time not included."
+  }]
+}

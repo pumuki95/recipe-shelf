@@ -1,0 +1,45 @@
+{
+  "src": {"key":"vAzMBfiVDaY","platform":"YouTube","creator":"Jalalsamfit","title":"TASTIEST caramelized onion chicken pasta","url":"https://www.youtube.com/watch?v=vAzMBfiVDaY","recipes":1},
+  "recipes": [{
+    "id":"caramelized-onion-chicken-pasta","title":"Caramelized Onion Chicken Pasta","img":"img/caramelized-onion-chicken-pasta.jpg","part":1,"t":0,
+    "servings":6,"unit":"serving","time":75,
+    "macros":{"cal":638,"protein":58,"carbs":52,"fat":21},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","Pasta","High protein","Meal prep","Comfort food"],
+    "groups":[
+      {"name":"Garlic herb chicken","items":[
+        {"q":1200,"u":"g","i":"boneless chicken thighs, cubed","a":"Meat"},
+        {"q":2,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":4,"u":"tsp","i":"spicy Italian seasoning","a":"Pantry","staple":true},
+        {"q":3,"u":"tsp","i":"dried parsley","a":"Pantry","staple":true},
+        {"q":4,"u":"tsp","i":"garlic granules","a":"Pantry","staple":true},
+        {"q":4,"u":"tsp","i":"paprika","a":"Pantry","staple":true},
+        {"q":30,"u":"g","i":"olive oil","note":"6 tsp","a":"Pantry","staple":true}]},
+      {"name":"Caramelized onions","items":[
+        {"q":200,"u":"g","i":"red onion, thinly sliced","a":"Produce"},
+        {"q":200,"u":"g","i":"white onion, thinly sliced","a":"Produce"},
+        {"q":100,"u":"g","i":"sun-dried tomatoes, drained and chopped","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":3,"u":"tsp","i":"Italian seasoning","a":"Pantry","staple":true},
+        {"q":2,"u":"tsp","i":"paprika","a":"Pantry","staple":true},
+        {"q":1,"u":"","i":"whole garlic bulb, top sliced off","a":"Produce"},
+        {"q":null,"u":"","i":"avocado oil spray","a":"Pantry","staple":true}]},
+      {"name":"Creamy pasta","items":[
+        {"q":425,"u":"g","i":"light evaporated milk (or regular milk)","note":"400–450 g","a":"Dairy"},
+        {"q":120,"u":"g","i":"light cream cheese","a":"Dairy"},
+        {"q":95,"u":"g","i":"Parmesan, grated","note":"90–100 g","a":"Dairy"},
+        {"q":22,"u":"g","i":"dark soy sauce","a":"International"},
+        {"q":1.5,"u":"tbsp","i":"fresh parsley, finely chopped","a":"Produce"},
+        {"q":350,"u":"g","i":"spaghetti or linguine (dry)","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Season the chicken","Toss the cubed chicken with its seasonings and olive oil and set aside."],
+      ["Onions","In a large oven dish, mix the sliced onions, sun-dried tomatoes, seasonings and a spray of oil. Set the whole garlic bulb in the middle and cover with foil."],
+      ["Caramelize","Bake 45 minutes at 190°C / 380°F, checking halfway, until golden and caramelized."],
+      ["Make the sauce","Squeeze in the roasted garlic and mix. While the dish is hot, add the parsley, soy sauce, Parmesan, evaporated milk and cream cheese and stir until melted and creamy (return to a low oven briefly to thicken if needed)."],
+      ["Add the pasta","Fold in the cooked pasta until coated."],
+      ["Bake the chicken","Spread the chicken on a lined sheet pan and bake 18 minutes at 200°C / 400°F, then broil 5 minutes until golden."],
+      ["Serve","Divide the pasta and chicken into 6 portions."]
+    ],
+    "notes":"Recipe and macros per serving come from the video description. Cook the pasta while the onions roast."
+  }]
+}

@@ -1,0 +1,47 @@
+{
+  "src": {"key":"AACFi0EWk6o","platform":"YouTube","creator":"Jalalsamfit","title":"Street Corn Chicken Bowls Meal Prep","url":"https://www.youtube.com/watch?v=AACFi0EWk6o","recipes":1},
+  "recipes": [{
+    "id":"street-corn-chicken-bowls","title":"Street Corn Chicken Bowls","img":"img/street-corn-chicken-bowls.jpg","part":1,"t":0,
+    "servings":6,"unit":"bowl","time":60,
+    "macros":{"cal":637,"protein":57,"carbs":55,"fat":21},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","Rice","High protein","Meal prep","Mexican-inspired","Sheet pan"],
+    "groups":[
+      {"name":"Mexican grilled chicken","items":[
+        {"q":1300,"u":"g","i":"boneless chicken thighs, fat trimmed","a":"Meat"},
+        {"q":2.5,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":4,"u":"tsp","i":"paprika","a":"Pantry","staple":true},
+        {"q":2.5,"u":"tsp","i":"cumin","a":"Pantry","staple":true},
+        {"q":4,"u":"tsp","i":"garlic powder","a":"Pantry","staple":true},
+        {"q":3,"u":"tsp","i":"onion powder","a":"Pantry","staple":true},
+        {"q":4,"u":"tsp","i":"oregano","a":"Pantry","staple":true},
+        {"q":1.5,"u":"tsp","i":"chili powder","a":"Pantry","staple":true},
+        {"q":30,"u":"g","i":"olive oil","note":"6 tsp","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"lime juice, a squeeze","a":"Produce"}]},
+      {"name":"Creamy street corn salad","items":[
+        {"q":600,"u":"g","i":"canned sweet corn, drained","a":"Pantry"},
+        {"q":200,"u":"g","i":"red onion, chopped","a":"Produce"},
+        {"q":2,"u":"tsp","i":"garlic powder","a":"Pantry","staple":true},
+        {"q":2,"u":"tsp","i":"paprika","a":"Pantry","staple":true},
+        {"q":150,"u":"g","i":"red bell pepper, chopped","a":"Produce"},
+        {"q":90,"u":"g","i":"jalapeño, chopped","note":"80–100 g","a":"Produce"},
+        {"q":300,"u":"g","i":"low-fat yogurt","a":"Dairy"},
+        {"q":100,"u":"g","i":"light mayo","a":"Pantry"},
+        {"q":85,"u":"g","i":"low-fat feta (or cotija)","note":"70–100 g","a":"Dairy"},
+        {"q":2,"u":"tbsp","i":"fresh cilantro, finely chopped","a":"Produce"},
+        {"q":2.5,"u":"tsp","i":"Tajín seasoning","a":"International"}]},
+      {"name":"Cilantro lime rice","items":[
+        {"q":250,"u":"g","i":"basmati rice (uncooked)","a":"Pantry"},
+        {"q":1,"u":"handful","i":"fresh cilantro, finely chopped","a":"Produce"},
+        {"q":null,"u":"","i":"lime juice and a pinch of salt","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Marinate","Trim the chicken and toss with all the chicken seasonings, a squeeze of lime and the olive oil."],
+      ["Rice","Rinse the rice, boil it then simmer on low until cooked. Let it cool, then mix in the cilantro, lime juice and a pinch of salt."],
+      ["Bake the chicken","Spread the chicken on a large lined sheet pan. Bake 23 minutes at 200°C / 390°F, then broil 5–6 minutes until charred and juicy."],
+      ["Roast the corn","Take the chicken off the pan. Add the corn, red onion, garlic powder and paprika to the same pan, mix through the chicken juices, flatten, and roast 15 minutes until crispy."],
+      ["Make the salad","Tip the roasted corn into a bowl with the bell pepper, jalapeño, yogurt, mayo, feta, cilantro and Tajín and mix until creamy."],
+      ["Assemble","Cube the chicken and divide into 6 containers with the rice and street corn salad."]
+    ],
+    "notes":"Recipe and macros per serving come from the video description."
+  }]
+}

@@ -1,0 +1,67 @@
+{
+  "src": {"key":"sjMyqJtFK6U","platform":"YouTube","creator":"Jason Sani","title":"Food is 80% of the game","url":"https://www.youtube.com/watch?v=sjMyqJtFK6U","recipes":3},
+  "recipes": [
+  {
+    "id":"beef-sweet-potato-lunch-bowl","title":"Ground Beef, Sweet Potato & Rice Lunch Bowl","img":"img/beef-sweet-potato-lunch-bowl.jpg","part":1,"t":17,
+    "servings":1,"unit":"bowl","time":30,
+    "macros":{"cal":690,"protein":50,"carbs":62,"fat":26},"stated":[],
+    "tags":["Main meal","Ground beef","Potatoes","Rice","High protein","Gluten-free","Meal prep"],
+    "groups":[
+      {"name":"Bowl","items":[
+        {"q":8,"u":"oz","i":"ground beef, bison or chicken","note":"drain the fat","a":"Meat"},
+        {"q":1,"u":"","i":"medium sweet potato, cubed","est":true,"a":"Produce"},
+        {"q":0.5,"u":"cup","i":"cooked rice","est":true,"a":"Pantry"},
+        {"q":1,"u":"cup","i":"broccoli or carrots","est":true,"a":"Produce"},
+        {"q":null,"u":"","i":"salt, pepper and your favorite sauce","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"sauerkraut or beet kraut, on the side (optional)","a":"International"}]}
+    ],
+    "steps":[
+      ["Roast","Roast the sweet potato cubes at 425°F for 25–30 minutes until caramelized."],
+      ["Brown the meat","Brown the ground meat, drain off the fat and season."],
+      ["Veg","Steam or sauté the broccoli or carrots."],
+      ["Build","Pile the meat, sweet potato, rice and veg into a bowl, add sauce and a side of kraut."]
+    ],
+    "notes":"A meal template from the video rather than a precise recipe: he names 8 oz of meat with a starch and veg. Other amounts and the nutrition are estimates. Batch-cook for the week."
+  },
+  {
+    "id":"steak-sweet-potato-rice-bowl","title":"Steak, Sweet Potato & Rice Dinner Bowl","img":"img/steak-sweet-potato-rice-bowl.jpg","part":2,"t":31,
+    "servings":1,"unit":"bowl","time":35,
+    "macros":{"cal":760,"protein":60,"carbs":60,"fat":28},"stated":[],
+    "tags":["Main meal","Beef","Potatoes","Rice","High protein","Gluten-free"],
+    "groups":[
+      {"name":"Bowl","items":[
+        {"q":9,"u":"oz","i":"steak","note":"8–10 oz","a":"Meat"},
+        {"q":1,"u":"","i":"medium sweet potato, cubed","est":true,"a":"Produce"},
+        {"q":0.5,"u":"cup","i":"cooked rice","est":true,"a":"Pantry"},
+        {"q":1,"u":"cup","i":"broccoli","est":true,"a":"Produce"},
+        {"q":null,"u":"","i":"salt, pepper and hot sauce","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"sauerkraut or beet kraut (optional)","a":"International"}]}
+    ],
+    "steps":[
+      ["Roast","Roast the sweet potato cubes at 425°F for 25–30 minutes."],
+      ["Cook the steak","Season the steak and sear or grill to your liking. Rest 5 minutes, then slice."],
+      ["Veg","Steam or roast the broccoli."],
+      ["Build","Serve the steak over rice with the sweet potato and broccoli, plus hot sauce and kraut."]
+    ],
+    "notes":"A meal template from the video: 8–10 oz steak with potatoes or rice, veg and something cultured. Other amounts and nutrition are estimates."
+  },
+  {
+    "id":"protein-yogurt-dessert-bowl","title":"Protein Yogurt Dessert Bowl","img":"img/protein-yogurt-dessert-bowl.jpg","part":3,"t":45,
+    "servings":1,"unit":"bowl","time":5,
+    "macros":{"cal":330,"protein":45,"carbs":28,"fat":4},"stated":[],
+    "tags":["Dessert","Snack","High protein","No-bake","Quick","Gluten-free"],
+    "groups":[
+      {"name":"Bowl","items":[
+        {"q":200,"u":"g","i":"plain Greek yogurt","est":true,"a":"Dairy"},
+        {"q":1,"u":"scoop","i":"protein powder","est":true,"a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"PB2 (powdered peanut butter)","est":true,"a":"Pantry"},
+        {"q":0.5,"u":"cup","i":"frozen berries","est":true,"a":"Frozen"}]}
+    ],
+    "steps":[
+      ["Mix","Stir the protein powder and PB2 into the yogurt until thick and smooth (add a splash of milk if it's too stiff)."],
+      ["Berries","Fold in the frozen berries and let them sit a minute so they bleed into the yogurt."]
+    ],
+    "notes":"From the video's list of go-to meals: plain Greek yogurt with protein powder, PB2 and frozen berries. Amounts and nutrition are estimates."
+  }
+  ]
+}

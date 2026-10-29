@@ -1,0 +1,32 @@
+{
+  "src": {"key":"hREGP15njIg","platform":"YouTube","creator":"Baked Lean","title":"Double Chocolate High-Protein Cheesecake","url":"https://www.youtube.com/watch?v=hREGP15njIg","recipes":1,
+          "extra":{"label":"Printable recipe on Baked Lean","url":"https://bakedlean.com/double-chocolate-high-protein-cheesecake/"}},
+  "recipes": [{
+    "id":"double-chocolate-protein-cheesecake","title":"Double Chocolate High-Protein Cheesecake","img":"img/double-chocolate-protein-cheesecake.jpg","part":1,"t":0,
+    "servings":8,"unit":"slice","time":70,
+    "macros":{"cal":278,"protein":20,"carbs":28,"fat":9},"stated":["cal","protein"],
+    "tags":["Dessert","High protein","Eggs","Baked","Gluten-free","Make-ahead"],
+    "groups":[
+      {"name":"Cheesecake","items":[
+        {"q":16,"u":"oz","i":"low-fat cream cheese, softened","a":"Dairy"},
+        {"q":2,"u":"cups","i":"fat-free cottage cheese","a":"Dairy"},
+        {"q":4,"u":"","i":"eggs","a":"Dairy"},
+        {"q":1,"u":"cup","i":"Splenda (or sweetener of choice)","a":"Baking"},
+        {"q":2,"u":"scoops","i":"chocolate protein powder","a":"Pantry"},
+        {"q":0.25,"u":"cup","i":"unsweetened cocoa powder","a":"Baking"},
+        {"q":null,"u":"","i":"salt, a pinch","a":"Pantry","staple":true},
+        {"q":0.25,"u":"cup","i":"chocolate frosting (zero sugar works)","a":"Baking"},
+        {"q":null,"u":"","i":"parchment paper and cooking spray","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Prep","Heat the oven to 325°F. Line a 9-inch springform pan with parchment and lightly spray the sides."],
+      ["Blend","Blend the cream cheese, cottage cheese, eggs, sweetener, protein powder, cocoa and salt until completely smooth."],
+      ["Pour","Pour into the pan."],
+      ["Swirl","Microwave the frosting 10–15 seconds until pourable, drizzle over the batter and swirl with a knife."],
+      ["Bake","Bake 45–50 minutes, until the edges are set but the center still jiggles slightly."],
+      ["Cool slowly","Turn off the oven, crack the door and leave it inside 15–20 minutes. Cool fully at room temperature."],
+      ["Chill","Refrigerate at least 6 hours (overnight is best), then cut into 8 slices."]
+    ],
+    "notes":"Recipe from the video description; 278 calories and 20 g protein per slice as stated. Carbs and fat are estimates and depend on your protein powder and frosting. Time doesn't include chilling."
+  }]
+}

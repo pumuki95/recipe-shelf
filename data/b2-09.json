@@ -1,0 +1,48 @@
+{
+  "src": {"key":"l8AOeLcMhmc","platform":"YouTube","creator":"Jalalsamfit","title":"Creamy Chicken Alfredo Fried Rice","url":"https://www.youtube.com/watch?v=l8AOeLcMhmc","recipes":1},
+  "recipes": [{
+    "id":"chicken-alfredo-fried-rice","title":"Creamy Chicken Alfredo Fried Rice","img":"img/chicken-alfredo-fried-rice.jpg","part":1,"t":0,
+    "servings":8,"unit":"serving","time":60,
+    "macros":{"cal":573,"protein":51,"carbs":52,"fat":17},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","Rice","High protein","Meal prep","Italian-inspired","Sheet pan"],
+    "groups":[
+      {"name":"Grilled Italian chicken","items":[
+        {"q":1400,"u":"g","i":"chicken breast, cubed","a":"Meat"},
+        {"q":2.5,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":5,"u":"tsp","i":"Italian herbs","a":"Pantry","staple":true},
+        {"q":4,"u":"tsp","i":"dried parsley","a":"Pantry","staple":true},
+        {"q":4,"u":"tsp","i":"garlic powder","a":"Pantry","staple":true},
+        {"q":4,"u":"tsp","i":"onion powder","a":"Pantry","staple":true},
+        {"q":3,"u":"tsp","i":"paprika","a":"Pantry","staple":true},
+        {"q":2.5,"u":"tsp","i":"chili flakes","a":"Pantry","staple":true},
+        {"q":40,"u":"g","i":"olive oil","note":"8 tsp","a":"Pantry","staple":true}]},
+      {"name":"Creamy Alfredo sauce","items":[
+        {"q":25,"u":"g","i":"light butter","a":"Dairy"},
+        {"q":40,"u":"g","i":"garlic, finely chopped","a":"Produce"},
+        {"q":90,"u":"g","i":"white onion, finely chopped","note":"80–100 g","a":"Produce"},
+        {"q":0.5,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":2,"u":"tsp","i":"Italian herbs","a":"Pantry","staple":true},
+        {"q":450,"u":"g","i":"skimmed or evaporated milk","a":"Dairy"},
+        {"q":110,"u":"g","i":"Parmesan, grated","note":"100–120 g","a":"Dairy"},
+        {"q":190,"u":"g","i":"light cream cheese","note":"180–200 g","a":"Dairy"}]},
+      {"name":"Tuscan fried rice","items":[
+        {"q":350,"u":"g","i":"white basmati rice (uncooked)","a":"Pantry"},
+        {"q":200,"u":"g","i":"red onion, chopped","a":"Produce"},
+        {"q":200,"u":"g","i":"sun-dried tomatoes, drained and chopped","a":"Pantry"},
+        {"q":1,"u":"handful","i":"fresh parsley, chopped","a":"Produce"},
+        {"q":1,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":3,"u":"tsp","i":"Italian herbs","a":"Pantry","staple":true},
+        {"q":2,"u":"tsp","i":"paprika","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Marinate","Toss the cubed chicken with its seasonings and olive oil."],
+      ["Rice","Boil the rice until cooked, drain and set aside."],
+      ["Alfredo","Melt the butter over medium heat and cook the garlic and onion 5 minutes until soft. Add the salt and herbs and toast 2 minutes, then add the milk, Parmesan and cream cheese, stirring until smooth and creamy."],
+      ["Bake the chicken","Spread the chicken on a lined sheet pan, spray with oil and bake 18 minutes at 200°C / 400°F, then broil 5 minutes until golden."],
+      ["Roast the veg","Lift out the chicken, leaving the juices. Add the red onion, sun-dried tomatoes, parsley and seasoning, mix through the juices, flatten and roast 15 minutes."],
+      ["Fry the rice","Fold the cooked rice into the pan until colored and fluffy."],
+      ["Serve","Serve the rice with the chicken and a pour of Alfredo sauce."]
+    ],
+    "notes":"Recipe and macros per serving come from the video description."
+  }]
+}
