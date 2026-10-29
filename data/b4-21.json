@@ -1,0 +1,29 @@
+{
+  "src": {"key":"Ls8UJW0h7dA","platform":"YouTube","creator":"Adam Hoad","title":"High-Protein Chocolate Date Mousse","url":"https://www.youtube.com/watch?v=Ls8UJW0h7dA","recipes":1},
+  "recipes": [{
+    "id":"chocolate-date-chia-mousse","title":"High-Protein Chocolate Date Chia Mousse","img":"img/chocolate-date-chia-mousse.jpg","part":1,"t":0,
+    "servings":3,"unit":"pot","time":10,
+    "macros":{"cal":400,"protein":29,"carbs":41,"fat":10},"stated":["cal","protein","carbs","fat"],
+    "tags":["Breakfast","Dessert","Snack","Vegetarian","High protein","High fiber","No-bake","Meal prep"],
+    "groups":[
+      {"name":"Mousse","items":[
+        {"q":150,"u":"g","i":"dates, pitted","a":"Produce"},
+        {"q":30,"u":"g","i":"cocoa powder","a":"Baking"},
+        {"q":400,"u":"g","i":"0% Greek yogurt","a":"Dairy"},
+        {"q":150,"u":"ml","i":"milk","a":"Dairy"},
+        {"q":1,"u":"","i":"scoop whey protein powder","a":"Pantry"},
+        {"q":5,"u":"g","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true},
+        {"q":60,"u":"g","i":"chia seeds","a":"Pantry"}]},
+      {"name":"To top","items":[
+        {"q":null,"u":"","i":"berries, coconut or dark chocolate","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Blend","Blend everything except the chia seeds until smooth."],
+      ["Add chia","Pour into jars and stir the chia seeds through each."],
+      ["Set","Cover and refrigerate at least 2 hours until thick like mousse."],
+      ["Top","Top with berries, coconut or dark chocolate."]
+    ],
+    "notes":"Recipe and macros come from the video description. The description calls it 1 serving, but in the video it fills 3 pots and he says each pot is about 400 cal, 30 g protein and nearly 15 g fiber — so macros are per pot. Chilling time not included."
+  }]
+}

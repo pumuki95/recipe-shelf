@@ -1,0 +1,27 @@
+{
+  "src": {"key":"AV2ythfocQU","platform":"YouTube","creator":"Joshua Weissman","title":"5 Minute Breakfast Sandwich","url":"https://www.youtube.com/watch?v=AV2ythfocQU","recipes":1},
+  "recipes": [{
+    "id":"five-minute-breakfast-sandwich","title":"5-Minute Mortadella Breakfast Sandwich","img":"img/five-minute-breakfast-sandwich.jpg","part":1,"t":0,
+    "servings":1,"unit":"sandwich","time":5,
+    "macros":{"cal":620,"protein":30,"carbs":30,"fat":42},"stated":[],
+    "tags":["Breakfast","Pork","Eggs","Quick","Bread"],
+    "groups":[
+      {"name":"Sandwich","items":[
+        {"q":2,"u":"","i":"eggs","a":"Dairy"},
+        {"q":1,"u":"tbsp","i":"mayo","a":"Pantry"},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"oil spray, for the bowl","a":"Pantry","staple":true},
+        {"q":3,"u":"","i":"slices mortadella","a":"Meat","est":true},
+        {"q":1,"u":"","i":"slice American cheese","a":"Dairy"},
+        {"q":1,"u":"","i":"burger bun or brioche bun","a":"Bakery"}]}
+    ],
+    "steps":[
+      ["Whisk","Whisk the eggs, mayo and salt until smooth."],
+      ["Microwave","Pour into a lightly greased microwave-safe bowl and microwave 45–60 seconds until just set (José Andrés' trick)."],
+      ["Sear the mortadella","Meanwhile sear the mortadella in a non-stick pan over medium-high for 1 minute, flip, top with the cheese and cook 1 minute more."],
+      ["Toast","Toast the cut bun in the mortadella fat for 30–45 seconds."],
+      ["Assemble","Stack the bun, cheesy mortadella and the egg 'omelette', then top."]
+    ],
+    "notes":"Amounts are as said in the video; the mortadella count is an estimate and the macros are estimates (not a light recipe)."
+  }]
+}
