@@ -1,0 +1,46 @@
+{
+  "src": {"key":"fRZRCinpqkE","platform":"YouTube","creator":"Jalalsamfit","title":"Crispy Cheesy Beef Tacos","url":"https://www.youtube.com/watch?v=fRZRCinpqkE","recipes":1},
+  "recipes": [{
+    "id":"sheet-pan-crispy-beef-tacos","title":"Sheet-Pan Crispy Cheesy Beef Tacos","img":"img/sheet-pan-crispy-beef-tacos.jpg","part":1,"t":0,
+    "servings":15,"unit":"taco","time":60,
+    "macros":{"cal":294,"protein":28,"carbs":23,"fat":10},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Ground beef","Tortillas","High protein","Meal prep","Sheet pan","Mexican-inspired"],
+    "groups":[
+      {"name":"Taco beef","items":[
+        {"q":1200,"u":"g","i":"5% fat ground beef","a":"Meat"},
+        {"q":2,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":3,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+        {"q":3,"u":"tsp","i":"oregano","a":"Pantry"},
+        {"q":3,"u":"tsp","i":"garlic powder","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"onion powder","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"cumin","a":"Pantry"},
+        {"q":200,"u":"g","i":"tomato paste","a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"fresh coriander/cilantro, chopped","a":"Produce"},
+        {"q":null,"u":"","i":"avocado oil cooking spray","a":"Pantry","staple":true}]},
+      {"name":"Veggie mix","items":[
+        {"q":200,"u":"g","i":"white onion, chopped","a":"Produce"},
+        {"q":200,"u":"g","i":"red and green bell pepper, chopped","a":"Produce"},
+        {"q":1,"u":"tsp","i":"each salt, paprika, oregano, garlic powder, onion powder and cumin","a":"Pantry"}]},
+      {"name":"Assembly","items":[
+        {"q":15,"u":"","i":"low-carb mini wraps (e.g. Mission)","a":"Bakery"},
+        {"q":320,"u":"g","i":"shredded mozzarella","a":"Dairy"}]},
+      {"name":"Honey chilli lime sauce","items":[
+        {"q":300,"u":"g","i":"yogurt","a":"Dairy"},
+        {"q":120,"u":"g","i":"light mayo","a":"Pantry"},
+        {"q":100,"u":"g","i":"chilli lime hot sauce (e.g. Cholula)","a":"Pantry"},
+        {"q":50,"u":"g","i":"honey","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"onion powder","a":"Pantry"},
+        {"q":null,"u":"","i":"fresh parsley, chopped","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Sauce","Mix all the sauce ingredients until smooth and chill."],
+      ["Roast the veg","Spread the onion and peppers on a large lined sheet pan, spray with oil, season and roast 15 minutes at 180 °C (370 °F)."],
+      ["Add the beef","Spread the beef over the veg with the beef seasonings, tomato paste and coriander. Mix by hand, flatten, score lightly and spray."],
+      ["Bake","Bake 6 minutes to partially cook, break it up, then return for another 5–6 minutes until lightly crisp. Add a splash of water and stir until juicy. Remove the beef."],
+      ["Fill","Dip each tortilla in the pan juices, fill with mozzarella and beef and fold tightly."],
+      ["Crisp","Bake the tacos on the tray 12 minutes, flipping halfway, until golden and crispy. Serve with the sauce."]
+    ],
+    "notes":"Recipe and per-taco macros come from the video description, which says it makes 15+ tacos. Great for meal prep."
+  }]
+}

@@ -1,0 +1,31 @@
+{
+  "src": {"key":"gJDepnHPIm0","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Insane Healthy Banana Bread","url":"https://www.youtube.com/watch?v=gJDepnHPIm0","recipes":1},
+  "recipes": [{
+    "id":"pb-protein-banana-bread","title":"Peanut Butter Protein Banana Bread","img":"img/pb-protein-banana-bread.jpg","part":1,"t":0,
+    "servings":8,"unit":"slice","time":50,
+    "macros":{"cal":140,"protein":9,"carbs":18,"fat":3},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Breakfast","Snack","Vegetarian","High protein","Bread","Meal prep"],
+    "groups":[
+      {"name":"Batter","items":[
+        {"q":130,"u":"g","i":"ripe banana, mashed","a":"Produce"},
+        {"q":200,"u":"ml","i":"extra light skim milk","a":"Dairy"},
+        {"q":120,"u":"g","i":"protein flour (or flour of choice)","a":"Baking"},
+        {"q":40,"u":"g","i":"PB2 powdered peanut butter","a":"Pantry"},
+        {"q":10,"u":"ml","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":35,"u":"g","i":"vanilla protein powder","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"baking powder","a":"Baking","staple":true},
+        {"q":2,"u":"","i":"whole eggs","a":"Dairy"},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true}]},
+      {"name":"Topping","items":[
+        {"q":30,"u":"g","i":"banana, sliced","a":"Produce"},
+        {"q":20,"u":"g","i":"sugar-free chocolate chips (optional)","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Mix","Mash the banana, then mix in the milk, flour, PB2, vanilla, protein powder, baking powder, eggs and salt to a batter."],
+      ["Top","Pour into a lined loaf dish and top with the banana slices (and chocolate chips, if using)."],
+      ["Bake","Bake at 180 °C for 25–30 minutes."],
+      ["Rest","Let it sit at least 20 minutes before cutting into 8 slices."]
+    ],
+    "notes":"Recipe and per-slice macros come from the video description (original by @hunt4shredz, which also adds up to ½ cup zero-calorie sweetener)."
+  }]
+}

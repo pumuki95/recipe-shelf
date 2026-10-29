@@ -1,0 +1,25 @@
+{
+  "src": {"key":"_a7xTgfSBXI","platform":"YouTube","creator":"Stefan Bodegrajac","title":"High Protein Chocolate Lava Cake","url":"https://www.youtube.com/watch?v=_a7xTgfSBXI","recipes":1},
+  "recipes": [{
+    "id":"cottage-cheese-lava-cake","title":"High-Protein Chocolate Lava Cake","img":"img/cottage-cheese-lava-cake.jpg","part":1,"t":0,
+    "servings":1,"unit":"dish","time":35,
+    "macros":{"cal":380,"protein":45,"carbs":10,"fat":18},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Vegetarian","Gluten-free","High protein","Low carb"],
+    "groups":[
+      {"name":"Cake","items":[
+        {"q":200,"u":"g","i":"cottage cheese, blended smooth","a":"Dairy"},
+        {"q":2,"u":"","i":"large eggs","a":"Dairy"},
+        {"q":4,"u":"tbsp","i":"powdered monk fruit or stevia","a":"Baking"},
+        {"q":15,"u":"g","i":"cacao powder","a":"Baking"},
+        {"q":null,"u":"","i":"splash of vanilla extract","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"sugar-free chocolate chips (optional)","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Blend","Process the cottage cheese until smooth and add it to an oven-safe dish."],
+      ["Mix","Crack in the eggs and add the cacao, sweetener and vanilla. Mix well."],
+      ["Top","Scatter chocolate chips over the top, if using."],
+      ["Bake","Bake at 180 °C (350 °F) for 30 minutes. Cool slightly, then dig in."]
+    ],
+    "notes":"Recipe and whole-dish macros come from the video description (original by @shredhappens)."
+  }]
+}

@@ -1,32 +1,146 @@
 {
-  "src": {"key":"1xjfKlk2sn0","platform":"YouTube","creator":"Madelaine Rascan","title":"This is your sign to try this thing!","url":"https://www.youtube.com/watch?v=1xjfKlk2sn0","recipes":1},
-  "recipes": [{
-    "id":"cottage-cheese-wrap","title":"Stuffed Cottage Cheese Wrap","img":"img/cottage-cheese-wrap.jpg","part":1,"t":0,
-    "servings":2,"unit":"serving","time":45,
-    "macros":{"cal":330,"protein":30,"carbs":15,"fat":17},"stated":[],
-    "tags":["Main meal","Eggs","High protein","Gluten-free","Low carb"],
-    "groups":[
-      {"name":"Wrap","items":[
-        {"q":225,"u":"g","i":"1% cottage cheese","a":"Dairy"},
-        {"q":2,"u":"","i":"eggs","a":"Dairy"},
-        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true},
-        {"q":0.5,"u":"tsp","i":"garlic powder","a":"Pantry","est":true},
-        {"q":2,"u":"tbsp","i":"grated Parmesan (optional)","a":"Dairy","est":true},
-        {"q":null,"u":"","i":"parchment paper","a":"Household","staple":true}]},
-      {"name":"Filling (her version)","items":[
-        {"q":2,"u":"tbsp","i":"grated pecorino romano","a":"Dairy","est":true},
-        {"q":6,"u":"","i":"cherry tomatoes, sliced","a":"Produce","est":true},
-        {"q":3,"u":"","i":"turkey bacon slices, cooked","a":"Meat","est":true},
-        {"q":100,"u":"g","i":"roasted squash","a":"Produce","est":true},
-        {"q":1,"u":"tbsp","i":"pesto","a":"Pantry","est":true}]}
+ "src": {
+  "key": "1xjfKlk2sn0",
+  "platform": "YouTube",
+  "creator": "Madelaine Rascan",
+  "title": "This is your sign to try this thing!",
+  "url": "https://www.youtube.com/watch?v=1xjfKlk2sn0",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "cottage-cheese-wrap",
+   "title": "Stuffed Cottage Cheese Wrap",
+   "img": "img/cottage-cheese-wrap.jpg",
+   "part": 1,
+   "t": 0,
+   "servings": 2,
+   "unit": "serving",
+   "time": 45,
+   "macros": {
+    "cal": 330,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 17
+   },
+   "stated": [],
+   "tags": [
+    "Main meal",
+    "Eggs",
+    "High protein",
+    "Gluten-free",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Wrap",
+     "items": [
+      {
+       "q": 225,
+       "u": "g",
+       "i": "1% cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "eggs",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of salt",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 0.5,
+       "u": "tsp",
+       "i": "garlic powder",
+       "a": "Pantry",
+       "est": true
+      },
+      {
+       "q": 2,
+       "u": "tbsp",
+       "i": "grated Parmesan (optional)",
+       "a": "Dairy",
+       "est": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "parchment paper",
+       "a": "Household",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Filling (her version)",
+     "items": [
+      {
+       "q": 2,
+       "u": "tbsp",
+       "i": "grated pecorino romano",
+       "a": "Dairy",
+       "est": true
+      },
+      {
+       "q": 6,
+       "u": "",
+       "i": "cherry tomatoes, sliced",
+       "a": "Produce",
+       "est": true
+      },
+      {
+       "q": 3,
+       "u": "",
+       "i": "turkey bacon slices, cooked",
+       "a": "Meat",
+       "est": true
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "roasted squash",
+       "a": "Produce",
+       "est": true
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "pesto",
+       "a": "Pantry",
+       "est": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the cottage cheese, eggs, salt, garlic powder and Parmesan until just smooth — not runny."
     ],
-    "steps":[
-      ["Blend","Blend the cottage cheese, eggs, salt, garlic powder and Parmesan until just smooth — not runny."],
-      ["Spread","Pour onto a parchment-lined tray from the centre outward and gently spread into a large flatbread shape. Don't go too thin or it will tear."],
-      ["Bake","Bake at 350 °F (175 °C) for 25–30 minutes until golden and set."],
-      ["Cool","Let it cool about 5 minutes before peeling it off the parchment."],
-      ["Fill and roll","Line the filling along one end, roll it up tightly and cut in half."]
+    [
+     "Spread",
+     "Pour onto a parchment-lined tray from the centre outward and gently spread into a large flatbread shape. Don't go too thin or it will tear."
     ],
-    "notes":"She uses 225 g cottage cheese and 2 eggs and says the wrap alone has about 37 g protein. Other amounts and macros (per half, with her filling) are estimates. Stuff it with anything — meat is optional since most of the protein is in the wrap."
-  }]
+    [
+     "Bake",
+     "Bake at 350 °F (175 °C) for 25–30 minutes until golden and set."
+    ],
+    [
+     "Cool",
+     "Let it cool about 5 minutes before peeling it off the parchment."
+    ],
+    [
+     "Fill and roll",
+     "Line the filling along one end, roll it up tightly and cut in half."
+    ]
+   ],
+   "notes": "She uses 225 g cottage cheese and 2 eggs. Stefan Bodegrajac's remake of this video (youtube.com/watch?v=gndBpViJE70) gives the wrap alone as 310 cal, 37 g protein, 10 g carbs, 12 g fat. Filling amounts and the per-half macros with her filling are estimates. Make sure the top is golden or the inside stays too soft. Stuff it with anything — meat is optional since most of the protein is in the wrap."
+  }
+ ]
 }
