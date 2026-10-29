@@ -1,0 +1,44 @@
+{
+  "src": {"key":"mjCsvNfZBDE","platform":"YouTube","creator":"Kenny Fischer","title":"STOP EATING Blueberry Muffins (make this instead)","url":"https://www.youtube.com/watch?v=mjCsvNfZBDE","recipes":1},
+  "recipes": [{
+    "id":"glazed-protein-blueberry-loaf","title":"Glazed High-Protein Blueberry Muffin Loaf","img":"img/glazed-protein-blueberry-loaf.jpg","part":1,"t":79,
+    "servings":7,"unit":"slice","time":65,
+    "macros":{"cal":206,"protein":17,"carbs":27,"fat":4},"stated":["cal","protein","carbs","fat"],
+    "tags":["Breakfast","Dessert","Snack","Vegetarian","High protein","Bread","Meal prep"],
+    "groups":[
+      {"name":"Dry","items":[
+        {"q":120,"u":"g","i":"all-purpose flour","a":"Baking"},
+        {"q":66,"u":"g","i":"vanilla protein powder","a":"Pantry"},
+        {"q":15,"u":"g","i":"inulin (prebiotic fiber)","a":"Baking"},
+        {"q":1,"u":"","i":"box sugar-free vanilla pudding mix","a":"Baking"},
+        {"q":40,"u":"g","i":"Swerve granular","a":"Baking"},
+        {"q":4,"u":"g","i":"baking powder","a":"Baking","staple":true},
+        {"q":3,"u":"g","i":"baking soda","a":"Baking","staple":true},
+        {"q":2,"u":"g","i":"salt","a":"Pantry","staple":true}]},
+      {"name":"Wet","items":[
+        {"q":1,"u":"","i":"egg","a":"Dairy"},
+        {"q":92,"u":"g","i":"egg whites","a":"Dairy"},
+        {"q":45,"u":"g","i":"sugar-free maple syrup","a":"Pantry"},
+        {"q":28,"u":"g","i":"light butter, melted","a":"Dairy"},
+        {"q":4,"u":"g","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":180,"u":"g","i":"nonfat Greek yogurt","a":"Dairy"},
+        {"q":240,"u":"g","i":"blueberries, fresh or frozen","a":"Produce"}]},
+      {"name":"Protein frosting","items":[
+        {"q":33,"u":"g","i":"vanilla protein powder","a":"Pantry"},
+        {"q":15,"u":"g","i":"Swerve confectioners","a":"Baking"},
+        {"q":18,"u":"g","i":"whipped cream","a":"Dairy"},
+        {"q":40,"u":"g","i":"milk (30–50 g)","a":"Dairy"},
+        {"q":null,"u":"","i":"few drops vanilla extract","a":"Baking","staple":true}]}
+    ],
+    "steps":[
+      ["Heat the oven","Preheat to 175 °C (350 °F) and line a loaf pan with parchment."],
+      ["Mix dry","Whisk all the dry ingredients together."],
+      ["Mix wet","In another bowl mix the egg, egg whites, syrup, melted butter, vanilla and yogurt."],
+      ["Combine","Add the dry to the wet in 3 batches, mixing gently and stopping as soon as the flour disappears."],
+      ["Blueberries","Fold in the blueberries, pour into the pan and level it out to the corners."],
+      ["Bake","Bake 40–45 minutes, turning halfway, until a toothpick comes out clean. Cool 10 minutes in the pan, then fully on a rack."],
+      ["Frost and slice","Mix the frosting and spread over the top. Cut into 7 slices; keeps up to 7 days in an airtight container in the fridge."]
+    ],
+    "notes":"Recipe and per-slice macros come from the video description (whole loaf: 1,441 cal, 119 g protein). He uses 12 g of inulin in the video. Storage tip from the video: keep slices on paper towel in an airtight container so they don't dry out or go soggy."
+  }]
+}

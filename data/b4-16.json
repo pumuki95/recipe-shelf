@@ -1,0 +1,29 @@
+{
+  "src": {"key":"011uFvOH4pM","platform":"YouTube","creator":"Baris Tosun","title":"High-Protein Mac & Cheese","url":"https://www.youtube.com/watch?v=011uFvOH4pM","recipes":1},
+  "recipes": [{
+    "id":"cottage-cheese-mac-and-cheese","title":"High-Protein Cottage Cheese Mac & Cheese","img":"img/cottage-cheese-mac-and-cheese.jpg","part":1,"t":0,
+    "servings":4,"unit":"serving","time":20,
+    "macros":{"cal":338,"protein":22,"carbs":48,"fat":6},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Pasta","Vegetarian","High protein","Quick","Comfort food"],
+    "groups":[
+      {"name":"Mac & cheese","items":[
+        {"q":227,"u":"g","i":"large elbow macaroni (8 oz)","a":"Pantry"},
+        {"q":454,"u":"g","i":"low-fat cottage cheese (2 cups)","a":"Dairy"},
+        {"q":57,"u":"g","i":"cheddar, grated (2 oz)","a":"Dairy"},
+        {"q":1,"u":"tsp","i":"garlic powder","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"MSG (optional)","a":"Pantry"},
+        {"q":1.5,"u":"tsp","i":"fine sea salt","a":"Pantry","staple":true},
+        {"q":1,"u":"cup","i":"reserved pasta water","a":"Pantry","staple":true}]},
+      {"name":"Optional","items":[
+        {"q":680,"u":"g","i":"boneless skinless chicken breast, cooked (24 oz)","a":"Meat"}]}
+    ],
+    "steps":[
+      ["Cook the pasta","Boil the macaroni in salted water per the package. Save about 1 cup pasta water before draining."],
+      ["Blend","Blend the cottage cheese until completely smooth, adding a splash of water if it's too thick."],
+      ["Make the sauce","Warm the blended cottage cheese in a saucepan over medium-low, adding pasta water gradually to the consistency you like."],
+      ["Season","Stir in the cheddar, garlic powder, MSG and salt until melted and smooth. Bring to a light simmer."],
+      ["Toss","Add the pasta and toss until coated. Top with sliced chicken if you like."]
+    ],
+    "notes":"Recipe and macros come from the video description (recipe credit: Joshua Weissman). With the chicken it's 542 cal, 60 g protein, 48 g carbs, 10 g fat per serving."
+  }]
+}
