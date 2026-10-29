@@ -329,7 +329,7 @@ function detail(r){
     <div class="detail">
       <div class="hero">
         <img src="${r.img}" alt="${esc(r.title)}, finished dish">
-        <div class="srcline"><span>${s.platform} · ${esc(s.creator)}</span><a href="${s.url}${r.t?`&t=${r.t}s`:""}" target="_blank" rel="noopener">${r.t?`Watch from ${fmtTime(r.t)}`:"Watch the video"} ↗</a>${s.extra?`<a href="${s.extra.url}" target="_blank" rel="noopener">${esc(s.extra.label)} ↗</a>`:""}</div>
+        <div class="srcline"><span>${s.platform} · ${esc(s.creator)}</span><a href="${s.url}${r.t?`&t=${r.t}s`:""}" target="_blank" rel="noopener">${s.linkLabel?esc(s.linkLabel):r.t?`Watch from ${fmtTime(r.t)}`:"Watch the video"} ↗</a>${s.extra?`<a href="${s.extra.url}" target="_blank" rel="noopener">${esc(s.extra.label)} ↗</a>`:""}</div>
         <div class="nutri">
           <h3>Nutrition per ${r.unit} <span>${r.stated.length===4?"from the creator":"creator figures + estimates"}</span></h3>
           <div class="bar" role="img" aria-label="Calories split by macro"><i style="width:${kc.p/tot*100}%;background:var(--chili)"></i><i style="width:${kc.c/tot*100}%;background:var(--mustard)"></i><i style="width:${kc.f/tot*100}%;background:var(--basil)"></i></div>
