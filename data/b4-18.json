@@ -1,0 +1,39 @@
+{
+  "src": {"key":"Jr5Kqr021Ok","platform":"YouTube","creator":"Protein & Fiber Lab","title":"EAT A LOT & LOSE WEIGHT. HIGH PROTEIN. HIGH FIBER.","url":"https://www.youtube.com/watch?v=Jr5Kqr021Ok","recipes":1},
+  "recipes": [{
+    "id":"chicken-zucchini-noodle-bowl","title":"High-Protein High-Fiber Chicken Bowl with Zucchini Egg Noodles","img":"img/chicken-zucchini-noodle-bowl.jpg","part":1,"t":0,
+    "servings":1,"unit":"bowl","time":35,
+    "macros":{"cal":500,"protein":66,"carbs":32,"fat":14},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","High protein","High fiber","Gluten-free","Meal prep"],
+    "groups":[
+      {"name":"Chicken","items":[
+        {"q":210,"u":"g","i":"raw skinless chicken breast, sliced","a":"Meat"},
+        {"q":2.5,"u":"g","i":"olive oil","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"dry garlic, paprika, salt and pepper","a":"Pantry","staple":true},
+        {"q":50,"u":"g","i":"onion, sliced","a":"Produce"},
+        {"q":10,"u":"g","i":"parsley, chopped","a":"Produce"}]},
+      {"name":"Zucchini egg pancake","items":[
+        {"q":1,"u":"","i":"large egg","a":"Dairy"},
+        {"q":180,"u":"g","i":"zucchini, grated","a":"Produce"},
+        {"q":null,"u":"","i":"salt","a":"Pantry","staple":true},
+        {"q":2.5,"u":"g","i":"olive oil","a":"Pantry","staple":true}]},
+      {"name":"Bowl","items":[
+        {"q":30,"u":"g","i":"lettuce, sliced","a":"Produce"},
+        {"q":70,"u":"g","i":"radish, sliced","a":"Produce"},
+        {"q":80,"u":"g","i":"cucumber, sliced","a":"Produce"},
+        {"q":50,"u":"g","i":"cooked chickpeas, drained","a":"Pantry"}]},
+      {"name":"Yogurt garlic sauce","items":[
+        {"q":80,"u":"g","i":"2% Greek yogurt","a":"Dairy"},
+        {"q":null,"u":"","i":"garlic, salt, pepper and lemon juice","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Season","Toss the chicken with half the oil, dry garlic, paprika, salt and pepper."],
+      ["Fry","Fry until golden brown, then add the onion and cook 1–2 minutes together until caramelized. Stir in the parsley."],
+      ["Zucchini pancake","Mix the grated zucchini into the beaten egg with a pinch of salt. Cook in the remaining oil as a thin pancake (or a few small ones so they're easy to flip), turning carefully."],
+      ["Cut into noodles","Roll or stack the pancake and slice into noodle-like strips."],
+      ["Assemble","Fill a bowl with the lettuce, radish, cucumber, chickpeas, zucchini egg noodles and chicken."],
+      ["Sauce","Mix the yogurt with garlic, salt, pepper and lemon juice and spoon over the top."]
+    ],
+    "notes":"Recipe and macros (about 500 cal, 66 g protein, 9 g fiber) come from the video description."
+  }]
+}

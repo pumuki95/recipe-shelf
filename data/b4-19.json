@@ -1,0 +1,42 @@
+{
+  "src": {"key":"P4sfUPGG0So","platform":"YouTube","creator":"Jalalsamfit","title":"Crispy Garlic Parmesan Chicken Wraps","url":"https://www.youtube.com/watch?v=P4sfUPGG0So","recipes":1},
+  "recipes": [{
+    "id":"sheet-pan-garlic-parmesan-chicken-wraps","title":"Sheet-Pan Crispy Garlic Parmesan Chicken Wraps","img":"img/sheet-pan-garlic-parmesan-chicken-wraps.jpg","part":1,"t":0,
+    "servings":10,"unit":"wrap","time":40,
+    "macros":{"cal":423,"protein":41,"carbs":25,"fat":18},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","Tortillas","High protein","Meal prep","Sheet pan"],
+    "groups":[
+      {"name":"Garlic Parmesan chicken","items":[
+        {"q":600,"u":"g","i":"boneless skinless chicken thighs, cubed","a":"Meat"},
+        {"q":600,"u":"g","i":"chicken breast, cubed","a":"Meat"},
+        {"q":2.5,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":2,"u":"tsp","i":"chilli flakes","a":"Pantry"},
+        {"q":3,"u":"tsp","i":"dried parsley, plus fresh to finish","a":"Pantry"},
+        {"q":4,"u":"tsp","i":"Italian herbs","a":"Pantry"},
+        {"q":3,"u":"tsp","i":"paprika","a":"Pantry"},
+        {"q":4,"u":"tsp","i":"garlic granules or powder","a":"Pantry"},
+        {"q":200,"u":"g","i":"grated Parmesan, plus extra to finish","a":"Dairy"},
+        {"q":6,"u":"tsp","i":"olive oil","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"avocado oil cooking spray","a":"Pantry","staple":true}]},
+      {"name":"Creamy garlic Parmesan sauce","items":[
+        {"q":15,"u":"g","i":"light butter","a":"Dairy"},
+        {"q":2,"u":"tsp","i":"Italian herbs","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"garlic powder","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"paprika","a":"Pantry"},
+        {"q":350,"u":"g","i":"light evaporated milk","a":"Dairy"},
+        {"q":80,"u":"g","i":"grated Parmesan","a":"Dairy"},
+        {"q":100,"u":"g","i":"light cream cheese","a":"Dairy"}]},
+      {"name":"Wraps","items":[
+        {"q":10,"u":"","i":"low-carb wraps (e.g. Mission)","a":"Bakery"},
+        {"q":null,"u":"","i":"shredded lettuce, chopped tomato and onion","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Marinate","Toss the cubed chicken with the seasonings, Parmesan and olive oil until well coated."],
+      ["Sauce","Melt the butter over low heat with the herbs, garlic powder and paprika for a minute, then stir in the evaporated milk, Parmesan and cream cheese until smooth and creamy."],
+      ["Bake","Spread the chicken on a parchment-lined sheet pan without crowding, spray lightly and bake at 200 °C for 20–22 minutes until crispy."],
+      ["Cheese it","While hot, toss with extra Parmesan and fresh parsley."],
+      ["Assemble","Fill each wrap with lettuce, onion, tomato, chicken and sauce."]
+    ],
+    "notes":"Recipe and per-wrap macros come from the video description. The description lists a second 100 g of Parmesan in the sauce, but the video adds light cream cheese — I've used cream cheese. Store chicken and sauce separately; reheat the chicken 4–5 minutes at 180 °C."
+  }]
+}
