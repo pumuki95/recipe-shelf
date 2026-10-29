@@ -1,0 +1,27 @@
+{
+  "src": {"key":"T6XxGPZOl48","platform":"YouTube","creator":"Madelaine Rascan","title":"Dairy free 100 cal FUDGY brownies","url":"https://www.youtube.com/watch?v=T6XxGPZOl48","recipes":1},
+  "recipes": [{
+    "id":"dairy-free-fudgy-brownies","title":"Dairy-Free 100-Calorie Fudgy Brownies","img":"img/dairy-free-fudgy-brownies.jpg","part":1,"t":0,
+    "servings":9,"unit":"brownie","time":35,
+    "macros":{"cal":100,"protein":3,"carbs":10,"fat":6},"stated":["cal"],
+    "tags":["Dessert","Snack","Gluten-free","Low carb","Plant-based"],
+    "groups":[
+      {"name":"Brownies","items":[
+        {"q":240,"u":"g","i":"unsweetened applesauce","a":"Pantry","est":true},
+        {"q":120,"u":"g","i":"peanut butter (or any nut butter)","a":"Pantry","est":true},
+        {"q":30,"u":"g","i":"unsweetened cocoa powder","a":"Baking","est":true},
+        {"q":40,"u":"g","i":"powdered sweetener (monk fruit + allulose blend)","a":"Baking","est":true},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true},
+        {"q":30,"u":"g","i":"dairy-free chocolate chips","a":"Baking","est":true},
+        {"q":null,"u":"","i":"parchment paper","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Mix","Stir the applesauce, nut butter, cocoa powder, sweetener, vanilla and salt together until smooth and glossy."],
+      ["Add chips","Fold in the chocolate chips."],
+      ["Bake","Spread into a parchment-lined 8×8 in (20 cm) pan and bake at 350 °F (175 °C) for about 25 minutes, until set at the edges but still a little wobbly in the middle."],
+      ["Cool and cut","Let cool completely so they firm up and turn fudgy, then cut into 9 squares."]
+    ],
+    "notes":"The video names the ingredients but not the amounts — quantities, bake time and macros (other than her stated ~100 cal per brownie) are estimates. No flour, no dairy, no cottage cheese."
+  }]
+}
