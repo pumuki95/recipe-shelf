@@ -1,0 +1,28 @@
+{
+  "src": {"key":"Zn-LZUBGYs8","platform":"YouTube","creator":"Madelaine Rascan","title":"The last cottage cheese dessert you'll ever need","url":"https://www.youtube.com/watch?v=Zn-LZUBGYs8","recipes":1},
+  "recipes": [{
+    "id":"chocolate-orange-cottage-cheese-pots","title":"Chocolate Orange Cottage Cheese Pots","img":"img/chocolate-orange-cottage-cheese-pots.jpg","part":1,"t":0,
+    "servings":2,"unit":"pot","time":10,
+    "macros":{"cal":190,"protein":15,"carbs":15,"fat":8},"stated":[],
+    "tags":["Dessert","Snack","No-bake","High protein","Gluten-free","Low carb"],
+    "groups":[
+      {"name":"Mousse","items":[
+        {"q":225,"u":"g","i":"low-fat cottage cheese","a":"Dairy","est":true},
+        {"q":15,"u":"g","i":"unsweetened cocoa powder","a":"Baking","est":true},
+        {"q":0.5,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"liquid monk fruit sweetener, to taste","a":"Baking"},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true},
+        {"q":1,"u":"","i":"orange, zested","a":"Produce"},
+        {"q":null,"u":"","i":"splash of water, if needed to blend","a":"Pantry","staple":true}]},
+      {"name":"Chocolate top","items":[
+        {"q":25,"u":"g","i":"dark chocolate chips, melted","a":"Baking","est":true}]}
+    ],
+    "steps":[
+      ["Blend","Blend the cottage cheese, cocoa, vanilla, sweetener, salt and orange zest until completely smooth and creamy, adding a splash of water only if it won't blend."],
+      ["Pot it","Pour into two small ramekins or cups."],
+      ["Top","Pour the melted chocolate over the top and spread it into an even layer."],
+      ["Chill","Refrigerate at least 10 minutes, until the chocolate sets into a crackable shell."]
+    ],
+    "notes":"The video doesn't give amounts — quantities and macros (per pot) are estimates from what's shown."
+  }]
+}
