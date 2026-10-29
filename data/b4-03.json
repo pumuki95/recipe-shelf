@@ -1,0 +1,22 @@
+{
+  "src": {"key":"HRn7Rb4uuag","platform":"YouTube","creator":"Stefan Bodegrajac","title":"3 Ingredient Peanut Butter Chocolate Bites!","url":"https://www.youtube.com/watch?v=HRn7Rb4uuag","recipes":1},
+  "recipes": [{
+    "id":"pb-chocolate-bites","title":"3-Ingredient Peanut Butter Chocolate Bites","img":"img/pb-chocolate-bites.jpg","part":1,"t":0,
+    "servings":12,"unit":"bite","time":25,
+    "macros":{"cal":76,"protein":4,"carbs":6,"fat":3},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","No-bake","Vegan","Gluten-free","Low carb","Meal prep"],
+    "groups":[
+      {"name":"Bites","items":[
+        {"q":100,"u":"g","i":"PB2 powdered peanut butter (about 1 cup)","a":"Pantry"},
+        {"q":130,"u":"g","i":"unsweetened apple purée / applesauce (about ½ cup)","a":"Pantry"},
+        {"q":70,"u":"g","i":"70% dark chocolate, melted","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Make the dough","Mix the powdered peanut butter and applesauce into a dough."],
+      ["Roll","Roll into 12 balls."],
+      ["Dip","Dip each ball in the melted chocolate with a fork and set on parchment."],
+      ["Chill","Refrigerate about 10 minutes until the chocolate sets."]
+    ],
+    "notes":"Recipe and per-bite macros come from the video description (makes 12; the original by @healthyu_dietitian makes 16 smaller ones). Tastes like Reese's balls. Check your chocolate if you need it vegan."
+  }]
+}

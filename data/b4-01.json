@@ -1,0 +1,26 @@
+{
+  "src": {"key":"6L9ov7Il9Kg","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Cucumber Salad Perfection","url":"https://www.youtube.com/watch?v=6L9ov7Il9Kg","recipes":1},
+  "recipes": [{
+    "id":"california-roll-cucumber-salad","title":"California Roll Cucumber Salad","img":"img/california-roll-cucumber-salad.jpg","part":1,"t":0,
+    "servings":1,"unit":"bowl","time":10,
+    "macros":{"cal":306,"protein":21,"carbs":11,"fat":19},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Snack","Fish","High protein","No-cook","Quick"],
+    "groups":[
+      {"name":"Salad","items":[
+        {"q":200,"u":"g","i":"cucumber (1 large), thinly sliced","a":"Produce"},
+        {"q":100,"u":"g","i":"cooked prawns or imitation crab","a":"Seafood"},
+        {"q":50,"u":"g","i":"light cream cheese (whipped)","a":"Dairy"},
+        {"q":15,"u":"g","i":"Kewpie mayo","a":"Pantry"},
+        {"q":40,"u":"g","i":"avocado","a":"Produce"},
+        {"q":null,"u":"","i":"splash of light soy sauce","a":"Pantry"},
+        {"q":null,"u":"","i":"sesame seeds","a":"Pantry"},
+        {"q":null,"u":"","i":"pinch of MSG","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Slice","Thinly slice the whole cucumber (a mandoline helps) into a large lidded container."],
+      ["Add everything","Add the prawns or crab, cream cheese, Kewpie, avocado, soy sauce, sesame seeds and MSG."],
+      ["Shake","Put the lid on and shake really well until everything is coated."]
+    ],
+    "notes":"Recipe and whole-bowl macros come from the video description. Tastes like a California roll in a bowl."
+  }]
+}

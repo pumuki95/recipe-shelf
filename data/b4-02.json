@@ -1,0 +1,25 @@
+{
+  "src": {"key":"arcHw1pwo2M","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Low Calorie Blueberry Muffins","url":"https://www.youtube.com/watch?v=arcHw1pwo2M","recipes":1},
+  "recipes": [{
+    "id":"cottage-cheese-blueberry-muffins","title":"Cottage Cheese Blueberry Muffins","img":"img/cottage-cheese-blueberry-muffins.jpg","part":1,"t":0,
+    "servings":6,"unit":"muffin","time":30,
+    "macros":{"cal":106,"protein":7,"carbs":5,"fat":7},"stated":["cal","protein","carbs","fat"],
+    "tags":["Breakfast","Snack","Dessert","Vegetarian","Gluten-free","High protein","Meal prep"],
+    "groups":[
+      {"name":"Muffins","items":[
+        {"q":125,"u":"g","i":"cottage cheese","a":"Dairy"},
+        {"q":2,"u":"","i":"eggs","a":"Dairy"},
+        {"q":60,"u":"g","i":"almond flour (or any flour)","a":"Baking"},
+        {"q":10,"u":"g","i":"stevia or sweetener of choice","a":"Baking"},
+        {"q":2,"u":"tsp","i":"baking powder","a":"Baking","staple":true},
+        {"q":100,"u":"g","i":"fresh blueberries","a":"Produce"},
+        {"q":null,"u":"","i":"muffin liners","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Mix","Mix the cottage cheese, eggs, almond flour, sweetener and baking powder."],
+      ["Fold","Gently fold in the blueberries at the end so they don't mash."],
+      ["Bake","Divide between 6 lined muffin cups and bake at 180 °C (350 °F) for 20–25 minutes until golden and set."]
+    ],
+    "notes":"Recipe and per-muffin macros come from the video description (original by @ketosnackz). Good to prep ahead. Low carb with almond flour; other flours will raise the carbs."
+  }]
+}

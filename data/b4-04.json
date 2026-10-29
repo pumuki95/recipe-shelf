@@ -1,0 +1,31 @@
+{
+  "src": {"key":"dRDQj2NQFpA","platform":"YouTube","creator":"Rahul Kamat","title":"I Finally Made a LOW Calorie Tiramisu (111g Protein)","url":"https://www.youtube.com/watch?v=dRDQj2NQFpA","recipes":1},
+  "recipes": [{
+    "id":"protein-tiramisu","title":"High-Protein Cottage Cheese Tiramisu","img":"img/protein-tiramisu.jpg","part":1,"t":28,
+    "servings":9,"unit":"slice","time":30,
+    "macros":{"cal":144,"protein":12,"carbs":22,"fat":1},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Vegetarian","High protein","Make-ahead","No-bake"],
+    "groups":[
+      {"name":"Cream","items":[
+        {"q":224,"u":"g","i":"2% cottage cheese (8 oz) — not fat-free","a":"Dairy"},
+        {"q":350,"u":"g","i":"Greek yogurt","a":"Dairy"},
+        {"q":40,"u":"g","i":"sugar-free vanilla pudding mix (1 box)","a":"Baking"},
+        {"q":50,"u":"g","i":"vanilla whey protein powder","a":"Pantry"},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true}]},
+      {"name":"Layers","items":[
+        {"q":21,"u":"","i":"ladyfingers","a":"Bakery"},
+        {"q":1.5,"u":"cup","i":"strong black coffee (or 6 espresso shots)","a":"Pantry"},
+        {"q":0.5,"u":"tsp","i":"cinnamon (between layers)","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"cocoa powder (on top)","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Blend the cottage cheese","Blend the cottage cheese on its own until there are no lumps at all."],
+      ["Make the cream","Add the Greek yogurt and blend, then add the pudding mix, salt and protein powder and blend until thick and smooth. Chill 10–15 minutes."],
+      ["First layer","Quickly dip each ladyfinger in the coffee — don't soak — and line an 8×8-inch dish."],
+      ["Cream and cinnamon","Spread half the cream on top in an even layer and dust lightly with cinnamon."],
+      ["Second layer","Repeat with another layer of dipped ladyfingers and the rest of the cream."],
+      ["Dust and chill","Dust with cocoa, cover and refrigerate overnight. Cut into 9 squares."]
+    ],
+    "notes":"Recipe and macros come from the video description (whole dish 1,298 cal, 111 g protein). He warns fat-free cottage cheese tastes off — use 2% or 4%. Overnight chill not included in the time."
+  }]
+}
