@@ -1,0 +1,32 @@
+{
+  "src": {"key":"HBKmBht5edY","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Creamy BBQ Chicken Pasta Bake","url":"https://www.youtube.com/watch?v=HBKmBht5edY","recipes":1},
+  "recipes": [{
+    "id":"creamy-bbq-chicken-pasta-bake","title":"One-Dish Creamy BBQ Chicken Pasta Bake","img":"img/creamy-bbq-chicken-pasta-bake.jpg","part":1,"t":0,
+    "servings":4,"unit":"serving","time":65,
+    "macros":{"cal":552,"protein":53,"carbs":50,"fat":13},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","Pasta","High protein","Meal prep"],
+    "groups":[
+      {"name":"Pasta bake","items":[
+        {"q":200,"u":"g","i":"dry pasta (penne)","a":"Pantry"},
+        {"q":450,"u":"g","i":"cooked chicken breast, diced (about 600 g raw)","a":"Meat"},
+        {"q":1,"u":"","i":"onion, diced","a":"Produce"},
+        {"q":2,"u":"","i":"bell peppers, diced","a":"Produce"},
+        {"q":400,"u":"g","i":"tin chopped tomatoes","a":"Pantry"},
+        {"q":200,"u":"g","i":"light cream cheese","a":"Dairy"},
+        {"q":1,"u":"","i":"BBQ seasoning sachet","a":"Pantry"},
+        {"q":50,"u":"g","i":"BBQ sauce","a":"Pantry"},
+        {"q":4,"u":"tsp","i":"minced garlic","a":"Produce"},
+        {"q":250,"u":"ml","i":"water","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true},
+        {"q":80,"u":"g","i":"grated mozzarella","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Preheat","Heat the oven to 190 °C (375 °F)."],
+      ["Mix in the dish","Add everything except the mozzarella — uncooked pasta included — to a large baking dish and mix until fully combined."],
+      ["Cheese and cover","Top with the mozzarella and cover tightly with foil."],
+      ["Bake","Bake 30 minutes covered, then uncover and bake 20 minutes more until the pasta is tender and the cheese is golden."],
+      ["Rest","Rest 10 minutes so the sauce thickens, then divide into 4."]
+    ],
+    "notes":"Recipe and per-serving macros come from the video description (original by @davefellfitness). Using pre-cooked chicken makes it faster."
+  }]
+}
