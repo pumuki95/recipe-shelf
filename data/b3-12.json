@@ -1,0 +1,25 @@
+{
+  "src": {"key":"sjHghCecmWY","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Insane Tiramisu Chia Pudding","url":"https://www.youtube.com/watch?v=sjHghCecmWY","recipes":1},
+  "recipes": [{
+    "id":"tiramisu-chia-pudding","title":"Tiramisu Protein Chia Pudding","img":"img/tiramisu-chia-pudding.jpg","part":1,"t":0,
+    "servings":1,"unit":"jar","time":5,
+    "macros":{"cal":332,"protein":42,"carbs":13,"fat":11},"stated":["cal","protein","carbs","fat"],
+    "tags":["Breakfast","Dessert","High protein","Low carb","No-bake","Meal prep","High fiber"],
+    "groups":[
+      {"name":"Per jar","items":[
+        {"q":30,"u":"g","i":"chia seeds","a":"Pantry"},
+        {"q":100,"u":"g","i":"high-protein Greek yogurt","a":"Dairy"},
+        {"q":20,"u":"g","i":"vanilla protein powder","a":"Pantry"},
+        {"q":20,"u":"g","i":"sugar-free maple syrup","a":"Pantry"},
+        {"q":50,"u":"ml","i":"light milk","a":"Dairy"},
+        {"q":1,"u":"","i":"shot of espresso, cooled","a":"Pantry"},
+        {"q":10,"u":"g","i":"unsweetened cocoa powder, for dusting","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Mix","Stir the chia seeds, yogurt, protein powder, maple syrup, milk and espresso together until smooth. Scale up to make several jars at once."],
+      ["Chill","Divide into jars and refrigerate overnight."],
+      ["Dust and serve","Dust the top with cocoa powder before eating."]
+    ],
+    "notes":"Recipe and per-jar macros come from the video description (original by @balancewithnu). Overnight chilling not included in the time."
+  }]
+}
