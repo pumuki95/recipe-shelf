@@ -1,0 +1,34 @@
+{
+  "src": {"key":"0K4pI18tg1k","platform":"YouTube","creator":"Sam Does Her Best","title":"6 Ingredient Healthy Twix Bars (gluten-free & vegan!)","url":"https://www.youtube.com/watch?v=0K4pI18tg1k","recipes":1,"extra":{"label":"Written recipe","url":"https://samdoesherbest.com/healthy-twix-bars-gluten-free-vegan/"}},
+  "recipes": [{
+    "id":"healthy-twix-bars","title":"6-Ingredient Healthy Twix Bars","img":"img/healthy-twix-bars.jpg","part":1,"t":0,
+    "servings":16,"unit":"bar","time":100,
+    "macros":{"cal":218,"protein":4,"carbs":15,"fat":17},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","Vegan","Plant-based","Gluten-free","Dairy-free","Meal prep"],
+    "groups":[
+      {"name":"Shortbread","items":[
+        {"q":2,"u":"cup","i":"almond flour","a":"Baking"},
+        {"q":0.25,"u":"cup","i":"coconut oil, melted","a":"Pantry"},
+        {"q":0.25,"u":"cup","i":"maple syrup","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true}]},
+      {"name":"Peanut butter caramel","items":[
+        {"q":0.75,"u":"cup","i":"unsweetened creamy peanut butter","a":"Pantry"},
+        {"q":0.25,"u":"cup","i":"coconut oil","a":"Pantry"},
+        {"q":0.25,"u":"cup","i":"maple syrup","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true}]},
+      {"name":"Chocolate","items":[
+        {"q":1,"u":"cup","i":"dark chocolate chips","a":"Baking"},
+        {"q":1,"u":"tbsp","i":"coconut oil","a":"Pantry"},
+        {"q":null,"u":"","i":"flaky salt (optional)","a":"Pantry"},
+        {"q":null,"u":"","i":"parchment paper","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Shortbread","Heat the oven to 175 °C (350 °F) and line a 9×9-inch pan with parchment. Mix the shortbread ingredients, press evenly into the pan and bake about 10 minutes until the edges are lightly golden. Cool at least 10 minutes."],
+      ["Caramel","Whisk the caramel ingredients in a small saucepan over medium-low heat until gently bubbling, about 2 minutes. Pour over the cooled crust and spread."],
+      ["Set","Refrigerate 30–60 minutes until firm."],
+      ["Chocolate","Melt the chocolate chips with the coconut oil until smooth, spread over the caramel and sprinkle with flaky salt. Refrigerate about 30 minutes until hardened."],
+      ["Cut","Lift out and cut into 16 bars (or 32 minis)."]
+    ],
+    "notes":"Amounts, method and per-bar macros come from Sam's written recipe (linked). Total time includes chilling."
+  }]
+}

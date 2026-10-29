@@ -1,0 +1,45 @@
+{
+  "src": {"key":"IGXBR_vrjug","platform":"YouTube","creator":"Panacea Palm","title":"High Protein Grilled Cheese Breakfast Burritos","url":"https://www.youtube.com/watch?v=IGXBR_vrjug","recipes":1},
+  "recipes": [{
+    "id":"grilled-cheese-breakfast-burritos","title":"Grilled Cheese Breakfast Burritos","img":"img/grilled-cheese-breakfast-burritos.jpg","part":1,"t":0,
+    "servings":6,"unit":"burrito","time":40,
+    "macros":{"cal":620,"protein":62,"carbs":48,"fat":20},"stated":["cal","protein"],
+    "tags":["Breakfast","Main meal","Beef","Eggs","High protein","Meal prep"],
+    "groups":[
+      {"name":"Beef filling","items":[
+        {"q":800,"u":"g","i":"lean ground beef","a":"Meat"},
+        {"q":0.5,"u":"","i":"red onion, diced","a":"Produce"},
+        {"q":2,"u":"tbsp","i":"taco seasoning","a":"Pantry"},
+        {"q":30,"u":"g","i":"tomato paste","a":"Pantry"},
+        {"q":400,"u":"g","i":"can refried beans (optional)","a":"Pantry"}]},
+      {"name":"Eggs","items":[
+        {"q":8,"u":"","i":"eggs","a":"Dairy"},
+        {"q":120,"u":"ml","i":"liquid egg whites","a":"Dairy"},
+        {"q":15,"u":"g","i":"light butter","a":"Dairy"},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true}]},
+      {"name":"Creamy chipotle sauce","items":[
+        {"q":200,"u":"g","i":"0% Greek yogurt","a":"Dairy"},
+        {"q":50,"u":"g","i":"light mayo","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"chipotle paste","a":"Pantry"},
+        {"q":0.5,"u":"tsp","i":"onion powder","a":"Pantry"},
+        {"q":0.5,"u":"tsp","i":"garlic powder","a":"Pantry"},
+        {"q":0.5,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"chopped cilantro","a":"Produce"},
+        {"q":0.5,"u":"","i":"lime, juiced","a":"Produce"},
+        {"q":2,"u":"tsp","i":"honey","a":"Pantry"}]},
+      {"name":"To assemble (per burrito)","items":[
+        {"q":6,"u":"","i":"large flour tortillas (1 per burrito)","a":"Bakery"},
+        {"q":150,"u":"g","i":"low-fat grated cheese (25 g per burrito, inside)","a":"Dairy"},
+        {"q":120,"u":"g","i":"low-fat grated cheddar (20 g per burrito, for the crust)","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Brown the beef","Sear the ground beef for 5 minutes, then add the onion and break it up as it cooks."],
+      ["Season","Add the taco seasoning and tomato paste and mix well, then stir in the refried beans. Set aside."],
+      ["Scramble","Whisk the eggs with the egg whites. Melt the butter in a pan over medium heat and scramble until light and fluffy. Season with salt and pepper."],
+      ["Make the sauce","Mix all the chipotle sauce ingredients until smooth."],
+      ["Assemble","On each tortilla, add a dollop of sauce, ⅙ of the beef mix, ⅙ of the eggs and 25 g cheese. Roll up tightly."],
+      ["Grill the cheese crust","Sprinkle 20 g cheddar into a pan over medium heat. When it bubbles, place the burrito on it folded-side down; once the cheese crisps, wrap it around the burrito. Repeat for all 6."]
+    ],
+    "notes":"Amounts are from the on-screen text; calories and protein per burrito are from the video title. Carbs and fat are estimates, and the cheese totals assume 6 burritos. The refried beans are optional."
+  }]
+}
