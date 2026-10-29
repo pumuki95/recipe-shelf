@@ -1,0 +1,40 @@
+{
+  "src": {"key":"Blnfzdb6sIo","platform":"YouTube","creator":"Panacea Palm","title":"High Protein Honey Garlic Chicken Tenders","url":"https://www.youtube.com/watch?v=Blnfzdb6sIo","recipes":1},
+  "recipes": [{
+    "id":"honey-garlic-chicken-tenders","title":"Crispy Honey Garlic Chicken Tenders","img":"img/honey-garlic-chicken-tenders.jpg","part":1,"t":0,
+    "servings":6,"unit":"tender","time":35,
+    "macros":{"cal":182,"protein":22,"carbs":22,"fat":3},"stated":["cal","protein"],
+    "tags":["Main meal","Snack","Chicken","High protein","Air fryer"],
+    "groups":[
+      {"name":"Seasoned flour","items":[
+        {"q":100,"u":"g","i":"plain flour","a":"Baking"},
+        {"q":0.5,"u":"tsp","i":"salt","a":"Pantry","staple":true,"est":true},
+        {"q":0.5,"u":"tsp","i":"onion powder","a":"Pantry","est":true},
+        {"q":0.5,"u":"tsp","i":"garlic powder","a":"Pantry","est":true},
+        {"q":0.5,"u":"tsp","i":"paprika","a":"Pantry","est":true},
+        {"q":0.5,"u":"tsp","i":"black pepper","a":"Pantry","staple":true,"est":true}]},
+      {"name":"Tenders","items":[
+        {"q":2,"u":"","i":"chicken breasts, each sliced into 3 strips","a":"Meat","est":true},
+        {"q":1,"u":"","i":"egg, beaten","a":"Dairy"},
+        {"q":0.5,"u":"tbsp","i":"pickle juice","a":"Pantry","est":true},
+        {"q":120,"u":"g","i":"cornflakes, lightly crushed","a":"Pantry"},
+        {"q":null,"u":"","i":"cooking oil spray","a":"Pantry","staple":true}]},
+      {"name":"Honey garlic sauce","items":[
+        {"q":15,"u":"g","i":"unsalted butter","a":"Dairy"},
+        {"q":60,"u":"ml","i":"soy sauce","a":"Pantry"},
+        {"q":3,"u":"tbsp","i":"honey","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"garlic paste","a":"Produce"},
+        {"q":0.5,"u":"tsp","i":"chilli flakes","a":"Pantry","est":true}]}
+    ],
+    "steps":[
+      ["Season the flour","Mix the flour with the salt, onion powder, garlic powder, paprika and pepper on a plate."],
+      ["Coat","Slice each chicken breast into 3 strips and coat all sides in the seasoned flour."],
+      ["Egg wash","Beat the egg with the pickle juice on a second plate and dunk each strip until fully coated."],
+      ["Crumb","Press the strips firmly into the cornflakes on a third plate for an even coating."],
+      ["Cook","Spray lightly with oil, then oven bake at 190 °C for 20–25 minutes or air fry at 180 °C for 12–15 minutes."],
+      ["Make the sauce","Melt the butter in a pan on low heat, add the soy sauce, honey, garlic paste and chilli flakes. Bring to a bubble and simmer until thickened."],
+      ["Toss","Roll the crispy tenders in the sauce until fully coated."]
+    ],
+    "notes":"Amounts and cook settings come from the on-screen text; calories and protein per tender from the video. The on-screen fractions for the spices, pickle juice and chilli didn't display, so those are estimated as ½, and the number of chicken breasts is estimated. Carbs and fat are estimates."
+  }]
+}

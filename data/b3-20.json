@@ -1,0 +1,42 @@
+{
+  "src": {"key":"pOU8kHYIk1s","platform":"YouTube","creator":"Rahul Kamat","title":"Krispy Kreme but 1/2 The Calories, 3x The Protein","url":"https://www.youtube.com/watch?v=pOU8kHYIk1s","recipes":1},
+  "recipes": [{
+    "id":"low-calorie-glazed-donuts","title":"Low-Calorie Glazed Donuts (Protein Glaze Option)","img":"img/low-calorie-glazed-donuts.jpg","part":1,"t":60,
+    "servings":15,"unit":"donut","time":120,
+    "macros":{"cal":125,"protein":7,"carbs":17,"fat":2},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","Breakfast","Vegetarian","Air fryer","Meal prep"],
+    "groups":[
+      {"name":"Dry","items":[
+        {"q":280,"u":"g","i":"self-rising flour (or plain flour)","a":"Baking"},
+        {"q":35,"u":"g","i":"sugar (5 g of it goes into the milk)","a":"Baking"},
+        {"q":2,"u":"g","i":"pumpkin pie spice","a":"Pantry"},
+        {"q":2,"u":"g","i":"salt","a":"Pantry","staple":true}]},
+      {"name":"Wet","items":[
+        {"q":120,"u":"g","i":"whole milk (½ cup)","a":"Dairy"},
+        {"q":7,"u":"g","i":"instant yeast (1 packet)","a":"Baking"},
+        {"q":40,"u":"g","i":"butter, melted","a":"Dairy"},
+        {"q":1,"u":"","i":"egg","a":"Dairy"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"oil spray","a":"Pantry","staple":true}]},
+      {"name":"Zero-calorie glaze (for 6 donuts)","items":[
+        {"q":50,"u":"g","i":"erythritol, blended to a powder","a":"Baking"},
+        {"q":null,"u":"","i":"almond milk or water, a little at a time","a":"Dairy"}]},
+      {"name":"Protein glaze (for 6 donuts)","items":[
+        {"q":50,"u":"g","i":"vanilla whey protein powder","a":"Pantry"},
+        {"q":null,"u":"","i":"almond milk, a little at a time","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Activate the yeast","Microwave the milk 30–45 seconds until lukewarm (warm, not hot). Stir in the yeast and about 5 g of the sugar and rest 5 minutes."],
+      ["Wet mix","Melt the butter, add the vanilla, let it cool slightly, then whisk in the egg. Mix in the yeasty milk."],
+      ["Dry mix","In a large bowl mix the flour, remaining sugar, pumpkin pie spice and salt. Pour in the wet mix and stir into a dough."],
+      ["Knead","Knead in the bowl — stretch, fold and press — for 4–5 minutes until smooth, soft and less sticky."],
+      ["First rise","Place in an oiled bowl, cover with a towel and leave somewhere warm (an oven with just the light on) for 1–2 hours until doubled."],
+      ["Cut","Punch down, roll to about ½ inch thick and cut 3-inch circles with a 1-inch hole. Re-roll the scraps. Makes about 15."],
+      ["Second rise","Rest the donuts on parchment in the warm (off) oven for 20 minutes."],
+      ["Make the glazes","Blend the erythritol to a powder. For either glaze, add almond milk a few drops at a time until thick but runny."],
+      ["Air fry","Spray with oil and air fry at 175 °C (350 °F) for 3 minutes. Cook just what you'll eat — keep the rest of the cut dough wrapped in the fridge for up to a week."],
+      ["Glaze","Dip the warm donuts in glaze and set on a wire rack 1–2 minutes until the glaze hardens."]
+    ],
+    "notes":"Recipe and macros come from the video description. Macros shown are with the protein glaze; with the zero-calorie glaze it's 104 cal, 2 g protein, 17 g carbs, 2 g fat per donut. Total time includes rising."
+  }]
+}
