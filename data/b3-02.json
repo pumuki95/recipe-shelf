@@ -1,0 +1,35 @@
+{
+  "src": {"key":"DKV5KoP0t08","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Fudge Brownie Cheesecake Bars","url":"https://www.youtube.com/watch?v=DKV5KoP0t08","recipes":1},
+  "recipes": [{
+    "id":"fudge-brownie-cheesecake-bars","title":"Fudge Brownie Cheesecake Bars","img":"img/fudge-brownie-cheesecake-bars.jpg","part":1,"t":0,
+    "servings":6,"unit":"bar","time":25,
+    "macros":{"cal":279,"protein":8,"carbs":19,"fat":17},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","No-bake","Low carb"],
+    "groups":[
+      {"name":"Brownie base","items":[
+        {"q":150,"u":"g","i":"oat flour (or almond flour)","a":"Baking"},
+        {"q":30,"u":"g","i":"unsweetened cocoa powder","a":"Baking"},
+        {"q":30,"u":"g","i":"sugar-free maple syrup","a":"Pantry"},
+        {"q":20,"u":"ml","i":"coconut oil, melted","a":"Pantry"},
+        {"q":3,"u":"tbsp","i":"unsweetened almond milk","a":"Dairy"},
+        {"q":5,"u":"ml","i":"vanilla extract","a":"Baking","staple":true}]},
+      {"name":"Cheesecake layer","items":[
+        {"q":250,"u":"g","i":"light cream cheese","a":"Dairy"},
+        {"q":10,"u":"g","i":"powdered sweetener (monk fruit)","a":"Baking"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"squeeze of lemon juice","a":"Produce"}]},
+      {"name":"Chocolate topping","items":[
+        {"q":40,"u":"g","i":"unsweetened cocoa powder","a":"Baking"},
+        {"q":20,"u":"g","i":"sugar-free maple syrup","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"coconut oil, melted","a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"unsweetened almond milk","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Brownie base","Mix the oat flour, cocoa, maple syrup, coconut oil, almond milk and vanilla. Press into a lined tin and freeze 10 minutes."],
+      ["Cheesecake layer","Beat the cream cheese, sweetener, vanilla and lemon juice with a hand mixer until smooth. Spread over the base and freeze 45 minutes."],
+      ["Chocolate topping","Mix the cocoa, maple syrup, coconut oil and almond milk into a thick fudgy sauce and spread it over the top."],
+      ["Chill and slice","Refrigerate at least 30 minutes, then cut into 6 bars."]
+    ],
+    "notes":"Recipe and per-bar macros come from the video description (original recipe by @nora.dora99). Gluten-free only if you use certified GF oat flour. Freezing and chilling time (about 1½ hours) not included."
+  }]
+}

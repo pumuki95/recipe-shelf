@@ -1,0 +1,30 @@
+{
+  "src": {"key":"ekxe8ELZNaE","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Chocolate Brownie Balls","url":"https://www.youtube.com/watch?v=ekxe8ELZNaE","recipes":1},
+  "recipes": [{
+    "id":"cottage-cheese-brownie-balls","title":"Cottage Cheese Brownie Balls","img":"img/cottage-cheese-brownie-balls.jpg","part":1,"t":0,
+    "servings":8,"unit":"ball","time":20,
+    "macros":{"cal":185,"protein":11,"carbs":7,"fat":13},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","No-bake","Gluten-free","Low carb","High protein"],
+    "groups":[
+      {"name":"Brownie balls","items":[
+        {"q":200,"u":"g","i":"high-protein cottage cheese","a":"Dairy"},
+        {"q":50,"u":"g","i":"smooth peanut butter","a":"Pantry"},
+        {"q":20,"u":"g","i":"sugar-free maple syrup","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":100,"u":"g","i":"almond flour","a":"Baking"},
+        {"q":30,"u":"g","i":"unsweetened cocoa powder","a":"Baking"}]},
+      {"name":"Chocolate coating","items":[
+        {"q":80,"u":"g","i":"dark baking chocolate (about 78%)","a":"Baking"},
+        {"q":1,"u":"tsp","i":"coconut oil","a":"Pantry"},
+        {"q":null,"u":"","i":"flaky sea salt","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Blend","Blend the cottage cheese, peanut butter, maple syrup and vanilla until smooth."],
+      ["Make the dough","Add the almond flour and cocoa powder and mix until you get a thick brownie dough."],
+      ["Roll","Roll into 8 balls and freeze for 5–10 minutes while you melt the chocolate."],
+      ["Coat","Melt the chocolate with the coconut oil until silky, coat each ball and sprinkle with a little sea salt."],
+      ["Set","Refrigerate about 30 minutes until the shell is fully set and crunchy."]
+    ],
+    "notes":"Recipe and macros per ball come from the video description (original recipe by @nora.dora99). Chilling time not included."
+  }]
+}
