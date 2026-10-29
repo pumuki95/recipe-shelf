@@ -1,0 +1,35 @@
+{
+  "src": {"key":"Mw2tORgaVEc","platform":"YouTube","creator":"Alondra Ruby","title":"Comfort meals ep.1 – carne con chile","url":"https://www.youtube.com/watch?v=Mw2tORgaVEc","recipes":1},
+  "recipes": [{
+    "id":"carne-con-chile","title":"Carne con Chile y Papas","img":"img/carne-con-chile.jpg","part":1,"t":0,
+    "servings":4,"unit":"serving","time":45,
+    "macros":{"cal":370,"protein":38,"carbs":24,"fat":11},"stated":[],
+    "tags":["Main meal","High protein","Gluten-free","Potatoes"],
+    "groups":[
+      {"name":"Chile sauce","items":[
+        {"q":4,"u":"","i":"roma tomatoes, halved","a":"Produce","est":true},
+        {"q":2,"u":"","i":"serrano or jalapeño peppers","a":"Produce","est":true},
+        {"q":0.5,"u":"","i":"white onion, in chunks","a":"Produce","est":true},
+        {"q":2,"u":"","i":"garlic cloves","a":"Produce","est":true},
+        {"q":1,"u":"cup","i":"water","a":"Pantry","staple":true,"est":true},
+        {"q":1,"u":"tsp","i":"chicken or tomato bouillon powder","a":"Pantry","est":true}]},
+      {"name":"Carne","items":[
+        {"q":680,"u":"g","i":"thin-sliced lean beef (sirloin or milanesa), cut in strips","a":"Meat","est":true},
+        {"q":0.5,"u":"","i":"white onion, sliced","a":"Produce","est":true},
+        {"q":2,"u":"","i":"medium potatoes, diced","a":"Produce","est":true},
+        {"q":1,"u":"tsp","i":"olive oil","a":"Pantry","staple":true,"est":true},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true}]},
+      {"name":"To serve","items":[
+        {"q":null,"u":"","i":"Mexican rice","a":"Pantry"},
+        {"q":null,"u":"","i":"high-protein tortillas","a":"Bakery"}]}
+    ],
+    "steps":[
+      ["Char the vegetables","In a lightly oiled pan, blister the tomatoes, chiles, onion and garlic until charred in spots."],
+      ["Blend the sauce","Blend the charred vegetables with the water and bouillon until smooth."],
+      ["Sear the beef","Season the beef strips and brown them in the pan with just a little oil, then add the sliced onion."],
+      ["Simmer","Pour the chile sauce over the beef, add the diced potatoes and simmer, covered, until the potatoes are tender and the sauce thickens (about 20 minutes)."],
+      ["Serve","Serve with Mexican rice and warm tortillas."]
+    ],
+    "notes":"The video doesn't give amounts — quantities and macros (per serving, without rice or tortillas) are estimates from what's shown. Use little oil, as she suggests, to keep it light."
+  }]
+}

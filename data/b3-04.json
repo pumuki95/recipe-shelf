@@ -1,0 +1,25 @@
+{
+  "src": {"key":"LrRgGrFbZ8Q","platform":"YouTube","creator":"The Corey Family","title":"You gotta try this!! (healthy gummy bears)","url":"https://www.youtube.com/watch?v=LrRgGrFbZ8Q","recipes":1},
+  "recipes": [{
+    "id":"strawberry-honey-gummies","title":"Strawberry Honey Gummy Bears","img":"img/strawberry-honey-gummies.jpg","part":1,"t":0,
+    "servings":8,"unit":"serving","time":20,
+    "macros":{"cal":70,"protein":1,"carbs":18,"fat":0},"stated":[],
+    "tags":["Snack","Dessert","Gluten-free","Plant-based","Low carb"],
+    "groups":[
+      {"name":"Gummies","items":[
+        {"q":3,"u":"cup","i":"strawberries, washed and hulled (or watermelon, green apple)","a":"Produce"},
+        {"q":1,"u":"","i":"lemon, juiced","a":"Produce"},
+        {"q":0.5,"u":"cup","i":"honey (or maple syrup)","a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"elderberry syrup (optional)","a":"Pantry"},
+        {"q":3,"u":"tbsp","i":"agar agar powder (1 tbsp per cup of purée)","a":"Baking","est":true}]}
+    ],
+    "steps":[
+      ["Blend","Blend the strawberries, lemon juice, honey and elderberry syrup until completely smooth."],
+      ["Cook with agar","Pour into a pot and whisk in 1 tbsp agar powder for every cup of purée. Cook on medium-high, stirring constantly, for 2 minutes until there are no clumps."],
+      ["Lower the heat","Turn the heat down and keep stirring for another 2 minutes. Take off the heat and keep stirring as it cools slightly so it doesn't set in the pot."],
+      ["Fill the molds","Use a dropper or syringe to fill gummy molds."],
+      ["Set","Refrigerate at least 4 hours (overnight is best), then pop them out."]
+    ],
+    "notes":"Amounts are from the video; agar quantity assumes about 3 cups of purée. Macros are estimates for 1/8 of the batch. Setting time not included. Not suitable for babies under 1 because of the honey — use maple syrup instead. Plant-based only with maple syrup."
+  }]
+}
