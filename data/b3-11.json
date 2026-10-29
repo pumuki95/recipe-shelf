@@ -1,0 +1,29 @@
+{
+  "src": {"key":"EoJGo9oaAVU","platform":"YouTube","creator":"Stefan Bodegrajac","title":"The Best Brownies You'll Ever Have","url":"https://www.youtube.com/watch?v=EoJGo9oaAVU","recipes":1},
+  "recipes": [{
+    "id":"butternut-squash-brownies","title":"Fudgy Butternut Squash Brownies","img":"img/butternut-squash-brownies.jpg","part":1,"t":0,
+    "servings":5,"unit":"slice","time":80,
+    "macros":{"cal":150,"protein":9,"carbs":26,"fat":4},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","Plant-based","High fiber","Meal prep"],
+    "groups":[
+      {"name":"Brownies","items":[
+        {"q":500,"u":"g","i":"butternut squash, roasted and peeled (about 1 small squash)","a":"Produce"},
+        {"q":250,"u":"ml","i":"liquid egg whites","a":"Dairy"},
+        {"q":35,"u":"g","i":"unsweetened cocoa powder","a":"Baking"},
+        {"q":25,"u":"g","i":"oat flour (blended oats)","a":"Baking"},
+        {"q":70,"u":"g","i":"powdered sweetener (monk fruit or stevia blend)","a":"Baking"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":0.5,"u":"tsp","i":"baking powder","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true},
+        {"q":50,"u":"g","i":"chocolate chips","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Roast the squash","Halve the squash, scoop out the seeds and roast cut-side down at 200 °C (400 °F) for about 35 minutes until soft. Cool and peel."],
+      ["Blend","Blend the squash, egg whites, cocoa, oat flour, sweetener, vanilla, baking powder and salt until smooth."],
+      ["Add chips","Stir in the chocolate chips and pour into a lined loaf tin or small tray."],
+      ["Bake","Bake at 180 °C (350 °F) for 35–40 minutes, until just a little jiggly in the centre."],
+      ["Cool completely","Let cool fully, then chill — they're best cold from the fridge. Cut into 5 slices."]
+    ],
+    "notes":"Recipe and per-slice macros come from the video description (original recipe by @madelainerascan). Total time includes roasting the squash. Great cold on top of Greek yogurt."
+  }]
+}
