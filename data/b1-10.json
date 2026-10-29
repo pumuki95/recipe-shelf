@@ -1,0 +1,34 @@
+{
+  "src": {"key":"tMCv7ku5LA0","platform":"YouTube","creator":"AndresCooking","title":"Spicy Tuna Crispy Rice // Arroz Crujiente con Atún Picante","url":"https://www.youtube.com/watch?v=tMCv7ku5LA0","recipes":1},
+  "recipes": [{
+    "id":"spicy-tuna-crispy-rice","title":"Spicy Tuna Crispy Rice","img":"img/spicy-tuna-crispy-rice.jpg","part":1,"t":0,
+    "servings":2,"unit":"serving","time":30,
+    "macros":{"cal":560,"protein":28,"carbs":62,"fat":22},"stated":[],
+    "tags":["Main meal","Snack","Fish","Rice","Japanese-inspired","Quick"],
+    "groups":[
+      {"name":"Crispy rice","items":[
+        {"q":2,"u":"cups","i":"cooked sushi rice, chilled","est":true,"a":"International"},
+        {"q":1,"u":"tbsp","i":"neutral oil, for the pan","est":true,"a":"Pantry","staple":true}]},
+      {"name":"Spicy tuna","items":[
+        {"q":2,"u":"cans","i":"tuna, drained","est":true,"a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"mayonnaise (Kewpie if you have it)","est":true,"a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"sriracha","est":true,"a":"International"},
+        {"q":1,"u":"tsp","i":"sesame oil","est":true,"a":"International"},
+        {"q":1,"u":"tsp","i":"lime juice","est":true,"a":"Produce"},
+        {"q":1,"u":"tsp","i":"soy sauce","est":true,"a":"International"},
+        {"q":2,"u":"","i":"green onions, sliced","est":true,"a":"Produce"}]},
+      {"name":"Toppings","items":[
+        {"q":1,"u":"","i":"avocado, mashed with lime and salt","est":true,"a":"Produce"},
+        {"q":null,"u":"","i":"sesame seeds (white and black)","a":"International"},
+        {"q":null,"u":"","i":"green onion, to garnish","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Crisp the rice","Press chilled cooked rice into a flat, even slab and pan-fry it in a little oil until golden and crunchy on both sides."],
+      ["Mix the tuna","Stir the tuna with the mayo, sriracha, sesame oil, lime juice, soy sauce and green onion."],
+      ["Avocado","Mash the avocado with a squeeze of lime and a pinch of salt."],
+      ["Layer","Spread the avocado over the crispy rice, then top with the spicy tuna, more green onion and sesame seeds."],
+      ["Cut","Cut into squares and serve right away while the rice is crunchy."]
+    ],
+    "notes":"The video is a 17-second clip in Spanish that names the ingredients but no amounts, so quantities, servings and nutrition are estimates."
+  }]
+}

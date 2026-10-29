@@ -1,0 +1,28 @@
+{
+  "src": {"key":"6Jr-n9XXDAk","platform":"YouTube","creator":"The Doctor's Kitchen","title":"6-ingredient, no bake, pistachio & cacao energy balls","url":"https://www.youtube.com/watch?v=6Jr-n9XXDAk","recipes":1},
+  "recipes": [{
+    "id":"pistachio-cacao-energy-balls","title":"Pistachio & Cacao Energy Balls","img":"img/pistachio-cacao-energy-balls.jpg","part":1,"t":0,
+    "servings":12,"unit":"ball","time":15,
+    "macros":{"cal":150,"protein":5,"carbs":12,"fat":10},"stated":["protein"],
+    "tags":["Snack","No-bake","Plant-based","Gluten-free","Meal prep","No refined sugar"],
+    "groups":[
+      {"name":"Energy balls","items":[
+        {"q":150,"u":"g","i":"shelled pistachios","a":"Baking"},
+        {"q":150,"u":"g","i":"Medjool dates, roughly chopped","a":"Produce"},
+        {"q":2,"u":"tbsp","i":"raw cacao powder","a":"Baking"},
+        {"q":2,"u":"tbsp","i":"shelled hemp seeds","a":"Baking"},
+        {"q":1,"u":"tbsp","i":"coconut oil, melted (or smooth nut butter)","a":"Pantry"},
+        {"q":3,"u":"tbsp","i":"tahini","a":"International"}]},
+      {"name":"For rolling (optional)","items":[
+        {"q":4,"u":"tbsp","i":"shelled pistachios, finely ground","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Soak the dates","Cover the dates with boiling water for 10 minutes, then drain."],
+      ["Grind the coating first","If rolling in pistachio crumb, blitz those 4 tbsp of pistachios fine first and set aside (saves washing the processor)."],
+      ["Blitz","Pulse the pistachios to break them up, then add the dates, cacao, hemp seeds, coconut oil and tahini. Blitz until a ball of dough starts to form."],
+      ["Roll","Roll tablespoons of dough into 12 balls, then roll each in the pistachio crumb."],
+      ["Set","Chill at least 1 hour. Keeps 5 days in the fridge or 3 months frozen."]
+    ],
+    "notes":"Recipe from the video description, which gives about 5 g protein and 3 g fiber per ball. Calories, carbs and fat are estimates."
+  }]
+}

@@ -1,0 +1,28 @@
+{
+  "src": {"key":"dicnt-cPw6g","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Healthy Caramelised Sweet Potatoes","url":"https://www.youtube.com/watch?v=dicnt-cPw6g","recipes":1},
+  "recipes": [{
+    "id":"caramelised-sweet-potatoes","title":"Caramelised Roasted Sweet Potatoes","img":"img/caramelised-sweet-potatoes.jpg","part":1,"t":0,
+    "servings":4,"unit":"half","time":65,
+    "macros":{"cal":190,"protein":2.5,"carbs":30,"fat":7},"stated":[],
+    "tags":["Side dish","Potatoes","Plant-based","Gluten-free","Meal prep","Baked"],
+    "groups":[
+      {"name":"Sweet potatoes","items":[
+        {"q":2,"u":"","i":"large orange sweet potatoes","a":"Produce"},
+        {"q":2,"u":"tbsp","i":"olive oil","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"Himalayan salt","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"garlic granules","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"smoked paprika","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"baking paper","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Preheat","Heat the oven to 190°C / 375°F and line a baking tray or dish with baking paper."],
+      ["Halve","Wash and dry the sweet potatoes, trim the ends and slice them in half lengthways."],
+      ["Season","Toss with the olive oil, salt, pepper, garlic and smoked paprika, making sure the cut sides are well coated."],
+      ["Roast","Place cut side down and bake 50 minutes. Don't flip or move them."],
+      ["Rest","Leave them on the tray 30–45 minutes if you can (even 10 helps) so the caramelised layer stays on the potato instead of the paper."],
+      ["Serve","Lift carefully with a thin spatula, caramelised side up."]
+    ],
+    "notes":"Recipe comes from the video description. Nutrition per half is an estimate; the creator didn't list it. Cook time doesn't include the optional rest."
+  }]
+}

@@ -1,0 +1,28 @@
+{
+  "src": {"key":"NoQyWn4wqvo","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Healthy Peanut Butter Chickpea Cookies","url":"https://www.youtube.com/watch?v=NoQyWn4wqvo","recipes":1},
+  "recipes": [{
+    "id":"pb-chickpea-cookies","title":"Peanut Butter Chickpea Chocolate Chip Cookies","img":"img/pb-chickpea-cookies.jpg","part":1,"t":0,
+    "servings":12,"unit":"cookie","time":30,
+    "macros":{"cal":91,"protein":5,"carbs":9,"fat":3},"stated":["cal","protein","carbs","fat"],
+    "tags":["Snack","Dessert","Plant-based","Gluten-free","Baked","Meal prep","No refined sugar"],
+    "groups":[
+      {"name":"Cookie dough","items":[
+        {"q":600,"u":"g","i":"chickpeas, drained","note":"about 3 cans","a":"Pantry"},
+        {"q":40,"u":"g","i":"smooth peanut butter","a":"Pantry"},
+        {"q":20,"u":"g","i":"honey","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":1,"u":"tsp","i":"baking powder","a":"Baking"},
+        {"q":30,"u":"g","i":"dark chocolate chips","a":"Baking"},
+        {"q":null,"u":"","i":"baking paper","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Preheat","Heat the oven to 180°C / 350°F and line a baking tray with baking paper."],
+      ["Blend","Blend the chickpeas, peanut butter, honey, vanilla and baking powder in a food processor until it's a smooth, thick cookie dough."],
+      ["Fold","Fold in the chocolate chips."],
+      ["Shape","Divide into 12 portions on the tray, then shape and slightly flatten each one."],
+      ["Bake","Bake 15–20 minutes until lightly golden on top."],
+      ["Cool","Let them cool before eating; they firm up as they cool."]
+    ],
+    "notes":"Recipe and macros per cookie come from the video description. Use dairy-free chocolate chips to keep them fully plant-based."
+  }]
+}

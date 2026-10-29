@@ -1,0 +1,30 @@
+{
+  "src": {"key":"qMGiGpzuVSo","platform":"YouTube","creator":"Dave's Pizza Oven","title":"How I use my mixer","url":"https://www.youtube.com/watch?v=qMGiGpzuVSo","recipes":1,
+          "extra":{"label":"Dave's written dough recipe","url":"https://www.tiktok.com/@davepizzaoven/video/7534747013657660703"}},
+  "recipes": [{
+    "id":"home-oven-pizza-dough","title":"Crispy, Airy Home-Oven Pizza Dough","img":"img/home-oven-pizza-dough.jpg","part":1,"t":0,
+    "servings":2,"unit":"14-inch pizza","time":90,
+    "macros":{"cal":760,"protein":24,"carbs":148,"fat":6},"stated":[],
+    "tags":["Main meal","Bread","Pizza","Make-ahead","Plant-based","Project bake"],
+    "groups":[
+      {"name":"Dough (65% hydration)","items":[
+        {"q":280,"u":"g","i":"bread flour","a":"Baking"},
+        {"q":120,"u":"g","i":"all-purpose flour","a":"Baking"},
+        {"q":260,"u":"g","i":"cold water (about 30% as crushed ice if using a mixer)","a":"Pantry","staple":true},
+        {"q":1.2,"u":"g","i":"instant dry yeast","a":"Baking"},
+        {"q":8,"u":"g","i":"sugar (or honey)","a":"Baking","staple":true},
+        {"q":10,"u":"g","i":"salt","a":"Pantry","staple":true},
+        {"q":8,"u":"g","i":"olive oil","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Mix","In the mixer bowl, combine the cold water (with crushed ice for about 30% of it, to keep the dough around 40°F), both flours, yeast and sugar. Mix on low about 10 minutes, scraping down as needed, aiming for a dough temperature around 62°F."],
+      ["Rest","Cover and rest 30 minutes at room temperature."],
+      ["Salt","Add the salt and mix 3 minutes on low."],
+      ["Oil","Switch to medium and slowly add half the oil until mostly absorbed, then the rest. When the dough is no longer shiny, drop to low and mix until it reaches about 70°F."],
+      ["Stretch and fold","Shape quickly, move to an oiled container and rest 30 minutes. With wet hands, stretch and fold all four sides. Rest 30 more minutes and repeat until it passes the windowpane test."],
+      ["Cold ferment","Refrigerate for 2 days (48–72 hours total fermentation)."],
+      ["Ball and bake","Divide into 2 balls the night before or on baking day, and let them sit 3 hours at room temperature before stretching and baking."]
+    ],
+    "notes":"The video demonstrates the method; the gram amounts come from Dave's written go-to recipe (linked). Nutrition is an estimate for the dough only, per pizza, before toppings."
+  }]
+}

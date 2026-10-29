@@ -1,0 +1,194 @@
+{
+  "src": {"key":"9EuWNhSzvCk","platform":"YouTube","creator":"Tim Laielli","title":"everything i cooked for my teenagers: week 4","url":"https://www.youtube.com/watch?v=9EuWNhSzvCk","recipes":6,
+          "extra":{"label":"Full recipes in Tim's newsletter","url":"https://barefoodtim.substack.com/p/a-full-week-of-meals-a-shopping-list-6cc"}},
+  "recipes": [
+  {
+    "id":"sourdough-french-toast-bake","title":"Sourdough French Toast Bake","img":"img/sourdough-french-toast-bake.jpg","part":1,"t":14,
+    "servings":6,"unit":"serving","time":40,
+    "macros":{"cal":420,"protein":14,"carbs":48,"fat":19},"stated":[],
+    "tags":["Breakfast","Bread","Eggs","Make-ahead","Family friendly","Sweet tooth"],
+    "groups":[
+      {"name":"Bake","items":[
+        {"q":1,"u":"lb","i":"sourdough loaf, cubed","note":"day-old is best","a":"Bakery"},
+        {"q":4,"u":"tbsp","i":"butter, melted","a":"Dairy"},
+        {"q":6,"u":"","i":"eggs","a":"Dairy"},
+        {"q":1,"u":"cup","i":"milk (2% or whole)","a":"Dairy"},
+        {"q":0.5,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"cinnamon","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":0.5,"u":"cup","i":"pecans, chopped","a":"Baking"}]},
+      {"name":"Topping","items":[
+        {"q":2,"u":"tbsp","i":"turbinado sugar","a":"Baking"},
+        {"q":0.5,"u":"tsp","i":"cinnamon","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"maple syrup, to serve","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Butter the bread","Toss the cubed sourdough with the melted butter. Heat the oven to 350°F."],
+      ["Soak","Whisk the eggs, milk, salt, cinnamon and vanilla. Pour over the bread and let it sit 10–15 minutes to soak in."],
+      ["Top","Spread into a greased 8x10 pan or large cast-iron skillet. Top with the cinnamon sugar and pecans."],
+      ["Bake","Bake 25–30 minutes, until the egg has set."],
+      ["Serve","Serve warm with maple syrup, plus fruit or whipped cream if you like."]
+    ],
+    "notes":"Recipe from Tim's newsletter, linked from the video. Nutrition is an estimate (not including syrup)."
+  },
+  {
+    "id":"monster-cookie-protein-bites","title":"Monster Cookie Protein Bites","img":"img/monster-cookie-protein-bites.jpg","part":2,"t":36,
+    "servings":24,"unit":"bite","time":20,
+    "macros":{"cal":150,"protein":5,"carbs":17,"fat":7},"stated":[],
+    "tags":["Snack","No-bake","Meal prep","Family friendly","Sweet tooth"],
+    "groups":[
+      {"name":"Bites","items":[
+        {"q":2,"u":"cups","i":"old-fashioned rolled oats","a":"Pantry"},
+        {"q":1,"u":"cup","i":"creamy peanut butter","a":"Pantry"},
+        {"q":0.5,"u":"cup","i":"honey","a":"Pantry"},
+        {"q":0.5,"u":"cup","i":"vanilla or unflavored protein powder","a":"Pantry"},
+        {"q":0.5,"u":"cup","i":"mini M&M's","a":"Baking"},
+        {"q":0.333,"u":"cup","i":"mini chocolate chips","a":"Baking"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":0.5,"u":"tsp","i":"kosher salt","a":"Pantry","staple":true},
+        {"q":2,"u":"tbsp","i":"applesauce, only if needed","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Mix","Stir the oats, peanut butter, honey, protein powder, M&M's, chocolate chips, vanilla and salt until evenly combined."],
+      ["Adjust","If it's still dry and crumbly after a minute of mixing, add applesauce 1 tbsp at a time until it holds together when squeezed."],
+      ["Chill and roll","Chill 20 minutes, then scoop with an ice cream scoop and roll into balls."],
+      ["Store","Refrigerate until firm, then keep covered (or they dry out). Fridge 1 week, freezer 2 months."]
+    ],
+    "notes":"Recipe from Tim's newsletter. Makes 22–24 bites; nutrition per bite is an estimate and depends on your protein powder."
+  },
+  {
+    "id":"sausage-egg-cheese-sandwiches","title":"Maple Sausage, Egg & Cheese Breakfast Sandwiches","img":"img/sausage-egg-cheese-sandwiches.jpg","part":3,"t":53,
+    "servings":6,"unit":"sandwich","time":45,
+    "macros":{"cal":470,"protein":26,"carbs":28,"fat":28},"stated":[],
+    "tags":["Breakfast","Pork","Eggs","Bread","Make-ahead","Freezer friendly","Family friendly"],
+    "groups":[
+      {"name":"Sandwiches","items":[
+        {"q":1,"u":"lb","i":"ground maple breakfast sausage","note":"or regular sausage + 1–2 tbsp maple syrup","a":"Meat"},
+        {"q":8,"u":"","i":"large eggs","a":"Dairy"},
+        {"q":2,"u":"tbsp","i":"whole milk","a":"Dairy"},
+        {"q":0.5,"u":"tsp","i":"kosher salt","a":"Pantry","staple":true},
+        {"q":0.25,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":1,"u":"tbsp","i":"butter","a":"Dairy","staple":true},
+        {"q":6,"u":"","i":"English muffins, split","a":"Bakery"},
+        {"q":6,"u":"slices","i":"sharp cheddar","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Prep","Heat the oven to 375°F and line or grease an 8-inch square pan."],
+      ["Cook the sausage","Shape the sausage into 6 thin patties slightly wider than the muffins. Cook 3–4 minutes per side until browned and cooked through."],
+      ["Bake the eggs","Whisk the eggs, milk, salt and pepper, pour into the pan and bake 12–16 minutes until just set. Cool slightly and cut into 6 squares."],
+      ["Assemble","Lightly toast the muffins if you like. Layer sausage, egg and cheddar on each bottom half and close."],
+      ["Store","Serve now, or cool completely before wrapping. Fridge 4 days, freezer 2 months. Reheat 60–90 seconds in the microwave, then crisp in a pan or air fryer."]
+    ],
+    "notes":"Recipe from Tim's newsletter. Nutrition per sandwich is an estimate."
+  },
+  {
+    "id":"sweet-potato-beef-bowls","title":"Caramelized Sweet Potato Beef Bowls","img":"img/sweet-potato-beef-bowls.jpg","part":4,"t":81,
+    "servings":4,"unit":"bowl","time":55,
+    "macros":{"cal":640,"protein":50,"carbs":52,"fat":24},"stated":[],
+    "tags":["Main meal","Ground beef","Potatoes","High protein","Gluten-free","Meal prep"],
+    "groups":[
+      {"name":"Sweet potatoes","items":[
+        {"q":4,"u":"","i":"sweet potatoes, halved lengthwise","a":"Produce"},
+        {"q":1,"u":"tbsp","i":"olive oil","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"kosher salt","a":"Pantry","staple":true}]},
+      {"name":"Beef","items":[
+        {"q":1,"u":"tbsp","i":"olive oil","a":"Pantry","staple":true},
+        {"q":1,"u":"","i":"small yellow onion, diced","a":"Produce"},
+        {"q":1.5,"u":"lb","i":"lean ground beef","a":"Meat"},
+        {"q":2,"u":"","i":"garlic cloves, minced","a":"Produce"},
+        {"q":1,"u":"tsp","i":"chili powder","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"kosher salt","a":"Pantry","staple":true}]},
+      {"name":"To serve","items":[
+        {"q":2,"u":"cups","i":"cottage cheese","a":"Dairy"},
+        {"q":null,"u":"","i":"hot honey or chili crisp","a":"International"},
+        {"q":2,"u":"","i":"avocados, sliced (optional)","a":"Produce"},
+        {"q":null,"u":"","i":"lime wedges and cilantro (optional)","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Heat the pan","Heat the oven to 450°F with a large sheet pan inside."],
+      ["Roast the potatoes","Brush the sweet potato halves with 1 tbsp oil and 1 tsp salt and lay them cut side down on the hot pan. Roast about 45 minutes without flipping, until soft and caramelized underneath."],
+      ["Cook the beef","Meanwhile, heat the remaining oil in a skillet over medium-high. Cook the onion 3 minutes, add the beef and brown it, breaking it up."],
+      ["Season","Stir in the garlic, chili powder, pepper and remaining salt and cook 2 minutes, adding a splash of water if the spices stick."],
+      ["Build","Divide potatoes and beef into bowls. Pack cottage cheese and avocado separately so you can reheat the rest. Finish with hot honey or chili crisp."]
+    ],
+    "notes":"Recipe from Tim's newsletter. Nutrition per bowl is an estimate (without avocado or hot honey)."
+  },
+  {
+    "id":"sesame-peanut-noodle-jars","title":"Sesame-Peanut Chicken Noodle Jars","img":"img/sesame-peanut-noodle-jars.jpg","part":5,"t":98,
+    "servings":4,"unit":"jar","time":45,
+    "macros":{"cal":640,"protein":42,"carbs":68,"fat":22},"stated":[],
+    "tags":["Main meal","Chicken","Noodles","Asian-inspired","Meal prep","Make-ahead","High protein"],
+    "groups":[
+      {"name":"Noodles & chicken","items":[
+        {"q":8,"u":"oz","i":"glass noodles (or rice noodles)","a":"International"},
+        {"q":1.25,"u":"lb","i":"boneless skinless chicken thighs or breasts","a":"Meat"},
+        {"q":1,"u":"tbsp","i":"neutral oil","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"kosher salt","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"black pepper","a":"Pantry","staple":true}]},
+      {"name":"Vegetables","items":[
+        {"q":3,"u":"cups","i":"shredded red or green cabbage","a":"Produce"},
+        {"q":2,"u":"","i":"carrots, shredded","a":"Produce"},
+        {"q":1,"u":"","i":"red bell pepper, thinly sliced","a":"Produce"},
+        {"q":1,"u":"","i":"English cucumber, seeded and sliced","a":"Produce"},
+        {"q":1,"u":"cup","i":"shelled edamame, thawed","a":"Frozen"},
+        {"q":4,"u":"","i":"scallions, sliced","a":"Produce"},
+        {"q":0.5,"u":"cup","i":"cilantro leaves","a":"Produce"}]},
+      {"name":"Peanut sauce","items":[
+        {"q":0.5,"u":"cup","i":"creamy peanut butter","a":"Pantry"},
+        {"q":0.25,"u":"cup","i":"low-sodium soy sauce","a":"International"},
+        {"q":2,"u":"","i":"limes, juiced","a":"Produce"},
+        {"q":2,"u":"tbsp","i":"rice vinegar","a":"International"},
+        {"q":2,"u":"tbsp","i":"honey","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"toasted sesame oil","a":"International"},
+        {"q":1,"u":"tbsp","i":"sriracha","a":"International"},
+        {"q":1,"u":"","i":"garlic clove, grated","a":"Produce"},
+        {"q":1,"u":"tsp","i":"fresh ginger, grated","a":"Produce"},
+        {"q":3,"u":"tbsp","i":"warm water","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Noodles","Cook the glass noodles per the package. Drain, rinse well under cold water, drain again, and snip them shorter with scissors if you like."],
+      ["Chicken","Pat the chicken dry, season with salt and pepper and cook in the oil over medium-high, 5–7 minutes per side. Rest 5 minutes and slice (rotisserie chicken works too)."],
+      ["Sauce","Whisk all the peanut sauce ingredients, adding warm water a spoonful at a time until pourable but still thick."],
+      ["Layer","Divide the sauce among 4 large jars. Layer in order: cabbage, carrots, bell pepper, edamame, chicken, noodles, cucumber, scallions, cilantro."],
+      ["Eat","Keep chilled up to 4 days. To eat, tip the jar into a bowl and toss well, adding a splash of water or lime if the sauce has thickened."]
+    ],
+    "notes":"Recipe from Tim's newsletter. Let the noodles and chicken cool fully before layering so the veg stays crisp. Nutrition per jar is an estimate."
+  },
+  {
+    "id":"antipasto-pasta-salad","title":"Antipasto Pasta Salad","img":"img/antipasto-pasta-salad.jpg","part":6,"t":107,
+    "servings":8,"unit":"serving","time":35,
+    "macros":{"cal":480,"protein":19,"carbs":45,"fat":25},"stated":[],
+    "tags":["Main meal","Side dish","Pasta","Pork","Italian","Meal prep","Make-ahead"],
+    "groups":[
+      {"name":"Salad","items":[
+        {"q":1,"u":"lb","i":"small pasta (rotini, fusilli or cubetti)","a":"Pantry"},
+        {"q":null,"u":"","i":"kosher salt, for the pasta water","a":"Pantry","staple":true},
+        {"q":8,"u":"oz","i":"dry salami, bite-size pieces","a":"Meat"},
+        {"q":8,"u":"oz","i":"provolone, small cubes","a":"Dairy"},
+        {"q":1,"u":"pint","i":"cherry tomatoes, halved","a":"Produce"},
+        {"q":0.75,"u":"cup","i":"pitted olives, halved","a":"Pantry"},
+        {"q":0.5,"u":"cup","i":"sliced pepperoncini","a":"Pantry"},
+        {"q":0.5,"u":"","i":"small red onion, thinly sliced","a":"Produce"},
+        {"q":0.333,"u":"cup","i":"flat-leaf parsley, chopped","a":"Produce"}]},
+      {"name":"Vinaigrette","items":[
+        {"q":0.333,"u":"cup","i":"extra-virgin olive oil","a":"Pantry"},
+        {"q":0.25,"u":"cup","i":"red wine vinegar","a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"pepperoncini brine","a":"Pantry","staple":true},
+        {"q":1,"u":"tbsp","i":"Dijon mustard","a":"Pantry"},
+        {"q":1,"u":"","i":"garlic clove, grated","a":"Produce"},
+        {"q":1,"u":"tsp","i":"dried oregano","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"crushed red pepper (optional)","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Cook the pasta","Boil the pasta in well-salted water until just past al dente so it stays tender cold. Save ½ cup pasta water, then drain."],
+      ["Vinaigrette","Whisk the olive oil, vinegar, pepperoncini brine, Dijon, garlic, oregano, black pepper and red pepper flakes."],
+      ["Dress warm","Toss the warm pasta with about two-thirds of the dressing and 2 tbsp pasta water. Cool 15 minutes."],
+      ["Add the rest","Add the salami, provolone, tomatoes, olives, pepperoncini, onion and parsley and toss with the remaining dressing."],
+      ["Chill","Taste for salt and acid, chill at least 30 minutes, and toss again before serving. Keeps 4 days."]
+    ],
+    "notes":"Recipe from Tim's newsletter. He adds leftover chicken from the noodle jars for extra protein. Nutrition per serving is an estimate."
+  }
+  ]
+}

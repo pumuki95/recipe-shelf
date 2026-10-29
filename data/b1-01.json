@@ -1,0 +1,34 @@
+{
+  "src": {"key":"XWuCAJNAbWs","platform":"YouTube","creator":"Ana Sofia Fehn","title":"PASTA ALLA ZUCCA","url":"https://www.youtube.com/watch?v=XWuCAJNAbWs","recipes":1},
+  "recipes": [{
+    "id":"pasta-alla-zucca","title":"Pasta alla Zucca (Pumpkin & Guanciale)","img":"img/pasta-alla-zucca.jpg","part":1,"t":0,
+    "servings":4,"unit":"serving","time":30,
+    "macros":{"cal":605,"protein":16,"carbs":66,"fat":29},"stated":[],
+    "tags":["Main meal","Pasta","Pork","Italian","Comfort food"],
+    "groups":[
+      {"name":"Pasta","items":[
+        {"q":320,"u":"g","i":"paccheri or rigatoni","a":"Pantry"},
+        {"q":null,"u":"","i":"salt, for the pasta water","a":"Pantry","staple":true}]},
+      {"name":"Pumpkin sauce","items":[
+        {"q":150,"u":"g","i":"guanciale, cut into strips","a":"Meat"},
+        {"q":350,"u":"g","i":"pumpkin, peeled and diced","a":"Produce"},
+        {"q":0.5,"u":"","i":"small yellow onion, finely chopped","a":"Produce"},
+        {"q":null,"u":"","i":"fresh rosemary, a sprig","a":"Produce"},
+        {"q":0.25,"u":"cup","i":"water","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"nutmeg, a pinch","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"black pepper","a":"Pantry","staple":true}]},
+      {"name":"To finish","items":[
+        {"q":0.5,"u":"cup","i":"pecorino romano, grated","a":"Dairy"},
+        {"q":1,"u":"cup","i":"pasta water, set aside","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Prep","Peel and dice the pumpkin into small cubes, finely chop the onion and cut the guanciale into strips."],
+      ["Crisp the guanciale","Cook the guanciale in a dry pan over medium heat until golden and the fat has rendered."],
+      ["Cook the pumpkin","Add the onion, pumpkin and rosemary to the fat and sauté a few minutes. Add the water, cover and cook until the pumpkin is soft, then mash it into a creamy sauce. Season with nutmeg and pepper."],
+      ["Boil the pasta","Cook the pasta in well-salted water until al dente. Save about a cup of the pasta water before draining."],
+      ["Bring it together","Toss the pasta into the sauce with a splash of pasta water. Off the heat, stir in the pecorino, adding more pasta water until it's glossy and creamy."],
+      ["Serve","Plate with extra pecorino and black pepper."]
+    ],
+    "notes":"Ingredients come from the video description. The video has no narration, so the steps follow what's shown on screen, and servings, time and nutrition are estimates."
+  }]
+}

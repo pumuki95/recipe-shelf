@@ -1,0 +1,179 @@
+{
+ "src": {
+  "key": "GHylDegnkbI",
+  "platform": "YouTube",
+  "creator": "Ethan Paff",
+  "title": "You Can Eat Donuts And Still Be Healthy",
+  "url": "https://www.youtube.com/watch?v=GHylDegnkbI",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chocolate-protein-donuts",
+   "title": "Chocolate Frosted Protein Donuts",
+   "part": 1,
+   "t": 0,
+   "servings": 6,
+   "unit": "donut",
+   "time": 15,
+   "macros": {
+    "cal": 123,
+    "protein": 9.7,
+    "carbs": 16.8,
+    "fat": 1.8
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "High protein",
+    "Snack",
+    "Eggs",
+    "Gluten-free",
+    "Baked",
+    "Sweet tooth"
+   ],
+   "groups": [
+    {
+     "name": "Donut base",
+     "items": [
+      {
+       "q": 2,
+       "u": "",
+       "i": "large eggs",
+       "a": "Dairy"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "honey",
+       "note": "½ tbsp",
+       "a": "Pantry"
+      },
+      {
+       "q": 80,
+       "u": "g",
+       "i": "milk powder",
+       "note": "10 tbsp",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "baking powder",
+       "note": "1 tsp",
+       "a": "Baking"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "cornstarch (or other starch)",
+       "note": "1 tbsp",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "vanilla extract, a splash",
+       "a": "Baking",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt, a pinch",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "butter, to grease the pan",
+       "a": "Dairy",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Chocolate frosting",
+     "items": [
+      {
+       "q": 40,
+       "u": "g",
+       "i": "milk powder",
+       "note": "5 tbsp",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "Dutch-process cocoa powder",
+       "note": "1 tbsp, more to taste",
+       "a": "Baking"
+      },
+      {
+       "q": 1,
+       "u": "tsp",
+       "i": "vanilla extract",
+       "a": "Baking",
+       "staple": true
+      },
+      {
+       "q": 19,
+       "u": "ml",
+       "i": "maple syrup (or 22 g honey)",
+       "note": "a little over 1 tbsp",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt, a pinch",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 12,
+       "u": "ml",
+       "i": "water, to thin",
+       "note": "start with 10–15 ml",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Preheat",
+     "Heat the oven to 350°F (180°C)."
+    ],
+    [
+     "Mix the batter",
+     "Stir all the donut base ingredients together into a smooth batter."
+    ],
+    [
+     "Pipe",
+     "Lightly butter a 6-cavity donut pan. Spoon the batter into a zip-top bag, snip a corner and pipe it into the cavities."
+    ],
+    [
+     "Bake",
+     "Bake about 6 minutes and check; some ovens need up to 8. Don't overbake or they dry out."
+    ],
+    [
+     "Frost",
+     "While they bake, mix the frosting ingredients, adding water a little at a time until it's spreadable."
+    ],
+    [
+     "Finish",
+     "Let the donuts cool enough to handle, spoon the frosting on top, and eat."
+    ]
+   ],
+   "notes": "Recipe and macros come straight from the video description, so nothing here is estimated. You'll need a 6-cavity donut pan. Check your baking powder is labeled gluten-free if that matters to you.",
+   "img": "img/chocolate-protein-donuts.jpg"
+  }
+ ]
+}

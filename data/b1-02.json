@@ -1,0 +1,44 @@
+{
+  "src": {"key":"CpyimQtoxVY","platform":"YouTube","creator":"Dish Podcast (Waitrose)","title":"Andrew Garfield meets his dream smashburger!","url":"https://www.youtube.com/watch?v=CpyimQtoxVY","recipes":1,
+          "extra":{"label":"Full recipe on Waitrose","url":"https://www.waitrose.com/ecom/recipe/smash-cheeseburger-burger-sauce"}},
+  "recipes": [{
+    "id":"smash-cheeseburger-burger-sauce","title":"Smash Cheeseburger with Honey-Soy Bacon","img":"img/smash-cheeseburger-burger-sauce.jpg","part":1,"t":17,
+    "servings":2,"unit":"burger","time":50,
+    "macros":{"cal":1505,"protein":88,"carbs":52,"fat":103},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Ground beef","Bread","High protein","American classic","Indulgent"],
+    "groups":[
+      {"name":"Honey-soy cheesy bacon (marinate overnight)","items":[
+        {"q":6,"u":"","i":"smoked streaky bacon rashers","a":"Meat"},
+        {"q":2,"u":"tsp","i":"clear honey","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"soy sauce","a":"International"},
+        {"q":10,"u":"g","i":"Parmigiano Reggiano, finely grated","a":"Dairy"}]},
+      {"name":"Burger sauce","items":[
+        {"q":75,"u":"g","i":"gherkins","a":"Pantry"},
+        {"q":0.25,"u":"tsp","i":"smoked paprika","a":"Pantry","staple":true},
+        {"q":0.25,"u":"tsp","i":"garlic granules","a":"Pantry","staple":true},
+        {"q":60,"u":"g","i":"mayonnaise","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"maple syrup","a":"Pantry"},
+        {"q":40,"u":"g","i":"American mustard","a":"Pantry"},
+        {"q":40,"u":"g","i":"tomato ketchup","a":"Pantry"}]},
+      {"name":"Burgers","items":[
+        {"q":500,"u":"g","i":"beef mince (12% fat)","a":"Meat"},
+        {"q":2,"u":"tsp","i":"sea salt flakes","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"black pepper","a":"Pantry","staple":true},
+        {"q":2,"u":"tbsp","i":"vegetable oil","a":"Pantry","staple":true},
+        {"q":4,"u":"","i":"American cheese slices","a":"Dairy"},
+        {"q":2,"u":"","i":"brioche burger buns","a":"Bakery"},
+        {"q":null,"u":"","i":"gherkins, sliced, to serve","a":"Pantry"},
+        {"q":null,"u":"","i":"parchment paper","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Marinate the bacon","The night before, coat the bacon in the honey and soy sauce in a bag and refrigerate overnight (up to 24 hours)."],
+      ["Blend the sauce","Blend all the burger sauce ingredients until smooth and season. It keeps 5 days in the fridge."],
+      ["Shape the beef","Heat the oven to 200°C (400°F) and line a tray. Gently mix the mince with the salt and some pepper and roll into four 125 g balls."],
+      ["Bake the bacon","Bake the bacon 12 minutes, turning halfway. Sprinkle with the Parmesan and bake 2 minutes more."],
+      ["Smash","Heat a heavy pan over high heat with 1 tbsp oil. Add two balls, cover with parchment and press down hard with a heavy pan or press until thin and lacy, under 1 cm."],
+      ["Cheese","Cook 2–3 minutes, flip, top each with a cheese slice and cook 1 minute more. Rest under loose foil and repeat with the remaining oil and beef."],
+      ["Build","Toast the cut sides of the buns in the pan for 1 minute. Spread with sauce, add sliced gherkins to the base, then two patties and the bacon. Serve straight away."]
+    ],
+    "notes":"Quantities, method and nutrition come from the full recipe on Waitrose's site, linked from the video. Nutrition is per burger as published by Waitrose."
+  }]
+}

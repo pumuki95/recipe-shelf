@@ -1,0 +1,40 @@
+{
+  "src": {"key":"i3H1UnJjLt8","platform":"YouTube","creator":"The Doctor's Kitchen","title":"The 20-minute pasta I make every week (high-protein, high-fibre)","url":"https://www.youtube.com/watch?v=i3H1UnJjLt8","recipes":1},
+  "recipes": [{
+    "id":"mackerel-borlotti-pasta","title":"20-Minute Mackerel & Borlotti Bean Pasta","img":"img/mackerel-borlotti-pasta.jpg","part":1,"t":90,
+    "servings":2,"unit":"bowl","time":20,
+    "macros":{"cal":650,"protein":38,"carbs":72,"fat":22},"stated":[],
+    "tags":["Main meal","Fish","Pasta","High protein","High fiber","Mediterranean","Quick"],
+    "groups":[
+      {"name":"Pasta","items":[
+        {"q":160,"u":"g","i":"high-fiber pasta (legume or whole-grain)","est":true,"a":"Pantry"},
+        {"q":null,"u":"","i":"sea salt, for the pasta water","a":"Pantry","staple":true}]},
+      {"name":"Sauce","items":[
+        {"q":2,"u":"tbsp","i":"extra-virgin olive oil, plus more to finish","est":true,"a":"Pantry","staple":true},
+        {"q":2,"u":"","i":"garlic cloves, crushed","est":true,"a":"Produce"},
+        {"q":1,"u":"tsp","i":"dried oregano","est":true,"a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"chili flakes","est":true,"a":"Pantry","staple":true},
+        {"q":40,"u":"g","i":"olives, pitted","est":true,"a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"capers","est":true,"a":"Pantry"},
+        {"q":1,"u":"can","i":"chopped tomatoes (400 g)","est":true,"a":"Pantry"},
+        {"q":null,"u":"","i":"black pepper","a":"Pantry","staple":true},
+        {"q":1,"u":"can","i":"borlotti beans, drained (400 g)","est":true,"a":"Pantry"}]},
+      {"name":"Protein & greens","items":[
+        {"q":1,"u":"jar","i":"mackerel fillets in olive oil (about 120 g)","est":true,"a":"Pantry"},
+        {"q":100,"u":"g","i":"frozen peas","est":true,"a":"Frozen"},
+        {"q":2,"u":"handfuls","i":"rocket (arugula)","est":true,"a":"Produce"},
+        {"q":null,"u":"","i":"walnuts or pistachios, crushed, to serve","a":"Baking"},
+        {"q":null,"u":"","i":"Parmesan, to serve (optional)","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Start the base","Warm the olive oil in a large sauté pan over low–medium heat. Put a pot of well-salted water on to boil."],
+      ["Aromatics","Add the crushed garlic, oregano and chili and cook gently without letting it sizzle hard. Add the olives and capers."],
+      ["Tomatoes","Season with pepper, add the chopped tomatoes and simmer."],
+      ["Beans and pasta","Stir in the borlotti beans. Drop the pasta into the boiling water and cook 2 minutes less than the packet says."],
+      ["Fish and peas","Add the mackerel fillets and peas, folding gently so the fish stays in chunks."],
+      ["Combine","Lift the pasta straight into the sauce with a spider so some pasta water comes with it, and stir gently."],
+      ["Finish","Fold through the rocket, then serve topped with crushed nuts, a drizzle of olive oil and Parmesan if you like."]
+    ],
+    "notes":"Method from the video narration. The full written recipe is behind a sign-up link, so ingredient amounts, servings and nutrition are estimates. Swap the mackerel for white fish, prawns or leftover chicken."
+  }]
+}

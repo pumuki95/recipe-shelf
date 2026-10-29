@@ -1,0 +1,32 @@
+{
+  "src": {"key":"gJoDi5E7_xE","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Crispy Chocolate Coated Almond Bark","url":"https://www.youtube.com/watch?v=gJoDi5E7_xE","recipes":1},
+  "recipes": [{
+    "id":"chocolate-almond-bites","title":"Crispy Chocolate Almond Bites","img":"img/chocolate-almond-bites.jpg","part":1,"t":0,
+    "servings":40,"unit":"piece","time":45,
+    "macros":{"cal":65,"protein":2,"carbs":4,"fat":5},"stated":["cal","protein","carbs","fat"],
+    "tags":["Snack","Dessert","Gluten-free","Baked","Low carb","Meal prep"],
+    "groups":[
+      {"name":"Almond slab","items":[
+        {"q":320,"u":"g","i":"blanched sliced almonds","a":"Baking"},
+        {"q":50,"u":"ml","i":"egg whites","note":"about 1–2 eggs","a":"Dairy"},
+        {"q":30,"u":"g","i":"powdered sugar","a":"Baking"},
+        {"q":25,"u":"g","i":"honey (or maple syrup)","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"baking paper","a":"Household","staple":true}]},
+      {"name":"Chocolate coating","items":[
+        {"q":100,"u":"g","i":"70% dark chocolate","a":"Baking"},
+        {"q":1,"u":"tsp","i":"coconut oil","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Preheat","Heat the oven to 160°C / 320°F and line a large baking tray with baking paper."],
+      ["Mix","Whisk the egg whites, powdered sugar, honey and vanilla together."],
+      ["Coat the almonds","Fold in the almonds until evenly coated."],
+      ["Spread","Spread in a thin, even layer on the tray, pressing it together into one slab."],
+      ["Bake","Bake 20–25 minutes until golden and crisp at the edges."],
+      ["Score while warm","While it's still hot, score into bite-size squares (about 2 inches). It sets fast, so do this straight away. Let it cool completely."],
+      ["Melt the chocolate","Melt the chocolate with the coconut oil in short microwave bursts, stirring between each."],
+      ["Dip and set","Break into about 40 pieces, dip or drizzle each in chocolate, then chill in the fridge or freezer until set."]
+    ],
+    "notes":"Recipe and macros per piece come from the video description."
+  }]
+}

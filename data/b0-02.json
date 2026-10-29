@@ -1,0 +1,819 @@
+{
+ "src": {
+  "key": "rAMHmPWHdNE",
+  "platform": "YouTube",
+  "creator": "Flexible Dieting Lifestyle",
+  "title": "4 Low Calorie Ground Beef Meals For Fat Loss (High Protein)",
+  "url": "https://www.youtube.com/watch?v=rAMHmPWHdNE",
+  "recipes": 4
+ },
+ "recipes": [
+  {
+   "id": "gochujang-brothy-rice",
+   "title": "Creamy Gochujang Brothy Rice Bowl",
+   "part": 1,
+   "t": 29,
+   "servings": 5,
+   "unit": "bowl",
+   "time": 30,
+   "macros": {
+    "cal": 530,
+    "protein": 50,
+    "carbs": 55,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "High protein",
+    "Ground beef",
+    "Main meal",
+    "Rice",
+    "Korean-inspired",
+    "Spicy",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Creamy gochujang broth",
+     "items": [
+      {
+       "q": 750,
+       "u": "ml",
+       "i": "beef bone broth",
+       "note": "about 1½ cartons",
+       "a": "Pantry"
+      },
+      {
+       "q": 226,
+       "u": "g",
+       "i": "2% cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "gochujang paste",
+       "a": "International"
+      }
+     ]
+    },
+    {
+     "name": "Rice",
+     "items": [
+      {
+       "q": 2,
+       "u": "bags",
+       "i": "microwave riced cauliflower",
+       "note": "90 cal per bag",
+       "a": "Frozen"
+      },
+      {
+       "q": 2,
+       "u": "packets",
+       "i": "microwave Thai jasmine rice",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Crispy beef",
+     "items": [
+      {
+       "q": 1.5,
+       "u": "lb",
+       "i": "96/4 lean ground beef, cold",
+       "est": true,
+       "a": "Meat"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt, a light pinch",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "brown sugar",
+       "a": "Pantry"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "rice vinegar",
+       "a": "International"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "soy sauce",
+       "a": "International"
+      },
+      {
+       "q": 18,
+       "u": "g",
+       "i": "white miso paste",
+       "a": "International"
+      },
+      {
+       "q": 1,
+       "u": "tsp",
+       "i": "sesame oil",
+       "a": "International"
+      }
+     ]
+    },
+    {
+     "name": "Toppings",
+     "items": [
+      {
+       "q": 1,
+       "u": "",
+       "i": "cucumber, diced",
+       "est": true,
+       "a": "Produce"
+      },
+      {
+       "q": 3,
+       "u": "",
+       "i": "green onions, sliced",
+       "est": true,
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "sesame seeds",
+       "a": "International"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "red pepper flakes",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend the broth",
+     "Blend the bone broth, cottage cheese and gochujang until completely smooth."
+    ],
+    [
+     "Make the half-and-half rice",
+     "Microwave both bags of riced cauliflower, then mix in the jasmine rice while everything is hot. The rice soaks up the cauliflower's moisture and fluffs up."
+    ],
+    [
+     "Sear the beef",
+     "Put the cold beef straight into a hot pan and flatten it with a spatula. Salt lightly and leave it alone 3–3½ minutes until a crust forms. Flip, crust the other side, then break it into pieces."
+    ],
+    [
+     "Glaze it",
+     "Turn the heat down to 4/10. Add the brown sugar, rice vinegar, soy sauce, miso and sesame oil. Stir, then press the beef flat again so it keeps crisping."
+    ],
+    [
+     "Heat the creamy broth",
+     "Warm the blended broth covered. Once bubbles reach the top, stir and simmer 2–3 more minutes."
+    ],
+    [
+     "Prep toppings",
+     "Dice the cucumber and slice the green onion while the broth simmers."
+    ],
+    [
+     "Build the bowl",
+     "Pack hot rice firmly into a cup and turn it out into the bowl. Add beef and cucumber, pour the creamy broth around it, and finish with green onion, sesame seeds and red pepper flakes."
+    ]
+   ],
+   "notes": "Calories and protein per bowl are as stated in the video. The beef amount, number of bowls and carbs/fat are estimates, since the video doesn't say them.",
+   "img": "img/gochujang-brothy-rice.jpg"
+  },
+  {
+   "id": "mongolian-beef-ramen",
+   "title": "Mongolian Beef Ramen Stir-Fry",
+   "part": 2,
+   "t": 382,
+   "servings": 4,
+   "unit": "serving",
+   "time": 35,
+   "macros": {
+    "cal": 495,
+    "protein": 48,
+    "carbs": 48,
+    "fat": 14
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "High protein",
+    "Ground beef",
+    "Main meal",
+    "Noodles",
+    "Asian-inspired",
+    "Meal prep",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Veggies & noodles",
+     "items": [
+      {
+       "q": 1,
+       "u": "bag",
+       "i": "stir-fry vegetable mix (with snap peas)",
+       "a": "Frozen"
+      },
+      {
+       "q": 2,
+       "u": "packets",
+       "i": "instant ramen noodles (discard seasoning)",
+       "est": true,
+       "a": "International"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt, one small pinch",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Beef",
+     "items": [
+      {
+       "q": 1.5,
+       "u": "lb",
+       "i": "96/4 lean ground beef, cold",
+       "a": "Meat"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and a pinch of black pepper",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mongolian sauce",
+     "items": [
+      {
+       "q": 1,
+       "u": "carton",
+       "i": "beef bone broth (16.9 oz)",
+       "note": "¾ for the sauce, ¼ for the slurry",
+       "a": "Pantry"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "soy sauce",
+       "a": "International"
+      },
+      {
+       "q": 45,
+       "u": "g",
+       "i": "hoisin sauce",
+       "a": "International"
+      },
+      {
+       "q": 18,
+       "u": "g",
+       "i": "minced garlic",
+       "a": "Produce"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "minced ginger",
+       "a": "Produce"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "brown sugar",
+       "a": "Pantry"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "zero-calorie brown sugar (e.g. Swerve)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "tsp",
+       "i": "red pepper flakes",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 16,
+       "u": "g",
+       "i": "cornstarch",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Garnish",
+     "items": [
+      {
+       "q": 2,
+       "u": "",
+       "i": "green onions, sliced",
+       "est": true,
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "sesame seeds",
+       "a": "International"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Char the veggies",
+     "Put the vegetables in a hot pan, spread them flat and cover. About 3 minutes steams and chars them at once. Stir, flatten, repeat once. Add just one small pinch of salt, then set them aside."
+    ],
+    [
+     "Par-cook the ramen",
+     "Boil the noodles without the flavor packet and pull them well before done. Drain and run cold water over them so they don't go mushy."
+    ],
+    [
+     "Sear the beef",
+     "Preheat the pan to 7/10 first. Add the cold beef, flatten it, salt lightly and add a pinch of pepper. Leave 3–4 minutes for a deep char, flip, char the other side, then break it into small pieces while it's still pink inside."
+    ],
+    [
+     "Build the sauce",
+     "Add ¾ carton of broth, the soy sauce, hoisin, garlic, ginger, both sugars and red pepper flakes. Simmer about 3 minutes. It looks thin at first."
+    ],
+    [
+     "Thicken",
+     "Whisk the remaining ¼ carton of broth (about 60 g) with the cornstarch until smooth. Stir it in and simmer 5–7 minutes until glossy."
+    ],
+    [
+     "Combine",
+     "Fold in the veggies, then the ramen, and toss until coated."
+    ],
+    [
+     "Finish",
+     "Top with green onion, sesame seeds and extra red pepper flakes if you like heat."
+    ]
+   ],
+   "notes": "Stated in the video as under 500 calories and 48 g protein per serving. Number of ramen packets, servings and carbs/fat are estimates.",
+   "img": "img/mongolian-beef-ramen.jpg"
+  },
+  {
+   "id": "crispy-beef-tacos",
+   "title": "Crispy Air-Fryer Beef Tacos",
+   "part": 3,
+   "t": 838,
+   "servings": 6,
+   "unit": "taco",
+   "time": 35,
+   "macros": {
+    "cal": 264,
+    "protein": 31,
+    "carbs": 22,
+    "fat": 7
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "High protein",
+    "Ground beef",
+    "Main meal",
+    "Tortillas",
+    "Mexican-inspired",
+    "Air fryer",
+    "Family friendly"
+   ],
+   "groups": [
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "q": null,
+       "u": "",
+       "i": "avocado oil spray",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "white onion, diced",
+       "a": "Produce"
+      },
+      {
+       "q": 75,
+       "u": "g",
+       "i": "red bell pepper, diced",
+       "a": "Produce"
+      },
+      {
+       "q": 75,
+       "u": "g",
+       "i": "green bell pepper, diced",
+       "a": "Produce"
+      },
+      {
+       "q": 12,
+       "u": "g",
+       "i": "minced garlic",
+       "a": "Produce"
+      },
+      {
+       "q": 1.5,
+       "u": "lb",
+       "i": "96/4 lean ground beef, cold",
+       "est": true,
+       "a": "Meat"
+      },
+      {
+       "q": 2.5,
+       "u": "tbsp",
+       "i": "taco seasoning",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "beef bone broth, a splash",
+       "a": "Pantry"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "tomato paste",
+       "a": "Pantry"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "light Laughing Cow cheese wedges",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Shells",
+     "items": [
+      {
+       "q": 6,
+       "u": "",
+       "i": "high-fiber tortillas (70 cal each)",
+       "a": "Bakery"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "shredded cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "cooking spray",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Cilantro-lime sauce",
+     "items": [
+      {
+       "q": 85,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 57,
+       "u": "g",
+       "i": "2% cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "fresh cilantro",
+       "a": "Produce"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "lime juice (about ½ small lime)",
+       "a": "Produce"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "honey",
+       "a": "Pantry"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "white vinegar",
+       "a": "Pantry"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "jalapeño",
+       "a": "Produce"
+      },
+      {
+       "q": 3,
+       "u": "g",
+       "i": "minced garlic",
+       "a": "Produce"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "water",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 0.25,
+       "u": "tsp",
+       "i": "salt",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 0.125,
+       "u": "tsp",
+       "i": "black pepper",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Char the peppers",
+     "Heat the pan to 7/10 with avocado oil. Add the onion and both peppers, press them flat and leave 2–3 minutes until you smell and see char."
+    ],
+    [
+     "Add garlic",
+     "Stir in the garlic until fragrant, then push everything to one side of the pan."
+    ],
+    [
+     "Crust the beef",
+     "Smash the cold beef into the empty side. Don't touch it for about 3 minutes, flip (cut it in half to make it easier) and cook 2–3 minutes more, then break it up."
+    ],
+    [
+     "Season",
+     "Add the taco seasoning and let it toast until the pan looks almost dry."
+    ],
+    [
+     "Make it saucy",
+     "Lower the heat to 5/10. Add a splash of broth and the tomato paste so the beef soaks them up. Turn the heat off and stir in the Laughing Cow wedges."
+    ],
+    [
+     "Fill and fold",
+     "On each tortilla: cheese, ⅙ of the filling, a little more cheese. Fold along the tortilla's built-in lines so it doesn't tear, and press firmly so the wet filling seals it shut."
+    ],
+    [
+     "Air fry",
+     "Spray both sides. Air fry at 350°F for 3–5 minutes, flipping halfway."
+    ],
+    [
+     "Blend the sauce",
+     "Blend all the cilantro-lime sauce ingredients until smooth and serve alongside."
+    ]
+   ],
+   "notes": "264 calories and 31 g protein per taco, as stated in the video. Beef amount and carbs/fat are estimates.",
+   "img": "img/crispy-beef-tacos.jpg"
+  },
+  {
+   "id": "smash-double-cheeseburger",
+   "title": "Smash Double Cheeseburger",
+   "part": 4,
+   "t": 1258,
+   "servings": 3,
+   "unit": "burger",
+   "time": 40,
+   "macros": {
+    "cal": 530,
+    "protein": 54,
+    "carbs": 36,
+    "fat": 18
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "High protein",
+    "Ground beef",
+    "Main meal",
+    "Bread",
+    "American classic",
+    "Under 550 cal"
+   ],
+   "groups": [
+    {
+     "name": "Caramelized onions",
+     "items": [
+      {
+       "q": 1,
+       "u": "",
+       "i": "yellow onion, sliced with the grain",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "non-stick cooking spray",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt, a few pinches",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "beef bone broth, splashes",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Burgers",
+     "items": [
+      {
+       "q": 20,
+       "u": "oz",
+       "i": "96/4 lean ground beef (six 3.3 oz patties)",
+       "a": "Meat"
+      },
+      {
+       "q": 6,
+       "u": "slices",
+       "i": "2% American cheese singles",
+       "a": "Dairy"
+      },
+      {
+       "q": 3,
+       "u": "",
+       "i": "brioche buns (about 150 cal each)",
+       "a": "Bakery"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "parchment paper",
+       "a": "Household",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Burger sauce",
+     "items": [
+      {
+       "q": 85,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 57,
+       "u": "g",
+       "i": "2% cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 40,
+       "u": "g",
+       "i": "reduced-sugar ketchup",
+       "a": "Pantry"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "light mayo",
+       "a": "Pantry"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "yellow mustard",
+       "a": "Pantry"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "pickle juice",
+       "a": "Pantry"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "sugar-free maple syrup",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.5,
+       "u": "tsp",
+       "i": "garlic powder",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 0.5,
+       "u": "tsp",
+       "i": "onion powder",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 0.25,
+       "u": "tsp",
+       "i": "black pepper",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 0.25,
+       "u": "tsp",
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "dill pickles, diced",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Slice the onion",
+     "Cut off the top and root, halve it, then slice along the onion's lines (not across them)."
+    ],
+    [
+     "Caramelize",
+     "Spray a hot pan, add the onion, press flat and cover to steam. Stir once it takes color. Add a few pinches of salt, then splashes of bone broth one at a time until deeply golden. Cover and set aside."
+    ],
+    [
+     "Portion the patties",
+     "Set the bowl of beef on a scale, zero it, and pull out 3.3 oz at a time. That gives six pucks with no extra dishes. Freeze them 5 minutes."
+    ],
+    [
+     "Mix the sauce",
+     "Blend or whisk the yogurt, cottage cheese, ketchup, mayo, mustard, pickle juice, syrup and spices until smooth. Stir in the diced pickles."
+    ],
+    [
+     "Smash",
+     "Get the pan very hot (7/10). Set a puck down, cover with parchment and press hard for about 10 seconds. Don't salt the raw patty first; it draws out moisture."
+    ],
+    [
+     "Cheese",
+     "Flip, add a cheese slice, and cover briefly to melt."
+    ],
+    [
+     "Build",
+     "Bottom bun, sauce, two patties, caramelized onions, more sauce, top bun."
+    ],
+    [
+     "Toast",
+     "Lower the heat and press the whole burger in the pan to toast both sides of the bun."
+    ]
+   ],
+   "notes": "530 calories and 54 g protein per double burger, as stated in the video. Carbs/fat are estimates.",
+   "img": "img/smash-double-cheeseburger.jpg"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+  "src": {"key":"vI1fU6Gr1Lg","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Double Chocolate Chip Banana Bread","url":"https://www.youtube.com/watch?v=vI1fU6Gr1Lg","recipes":1},
+  "recipes": [{
+    "id":"double-chocolate-banana-bread","title":"Double Chocolate Chip Banana Bread","img":"img/double-chocolate-banana-bread.jpg","part":1,"t":0,
+    "servings":10,"unit":"slice","time":60,
+    "macros":{"cal":191,"protein":7,"carbs":12,"fat":13},"stated":["cal","protein","carbs","fat"],
+    "tags":["Snack","Dessert","Breakfast","Gluten-free","Baked","Meal prep","Low carb"],
+    "groups":[
+      {"name":"Wet","items":[
+        {"q":300,"u":"g","i":"ripe bananas","note":"about 3","a":"Produce"},
+        {"q":2,"u":"","i":"eggs","a":"Dairy"},
+        {"q":30,"u":"ml","i":"sugar-free maple syrup","a":"Pantry"},
+        {"q":20,"u":"ml","i":"coconut oil, melted","a":"Pantry"},
+        {"q":5,"u":"ml","i":"vanilla extract","a":"Baking","staple":true}]},
+      {"name":"Dry","items":[
+        {"q":150,"u":"g","i":"almond flour","a":"Baking"},
+        {"q":40,"u":"g","i":"cocoa powder","a":"Baking"},
+        {"q":2,"u":"tbsp","i":"tapioca flour","a":"Baking"},
+        {"q":1,"u":"tsp","i":"baking soda","a":"Baking","staple":true},
+        {"q":5,"u":"g","i":"cinnamon","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"salt, a pinch","a":"Pantry","staple":true},
+        {"q":40,"u":"g","i":"sugar-free chocolate chips","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Mix the wet","Mash the bananas, then mix in the eggs, maple syrup, coconut oil and vanilla."],
+      ["Add the dry","Add the almond flour, cocoa, tapioca flour, baking soda, cinnamon and salt and mix to a smooth batter."],
+      ["Chips","Fold in half the chocolate chips, pour into a lined loaf tin and scatter the rest on top."],
+      ["Bake","Bake at 180°C / 350°F for 40–50 minutes, until a toothpick in the middle comes out clean."],
+      ["Slice","Let it cool, then cut into 10 slices."]
+    ],
+    "notes":"Recipe and macros per slice come from the video description. Any flour works instead of almond flour, but that changes the macros."
+  }]
+}

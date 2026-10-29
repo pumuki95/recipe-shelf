@@ -1,0 +1,33 @@
+{
+  "src": {"key":"L4S241Tj2Xs","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Bikini Bod Chicken Pizza Pocket","url":"https://www.youtube.com/watch?v=L4S241Tj2Xs","recipes":1},
+  "recipes": [{
+    "id":"chicken-pizza-pocket","title":"Chicken Crust Pizza Pocket","img":"img/chicken-pizza-pocket.jpg","part":1,"t":0,
+    "servings":1,"unit":"pocket","time":35,
+    "macros":{"cal":455,"protein":71,"carbs":10,"fat":16},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Chicken","High protein","Low carb","Gluten-free","Italian-inspired","Baked"],
+    "groups":[
+      {"name":"Chicken crust","items":[
+        {"q":225,"u":"g","i":"ground chicken breast","a":"Meat"},
+        {"q":1,"u":"tsp","i":"garlic powder","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"Italian seasoning","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true},
+        {"q":0.5,"u":"tsp","i":"avocado oil (or cooking spray)","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"baking paper","a":"Household","staple":true}]},
+      {"name":"Filling & topping","items":[
+        {"q":60,"u":"ml","i":"tomato passata","a":"Pantry"},
+        {"q":35,"u":"g","i":"light mozzarella","a":"Dairy"},
+        {"q":null,"u":"","i":"fresh basil, a few leaves","a":"Produce"},
+        {"q":25,"u":"g","i":"Parmigiano Reggiano, grated","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Preheat","Heat the oven to 200°C / 400°F and line a tray with baking paper."],
+      ["Roll out the chicken","Put the chicken mince between two sheets of baking paper and roll it into a thin, even oval. Season with garlic powder, Italian seasoning, salt and pepper."],
+      ["Fill","Spread the passata over one half, leaving a border, then add the mozzarella and torn basil."],
+      ["Fold and seal","Use the paper to fold the other half over the filling and press the edges to seal."],
+      ["Top","Grate the Parmigiano over the top, press it in, and give it a light spray of oil."],
+      ["Bake","Bake about 20 minutes, until the chicken reaches 74°C / 165°F inside."],
+      ["Crisp","Remove the baking paper (it can catch fire under the grill) and broil 2–10 minutes until deep golden."]
+    ],
+    "notes":"Recipe and macros come from the video description. Swap the filling for any pizza toppings you like."
+  }]
+}
