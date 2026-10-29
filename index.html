@@ -287,7 +287,7 @@ function shelf(){
 function card(r){
   const s = SRC[r.src];
   return `<a class="card" href="#r-${r.id}">
-    <div class="thumb"><img src="${r.img}" alt="${esc(r.title)}" loading="lazy" width="640" height="360"><span class="src">${s.platform}</span>${s.recipes>1?`<span class="part">${r.part} of ${s.recipes}</span>`:""}</div>
+    <div class="thumb"><img src="${r.img.replace('img/','img/t/')}" onerror="this.onerror=null;this.src='${r.img}'" alt="${esc(r.title)}" loading="lazy" width="640" height="360"><span class="src">${s.platform}</span>${s.recipes>1?`<span class="part">${r.part} of ${s.recipes}</span>`:""}</div>
     <div class="cbody">
       <h3>${esc(r.title)}</h3>
       <div class="meta"><span>${r.servings} ${pl(r.unit,r.servings)}</span><span>·</span><span>${r.time} min</span></div>
