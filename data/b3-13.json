@@ -1,0 +1,27 @@
+{
+  "src": {"key":"jzrjs8y_QcI","platform":"YouTube","creator":"Stefan Bodegrajac","title":"No Way This Worked… 🤯","url":"https://www.youtube.com/watch?v=jzrjs8y_QcI","recipes":1},
+  "recipes": [{
+    "id":"greek-yogurt-bagels","title":"High Protein Greek Yogurt Bagels","img":"img/greek-yogurt-bagels.jpg","part":1,"t":0,
+    "servings":4,"unit":"bagel","time":40,
+    "macros":{"cal":189,"protein":14,"carbs":36,"fat":2},"stated":["cal","protein"],
+    "tags":["Breakfast","Snack","Vegetarian","High protein","Bread","Meal prep"],
+    "groups":[
+      {"name":"Dough","items":[
+        {"q":1.5,"u":"cup","i":"all-purpose flour (or gluten-free flour)","a":"Baking"},
+        {"q":1.5,"u":"cup","i":"plain fat-free Greek yogurt","a":"Dairy"},
+        {"q":2,"u":"tsp","i":"baking powder","a":"Baking","staple":true},
+        {"q":1,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"garlic powder","a":"Pantry"}]},
+      {"name":"Topping","items":[
+        {"q":1,"u":"","i":"egg, beaten (egg wash)","a":"Dairy"},
+        {"q":null,"u":"","i":"everything bagel seasoning or sesame seeds","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Mix","Mix the flour, Greek yogurt, baking powder, salt and garlic powder until it comes together, then knead by hand into a dough ball."],
+      ["Shape","Cut into 4 even pieces and shape each into a bagel. Lightly flour your hands if the dough is sticky."],
+      ["Top","Brush with egg wash and sprinkle generously with everything bagel seasoning."],
+      ["Bake","Bake at 190 °C (375 °F) for 25–30 minutes until golden brown."]
+    ],
+    "notes":"Recipe, calories and protein per bagel come from the video description. Carbs and fat are estimates."
+  }]
+}
