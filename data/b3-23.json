@@ -1,0 +1,33 @@
+{
+  "src": {"key":"z7SAwTmF1HI","platform":"YouTube","creator":"The Corey Family","title":"You gotta try this!","url":"https://www.youtube.com/watch?v=z7SAwTmF1HI","recipes":1},
+  "recipes": [{
+    "id":"blue-zone-bread-dip","title":"Blue Zone Mediterranean Bread Dip","img":"img/blue-zone-bread-dip.jpg","part":1,"t":0,
+    "servings":4,"unit":"serving","time":10,
+    "macros":{"cal":290,"protein":3,"carbs":8,"fat":28},"stated":[],
+    "tags":["Snack","Side","Vegetarian","No-cook","Gluten-free"],
+    "groups":[
+      {"name":"Dip","items":[
+        {"q":0.5,"u":"cup","i":"extra virgin olive oil","a":"Pantry"},
+        {"q":2,"u":"","i":"tomatoes (1–2), grated","a":"Produce"},
+        {"q":1,"u":"","i":"shallot, finely chopped (not onion)","a":"Produce"},
+        {"q":1,"u":"","i":"handful Kalamata olives, chopped","a":"Pantry"},
+        {"q":1,"u":"","i":"handful crumbled feta, to taste","a":"Dairy"},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"dried oregano","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"dried parsley","a":"Pantry"},
+        {"q":1.5,"u":"tbsp","i":"red wine vinegar (1–2 tbsp)","a":"Pantry"}]},
+      {"name":"To finish","items":[
+        {"q":null,"u":"","i":"drizzle of balsamic glaze","a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"pomegranate seeds","a":"Produce"},
+        {"q":null,"u":"","i":"warm sourdough bread, to serve","a":"Bakery"}]}
+    ],
+    "steps":[
+      ["Oil","Pour the olive oil into a shallow bowl."],
+      ["Tomato","Grate the tomatoes straight in, skins left behind."],
+      ["Add the rest","Add the chopped shallot, olives and feta, then season with salt, pepper, oregano and parsley. Add the red wine vinegar and mix well."],
+      ["Finish","Drizzle with balsamic glaze and scatter over the pomegranate seeds."],
+      ["Serve","Dip warm sourdough into it."]
+    ],
+    "notes":"Amounts are as said in the video (handfuls are to taste). Macros per serving are estimates for the dip only — bread not included."
+  }]
+}

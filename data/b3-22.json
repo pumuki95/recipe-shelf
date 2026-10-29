@@ -1,0 +1,34 @@
+{
+  "src": {"key":"lSiimqM1Ffs","platform":"YouTube","creator":"Madelaine Rascan","title":"These snacks have barely any calories","url":"https://www.youtube.com/watch?v=lSiimqM1Ffs","recipes":1},
+  "recipes": [{
+    "id":"barely-any-calorie-snacks","title":"Barely-Any-Calorie Pre-Dinner Snacks","img":"img/barely-any-calorie-snacks.jpg","part":1,"t":0,
+    "servings":2,"unit":"serving","time":20,
+    "macros":{"cal":70,"protein":4,"carbs":10,"fat":2},"stated":[],
+    "tags":["Snack","Side","Vegan","Plant-based","Gluten-free","Low carb"],
+    "groups":[
+      {"name":"Carrots & hot mustard","items":[
+        {"q":2,"u":"","i":"carrots, cut into sticks","a":"Produce","est":true},
+        {"q":1,"u":"tbsp","i":"hot mustard","a":"Pantry","est":true}]},
+      {"name":"Dill pickles","items":[
+        {"q":4,"u":"","i":"dill pickle spears (about 5 cal each)","a":"Pantry","est":true}]},
+      {"name":"Cucumber basil bowl","items":[
+        {"q":1,"u":"","i":"cucumber, chopped","a":"Produce"},
+        {"q":1,"u":"tbsp","i":"red wine vinegar (or balsamic / apple cider)","a":"Pantry","est":true},
+        {"q":null,"u":"","i":"salt and pepper","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"handful fresh basil leaves (optional)","a":"Produce"},
+        {"q":1,"u":"tsp","i":"nutritional yeast","a":"Pantry"}]},
+      {"name":"Crispy broccolini","items":[
+        {"q":1,"u":"","i":"bunch broccolini","a":"Produce"},
+        {"q":null,"u":"","i":"quick spray of avocado or olive oil","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"salt","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"nutritional yeast","a":"Pantry","est":true}]}
+    ],
+    "steps":[
+      ["Carrots","Dip carrot sticks in hot mustard."],
+      ["Pickles","Keep dill pickle spears in the fridge for a quick salty hit."],
+      ["Cucumber bowl","Chop the cucumber into a bowl, add a splash of vinegar, salt and pepper, tear in some basil and dust with a teaspoon of nutritional yeast."],
+      ["Broccolini","Spread the broccolini on a lined tray, give it a quick spray of oil, salt it and sprinkle with nutritional yeast. Roast at about 220 °C (425 °F) for 12–15 minutes until crispy at the tips."]
+    ],
+    "notes":"Four low-calorie snacks to take the edge off before dinner. The video doesn't give amounts, oven settings or macros — those are estimates (macros per serving of the cucumber bowl plus half the broccolini). Go easy on the oil."
+  }]
+}
