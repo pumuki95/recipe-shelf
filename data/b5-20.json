@@ -1,0 +1,56 @@
+{
+  "src": {"key":"31HgHtSWvfU","platform":"YouTube","creator":"Steak and Butter Gal","title":"This Carnivore Recipe Destroyed My Carb Cravings","url":"https://www.youtube.com/watch?v=31HgHtSWvfU","recipes":2},
+  "recipes": [
+  {
+    "id":"carnivore-cream-cheese-bread","title":"Carnivore Cream Cheese Bread (No Flour)","img":"img/carnivore-cream-cheese-bread.jpg","part":1,"t":56,
+    "servings":10,"unit":"slice","time":70,
+    "macros":{"cal":270,"protein":14,"carbs":2,"fat":22},"stated":[],
+    "tags":["Breakfast","Bread","Vegetarian","Gluten-free","Low carb","Baked"],
+    "groups":[
+      {"name":"Batter","items":[
+        {"q":4,"u":"","i":"eggs, room temperature","a":"Dairy"},
+        {"q":12,"u":"oz","i":"cream cheese, very soft","a":"Dairy"},
+        {"q":4,"u":"oz","i":"butter (1 stick), very soft","a":"Dairy"},
+        {"q":1,"u":"cup","i":"egg white powder","a":"Baking"}]},
+      {"name":"Optional leaveners","items":[
+        {"q":2,"u":"tsp","i":"baking powder","a":"Baking"},
+        {"q":0.5,"u":"tsp","i":"baking soda","a":"Baking"},
+        {"q":0.5,"u":"tsp","i":"cream of tartar","a":"Baking"},
+        {"q":2,"u":"tsp","i":"gelatin powder","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Preheat","Heat the oven to 320 °F and line a 9 × 5-inch loaf pan with parchment."],
+      ["Cream","Whisk the eggs, cream cheese and butter until completely creamy and smooth — a few minutes of elbow grease. (Short on time? Soften the sealed cream cheese and butter in warm water for 15 minutes.)"],
+      ["Add the dry ingredients","Whisk in the egg white powder until thick, then the baking powder, baking soda, cream of tartar and gelatin until well combined."],
+      ["Bake","Scrape into the pan and bake about 53 minutes, checking from 45 minutes, until deep golden brown."],
+      ["Cool and slice","Cool a few minutes before slicing. Toast it, use it for sandwiches or turn it into French toast."]
+    ],
+    "notes":"Amounts are as said in the video; no macros were given, so they're estimates for 10 slices. Strict carnivores can skip the leaveners and gelatin. Without the egg white powder (swap pork panko or milk powder) it won't be as bread-like."
+  },
+  {
+    "id":"carnivore-french-toast","title":"Carnivore Custard French Toast","img":"img/carnivore-french-toast.jpg","part":2,"t":337,
+    "servings":4,"unit":"serving","time":20,
+    "macros":{"cal":740,"protein":32,"carbs":6,"fat":65},"stated":[],
+    "tags":["Breakfast","Vegetarian","Gluten-free","Low carb","Indulgent"],
+    "groups":[
+      {"name":"French toast","items":[
+        {"q":8,"u":"","i":"slices carnivore cream cheese bread (above)","a":"Bakery"},
+        {"q":2,"u":"","i":"eggs","a":"Dairy"},
+        {"q":0.5,"u":"cup","i":"heavy cream","a":"Dairy"},
+        {"q":0.5,"u":"tsp","i":"cinnamon (optional)","a":"Pantry"},
+        {"q":0.5,"u":"tsp","i":"vanilla extract (optional)","a":"Baking","staple":true},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true},
+        {"q":2,"u":"tbsp","i":"butter, plus more as needed","a":"Dairy"}]},
+      {"name":"To serve (optional)","items":[
+        {"q":null,"u":"","i":"butter, sugar-free maple syrup, whipped cream and powdered sweetener","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Make the custard","Whisk the eggs, cream, cinnamon, vanilla and salt until silky."],
+      ["Dip","Heat the butter in a pan over low-medium heat. Dip each slice for just a few seconds per side."],
+      ["Fry","Cook about 3 minutes per side until golden, adding butter as needed."],
+      ["Serve","Top with butter, or with sugar-free syrup, whipped cream and a dusting of powdered sweetener."]
+    ],
+    "notes":"Amounts are as said in the video; no macros were given, so they're estimates for 2 slices with the butter used for frying, without toppings. Makes about 8 slices from one loaf."
+  }
+  ]
+}
