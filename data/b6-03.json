@@ -1,0 +1,1981 @@
+{
+ "src": {
+  "key": "VIK6zzjEc_Q",
+  "platform": "YouTube",
+  "creator": "Flexible Dieting Lifestyle",
+  "title": "19 Low-Calorie Protein Ice Cream Recipes | Ninja Creami",
+  "url": "https://www.youtube.com/watch?v=VIK6zzjEc_Q",
+  "recipes": 19
+ },
+ "recipes": [
+  {
+   "id": "fdl-oreo-cookies-cream-creami",
+   "title": "Oreo Cookies & Cream Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-oreo-cookies-cream-creami.jpg",
+   "part": 1,
+   "t": 16,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 255,
+    "protein": 36,
+    "carbs": 17,
+    "fat": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 228,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 225,
+       "u": "g",
+       "i": "unsweetened vanilla almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free white chocolate pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 4,
+       "u": "",
+       "i": "Oreo Thins, broken",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the Oreo Thins and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. His vanilla base — skip the mix-in for a soft-serve-style vanilla."
+  },
+  {
+   "id": "fdl-strawberry-cheesecake-creami",
+   "title": "Strawberry Cheesecake Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-strawberry-cheesecake-creami.jpg",
+   "part": 2,
+   "t": 93,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 350,
+    "protein": 46,
+    "carbs": 38,
+    "fat": 2
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 200,
+       "u": "g",
+       "i": "fresh strawberries",
+       "a": "Produce"
+      },
+      {
+       "q": 240,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free cheesecake pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 28,
+       "u": "g",
+       "i": "reduced-fat cream cheese, frozen and chopped small",
+       "a": "Dairy"
+      },
+      {
+       "q": 25,
+       "u": "g",
+       "i": "strawberries, chopped",
+       "a": "Produce"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "graham cracker sheet, broken",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the frozen cream cheese pieces, strawberries and graham cracker and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Freeze the block of cream cheese first so it chops into cheesecake chunks."
+  },
+  {
+   "id": "fdl-cinnamon-toast-crunch-cereal-milk-creami",
+   "title": "Cinnamon Toast Crunch Cereal Milk Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-cinnamon-toast-crunch-cereal-milk-creami.jpg",
+   "part": 3,
+   "t": 135,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 288,
+    "protein": 38,
+    "carbs": 25,
+    "fat": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 330,
+       "u": "g",
+       "i": "Cinnamon Toast Crunch cereal milk (from 56 g cereal, below)",
+       "a": "Pantry"
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free cheesecake pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "ground cinnamon",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 21,
+       "u": "g",
+       "i": "Cinnamon Toast Crunch",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make cereal milk",
+     "Soak 56 g Cinnamon Toast Crunch in 240 g Fairlife fat-free milk and 240 g unsweetened vanilla almond milk for 6–7 hours. Strain, pressing to get every drop — you should have about 300–330 g."
+    ],
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the Cinnamon Toast Crunch and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Macros count roughly 10 g of the soaked cereal in the milk, as the creator explains."
+  },
+  {
+   "id": "fdl-strawberry-italian-ice",
+   "title": "96-Calorie Strawberry Italian Ice (Ninja Creami)",
+   "img": "img/fdl-strawberry-italian-ice.jpg",
+   "part": 4,
+   "t": 183,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 96,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 0
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "Meal prep",
+    "Gluten-free",
+    "Vegan"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 300,
+       "u": "g",
+       "i": "fresh strawberries",
+       "a": "Produce"
+      },
+      {
+       "q": 130,
+       "u": "g",
+       "i": "water",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 6,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": null,
+       "u": "",
+       "i": "mini chocolate chips (optional)",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Run warm water around the pint, then spin on Sorbet. It will be crumbly — run it once more on Sorbet (Re-spin)."
+    ],
+    [
+     "Top",
+     "Fold in a few mini chocolate chips if you like (Mix-In)."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Not a protein recipe — a whole pint for under 100 calories."
+  },
+  {
+   "id": "fdl-coffee-oreo-chip-creami",
+   "title": "Cold Brew Coffee Oreo Chip Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-coffee-oreo-chip-creami.jpg",
+   "part": 5,
+   "t": 262,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 339,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 9
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 200,
+       "u": "g",
+       "i": "cold brew coffee",
+       "a": "Pantry"
+      },
+      {
+       "q": 240,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free vanilla pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 2,
+       "u": "",
+       "i": "Oreo Thins, broken",
+       "a": "Pantry"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "mini chocolate chips",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the Oreo Thins and chocolate chips and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. The plain coffee base is 226 cal, 36 g protein, 16 g carbs, 2 g fat; with the mix-ins it's 339 cal (protein, carbs and fat for that version are estimated)."
+  },
+  {
+   "id": "fdl-biscoff-creami",
+   "title": "Biscoff Cookie Butter Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-biscoff-creami.jpg",
+   "part": 6,
+   "t": 302,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 400,
+    "protein": 38,
+    "carbs": 35,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 225,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 225,
+       "u": "g",
+       "i": "unsweetened vanilla almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free cheesecake pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 15,
+       "u": "g",
+       "i": "Biscoff cookie butter",
+       "a": "Pantry",
+       "est": true
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "Biscoff cookies, broken",
+       "a": "Pantry",
+       "est": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the cookie butter and Biscoff cookies and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. The vanilla base alone is 231 cal. Mix-in amounts weren't shown, so they're estimated to match his 400-calorie total."
+  },
+  {
+   "id": "fdl-reeses-creami",
+   "title": "Reese's Peanut Butter Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-reeses-creami.jpg",
+   "part": 7,
+   "t": 340,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 404,
+    "protein": 53,
+    "carbs": 30,
+    "fat": 8
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 225,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 225,
+       "u": "g",
+       "i": "unsweetened vanilla almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "cookie butter protein powder (e.g. PB Party)",
+       "a": "Pantry"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "powdered peanut butter",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free butterscotch pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 2,
+       "u": "",
+       "i": "Reese's peanut butter cups, chopped",
+       "a": "Pantry",
+       "est": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the chopped Reese's cups and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Mix-in amount wasn't shown (estimated). A little higher in calories than his others for a richer peanut butter flavor."
+  },
+  {
+   "id": "fdl-ctc-cheesecake-creami",
+   "title": "Cinnamon Toast Crunch Cheesecake Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-ctc-cheesecake-creami.jpg",
+   "part": 8,
+   "t": 377,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 301,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 228,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 225,
+       "u": "g",
+       "i": "unsweetened vanilla almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "cookie butter protein powder (e.g. PB Party)",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free cheesecake pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 28,
+       "u": "g",
+       "i": "reduced-fat cream cheese, frozen and chopped small",
+       "a": "Dairy"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "Cinnamon Toast Crunch",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the frozen cream cheese pieces and Cinnamon Toast Crunch and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included."
+  },
+  {
+   "id": "fdl-fruity-pebbles-cereal-milk-creami",
+   "title": "Fruity Pebbles Cereal Milk Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-fruity-pebbles-cereal-milk-creami.jpg",
+   "part": 9,
+   "t": 418,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 284,
+    "protein": 36,
+    "carbs": 26,
+    "fat": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 300,
+       "u": "g",
+       "i": "Fruity Pebbles cereal milk (from 56 g cereal, below)",
+       "a": "Pantry"
+      },
+      {
+       "q": 75,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 75,
+       "u": "g",
+       "i": "unsweetened vanilla almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free white chocolate pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 21,
+       "u": "g",
+       "i": "Fruity Pebbles",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make cereal milk",
+     "Soak 56 g Fruity Pebbles in 240 g Fairlife fat-free milk and 240 g unsweetened vanilla almond milk for 6–7 hours. Strain, pressing to get every drop — you should have about 300–330 g."
+    ],
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the Fruity Pebbles and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. One of his two favorites. Macros count roughly 10 g of the soaked cereal in the milk."
+  },
+  {
+   "id": "fdl-crunch-bar-creami",
+   "title": "Crunch Bar Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-crunch-bar-creami.jpg",
+   "part": 10,
+   "t": 463,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 393,
+    "protein": 38,
+    "carbs": 40,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 225,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 225,
+       "u": "g",
+       "i": "unsweetened vanilla almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free cheesecake pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 1,
+       "u": "",
+       "i": "snack-size Crunch bar, chopped",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "q": 10,
+       "u": "g",
+       "i": "mini chocolate chips, melted",
+       "a": "Baking"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "Rice Krispies cereal",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the chopped Crunch bar and run Mix-In."
+    ],
+    [
+     "Top",
+     "Flatten the top, spread over the melted chocolate, scatter the Rice Krispies and freeze 30 minutes to set the shell."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included."
+  },
+  {
+   "id": "fdl-apple-pie-creami",
+   "title": "Apple Pie Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-apple-pie-creami.jpg",
+   "part": 11,
+   "t": 503,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 360,
+    "protein": 37,
+    "carbs": 46,
+    "fat": 8
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 240,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free vanilla pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "ground cinnamon and a tiny bit of nutmeg",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "light apple pie filling",
+       "a": "Baking",
+       "est": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 2,
+       "u": "",
+       "i": "Biscoff cookies, broken",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the Biscoff cookies and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. The base is 285 cal, 36 g protein, 33 g carbs, 1 g fat; with the cookies it's 360 cal (other macros for that version estimated). The pie-filling amount wasn't shown — estimated."
+  },
+  {
+   "id": "fdl-pumpkin-pie-creami",
+   "title": "Pumpkin Pie Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-pumpkin-pie-creami.jpg",
+   "part": 12,
+   "t": 544,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 290,
+    "protein": 38,
+    "carbs": 30,
+    "fat": 2
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 240,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 200,
+       "u": "g",
+       "i": "canned pure pumpkin (Libby's)",
+       "a": "Pantry"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free vanilla pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pumpkin pie spice",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "q": 1,
+       "u": "",
+       "i": "graham cracker sheet, crushed",
+       "a": "Pantry",
+       "est": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Re-spin if powdery."
+    ],
+    [
+     "Top",
+     "Top with crushed graham crackers."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. The mix is thick — blend well. Topping not included in the macros."
+  },
+  {
+   "id": "fdl-frosted-lemonade-creami",
+   "title": "Frosted Lemonade Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-frosted-lemonade-creami.jpg",
+   "part": 13,
+   "t": 578,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 246,
+    "protein": 35,
+    "carbs": 22,
+    "fat": 2
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 220,
+       "u": "g",
+       "i": "diet lemonade (Chick-fil-A or any diet lemonade)",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "juice and zest of ½ lemon",
+       "a": "Produce"
+      },
+      {
+       "q": 240,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free white chocolate pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. One large Chick-fil-A diet lemonade makes about four pints."
+  },
+  {
+   "id": "fdl-watermelon-italian-ice",
+   "title": "92-Calorie Watermelon Italian Ice (Ninja Creami)",
+   "img": "img/fdl-watermelon-italian-ice.jpg",
+   "part": 14,
+   "t": 619,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 92,
+    "protein": 2,
+    "carbs": 22,
+    "fat": 0
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "Meal prep",
+    "Gluten-free",
+    "Vegan"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 300,
+       "u": "g",
+       "i": "watermelon, cubed",
+       "a": "Produce"
+      },
+      {
+       "q": 115,
+       "u": "g",
+       "i": "water",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "juice of ½ small lime (18 g)",
+       "a": "Produce"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Run warm water around the pint, then spin on Sorbet. It will be crumbly — run it once more on Sorbet (Re-spin)."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Prep several pints at once for a 5-minute Italian ice any day."
+  },
+  {
+   "id": "fdl-cosmic-brownie-creami",
+   "title": "Cosmic Brownie Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-cosmic-brownie-creami.jpg",
+   "part": 15,
+   "t": 654,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 297,
+    "protein": 42,
+    "carbs": 21,
+    "fat": 5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 225,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 225,
+       "u": "g",
+       "i": "unsweetened vanilla almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "chocolate whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "brownie batter cookie butter protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free chocolate pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "black cocoa powder",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "q": null,
+       "u": "",
+       "i": "rainbow candy chips (optional)",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Ice Cream. Re-spin if powdery."
+    ],
+    [
+     "Top",
+     "Top with rainbow candy chips for the Cosmic Brownie look."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Four layers of chocolate for a dense brownie flavor."
+  },
+  {
+   "id": "fdl-birthday-cake-batter-creami",
+   "title": "Birthday Cake Batter Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-birthday-cake-batter-creami.jpg",
+   "part": 16,
+   "t": 688,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 255,
+    "protein": 36,
+    "carbs": 17,
+    "fat": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 225,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 225,
+       "u": "g",
+       "i": "unsweetened vanilla almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "cake batter extract",
+       "a": "Baking"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free cheesecake pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 10,
+       "u": "g",
+       "i": "rainbow sprinkles",
+       "a": "Baking",
+       "est": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the sprinkles and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Use the exact amounts — the cake batter extract makes it. Sprinkle amount wasn't shown (estimated, not in macros)."
+  },
+  {
+   "id": "fdl-reeses-puffs-cereal-milk-creami",
+   "title": "Reese's Puffs Cereal Milk Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-reeses-puffs-cereal-milk-creami.jpg",
+   "part": 17,
+   "t": 723,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 351,
+    "protein": 41,
+    "carbs": 31,
+    "fat": 7
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 330,
+       "u": "g",
+       "i": "Reese's Puffs cereal milk (from 56 g cereal, below)",
+       "a": "Pantry"
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "vanilla whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "cookie butter protein mix-in (e.g. PB Party)",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free butterscotch pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 14,
+       "u": "g",
+       "i": "Reese's Puffs",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make cereal milk",
+     "Soak 56 g Reese's Puffs in 240 g Fairlife fat-free milk and 240 g unsweetened vanilla almond milk for 6–7 hours. Strain, pressing to get every drop — you should have about 300–330 g."
+    ],
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the Reese's Puffs and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Use the full Ice Cream setting (not Lite) — it looks dry after the first spin by design, then the mix-in spin makes it rich and full-fat tasting."
+  },
+  {
+   "id": "fdl-75-calorie-vanilla-creami",
+   "title": "75-Calorie Whole-Pint Vanilla Ice Cream (Ninja Creami)",
+   "img": "img/fdl-75-calorie-vanilla-creami.jpg",
+   "part": 18,
+   "t": 769,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 75,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "Meal prep",
+    "Gluten-free",
+    "Vegan"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 400,
+       "u": "g",
+       "i": "unsweetened vanilla almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free vanilla pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 1,
+       "u": "g",
+       "i": "xanthan gum",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "vanilla extract",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "q": null,
+       "u": "",
+       "i": "your favorite cereal (he uses Lucky Charms)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Top",
+     "Add a small splash of almond milk and Re-spin, then top with cereal — add more cereal as you eat down the pint."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Not high protein — it's a very low-calorie base that leaves room for toppings."
+  },
+  {
+   "id": "fdl-oreo-cereal-milk-creami",
+   "title": "Oreo Cereal Milk Protein Ice Cream (Ninja Creami)",
+   "img": "img/fdl-oreo-cereal-milk-creami.jpg",
+   "part": 19,
+   "t": 805,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 301,
+    "protein": 38,
+    "carbs": 26,
+    "fat": 5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 330,
+       "u": "g",
+       "i": "Oreo cereal milk (from 56 g cereal, below)",
+       "a": "Pantry"
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "chocolate whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 12,
+       "u": "g",
+       "i": "black cocoa powder",
+       "a": "Baking"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "sugar-free fat-free cheesecake pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 2,
+       "u": "",
+       "i": "Oreo Thins, broken",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make cereal milk",
+     "Soak 56 g Oreo cereal in 240 g Fairlife fat-free milk and 240 g unsweetened vanilla almond milk for 6–7 hours. Strain, pressing to get every drop — you should have about 300–330 g."
+    ],
+    [
+     "Blend and freeze",
+     "Add the base ingredients to a Creami pint and blend smooth with a small hand blender or frother. Freeze about 24 hours (lid off helps avoid a hump)."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. Once is usually enough."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle, add the Oreo Thins and run Mix-In."
+    ]
+   ],
+   "notes": "Amounts and whole-pint macros are from the on-screen captions. Freezing time not included. Black cocoa is what gives it the real Oreo flavor."
+  }
+ ]
+}

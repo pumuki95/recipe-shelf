@@ -1,0 +1,26 @@
+{
+  "src": {"key":"Z7YTXxp8s9c","platform":"YouTube","creator":"Jaden Kierulff","title":"Oreo Blizzard Protein Shake | 350 Cals • 50g Protein","url":"https://www.youtube.com/watch?v=Z7YTXxp8s9c","recipes":1},
+  "recipes": [{
+    "id":"oreo-blizzard-protein-shake","title":"Oreo Blizzard Protein Shake","img":"img/oreo-blizzard-protein-shake.jpg","part":1,"t":0,
+    "servings":1,"unit":"shake","time":5,
+    "macros":{"cal":350,"protein":50,"carbs":30,"fat":9},"stated":["cal","protein"],
+    "tags":["Snack","Dessert","Vegetarian","High protein","Quick"],
+    "groups":[
+      {"name":"Shake","items":[
+        {"q":1.5,"u":"cup","i":"ice","a":"Frozen","est":true},
+        {"q":1,"u":"cup","i":"fat-free milk (e.g. Fairlife)","a":"Dairy","est":true},
+        {"q":1,"u":"tsp","i":"vanilla extract or sugar-free syrup","a":"Baking","est":true},
+        {"q":1,"u":"tbsp","i":"sugar-free vanilla pudding mix or sweetener","a":"Baking","est":true},
+        {"q":1.5,"u":"","i":"scoops vanilla ice cream whey protein (e.g. Optimum Nutrition)","a":"Pantry","est":true},
+        {"q":2,"u":"","i":"Oreos","a":"Pantry","est":true}]},
+      {"name":"Topping","items":[
+        {"q":null,"u":"","i":"light whipped cream","a":"Dairy"},
+        {"q":1,"u":"","i":"Oreo, crushed","a":"Pantry","est":true}]}
+    ],
+    "steps":[
+      ["Blend","Add the ice, milk, vanilla, pudding mix or sweetener, protein powder and Oreos to a blender and blend until thick and smooth."],
+      ["Top","Pour into a tall cup, top with whipped cream and crushed Oreo."]
+    ],
+    "notes":"350 calories and 50 g protein are as stated; the full recipe was only in the creator's TikTok caption, so amounts, carbs and fat are estimated from what's shown."
+  }]
+}

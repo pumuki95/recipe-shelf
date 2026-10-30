@@ -1,0 +1,28 @@
+{
+  "src": {"key":"DNVA1ojgAXI","platform":"YouTube","creator":"Noah Perlo","title":"Ice Cream Comparison WOW","url":"https://www.youtube.com/watch?v=DNVA1ojgAXI","recipes":1},
+  "recipes": [{
+    "id":"oreo-protein-creami-noah","title":"Oreo Protein Ice Cream with White Chocolate Pudding (Ninja Creami)","img":"img/oreo-protein-creami-noah.jpg","part":1,"t":0,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":394,"protein":37,"carbs":39,"fat":10},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","Vegetarian","High protein","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":240,"u":"g","i":"fat-free Fairlife milk","a":"Dairy"},
+        {"q":240,"u":"g","i":"unsweetened vanilla almond milk","a":"Dairy"},
+        {"q":30,"u":"g","i":"vanilla whey/casein protein powder","a":"Pantry"},
+        {"q":8,"u":"g","i":"sugar-free white chocolate pudding mix","a":"Baking"},
+        {"q":5,"u":"g","i":"sweetener (e.g. Truvia)","a":"Baking"},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true}]},
+      {"name":"Mix-ins","items":[
+        {"q":3,"u":"","i":"Oreos, crushed","a":"Pantry"},
+        {"q":4,"u":"","i":"mini Oreos, crushed, for the top","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Blend and freeze","Blend everything for the base with a small hand blender (stops clumping), pour into a Creami pint and freeze overnight."],
+      ["Spin","Spin on Lite Ice Cream."],
+      ["Mix in","Make a hole in the middle, fill it with the crushed Oreos and run Mix-In."],
+      ["Top","Top with the crushed mini Oreos."]
+    ],
+    "notes":"Recipe and whole-pint macros (with toppings) are from the video description. Freezing time not included."
+  }]
+}
