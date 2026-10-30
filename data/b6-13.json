@@ -1,0 +1,38 @@
+{
+ "src": {"key": "kOd_iEPdXSI", "platform": "YouTube", "creator": "Cookingforgains",
+  "title": "Beef bacon, meal prep",
+  "url": "https://www.youtube.com/watch?v=kOd_iEPdXSI", "recipes": 1},
+ "recipes": [{
+  "id": "creamy-beef-bacon-protein-pasta",
+  "title": "Creamy Beef & Bacon Protein Pasta",
+  "img": "img/creamy-beef-bacon-protein-pasta.jpg",
+  "part": 1, "t": 0, "servings": 10, "unit": "serving", "time": 45,
+  "macros": {"cal": 600, "protein": 67, "carbs": 45, "fat": 18},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "Beef", "Ground beef", "Pasta", "High protein", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Beef & veg", "items": [
+    {"q": 3, "u": "lb", "i": "96/4 lean ground beef", "a": "Meat"},
+    {"q": 3, "u": "", "i": "bell peppers, chopped (about 300 g)", "a": "Produce"},
+    {"q": 2, "u": "", "i": "large onions, chopped (about 300 g)", "a": "Produce"},
+    {"q": 20, "u": "", "i": "slices beef bacon", "a": "Meat"}]},
+   {"name": "Pasta", "items": [
+    {"q": 16, "u": "oz", "i": "protein pasta (8 servings)", "a": "Pantry"}]},
+   {"name": "Blender sauce", "items": [
+    {"q": 880, "u": "g", "i": "low-fat cottage cheese", "a": "Dairy"},
+    {"q": 30, "u": "g", "i": "honey", "a": "Pantry"},
+    {"q": 1, "u": "", "i": "bag fat-free shredded mozzarella", "a": "Dairy"},
+    {"q": 50, "u": "g", "i": "⅓-fat cream cheese", "a": "Dairy"},
+    {"q": 50, "u": "g", "i": "Pecorino Romano", "a": "Dairy"},
+    {"q": 300, "u": "ml", "i": "fat-free Fairlife or high-protein milk", "a": "Dairy"},
+    {"q": null, "u": "", "i": "black pepper", "a": "Pantry"}]}],
+  "steps": [
+   ["Cook the beef", "Cook the peppers and onions in a large hot skillet, then add the ground beef and break it up until browned."],
+   ["Bacon", "Cook the beef bacon until crisp, chop it, and add it — with its fat — to the beef. The bacon is the seasoning here."],
+   ["Pasta", "Boil the protein pasta and drain."],
+   ["Sauce", "Blend the cottage cheese, honey, mozzarella, cream cheese, Pecorino, milk and pepper until smooth."],
+   ["Combine", "Add the pasta and sauce to the beef, mix, and simmer 10–15 minutes."],
+   ["Portion", "Divide into 10 containers (about 17 oz each). Reheat 1½ minutes from the fridge, or 1½ minutes, stir, then 45 seconds from frozen."]],
+  "notes": "Macros per meal as stated in the description. The video uses Fairlife fat-free milk and the description says protein milk; either works."
+ }]
+}

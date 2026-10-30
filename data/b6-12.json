@@ -1,0 +1,41 @@
+{
+ "src": {"key": "FswYii-Wxjg", "platform": "YouTube", "creator": "Cookingforgains",
+  "title": "High protein, chipotle burritos",
+  "url": "https://www.youtube.com/watch?v=FswYii-Wxjg", "recipes": 1},
+ "recipes": [{
+  "id": "chipotle-chicken-bacon-burritos",
+  "title": "Chipotle Chicken & Bacon Meal Prep Burritos",
+  "img": "img/chipotle-chicken-bacon-burritos.jpg",
+  "part": 1, "t": 0, "servings": 24, "unit": "burrito", "time": 50,
+  "macros": {"cal": 242, "protein": 28, "carbs": 18, "fat": 8},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "Chicken", "High protein", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Chicken", "items": [
+    {"q": 4, "u": "lb", "i": "chicken breast", "a": "Meat"},
+    {"q": 7, "u": "g", "i": "garlic powder", "a": "Pantry"},
+    {"q": 6, "u": "g", "i": "onion powder", "a": "Pantry"},
+    {"q": 10, "u": "g", "i": "paprika", "a": "Pantry"},
+    {"q": 10, "u": "g", "i": "favourite chicken seasoning", "a": "Pantry"}]},
+   {"name": "Bacon & peppers", "items": [
+    {"q": 20, "u": "", "i": "slices beef bacon, chopped", "a": "Meat"},
+    {"q": 300, "u": "g", "i": "bell peppers, chopped (about 3)", "a": "Produce"}]},
+   {"name": "Chipotle sauce", "items": [
+    {"q": 440, "u": "g", "i": "cottage cheese", "a": "Dairy"},
+    {"q": 150, "u": "g", "i": "⅓-fat sour cream", "a": "Dairy"},
+    {"q": 1, "u": "", "i": "can chipotle peppers in adobo", "a": "International"},
+    {"q": 1, "u": "cup", "i": "red enchilada sauce", "a": "International"},
+    {"q": null, "u": "", "i": "chipotle hot sauce, for extra heat (optional)", "a": "International"}]},
+   {"name": "Assembly", "items": [
+    {"q": 1, "u": "", "i": "bag shredded Mexican-blend cheese", "a": "Dairy"},
+    {"q": 24, "u": "", "i": "Ole Xtreme Wellness wraps (three 8-packs)", "a": "Bakery"}]}],
+  "steps": [
+   ["Season the chicken", "Pound the chicken to an even thickness, then coat well with the garlic powder, onion powder, paprika and chicken seasoning."],
+   ["Air fry", "Air fry at 375°F for 35 minutes."],
+   ["Bacon & peppers", "Meanwhile, cook the chopped beef bacon with the peppers in a large skillet."],
+   ["Sauce", "Blend the cottage cheese, sour cream, chipotle peppers and enchilada sauce until smooth; add hot sauce if you want more heat."],
+   ["Combine", "Add the cooked chicken to the bacon pan, shred it, then stir in the sauce and the cheese. Let it cool."],
+   ["Roll & store", "Divide among 24 wraps and roll into burritos. Pack two per container (12 preps). Reheat 1 minute from the fridge, or 1 minute, flip, then 30–40 seconds from frozen."]],
+  "notes": "Macros per burrito as stated in the description (two burritos per prep: 485 cal, 56 g protein). The bag of Mexican cheese is added in the video but not listed in the description; amounts are as given."
+ }]
+}
