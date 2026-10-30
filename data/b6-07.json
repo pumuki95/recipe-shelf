@@ -1,0 +1,300 @@
+{
+ "src": {
+  "key": "bzofdSy2u28",
+  "platform": "YouTube",
+  "creator": "Alex Gamble",
+  "title": "These Ninja Creami Recipes Will Change Your Life",
+  "url": "https://www.youtube.com/watch?v=bzofdSy2u28",
+  "recipes": 3
+ },
+ "recipes": [
+  {
+   "id": "biscoff-creami-alex",
+   "title": "Biscoff Protein Ice Cream (Ninja Creami)",
+   "img": "img/biscoff-creami-alex.jpg",
+   "t": 95,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 395,
+    "protein": 36,
+    "carbs": 43,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 250,
+       "u": "ml",
+       "i": "skim milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 150,
+       "u": "ml",
+       "i": "unsweetened almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey-casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "vanilla pudding mix (fat-free if you can find it)",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "dash of cinnamon (optional)",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 15,
+       "u": "g",
+       "i": "Biscoff spread",
+       "a": "Pantry"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "Biscoff biscuits, crushed",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend the base",
+     "Blend the skim milk, almond milk, protein powder and pudding mix (plus any extras for this flavour) with a hand blender until there are no clumps."
+    ],
+    [
+     "Freeze",
+     "Freeze in a Creami pint for at least 24 hours."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. If it comes out powdery, add a splash of milk and Re-spin."
+    ],
+    [
+     "Mix in",
+     "Scoop a hole in the middle, add the Biscoff spread and crushed biscuits (save a little for the top if you like) and run Mix-In."
+    ]
+   ],
+   "notes": "Protein and calories for the full pint as stated in the video; carbs and fat are estimates. Use a whey–casein blend — pure whey isolate won't spin as creamy. Freezing time not included.",
+   "part": 1
+  },
+  {
+   "id": "mm-mcflurry-creami-alex",
+   "title": "M&M McFlurry Protein Ice Cream (Ninja Creami)",
+   "img": "img/mm-mcflurry-creami-alex.jpg",
+   "t": 146,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 398,
+    "protein": 36,
+    "carbs": 46,
+    "fat": 10
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 250,
+       "u": "ml",
+       "i": "skim milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 150,
+       "u": "ml",
+       "i": "unsweetened almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey-casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "vanilla pudding mix (fat-free if you can find it)",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 35,
+       "u": "g",
+       "i": "mini M&M's (1 pack)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend the base",
+     "Blend the skim milk, almond milk, protein powder and pudding mix (plus any extras for this flavour) with a hand blender until there are no clumps."
+    ],
+    [
+     "Freeze",
+     "Freeze in a Creami pint for at least 24 hours."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. If it comes out powdery, add a splash of milk and Re-spin."
+    ],
+    [
+     "Mix in",
+     "Scoop a hole in the middle, add most of the M&M's and run Mix-In; scatter the rest on top."
+    ]
+   ],
+   "notes": "Protein and calories for the full pint as stated in the video; carbs and fat are estimates. Use a whey–casein blend — pure whey isolate won't spin as creamy. Freezing time not included.",
+   "part": 2
+  },
+  {
+   "id": "pb-oreo-creami-alex",
+   "title": "Peanut Butter Oreo Protein Ice Cream (Ninja Creami)",
+   "img": "img/pb-oreo-creami-alex.jpg",
+   "t": 211,
+   "servings": 1,
+   "unit": "pint",
+   "time": 10,
+   "macros": {
+    "cal": 412,
+    "protein": 40,
+    "carbs": 44,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 250,
+       "u": "ml",
+       "i": "skim milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 150,
+       "u": "ml",
+       "i": "unsweetened almond milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "vanilla whey-casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "vanilla pudding mix (fat-free if you can find it)",
+       "a": "Baking"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "PB2 powdered peanut butter",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 1,
+       "u": "",
+       "i": "pack mini Oreos",
+       "a": "Pantry"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "peanut butter, to drizzle (optional)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend the base",
+     "Blend the skim milk, almond milk, protein powder and pudding mix (plus any extras for this flavour) with a hand blender until there are no clumps."
+    ],
+    [
+     "Freeze",
+     "Freeze in a Creami pint for at least 24 hours."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream. If it comes out powdery, add a splash of milk and Re-spin."
+    ],
+    [
+     "Mix in",
+     "Scoop a hole in the middle, add the mini Oreos (keep a couple to crush on top) and run Mix-In. Finish with a squeeze of peanut butter."
+    ]
+   ],
+   "notes": "Protein and calories for the full pint as stated in the video (including the peanut butter drizzle); carbs and fat are estimates. Use a whey–casein blend — pure whey isolate won't spin as creamy. Freezing time not included. Chocolate whey also works for this one.",
+   "part": 3
+  }
+ ]
+}

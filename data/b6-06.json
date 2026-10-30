@@ -1,0 +1,44 @@
+{
+ "src": {"key": "AYNvbkN1gvA", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "HIGH PROTEIN Chicken Crunch Wraps In 15 Minutes | Meal Prep",
+  "url": "https://www.youtube.com/watch?v=AYNvbkN1gvA", "recipes": 1},
+ "recipes": [{
+  "id": "chicken-crunch-wraps-jack",
+  "title": "High Protein Chicken Crunch Wraps",
+  "img": "img/chicken-crunch-wraps-jack.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "wrap", "time": 25,
+  "macros": {"cal": 650, "protein": 76, "carbs": 21, "fat": 22},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "Chicken", "High protein", "Meal prep", "Freezer friendly", "Quick"],
+  "groups": [
+   {"name": "Chicken & seasoning", "items": [
+    {"q": 750, "u": "g", "i": "chicken breast, diced (1.6 lb)", "a": "Meat"},
+    {"q": 2, "u": "tsp", "i": "onion powder", "a": "Pantry"},
+    {"q": 2, "u": "tsp", "i": "garlic powder", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "smoked paprika", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "dried oregano", "a": "Pantry"},
+    {"q": 0.5, "u": "tsp", "i": "ground cumin", "a": "Pantry"},
+    {"q": 0.5, "u": "tsp", "i": "dried chilli flakes (optional)", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt, pepper and spray oil", "a": "Pantry"}]},
+   {"name": "Garlic yogurt sauce", "items": [
+    {"q": 300, "u": "g", "i": "high-protein Greek yogurt", "a": "Dairy"},
+    {"q": 2, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "Wraps & fillings", "items": [
+    {"q": 5, "u": "", "i": "large high-protein wraps", "a": "Bakery"},
+    {"q": 5, "u": "", "i": "small high-protein wraps", "a": "Bakery"},
+    {"q": 3, "u": "", "i": "tomatoes, finely diced", "a": "Produce"},
+    {"q": 2, "u": "", "i": "baby romaine lettuces, shredded", "a": "Produce"},
+    {"q": 250, "u": "g", "i": "mozzarella, grated", "a": "Dairy"},
+    {"q": null, "u": "", "i": "cheesy nacho chips (3–4 per wrap)", "a": "Pantry"},
+    {"q": null, "u": "", "i": "jalapeños (optional)", "a": "Produce"}]}],
+  "steps": [
+   ["Prep", "Dice the tomatoes and shred and rinse the lettuce. Stir the yogurt with the grated garlic, salt and pepper."],
+   ["Season the chicken", "Dice the chicken into even bite-size pieces and toss with all the spices, salt and pepper."],
+   ["Cook", "Spray a large pan over high heat, add the chicken (in batches if needed), let it sit 1–1½ minutes to crust, then cook 4–5 minutes until golden and cooked through."],
+   ["Fill", "On each large wrap, add 60 g yogurt sauce, 40 g lettuce, 75 g tomato, 130 g chicken, 50 g mozzarella and 3–4 nacho chips, then cover with a small wrap."],
+   ["Fold", "Fold the edges over in a circle, pinching each fold, and set seam side down."],
+   ["Toast", "Toast seam side down in a dry or lightly sprayed pan over medium heat for a couple of minutes per side until golden."]],
+  "notes": "Macros per wrap from the on-screen nutrition panel (carbs are net; 22 g fiber). Keeps 3 days in the fridge or 3 months frozen — for meal prep, store untoasted and toast when reheating. The chips go soft in storage."
+ }]
+}
