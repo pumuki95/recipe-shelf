@@ -1,0 +1,33 @@
+{
+  "src": {"key":"CQTqveWA8d0","platform":"YouTube","creator":"Panacea Palm","title":"EASIEST High Protein Nacho Cheese Burritos","url":"https://www.youtube.com/watch?v=CQTqveWA8d0","recipes":1},
+  "recipes": [{
+    "id":"nacho-cheese-beef-burritos","title":"High-Protein Nacho Cheese Beef Burritos","img":"img/nacho-cheese-beef-burritos.jpg","part":1,"t":0,
+    "servings":6,"unit":"burrito","time":30,
+    "macros":{"cal":463,"protein":52,"carbs":30,"fat":15},"stated":["cal","protein"],
+    "tags":["Main meal","Beef","Tortillas","High protein","Meal prep","Freezer-friendly"],
+    "groups":[
+      {"name":"Beef filling","items":[
+        {"q":1,"u":"kg","i":"lean ground beef","a":"Meat"},
+        {"q":1,"u":"","i":"medium red onion, diced","a":"Produce"},
+        {"q":2,"u":"","i":"bell peppers, diced","a":"Produce"},
+        {"q":1,"u":"","i":"packet taco seasoning","a":"Pantry"},
+        {"q":130,"u":"g","i":"low-sugar ketchup","a":"Pantry"},
+        {"q":150,"u":"ml","i":"water","a":"Pantry","staple":true}]},
+      {"name":"Nacho cheese sauce","items":[
+        {"q":230,"u":"ml","i":"evaporated milk","a":"Dairy"},
+        {"q":180,"u":"g","i":"Mexican-blend shredded cheese","a":"Dairy"},
+        {"q":30,"u":"ml","i":"hot sauce","a":"Pantry"}]},
+      {"name":"Assembly","items":[
+        {"q":6,"u":"","i":"large low-calorie tortillas","a":"Bakery"}]}
+    ],
+    "steps":[
+      ["Sear the beef","Press the beef into a hot pan and leave it to get crispy, then flip and break it up."],
+      ["Add the veg","Add the onion, peppers and taco seasoning and cook until soft."],
+      ["Sauce the beef","Stir in the ketchup and water until the beef is coated."],
+      ["Nacho cheese","In a saucepan over low heat, stir the evaporated milk, cheese and hot sauce until melted and thick."],
+      ["Fill","Warm the tortillas. Spread each with a sixth of the cheese sauce and a sixth of the beef, then roll tightly."],
+      ["Seal","Toast seam-side down in a dry pan until sealed. Eat now or wrap and freeze; reheat from frozen."]
+    ],
+    "notes":"Recipe from the video. Calories and protein (463 cal, 52 g per burrito) are from the title; carbs and fat are estimates and depend on your tortillas."
+  }]
+}

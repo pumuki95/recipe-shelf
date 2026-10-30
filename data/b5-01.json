@@ -1,0 +1,30 @@
+{
+ "src": {"key":"2KyDrqiiZdU","platform":"YouTube","creator":"Joshua Weissman","title":"50g Protein Alfredo Pasta (400 Calories)","url":"https://www.youtube.com/watch?v=2KyDrqiiZdU","recipes":1},
+ "recipes": [{
+  "id":"cauliflower-protein-alfredo","title":"Cauliflower Protein Chicken Alfredo","img":"img/cauliflower-protein-alfredo.jpg","part":1,"t":0,
+  "servings":2,"unit":"serving","time":30,
+  "macros":{"cal":415,"protein":50,"carbs":35,"fat":8},"stated":["cal","protein","carbs","fat"],
+  "tags":["Main meal","Chicken","Pasta","High protein"],
+  "groups":[
+   {"name":"Alfredo sauce","items":[
+    {"q":0.5,"u":"","i":"head cauliflower, cut into florets","a":"Produce","est":true},
+    {"q":22,"u":"g","i":"Parmesan, grated","a":"Dairy"},
+    {"q":22,"u":"g","i":"Pecorino Romano, grated","a":"Dairy"},
+    {"q":3,"u":"","i":"garlic cloves","a":"Produce"},
+    {"q":0.5,"u":"cup","i":"skim milk","a":"Dairy"},
+    {"q":null,"u":"","i":"salt and black pepper","a":"Pantry","staple":true}]},
+   {"name":"Pasta & chicken","items":[
+    {"q":120,"u":"g","i":"fettuccine (dry)","a":"Pantry","est":true},
+    {"q":300,"u":"g","i":"chicken breast","a":"Meat","est":true},
+    {"q":null,"u":"","i":"oil spray","a":"Pantry","staple":true}]}
+  ],
+  "steps":[
+   ["Overcook the cauliflower","Boil the cauliflower until very soft — overcooking it makes the creamiest sauce."],
+   ["Blend","Blend the cauliflower with the Parmesan, Pecorino, garlic, skim milk, salt and pepper until silky."],
+   ["Cook the chicken","Season and sear the chicken in a hot pan until golden and cooked through. Rest and slice."],
+   ["Pasta","Cook the fettuccine, then toss it in a pan with the sauce until coated."],
+   ["Serve","Top with the sliced chicken and extra grated cheese."]
+  ],
+  "notes":"Sauce amounts are from the video; per-serving macros are from the on-screen card. The cauliflower, pasta and chicken amounts and the 2 servings are estimates."
+ }]
+}
