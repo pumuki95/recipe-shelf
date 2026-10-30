@@ -1,0 +1,40 @@
+{
+ "src": {"key": "zRyNxpVg8KA", "platform": "YouTube", "creator": "Panacea Palm",
+  "title": "The TASTIEST High Protein Cheeseburger Hot Pockets! 31g Protein, ONLY 348 cals!",
+  "url": "https://www.youtube.com/watch?v=zRyNxpVg8KA", "recipes": 1},
+ "recipes": [{
+  "id": "cheeseburger-hot-pockets",
+  "title": "Cheeseburger Hot Pockets",
+  "img": "img/cheeseburger-hot-pockets.jpg",
+  "part": 1, "t": 0, "servings": 8, "unit": "pocket", "time": 45,
+  "macros": {"cal": 348, "protein": 31, "carbs": 44, "fat": 8},
+  "stated": ["cal", "protein"],
+  "tags": ["Snack", "Main meal", "Beef", "Ground beef", "High protein", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 400, "u": "g", "i": "all-purpose flour", "a": "Baking"},
+    {"q": 410, "u": "g", "i": "0% Greek yogurt", "a": "Dairy"}]},
+   {"name": "Cheeseburger filling", "items": [
+    {"q": 400, "u": "g", "i": "lean ground beef", "a": "Meat"},
+    {"q": 1, "u": "", "i": "medium onion, diced", "a": "Produce"},
+    {"q": 1, "u": "tsp", "i": "smoked paprika", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "garlic powder", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"},
+    {"q": 100, "u": "ml", "i": "beef stock", "a": "Pantry"},
+    {"q": 80, "u": "g", "i": "light cream cheese", "a": "Dairy"},
+    {"q": 3, "u": "tbsp", "i": "ketchup", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "mustard", "a": "Pantry"},
+    {"q": 60, "u": "g", "i": "pickles, diced", "a": "Pantry"}]},
+   {"name": "Assembly", "items": [
+    {"q": 200, "u": "g", "i": "low-fat shredded cheese (25 g per pocket)", "a": "Dairy"},
+    {"q": null, "u": "", "i": "cooking spray", "a": "Pantry"}]}],
+  "steps": [
+   ["Dough", "Mix the flour and Greek yogurt into shaggy clumps, knead into one smooth dough, and divide into 8 balls."],
+   ["Brown the beef", "Sear the beef in a hot, sprayed pan until crispy, then add the onion, paprika, garlic powder, salt and pepper."],
+   ["Make it creamy", "Add the stock, cream cheese, ketchup, mustard and pickles and stir until creamy."],
+   ["Fill", "Roll out each dough ball, add ⅛ of the beef and 25 g cheese, fold the sides in and pinch to seal. Flip and press gently to flatten."],
+   ["Cook", "Cook in a sprayed pan, lid on, 3–4 minutes per side until golden and crisp."],
+   ["Store", "Wrap and freeze; reheat when ready."]],
+  "notes": "Amounts from the on-screen captions; 348 cal and 31 g protein per pocket as stated. Carbs and fat are estimates, and the mustard amount was cut off on screen (1 tsp assumed)."
+ }]
+}

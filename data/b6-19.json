@@ -1,0 +1,42 @@
+{
+ "src": {"key": "-MTtFRRrkGk", "platform": "YouTube", "creator": "Cookingforgains",
+  "title": "I only make high protein foods",
+  "url": "https://www.youtube.com/watch?v=-MTtFRRrkGk", "recipes": 1},
+ "recipes": [{
+  "id": "beef-bacon-egg-rice-breakfast-burritos",
+  "title": "Beef, Bacon & Egg Breakfast Burritos",
+  "img": "img/beef-bacon-egg-rice-breakfast-burritos.jpg",
+  "part": 1, "t": 0, "servings": 12, "unit": "burrito", "time": 45,
+  "macros": {"cal": 390, "protein": 41, "carbs": 31, "fat": 14.5},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Breakfast", "Main meal", "Beef", "Ground beef", "High protein", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Filling", "items": [
+    {"q": 3, "u": "lb", "i": "96/4 lean ground beef", "a": "Meat"},
+    {"q": null, "u": "", "i": "paprika, garlic powder and onion powder", "a": "Pantry"},
+    {"q": 1, "u": "cup", "i": "white rice, raw (cooked in 1½ cups water)", "a": "Pantry"},
+    {"q": 1, "u": "lb", "i": "beef bacon (45 cal/serving), chopped", "a": "Meat"},
+    {"q": 12, "u": "", "i": "eggs", "a": "Dairy"},
+    {"q": null, "u": "", "i": "black pepper", "a": "Pantry"}]},
+   {"name": "Sauce", "items": [
+    {"q": 250, "u": "g", "i": "plain Greek yogurt", "a": "Dairy"},
+    {"q": 60, "u": "g", "i": "light mayo", "a": "Pantry"},
+    {"q": 10, "u": "g", "i": "chipotle hot sauce or Frank's", "a": "International"},
+    {"q": 30, "u": "g", "i": "mustard", "a": "Pantry"},
+    {"q": 15, "u": "g", "i": "honey", "a": "Pantry"},
+    {"q": 20, "u": "g", "i": "lime juice", "a": "Produce"},
+    {"q": 10, "u": "g", "i": "Worcestershire sauce", "a": "Pantry"},
+    {"q": 3, "u": "g", "i": "garlic powder", "a": "Pantry"},
+    {"q": 1, "u": "g", "i": "each onion powder, paprika, salt and pepper", "a": "Pantry"}]},
+   {"name": "Wraps", "items": [
+    {"q": 12, "u": "", "i": "Ole Xtreme Wellness wraps (two 6-packs — the larger size)", "a": "Bakery"}]}],
+  "steps": [
+   ["Beef", "Brown the beef with paprika, garlic powder and onion powder."],
+   ["Rice", "Cook the rice with 1½ cups water."],
+   ["Bacon & eggs", "Cook the chopped beef bacon; when it's almost done, crack in the eggs, add pepper and scramble together."],
+   ["Sauce", "Stir all the sauce ingredients together."],
+   ["Combine", "Mix the beef, bacon and eggs, then fold in the rice and sauce."],
+   ["Wrap", "Divide among the 12 wraps and roll into burritos. Freeze or refrigerate for the week."]],
+  "notes": "Macros per burrito as stated in the description."
+ }]
+}
