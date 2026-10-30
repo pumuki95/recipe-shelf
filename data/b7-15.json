@@ -1,0 +1,38 @@
+{
+ "src": {"key": "2fY3yjnqHd8", "platform": "YouTube", "creator": "Joseph Abell",
+  "title": "sweet potato pancakes shouldn't taste this good (47g Protein)",
+  "url": "https://www.youtube.com/watch?v=2fY3yjnqHd8", "recipes": 1},
+ "recipes": [{
+  "id": "sweet-potato-protein-pancakes",
+  "title": "Sweet Potato Protein Pancakes",
+  "img": "img/sweet-potato-protein-pancakes.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 20,
+  "macros": {"cal": 430, "protein": 24, "carbs": 68, "fat": 6},
+  "stated": [],
+  "tags": ["Breakfast", "Vegetarian", "High protein"],
+  "groups": [
+   {"name": "Dry", "items": [
+    {"q": 0.75, "u": "cup", "i": "flour", "a": "Baking"},
+    {"q": 1, "u": "", "i": "scoop protein powder", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "baking powder", "a": "Baking"},
+    {"q": 0.25, "u": "tsp", "i": "baking soda", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "packed brown sugar", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "kosher salt", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "cinnamon", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "ground nutmeg", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "ground ginger", "a": "Baking"}]},
+   {"name": "Wet", "items": [
+    {"q": 1, "u": "cup", "i": "buttermilk", "a": "Dairy"},
+    {"q": 0.33, "u": "cup", "i": "sweet potato purée", "a": "Produce"},
+    {"q": 1, "u": "", "i": "large egg", "a": "Dairy"},
+    {"q": 1, "u": "tsp", "i": "pure vanilla extract", "a": "Baking"}]},
+   {"name": "To cook & top", "items": [
+    {"q": null, "u": "", "i": "butter, for the pan", "a": "Dairy"},
+    {"q": null, "u": "", "i": "melted almond butter and fresh berries", "a": "Produce"}]}],
+  "steps": [
+   ["Mix", "Whisk the dry ingredients in one bowl and the wet in another, then combine with a spoon just until mixed."],
+   ["Cook", "Pour onto a buttered pan over medium heat and flip once bubbles appear on top, so both sides are golden brown."],
+   ["Serve", "Stack and top with melted almond butter and fresh fruit."]],
+  "notes": "Ingredient amounts from the on-screen cards. The title's 47 g protein is for the whole batch; per-serving macros (half the batch, toppings not included) are estimates."
+ }]
+}

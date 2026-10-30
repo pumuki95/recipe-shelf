@@ -1,0 +1,23 @@
+{
+ "src": {"key": "qDCkHDAtf8U", "platform": "YouTube", "creator": "Joseph Abell",
+  "title": "crunchy s'mores sandwich (2g protein)",
+  "url": "https://www.youtube.com/watch?v=qDCkHDAtf8U", "recipes": 1},
+ "recipes": [{
+  "id": "rice-cake-smores-sandwich",
+  "title": "Crunchy Rice Cake S'mores Sandwich",
+  "img": "img/rice-cake-smores-sandwich.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "sandwich", "time": 3,
+  "macros": {"cal": 88, "protein": 2, "carbs": 19, "fat": 2},
+  "stated": ["protein"],
+  "tags": ["Dessert", "Snack", "Vegetarian", "Gluten-free", "Quick"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 2, "u": "", "i": "plain rice cakes", "a": "Pantry"},
+    {"q": 10, "u": "g", "i": "mini marshmallows", "a": "Pantry"},
+    {"q": 8, "u": "g", "i": "sugar-free chocolate chips", "a": "Baking"}]}],
+  "steps": [
+   ["Top", "Cover one rice cake with mini marshmallows and the other with sugar-free chocolate chips."],
+   ["Air fry", "Air fry about 2 minutes, until the marshmallows puff and the chocolate melts."],
+   ["Sandwich", "Press the two halves together and eat warm."]],
+  "notes": "Under 90 cal and about 2 g protein per sandwich as stated. Amounts aren't given, so quantities and the other macros are estimates."
+ }]
+}
