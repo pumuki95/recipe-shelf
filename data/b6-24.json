@@ -1,0 +1,35 @@
+{
+ "src": {"key": "oBPkgDaRwyo", "platform": "YouTube", "creator": "NickKaz Fit",
+  "title": "Low Calorie, High Protein Cinnabon Cinnamon Roll",
+  "url": "https://www.youtube.com/watch?v=oBPkgDaRwyo", "recipes": 1},
+ "recipes": [{
+  "id": "low-cal-cinnabon-style-rolls",
+  "title": "Low Calorie Cinnabon-Style Cinnamon Rolls",
+  "img": "img/low-cal-cinnabon-style-rolls.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "roll", "time": 45,
+  "macros": {"cal": 142, "protein": 7, "carbs": 27, "fat": 0},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Dessert", "Breakfast", "Vegetarian", "Bread", "Baked"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 135, "u": "g", "i": "all-purpose flour (1 cup)", "a": "Baking"},
+    {"q": 6, "u": "g", "i": "instant dry yeast (½ tbsp)", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 90, "u": "ml", "i": "warm water, 100–110°F (6 tbsp)", "a": "Pantry"}]},
+   {"name": "Filling", "items": [
+    {"q": 3, "u": "tbsp", "i": "sugar-free syrup", "a": "Pantry"},
+    {"q": 2, "u": "tbsp", "i": "brown sugar substitute, e.g. Swerve (24 g)", "a": "Baking"},
+    {"q": 2, "u": "tsp", "i": "ground cinnamon", "a": "Baking"}]},
+   {"name": "Glaze", "items": [
+    {"q": 113, "u": "g", "i": "plain nonfat Greek yogurt (½ cup)", "a": "Dairy"},
+    {"q": 0.25, "u": "cup", "i": "powdered sugar substitute, e.g. Swerve (48 g)", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "vanilla extract", "a": "Baking"}]}],
+  "steps": [
+   ["Dough", "Mix the flour, yeast and salt, then add the warm water and mix thoroughly. Cover and let rise 1–3 hours at room temperature (or overnight in the fridge)."],
+   ["Shape", "Heat the oven to 350°F. Divide into 4 balls and roll each on parchment into a 6 × 2 in strip."],
+   ["Fill & roll", "Mix the syrup, brown sweetener and cinnamon, spread over the strips and roll them up."],
+   ["Bake", "Place in a greased or lined 8 × 8 or 9 × 9 dish and bake 21–23 minutes. Rest 15 minutes."],
+   ["Glaze", "Stir the glaze ingredients together and spread over the rolls. Chill an hour or more for a thicker glaze."]],
+  "notes": "Macros per roll as stated in the description. No yeast? Swap the water for 128 g nonfat Greek yogurt (makes 3 rolls)."
+ }]
+}

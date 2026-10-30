@@ -1,0 +1,25 @@
+{
+ "src": {"key": "P3HE5ga-4SE", "platform": "YouTube", "creator": "Panacea Palm",
+  "title": "Trying Viral High Protein Recipes! Chicken Chicharrones! 89g protein! ONLY 506 calories!",
+  "url": "https://www.youtube.com/watch?v=P3HE5ga-4SE", "recipes": 1},
+ "recipes": [{
+  "id": "chicken-chicharrones",
+  "title": "Chicken Chicharrones (Blended Chicken Chips)",
+  "img": "img/chicken-chicharrones.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "batch", "time": 35,
+  "macros": {"cal": 506, "protein": 89, "carbs": 2, "fat": 14},
+  "stated": ["cal", "protein"],
+  "tags": ["Snack", "Chicken", "High protein", "Low carb", "Gluten-free", "Baked"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 400, "u": "g", "i": "raw chicken breast", "a": "Meat"},
+    {"q": 1, "u": "tbsp", "i": "chicken seasoning or spices of choice", "a": "Pantry"},
+    {"q": 0.25, "u": "tsp", "i": "baking soda", "a": "Baking"},
+    {"q": null, "u": "", "i": "dipping sauce, to serve", "a": "Pantry"}]}],
+  "steps": [
+   ["Blend", "Blend the chicken breast, seasoning and baking soda into a smooth paste."],
+   ["Spread", "Spread onto a parchment-lined tray and press it paper-thin — put a second sheet of parchment or plastic wrap on top and flatten evenly. If it's too thick you'll get a burger, not a chip."],
+   ["Bake", "Bake at about 400°F until deep golden and crisp all the way through, roughly 20–25 minutes (flip or peel off the parchment partway if needed)."],
+   ["Serve", "Break into chips and serve with a good dipping sauce."]],
+  "notes": "Reaction video with no amounts or oven settings shown, so quantities, the bake time and temperature, and carbs/fat are estimates; 506 cal and 89 g protein for the whole batch are as stated in the title."
+ }]
+}
