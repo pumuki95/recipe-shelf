@@ -1,0 +1,24 @@
+{
+  "src": {"key":"FGc60r-SWAk","platform":"YouTube","creator":"ATLASTHETICS","title":"How to: High Protein ice cream using the Ninja Creami","url":"https://www.youtube.com/watch?v=FGc60r-SWAk","recipes":1},
+  "recipes": [{
+    "id":"oreo-protein-ninja-creami","title":"Oreo Protein Ice Cream (Ninja Creami)","img":"img/oreo-protein-ninja-creami.jpg","part":1,"t":0,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":290,"protein":45,"carbs":20,"fat":3},"stated":["cal","protein"],
+    "tags":["Dessert","Snack","Vegetarian","High protein","Meal prep"],
+    "groups":[
+      {"name":"Ice cream base","items":[
+        {"q":1.5,"u":"cup","i":"fat-free ultra-filtered milk (Fairlife or similar), plus a splash","a":"Dairy"},
+        {"q":1,"u":"","i":"scoop cookies & cream protein powder (e.g. Ghost Oreo)","a":"Pantry"},
+        {"q":5,"u":"g","i":"sugar-free vanilla or cheesecake pudding mix (about 1 tbsp)","a":"Baking"}]},
+      {"name":"Mix-in (optional, +50 cal)","items":[
+        {"q":2,"u":"","i":"low-calorie sandwich cookies (e.g. HighKey)","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Mix","Add the milk, protein powder and pudding mix to a Ninja Creami pint and mix well."],
+      ["Freeze","Freeze for 24 hours."],
+      ["Spin","Run on the Light Ice Cream setting. Add a tiny splash of milk and Re-spin for a smoother texture."],
+      ["Mix in","For the cookie version, dig a hole in the middle, add the crushed cookies and run the Mix-In setting."]
+    ],
+    "notes":"290 cal and 45 g protein per pint are as said in the video (before the optional cookies). Needs a Ninja Creami. Carbs and fat are estimates. Freezing time not included."
+  }]
+}

@@ -1,0 +1,35 @@
+{
+  "src": {"key":"b8oK2-SnGUo","platform":"YouTube","creator":"The Protein Chef","title":"Protein Cinnamon Rolls | Easy & Low Calorie","url":"https://www.youtube.com/watch?v=b8oK2-SnGUo","recipes":1,"extra":{"label":"Written recipe","url":"https://theproteinchef.co/protein-cinnamon-rolls-recipe/"}},
+  "recipes": [{
+    "id":"greek-yogurt-protein-cinnamon-rolls","title":"Greek Yogurt Protein Cinnamon Rolls","img":"img/greek-yogurt-protein-cinnamon-rolls.jpg","part":1,"t":24,
+    "servings":6,"unit":"roll","time":40,
+    "macros":{"cal":210,"protein":14,"carbs":22,"fat":7},"stated":[],
+    "tags":["Breakfast","Dessert","Vegetarian","High protein","Bread"],
+    "groups":[
+      {"name":"Dough","items":[
+        {"q":1,"u":"cup","i":"all-purpose flour (or self-rising, then skip baking powder and salt)","a":"Baking"},
+        {"q":227,"u":"g","i":"vanilla Greek yogurt (8 oz)","a":"Dairy"},
+        {"q":2,"u":"tsp","i":"baking powder","a":"Baking","staple":true},
+        {"q":0.25,"u":"tsp","i":"salt","a":"Pantry","staple":true}]},
+      {"name":"Filling","items":[
+        {"q":1,"u":"tbsp","i":"melted butter or coconut oil","a":"Dairy","est":true},
+        {"q":2,"u":"tbsp","i":"sweetener of choice (brown sugar or zero-calorie)","a":"Baking","est":true},
+        {"q":1,"u":"tbsp","i":"ground cinnamon, generous","a":"Pantry","est":true}]},
+      {"name":"Protein frosting","items":[
+        {"q":170,"u":"g","i":"light cream cheese (6 oz)","a":"Dairy"},
+        {"q":1.5,"u":"","i":"scoops vanilla protein powder","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":57,"u":"g","i":"Greek yogurt (2 oz)","a":"Dairy"},
+        {"q":null,"u":"","i":"extra sweetener (optional)","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Make the dough","Mix the flour, yogurt, baking powder and salt for a couple of minutes until it forms a slightly sticky ball. Add a little more flour if it's very sticky."],
+      ["Roll out","Flatten the dough on floured parchment into a rectangle with your hands or a floured rolling pin."],
+      ["Fill","Brush with butter or coconut oil, sprinkle with sweetener and a generous layer of cinnamon."],
+      ["Roll and cut","Roll it up slowly and tightly, then cut into rolls (string or floss makes clean cuts). Set them cut side up."],
+      ["Bake","Bake at 350 °F for about 20 minutes."],
+      ["Frost","Mix the cream cheese, protein powder, vanilla, yogurt and any extra sweetener until smooth, and spread over the warm rolls."]
+    ],
+    "notes":"Amounts come from the video. The creator's full recipe and calories are on his site (linked), which I couldn't open from here, so the number of rolls, filling amounts and all macros are estimates."
+  }]
+}
