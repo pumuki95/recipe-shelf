@@ -1,0 +1,28 @@
+{
+ "src": {"key": "iBjAI0iv4gc", "platform": "YouTube", "creator": "Joseph Abell",
+  "title": "the only way you should be cooking salmon (62g protein)",
+  "url": "https://www.youtube.com/watch?v=iBjAI0iv4gc", "recipes": 1},
+ "recipes": [{
+  "id": "honey-soy-orange-salmon",
+  "title": "Honey Soy Orange Salmon",
+  "img": "img/honey-soy-orange-salmon.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "serving", "time": 15,
+  "macros": {"cal": 560, "protein": 62, "carbs": 25, "fat": 23},
+  "stated": ["protein"],
+  "tags": ["Main meal", "Fish", "High protein", "Quick", "Low carb"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 280, "u": "g", "i": "salmon fillets (about 2)", "a": "Meat"},
+    {"q": 1, "u": "tbsp", "i": "minced garlic", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "soy sauce", "a": "International"},
+    {"q": 1, "u": "tbsp", "i": "honey", "a": "Pantry"},
+    {"q": 0.5, "u": "", "i": "orange, juiced", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt, pepper and a little oil", "a": "Pantry"},
+    {"q": null, "u": "", "i": "roasted vegetables or grain bowl, to serve", "a": "Produce"}]}],
+  "steps": [
+   ["Sear", "Season the salmon and sear it in a little oil for a few minutes, then flip."],
+   ["Glaze", "Add the garlic, soy sauce and honey, basting the salmon with the pan sauce as it cooks."],
+   ["Orange", "Squeeze in fresh orange juice and let it bubble into a glaze."],
+   ["Serve", "Serve over roasted vegetables or a hearty grain bowl, spooning over the sauce."]],
+  "notes": "Seasoning amounts from the on-screen card; 62 g protein as stated in the title. Salmon amount and other macros are estimates (base not included)."
+ }]
+}

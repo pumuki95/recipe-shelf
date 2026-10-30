@@ -1,0 +1,38 @@
+{
+ "src": {"key": "H1YeTa8m1E4", "platform": "YouTube", "creator": "Joseph Abell",
+  "title": "80g protein barbacoa meal prep",
+  "url": "https://www.youtube.com/watch?v=H1YeTa8m1E4", "recipes": 1},
+ "recipes": [{
+  "id": "smoky-barbacoa-rice-meal-prep",
+  "title": "Smoky Barbacoa & Rice Meal Prep",
+  "img": "img/smoky-barbacoa-rice-meal-prep.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "serving", "time": 240,
+  "macros": {"cal": 648, "protein": 80, "carbs": 75, "fat": 12},
+  "stated": ["cal", "protein"],
+  "tags": ["Main meal", "Beef", "Rice", "High protein", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Beef & rice", "items": [
+    {"q": 2.5, "u": "lb", "i": "beef chuck roast, trimmed and cut into chunks (1135 g)", "a": "Meat"},
+    {"q": 2.5, "u": "cup", "i": "uncooked rice (about 7½ cups cooked)", "a": "Pantry"}]},
+   {"name": "Barbacoa base", "items": [
+    {"q": 3, "u": "tbsp", "i": "New Mexico chile powder (molido)", "a": "International"},
+    {"q": 2, "u": "tbsp", "i": "pasilla chile powder", "a": "International"},
+    {"q": 2, "u": "", "i": "chipotle peppers in adobo, plus 2 tbsp adobo sauce", "a": "International"},
+    {"q": 1, "u": "", "i": "large onion, charred", "a": "Produce"},
+    {"q": 6, "u": "", "i": "garlic cloves, roasted and peeled", "a": "Produce"},
+    {"q": 0.5, "u": "cup", "i": "orange juice (1 medium orange)", "a": "Produce"},
+    {"q": 0.25, "u": "cup", "i": "lime juice (2 limes)", "a": "Produce"},
+    {"q": 1, "u": "cup", "i": "low-sodium beef broth", "a": "Pantry"},
+    {"q": 2, "u": "tbsp", "i": "apple cider vinegar", "a": "Pantry"},
+    {"q": 1, "u": "tbsp", "i": "molasses", "a": "Pantry"},
+    {"q": 1.5, "u": "tsp", "i": "kosher salt", "a": "Pantry"}]}],
+  "steps": [
+   ["Rice", "Cook the rice."],
+   ["Char", "Char the onion over an open flame or in a dry skillet; roast the garlic in its skins until soft, then peel."],
+   ["Blend", "Blend all the barbacoa base ingredients until smooth and brick red."],
+   ["Sear", "Sear the beef chunks on all sides in a heavy pot over medium-high heat, in batches."],
+   ["Braise", "Pour the sauce over the beef, add a splash of broth or water to nearly cover, bring to a simmer, then cover and braise at 325°F (or on a low stovetop simmer) for 3–4 hours, until it shreds easily. (A slow cooker works too, about 7 hours.)"],
+   ["Shred & serve", "Shred the beef, discard any large fat, stir back into the sauce and serve over rice. Adjust salt."]],
+  "notes": "Recipe from the video description. 648 cal and 80 g protein per serving including rice (about $3.25); carbs and fat are estimates. Shown with shredded cucumber and chipotle sauce."
+ }]
+}
