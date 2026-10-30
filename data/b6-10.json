@@ -1,0 +1,24 @@
+{
+ "src": {"key": "_Y8vizT-7L4", "platform": "YouTube", "creator": "Razi Khan",
+  "title": "The Best Substitute for Ice Cream",
+  "url": "https://www.youtube.com/watch?v=_Y8vizT-7L4", "recipes": 1},
+ "recipes": [{
+  "id": "mango-greek-yogurt-ice-cream",
+  "title": "5-Minute Mango Greek Yogurt Ice Cream",
+  "img": "img/mango-greek-yogurt-ice-cream.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 5,
+  "macros": {"cal": 170, "protein": 16, "carbs": 25, "fat": 1},
+  "stated": [],
+  "tags": ["Dessert", "Snack", "Vegetarian", "Gluten-free", "Quick"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 300, "u": "g", "i": "frozen mango chunks (about 2 cups)", "a": "Frozen"},
+    {"q": 60, "u": "g", "i": "nonfat Greek yogurt (about ¼ cup)", "a": "Dairy"},
+    {"q": null, "u": "", "i": "sweetener, to taste (optional)", "a": "Baking"},
+    {"q": 1, "u": "", "i": "scoop vanilla protein powder (optional)", "a": "Pantry"}]}],
+  "steps": [
+   ["Load", "Add the frozen mango and Greek yogurt to a food processor, plus sweetener and protein powder if using."],
+   ["Blend", "Blend, stopping to scrape down the sides, until it turns completely smooth and thick like soft-serve — be patient, it takes a few minutes."],
+   ["Serve", "Scoop and eat right away, or freeze briefly for a firmer scoop."]],
+  "notes": "The video shows the ingredients without amounts, so quantities and macros are estimates (macros include the optional protein powder)."
+ }]
+}

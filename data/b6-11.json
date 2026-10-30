@@ -1,0 +1,36 @@
+{
+ "src": {"key": "rj3rAEoHqBk", "platform": "YouTube", "creator": "The Doctor's Kitchen",
+  "title": "My high-protein bars made with anti-inflammatory whole foods (gut-friendly, no-bake)",
+  "url": "https://www.youtube.com/watch?v=rj3rAEoHqBk", "recipes": 1},
+ "recipes": [{
+  "id": "no-bake-chia-protein-bars",
+  "title": "No-Bake Peanut Butter Chia Protein Bars",
+  "img": "img/no-bake-chia-protein-bars.jpg",
+  "part": 1, "t": 0, "servings": 12, "unit": "bar", "time": 30,
+  "macros": {"cal": 350, "protein": 18, "carbs": 19, "fat": 22},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Snack", "Dessert", "Vegan", "High protein", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Base", "items": [
+    {"q": 250, "u": "g", "i": "crunchy peanut butter (100% peanuts)", "a": "Pantry"},
+    {"q": 125, "u": "g", "i": "unflavoured plant-based protein powder (or whey)", "a": "Pantry"},
+    {"q": 100, "u": "g", "i": "ground almonds", "a": "Baking"},
+    {"q": 75, "u": "g", "i": "chia seeds, milled", "a": "Pantry"},
+    {"q": 2, "u": "tbsp", "i": "maple syrup", "a": "Pantry"},
+    {"q": 175, "u": "ml", "i": "water", "a": "Pantry"}]},
+   {"name": "Date layer", "items": [
+    {"q": 100, "u": "g", "i": "Medjool dates, roughly chopped", "a": "Produce"}]},
+   {"name": "Coating & toppings", "items": [
+    {"q": 150, "u": "g", "i": "dark chocolate (80%+), chopped", "a": "Baking"},
+    {"q": null, "u": "", "i": "chopped pistachios, goji berries, coconut flakes, quinoa puffs or cacao nibs", "a": "Pantry"}]}],
+  "steps": [
+   ["Prep", "Line a 20 × 20 cm tin with parchment. Blitz the chia seeds in a blender for about 5 seconds to a fine powder."],
+   ["Soften the dates", "Pour just enough boiling water over the dates to cover, soak 10 minutes, then mash into a spreadable paste."],
+   ["Make the base", "Mix the peanut butter, protein powder, ground almonds, milled chia and maple syrup until crumbly, then add the water and mix about a minute into a soft, play-dough-like mass."],
+   ["Layer", "Press the base firmly into the tin, then spread the date paste evenly over the top."],
+   ["Chill & cut", "Chill at least 30 minutes (up to an hour) until firm, then cut into 12 bars."],
+   ["Dip", "Melt the chocolate over a pan of simmering water. Dip each bar, let the excess drip off, and add toppings while the chocolate is still wet."],
+   ["Set", "Let the chocolate set 5–10 minutes, then keep in the fridge (up to 2 weeks) or freeze."]],
+  "notes": "Recipe and per-bar macros from The Doctor's Kitchen website (6 g fibre per bar)."
+ }]
+}
