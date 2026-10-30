@@ -1,0 +1,32 @@
+{
+ "src": {"key": "FoLLm5FoI-E", "platform": "YouTube", "creator": "Joseph Abell",
+  "title": "I made pizza healthy?!",
+  "url": "https://www.youtube.com/watch?v=FoLLm5FoI-E", "recipes": 1},
+ "recipes": [{
+  "id": "vital-wheat-gluten-pepperoni-pizza",
+  "title": "90g Protein Pepperoni Pizza (Vital Wheat Gluten Crust)",
+  "img": "img/vital-wheat-gluten-pepperoni-pizza.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "slice", "time": 35,
+  "macros": {"cal": 183, "protein": 22, "carbs": 20, "fat": 2},
+  "stated": ["cal", "protein"],
+  "tags": ["Main meal", "Pizza", "High protein", "Baked"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 85, "u": "g", "i": "all-purpose flour (⅔ cup)", "a": "Baking"},
+    {"q": 30, "u": "g", "i": "vital wheat gluten (¼ cup)", "a": "Baking"},
+    {"q": 1.5, "u": "g", "i": "instant yeast (½ tsp)", "a": "Baking"},
+    {"q": 3, "u": "g", "i": "salt (½ tsp)", "a": "Pantry"},
+    {"q": 60, "u": "g", "i": "warm water (¼ cup)", "a": "Pantry"},
+    {"q": 2, "u": "g", "i": "olive oil (½ tsp)", "a": "Pantry"}]},
+   {"name": "Toppings", "items": [
+    {"q": 45, "u": "g", "i": "pizza sauce (3 tbsp)", "a": "Pantry"},
+    {"q": 170, "u": "g", "i": "non-fat mozzarella (6 oz)", "a": "Dairy"},
+    {"q": 22, "u": "", "i": "slices low-fat turkey pepperoni", "a": "Meat"}]}],
+  "steps": [
+   ["Mix", "Mix the flour, vital wheat gluten, yeast and salt, then slowly stir in the warm water (and oil) until a dough forms."],
+   ["Knead & rest", "Knead 5–8 minutes until smooth and elastic, then cover and rest 15 minutes."],
+   ["Par-bake", "Heat the oven to 500°F (260°C). Roll the dough out thin on a parchment-lined tray and bake 3 minutes."],
+   ["Top & bake", "Spread on the sauce, add the mozzarella and pepperoni, and bake about 5 minutes more until the cheese bubbles."]],
+  "notes": "Whole pizza: 730 cal and 90 g protein (stated, about $4.40). Per-slice carbs and fat are estimates."
+ }]
+}

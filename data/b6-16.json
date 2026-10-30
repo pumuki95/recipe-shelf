@@ -1,0 +1,32 @@
+{
+ "src": {"key": "NeEWWqVbw74", "platform": "YouTube", "creator": "Aussie Fitness",
+  "title": "Easy High Protein Meal Prep Pepperoni Pizza Hot Pockets! Only 280 Calories With 25g Protein!",
+  "url": "https://www.youtube.com/watch?v=NeEWWqVbw74", "recipes": 1},
+ "recipes": [{
+  "id": "pepperoni-pizza-hot-pockets",
+  "title": "Pepperoni Pizza Hot Pockets (Greek Yogurt Dough)",
+  "img": "img/pepperoni-pizza-hot-pockets.jpg",
+  "part": 1, "t": 0, "servings": 8, "unit": "pocket", "time": 40,
+  "macros": {"cal": 280, "protein": 25, "carbs": 29, "fat": 6},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Snack", "Main meal", "Pizza", "High protein", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 400, "u": "g", "i": "plain flour", "a": "Baking"},
+    {"q": 2, "u": "tsp", "i": "baking powder", "a": "Baking"},
+    {"q": 410, "u": "g", "i": "low-fat Greek yogurt", "a": "Dairy"},
+    {"q": null, "u": "", "i": "Italian herb seasoning, garlic powder and salt", "a": "Pantry"}]},
+   {"name": "Filling (per pocket)", "items": [
+    {"q": 15, "u": "g", "i": "pizza sauce", "a": "Pantry"},
+    {"q": 20, "u": "g", "i": "low-fat shredded cheese", "a": "Dairy"},
+    {"q": 20, "u": "g", "i": "sliced mini pepperoni (or turkey/beef pepperoni)", "a": "Meat"}]}],
+  "steps": [
+   ["Dough", "Mix the flour, baking powder, Greek yogurt, herbs, garlic powder and salt until crumbly, then knead into a smooth dough ball."],
+   ["Portion", "Cut into 8 equal balls and flatten each as thin as you can."],
+   ["Fill", "Top each with 15 g pizza sauce, 20 g cheese and 20 g pepperoni."],
+   ["Seal", "Pinch the sides and corners into the middle to seal, flip over and press gently to flatten."],
+   ["Cook", "Cook in a pan on low–medium heat, lid on, 5–6 minutes per side until golden and crisp."],
+   ["Store", "Keep in the fridge or freezer and reheat when ready to eat."]],
+  "notes": "Recipe amounts and per-pocket macros from the on-screen captions."
+ }]
+}
