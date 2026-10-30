@@ -1,0 +1,31 @@
+{
+ "src": {"key": "y_TjvtVG1Ck", "platform": "YouTube", "creator": "Rahul Kamat",
+  "title": "3-Ingredient, 70g Protein Alfredo",
+  "url": "https://www.youtube.com/watch?v=y_TjvtVG1Ck", "recipes": 1},
+ "recipes": [{
+  "id": "cottage-cheese-alfredo-cajun-chicken",
+  "title": "Cottage Cheese Alfredo Pasta with Blackened Chicken",
+  "img": "img/cottage-cheese-alfredo-cajun-chicken.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "bowl", "time": 20,
+  "macros": {"cal": 745, "protein": 70, "carbs": 64, "fat": 20},
+  "stated": ["protein"],
+  "tags": ["Main meal", "Chicken", "Pasta", "High protein", "Quick"],
+  "groups": [
+   {"name": "Alfredo sauce", "items": [
+    {"q": 150, "u": "g", "i": "low-fat cottage cheese", "a": "Dairy"},
+    {"q": 60, "u": "ml", "i": "milk", "a": "Dairy"},
+    {"q": 20, "u": "g", "i": "Parmesan, grated", "a": "Dairy"},
+    {"q": null, "u": "", "i": "garlic powder, onion powder, salt and lots of black pepper", "a": "Pantry"}]},
+   {"name": "Pasta & chicken", "items": [
+    {"q": 75, "u": "g", "i": "dry pasta (e.g. rotini)", "a": "Pantry"},
+    {"q": 170, "u": "g", "i": "boneless skinless chicken thighs", "a": "Meat"},
+    {"q": null, "u": "", "i": "smoked paprika, cayenne, garlic powder, onion powder, oregano and salt", "a": "Pantry"}]}],
+  "steps": [
+   ["Chicken", "Season the chicken thighs with the spices and air fry until cooked through and blackened (about 12–15 minutes at 400°F)."],
+   ["Pasta", "Cook the pasta and drain."],
+   ["Sauce", "Blend the cottage cheese, milk, Parmesan, garlic powder, onion powder, salt and pepper until completely smooth."],
+   ["Combine", "Toss the pasta with the sauce over LOW heat just until warm — high heat makes the protein sauce split."],
+   ["Serve", "Slice the chicken over the pasta."]],
+  "notes": "The video gives the ingredients but no amounts; quantities, air-fry time and macros are estimates sized to the stated 70 g protein per bowl."
+ }]
+}

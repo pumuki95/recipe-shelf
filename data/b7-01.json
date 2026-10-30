@@ -1,0 +1,32 @@
+{
+ "src": {"key": "MeDAMraTwaM", "platform": "YouTube", "creator": "The Plant Slant",
+  "title": "Probably SHOULD have something besides coffee…",
+  "url": "https://www.youtube.com/watch?v=MeDAMraTwaM", "recipes": 1},
+ "recipes": [{
+  "id": "oat-flour-protein-pancake-bowls",
+  "title": "On-the-Go Protein Pancake Bowls (3 Flavours)",
+  "img": "img/oat-flour-protein-pancake-bowls.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "bowl", "time": 35,
+  "macros": {"cal": 460, "protein": 45, "carbs": 45, "fat": 12},
+  "stated": [],
+  "tags": ["Breakfast", "Vegetarian", "High protein", "Baked", "Meal prep"],
+  "groups": [
+   {"name": "Batter (per bowl)", "items": [
+    {"q": 1, "u": "", "i": "egg", "a": "Dairy"},
+    {"q": 50, "u": "g", "i": "Greek yogurt", "a": "Dairy"},
+    {"q": 35, "u": "g", "i": "oat flour (or flour of choice)", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "baking powder", "a": "Baking"},
+    {"q": 1, "u": "", "i": "scoop vanilla protein powder (a whey–casein blend bakes best)", "a": "Pantry"},
+    {"q": 80, "u": "ml", "i": "milk", "a": "Dairy"},
+    {"q": 1, "u": "tbsp", "i": "maple syrup or sweetener of choice", "a": "Pantry"}]},
+   {"name": "Flavour options (pick one per bowl)", "items": [
+    {"q": null, "u": "", "i": "Chocolate chip: chocolate chips", "a": "Baking"},
+    {"q": null, "u": "", "i": "Blueberry almond: blueberries and sliced almonds", "a": "Produce"},
+    {"q": null, "u": "", "i": "Banana nut: sliced banana and walnuts (plus cacao nibs if you like)", "a": "Produce"}]}],
+  "steps": [
+   ["Mix", "Heat the oven to 350°F. Whisk the egg, yogurt, oat flour, baking powder, protein powder and milk until smooth, then stir in the maple syrup."],
+   ["Fill", "Pour into a greased oven-safe container (a glass meal-prep dish works) and top with your flavour."],
+   ["Bake", "Bake 30 minutes until set and golden. Make several at once for grab-and-go breakfasts."]],
+  "notes": "Amounts from the video for one bowl. No macros were given, so they are estimates (base batter plus a modest topping). Whey-only protein powder doesn't bake as well — they switched to Quest."
+ }]
+}
