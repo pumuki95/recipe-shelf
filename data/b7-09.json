@@ -1,0 +1,379 @@
+{
+ "src": {
+  "key": "ftQY9hH_ygo",
+  "platform": "YouTube",
+  "creator": "Zhindashi",
+  "title": "I love my salads",
+  "url": "https://www.youtube.com/watch?v=ftQY9hH_ygo",
+  "recipes": 3
+ },
+ "recipes": [
+  {
+   "id": "watermelon-feta-arugula-salad",
+   "title": "Watermelon Feta Arugula Salad",
+   "img": "img/watermelon-feta-arugula-salad.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "salad",
+   "time": 10,
+   "macros": {
+    "cal": 290,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 19
+   },
+   "stated": [],
+   "tags": [
+    "Main meal",
+    "Side dish",
+    "Vegetarian",
+    "Gluten-free",
+    "Quick",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Salad",
+     "items": [
+      {
+       "q": 2,
+       "u": "cup",
+       "i": "arugula",
+       "a": "Produce"
+      },
+      {
+       "q": 0.25,
+       "u": "",
+       "i": "red onion, thinly sliced",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "fresh mint leaves",
+       "a": "Produce"
+      },
+      {
+       "q": 0.5,
+       "u": "cup",
+       "i": "cucumber, diced",
+       "a": "Produce"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "feta, crumbled",
+       "a": "Dairy"
+      },
+      {
+       "q": 1.5,
+       "u": "cup",
+       "i": "watermelon, cubed",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "microgreens",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Shared dressing",
+     "items": [
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "mayo (homemade or store-bought)",
+       "a": "Pantry"
+      },
+      {
+       "q": 2,
+       "u": "tbsp",
+       "i": "olive oil",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "balsamic glaze",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "lemon juice",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and pepper",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Build",
+     "Layer the arugula, red onion, mint, cucumber and feta in a bowl, then top with watermelon cubes and microgreens."
+    ],
+    [
+     "Dressing",
+     "Whisk the mayo, olive oil, balsamic glaze and lemon juice with salt and pepper (enough for several salads)."
+    ],
+    [
+     "Serve",
+     "Pack the dressing separately for meal prep and toss just before eating."
+    ]
+   ],
+   "notes": "One of three meal-prep salads in the video, all with the same 4-ingredient dressing. Ingredients are named but not measured, so amounts and macros (salad plus about a quarter of the dressing) are estimates.",
+   "part": 1
+  },
+  {
+   "id": "mozzarella-tomato-basil-arugula-salad",
+   "title": "Mozzarella, Tomato & Basil Arugula Salad",
+   "img": "img/mozzarella-tomato-basil-arugula-salad.jpg",
+   "t": 21,
+   "servings": 1,
+   "unit": "salad",
+   "time": 10,
+   "macros": {
+    "cal": 330,
+    "protein": 14,
+    "carbs": 10,
+    "fat": 26
+   },
+   "stated": [],
+   "tags": [
+    "Main meal",
+    "Side dish",
+    "Vegetarian",
+    "Gluten-free",
+    "Quick",
+    "Meal prep",
+    "Italian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Salad",
+     "items": [
+      {
+       "q": 60,
+       "u": "g",
+       "i": "fresh mozzarella, sliced",
+       "a": "Dairy"
+      },
+      {
+       "q": 2,
+       "u": "cup",
+       "i": "arugula",
+       "a": "Produce"
+      },
+      {
+       "q": 1,
+       "u": "cup",
+       "i": "cherry tomatoes",
+       "a": "Produce"
+      },
+      {
+       "q": 0.5,
+       "u": "cup",
+       "i": "cucumber, diced",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "fresh basil leaves",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "microgreens",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Shared dressing",
+     "items": [
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "mayo (homemade or store-bought)",
+       "a": "Pantry"
+      },
+      {
+       "q": 2,
+       "u": "tbsp",
+       "i": "olive oil",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "balsamic glaze",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "lemon juice",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and pepper",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Build",
+     "Lay the mozzarella in the bottom of the bowl, then add arugula, cherry tomatoes, cucumber, basil and microgreens."
+    ],
+    [
+     "Dressing",
+     "Whisk the mayo, olive oil, balsamic glaze and lemon juice with salt and pepper (enough for several salads)."
+    ],
+    [
+     "Serve",
+     "Pack the dressing separately for meal prep and toss just before eating."
+    ]
+   ],
+   "notes": "One of three meal-prep salads in the video, all with the same 4-ingredient dressing. Ingredients are named but not measured, so amounts and macros (salad plus about a quarter of the dressing) are estimates.",
+   "part": 2
+  },
+  {
+   "id": "citrus-avocado-feta-salad",
+   "title": "Citrus, Avocado & Feta Salad",
+   "img": "img/citrus-avocado-feta-salad.jpg",
+   "t": 30,
+   "servings": 1,
+   "unit": "salad",
+   "time": 10,
+   "macros": {
+    "cal": 360,
+    "protein": 8,
+    "carbs": 26,
+    "fat": 27
+   },
+   "stated": [],
+   "tags": [
+    "Main meal",
+    "Side dish",
+    "Vegetarian",
+    "Gluten-free",
+    "Quick",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Salad",
+     "items": [
+      {
+       "q": 2,
+       "u": "cup",
+       "i": "arugula",
+       "a": "Produce"
+      },
+      {
+       "q": 0.25,
+       "u": "",
+       "i": "red onion, thinly sliced",
+       "a": "Produce"
+      },
+      {
+       "q": 0.5,
+       "u": "",
+       "i": "grapefruit, segmented",
+       "a": "Produce"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "orange, segmented",
+       "a": "Produce"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "feta, crumbled",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.5,
+       "u": "",
+       "i": "avocado, diced",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "microgreens",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Shared dressing",
+     "items": [
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "mayo (homemade or store-bought)",
+       "a": "Pantry"
+      },
+      {
+       "q": 2,
+       "u": "tbsp",
+       "i": "olive oil",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "balsamic glaze",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "lemon juice",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and pepper",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Build",
+     "Add the arugula and red onion to a bowl, top with grapefruit and orange segments, feta, avocado and microgreens."
+    ],
+    [
+     "Dressing",
+     "Whisk the mayo, olive oil, balsamic glaze and lemon juice with salt and pepper (enough for several salads)."
+    ],
+    [
+     "Serve",
+     "Pack the dressing separately for meal prep and toss just before eating."
+    ]
+   ],
+   "notes": "One of three meal-prep salads in the video, all with the same 4-ingredient dressing. Ingredients are named but not measured, so amounts and macros (salad plus about a quarter of the dressing) are estimates.",
+   "part": 3
+  }
+ ]
+}
