@@ -1,0 +1,44 @@
+{
+  "src": {"key":"PeIEBtlRFws","platform":"YouTube","creator":"Chef Jack Ovens","title":"64g Protein Pasta Meal Prep For The Week","url":"https://www.youtube.com/watch?v=PeIEBtlRFws","recipes":1},
+  "recipes": [{
+    "id":"garlic-beef-red-pepper-pasta","title":"Creamy Garlic Beef Pasta with Roasted Red Pepper Sauce","img":"img/garlic-beef-red-pepper-pasta.jpg","part":1,"t":0,
+    "servings":5,"unit":"serving","time":60,
+    "macros":{"cal":765,"protein":64,"carbs":80,"fat":19},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Pasta","Ground beef","High protein","Meal prep","Freezer friendly"],
+    "groups":[
+      {"name":"Roasted red pepper sauce","items":[
+        {"q":2,"u":"tbsp","i":"extra virgin olive oil","a":"Pantry"},
+        {"q":4,"u":"","i":"large tomatoes, quartered","a":"Produce"},
+        {"q":100,"u":"g","i":"cherry tomatoes","a":"Produce"},
+        {"q":2,"u":"","i":"red bell peppers, halved and seeded","a":"Produce"},
+        {"q":1,"u":"","i":"whole garlic bulb, halved crosswise","a":"Produce"},
+        {"q":2,"u":"tsp","i":"dried Italian herbs","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"chili flakes (optional)","a":"Pantry"},
+        {"q":150,"u":"g","i":"light cream cheese or high-protein cottage cheese","a":"Dairy"},
+        {"q":35,"u":"g","i":"Parmesan, grated","a":"Dairy"},
+        {"q":null,"u":"","i":"salt and black pepper","a":"Pantry","staple":true}]},
+      {"name":"Pasta","items":[
+        {"q":500,"u":"g","i":"dry pasta (fusilli)","a":"Pantry"}]},
+      {"name":"Garlic beef","items":[
+        {"q":null,"u":"","i":"spray oil","a":"Pantry","staple":true},
+        {"q":1,"u":"kg","i":"lean beef mince (5% fat)","a":"Meat"},
+        {"q":2,"u":"tsp","i":"dried Italian herbs","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+        {"q":2,"u":"tsp","i":"garlic powder","a":"Pantry"},
+        {"q":null,"u":"","i":"salt and black pepper","a":"Pantry","staple":true}]},
+      {"name":"To finish","items":[
+        {"q":35,"u":"g","i":"Parmesan, grated","a":"Dairy"},
+        {"q":null,"u":"","i":"flat-leaf parsley, chopped (optional)","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Roast the vegetables","Spread the tomatoes, cherry tomatoes, peppers and garlic on a lined tray. Drizzle with the oil, season with the herbs, paprika, chili, salt and pepper and toss. Roast at 400 °F (200 °C) for 30–40 minutes (or air fry at 375 °F for 18–22 minutes)."],
+      ["Cook the pasta","Boil the pasta in well-salted water for 1 minute less than the packet says. Drain, reserving some pasta water."],
+      ["Brown the beef","Heat a large pan until just smoking, add a little spray oil and the beef, spread it out and leave it a couple of minutes to crust. Add the herbs, paprika, garlic powder, salt and pepper and cook 6–8 minutes over high heat until the liquid evaporates and the beef browns."],
+      ["Blend the sauce","Peel the skins off the peppers. Tip everything from the tray into a blender, squeezing the garlic out of its skins. Add the cream cheese and 35 g Parmesan and blend until smooth. Season, then thin with a little pasta water to a thick, pourable sauce."],
+      ["Combine off the heat","In a large bowl, toss the pasta, beef and its juices and all the sauce. Mixing off the heat stops the cheese from splitting. Loosen with pasta water if needed."],
+      ["Portion","Divide into 5 containers (about 400–450 g each), top with the remaining Parmesan and parsley. Cool 15–20 minutes before lidding."]
+    ],
+    "notes":"Recipe from the video description; per-portion macros come from the on-screen card. Keeps 4 days in the fridge or 3 months frozen (add the Parmesan after reheating if freezing). Reheat in the microwave with a splash of water or stock."
+  }]
+}

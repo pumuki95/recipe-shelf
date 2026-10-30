@@ -1,0 +1,22 @@
+{
+  "src": {"key":"Q7s0teP3OY0","platform":"YouTube","creator":"Justin Anderson","title":"Strawberry Protein Ice Cream (37g Protein)","url":"https://www.youtube.com/watch?v=Q7s0teP3OY0","recipes":1},
+  "recipes": [{
+    "id":"strawberry-protein-creami","title":"Strawberry Protein Ice Cream (Ninja Creami)","img":"img/strawberry-protein-creami.jpg","part":1,"t":0,
+    "servings":1,"unit":"pint","time":5,
+    "macros":{"cal":360,"protein":37,"carbs":39,"fat":5},"stated":["protein"],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","High protein","Meal prep"],
+    "groups":[{"name":"Base","items":[
+      {"q":0.75,"u":"cup","i":"Fairlife milk","a":"Dairy"},
+      {"q":0.25,"u":"cup","i":"Greek yogurt","a":"Dairy"},
+      {"q":1,"u":"","i":"scoop vanilla protein powder","a":"Pantry"},
+      {"q":1,"u":"tbsp","i":"honey","a":"Pantry"},
+      {"q":1,"u":"cup","i":"strawberries, chopped","a":"Produce"},
+      {"q":null,"u":"","i":"splash of almond milk, for the respin","a":"Dairy"}]}],
+    "steps":[
+      ["Mix","In a Creami pint, mix the milk, yogurt, protein powder and honey, then stir in the chopped strawberries."],
+      ["Freeze","Lid on and freeze overnight."],
+      ["Spin","Spin on Lite Ice Cream, add a splash of almond milk and run Mix-In."]
+    ],
+    "notes":"Amounts are as said in the video; 37 g protein for the pint is as stated, other macros are estimates. Freezing time not included."
+  }]
+}
