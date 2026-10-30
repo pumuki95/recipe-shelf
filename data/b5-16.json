@@ -1,0 +1,35 @@
+{
+  "src": {"key":"GV1MWu7crNk","platform":"YouTube","creator":"Exercise4CheatMeals","title":"Cook Once, Eat All Week, & Lose Fat","url":"https://www.youtube.com/watch?v=GV1MWu7crNk","recipes":1},
+  "recipes": [{
+    "id":"bbq-chicken-sheet-pan-pizza","title":"High-Protein BBQ Chicken Sheet Pan Pizza","img":"img/bbq-chicken-sheet-pan-pizza.jpg","part":1,"t":0,
+    "servings":8,"unit":"slice","time":210,
+    "macros":{"cal":506,"protein":48,"carbs":51,"fat":13},"stated":["cal","protein","carbs","fat"],
+    "tags":["Main meal","Pizza","Chicken","High protein","Meal prep","Sheet pan"],
+    "groups":[
+      {"name":"Dough","items":[
+        {"q":420,"u":"g","i":"all-purpose flour","a":"Baking"},
+        {"q":105,"u":"g","i":"vital wheat gluten","a":"Baking"},
+        {"q":6,"u":"g","i":"salt","a":"Pantry","staple":true},
+        {"q":7,"u":"g","i":"instant yeast","a":"Baking"},
+        {"q":340,"u":"g","i":"warm water","a":"Pantry","staple":true},
+        {"q":16,"u":"g","i":"olive oil, for the pan","a":"Pantry"}]},
+      {"name":"Toppings","items":[
+        {"q":280,"u":"g","i":"no-sugar-added BBQ sauce (e.g. Sweet Baby Ray's)","a":"Pantry"},
+        {"q":422,"u":"g","i":"pre-cooked chicken, chopped (e.g. Costco chipotle chicken)","a":"Meat"},
+        {"q":224,"u":"g","i":"fat-free mozzarella, shredded","a":"Dairy"},
+        {"q":294,"u":"g","i":"part-skim mozzarella, freshly shredded","a":"Dairy"},
+        {"q":30,"u":"g","i":"red onion, thickly sliced and rinsed","a":"Produce"},
+        {"q":null,"u":"","i":"fresh cilantro, to garnish","a":"Produce"}]}
+    ],
+    "steps":[
+      ["Mix the dough","Whisk the flour, vital wheat gluten, salt and yeast in a large bowl. Pour in the warm water and stir with a spoon until it gets hard to mix, then use a wet hand to squeeze and press until all the flour is hydrated. (Shortcut: pulse the dry ingredients in a food processor for 30 seconds, stream in the water and run 45–50 seconds more.)"],
+      ["First rise","Cover and leave somewhere warm for 60–90 minutes. Tip: heat the oven for exactly 60 seconds, switch it off and rise the dough inside."],
+      ["Stretch and fold","With a wet hand, stretch the dough up and fold it over itself, turning the bowl a quarter turn each time, until the whole dough has been folded. Flip, round it against the bowl, cover and rise another 60–90 minutes."],
+      ["Shape","Spread the olive oil over a sheet pan, including the sides (add 10 g more if your pan tends to stick). Let the dough hang so it forms a rectangle, set it in the pan and press out with your fingertips to cover 70–80% of the pan. Cover and rest 15–20 minutes, then stretch it to the edges."],
+      ["Top","Spread the BBQ sauce, leaving a ½-inch border. Scatter the chicken, then the fat-free mozzarella, the part-skim mozzarella and the red onion."],
+      ["Bake","Bake on the bottom rack of a 450 °F oven for 20–24 minutes until the cheese is well browned. Slice into 8, sprinkle with cilantro."],
+      ["Reheat","Reheat a slice in a 350 °F air fryer for 2–4 minutes."]
+    ],
+    "notes":"Amounts are as said in the video; per-slice macros come from the on-screen card. Shred the part-skim mozzarella yourself — pre-shredded won't melt as well. Swapping the vital wheat gluten for more flour removes about 80 g of protein from the whole pizza. Mostly hands-off rising time."
+  }]
+}

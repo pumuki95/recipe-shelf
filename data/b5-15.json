@@ -1,0 +1,37 @@
+{
+  "src": {"key":"Z5iIZUiXGro","platform":"YouTube","creator":"Sam Jose","title":"POV: it's shark week","url":"https://www.youtube.com/watch?v=Z5iIZUiXGro","recipes":1},
+  "recipes": [{
+    "id":"steak-frites-salsa-verde","title":"Steak Frites with Green Herb Sauce","img":"img/steak-frites-salsa-verde.jpg","part":1,"t":0,
+    "servings":1,"unit":"serving","time":60,
+    "macros":{"cal":1150,"protein":55,"carbs":70,"fat":72},"stated":[],
+    "tags":["Main meal","Beef","Potatoes","High protein","Gluten-free"],
+    "groups":[
+      {"name":"Fries","items":[
+        {"q":2,"u":"","i":"russet potatoes, cut into thin fries","a":"Produce","est":true},
+        {"q":null,"u":"","i":"neutral oil, for frying","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"flaky salt","a":"Pantry","staple":true}]},
+      {"name":"Green sauce","items":[
+        {"q":1,"u":"","i":"shallot, finely chopped","a":"Produce","est":true},
+        {"q":2,"u":"","i":"garlic cloves","a":"Produce","est":true},
+        {"q":1,"u":"","i":"lemon, zest and juice","a":"Produce","est":true},
+        {"q":1,"u":"cup","i":"soft herbs (parsley, chives and more), packed","a":"Produce","est":true},
+        {"q":2,"u":"","i":"anchovy fillets","a":"International","est":true},
+        {"q":0.25,"u":"cup","i":"olive oil","a":"Pantry","est":true},
+        {"q":1,"u":"tbsp","i":"green onion, sliced, to finish","a":"Produce","est":true}]},
+      {"name":"Steak","items":[
+        {"q":1,"u":"","i":"strip or ribeye steak (about 12 oz)","a":"Meat","est":true},
+        {"q":null,"u":"","i":"kosher salt","a":"Pantry","staple":true},
+        {"q":2,"u":"tbsp","i":"butter","a":"Dairy","est":true},
+        {"q":2,"u":"","i":"garlic cloves, smashed","a":"Produce","est":true},
+        {"q":3,"u":"","i":"sprigs rosemary or thyme","a":"Produce","est":true}]}
+    ],
+    "steps":[
+      ["Fries","Parboil the cut potatoes until just tender, drain and dry. Fry once at a lower heat until pale, then again in hot oil until golden and crisp. Salt and set aside on a rack."],
+      ["Green sauce","Blitz the shallot, garlic, lemon zest and juice, herbs, anchovies and olive oil in a small food processor into a loose, chunky sauce. Season and set aside."],
+      ["Sear the steak","Salt the steak well on all sides and sear in a ripping hot pan, pressing it down for good contact, turning until well browned."],
+      ["Baste","Add the butter, garlic and herb sprigs and spoon the foaming butter over the steak until done to your liking. Rest 5–10 minutes."],
+      ["Plate","Slice the steak against the grain, spoon the green sauce over it, sprinkle with green onion and pile the fries alongside."]
+    ],
+    "notes":"No amounts are given in the video, so all amounts and macros are estimates from what's shown. Steak is a good source of iron."
+  }]
+}
