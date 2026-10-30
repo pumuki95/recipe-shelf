@@ -1,0 +1,87 @@
+{
+  "src": {"key":"99y4m0pM0BE","platform":"YouTube","creator":"Megan The Trainer","title":"4 High-Protein Ninja Creami Recipes (only 3 ingredients each)","url":"https://www.youtube.com/watch?v=99y4m0pM0BE","recipes":4},
+  "recipes": [
+  {
+    "id":"apple-pie-creami","title":"Apple Pie Protein Ice Cream (Ninja Creami)","img":"img/apple-pie-creami.jpg","part":1,"t":17,
+    "servings":1,"unit":"pint","time":20,
+    "macros":{"cal":480,"protein":31,"carbs":62,"fat":13},"stated":[],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":170,"u":"g","i":"vanilla Greek yogurt (¾ cup), plus 1–2 tbsp for the respin","a":"Dairy"},
+        {"q":1,"u":"","i":"apple, diced","a":"Produce","est":true},
+        {"q":null,"u":"","i":"cinnamon and pumpkin pie spice","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"honey","a":"Pantry","est":true},
+        {"q":5,"u":"oz","i":"high-protein milk (e.g. Fairlife), to the fill line","a":"Dairy"}]},
+      {"name":"Mix-in","items":[
+        {"q":1,"u":"","i":"apple pie Larabar, broken up","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Cook the apples","Cook the diced apples with cinnamon, pumpkin pie spice and a little honey until soft. Cool."],
+      ["Mix and freeze","Stir the apples into the yogurt in a Creami pint, top up with milk to the fill line, mix well and freeze 24 hours."],
+      ["Spin","Knock down any bulge, then spin on Smoothie Bowl. It will be powdery."],
+      ["Mix in","Dig a hole, add 1–2 tbsp yogurt and the broken-up Larabar, pushing it to the bottom, then Re-spin."]
+    ],
+    "notes":"Amounts are as said in the video. No macros were given, so all macros and the apple and honey amounts are estimates. No protein powder or pudding mix needed."
+  },
+  {
+    "id":"almond-joy-creami","title":"Almond Joy Protein Ice Cream (Ninja Creami)","img":"img/almond-joy-creami.jpg","part":2,"t":239,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":380,"protein":31,"carbs":17,"fat":24},"stated":[],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","High protein","Low carb","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":1,"u":"","i":"cup zero-sugar toasted coconut vanilla Greek yogurt (e.g. Chobani)","a":"Dairy"},
+        {"q":32,"u":"g","i":"almond butter (2 tbsp, just almonds)","a":"Pantry"},
+        {"q":0.5,"u":"","i":"bottle chocolate protein shake (e.g. Core Power), to the fill line","a":"Dairy"}]},
+      {"name":"Mix-in","items":[
+        {"q":1,"u":"","i":"small handful unsweetened shredded coconut (or almonds)","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Mix and freeze","Mix the almond butter into the yogurt in a Creami pint, add the protein shake to the max fill line, mix and freeze 24 hours."],
+      ["Spin","Spin on Smoothie Bowl."],
+      ["Mix in","Sprinkle in the shredded coconut and Re-spin — no extra liquid needed."]
+    ],
+    "notes":"Amounts are as said in the video. No macros were given, so they are estimates."
+  },
+  {
+    "id":"strawberry-coconut-creami","title":"Strawberry Coconut Protein Ice Cream (Ninja Creami)","img":"img/strawberry-coconut-creami.jpg","part":3,"t":444,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":310,"protein":25,"carbs":20,"fat":16},"stated":[],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","Low carb","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":1,"u":"","i":"cup zero-sugar toasted coconut vanilla Greek yogurt (e.g. Chobani)","a":"Dairy"},
+        {"q":4,"u":"","i":"large strawberries, diced","a":"Produce"},
+        {"q":193,"u":"ml","i":"high-protein milk (about ¾ cup), to the fill line","a":"Dairy"}]},
+      {"name":"Mix-ins","items":[
+        {"q":1.5,"u":"tbsp","i":"coconut flakes","a":"Baking"},
+        {"q":1.5,"u":"tbsp","i":"pecans, chopped","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Mix and freeze","Stir the strawberries into the yogurt in a Creami pint, top up with milk, mix well and freeze 24 hours."],
+      ["Spin","Knock down any bulge and spin on Smoothie Bowl."],
+      ["Mix in","Add the coconut flakes and pecans and run Mix-In (or Re-spin for a fluffier texture)."]
+    ],
+    "notes":"Amounts are as said in the video. No macros were given, so they are estimates. Tastes like strawberry shortcake."
+  },
+  {
+    "id":"blue-hawaiian-creami","title":"Blue Hawaiian Protein Ice Cream (Ninja Creami)","img":"img/blue-hawaiian-creami.jpg","part":4,"t":634,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":215,"protein":24,"carbs":27,"fat":3},"stated":[],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","High protein","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":1,"u":"","i":"mango pineapple Oikos Pro yogurt drink (23 g protein)","a":"Dairy"},
+        {"q":1,"u":"tsp","i":"blue spirulina (optional, for color)","a":"Pantry"},
+        {"q":120,"u":"g","i":"crushed pineapple in juice, to the fill line","a":"Pantry","est":true}]}
+    ],
+    "steps":[
+      ["Mix and freeze","Pour the yogurt drink into a Creami pint, froth in the blue spirulina, top up with crushed pineapple and freeze 24 hours."],
+      ["Spin","Spin on Smoothie Bowl. If it's powdery, add a splash of pineapple juice or milk and Re-spin."],
+      ["Top","Sprinkle with coconut flakes or chopped pecans if you like some crunch."]
+    ],
+    "notes":"Amounts are as said in the video (pineapple is 'to the fill line'). No macros were given, so they are estimates. Her favorite of the four."
+  }
+  ]
+}

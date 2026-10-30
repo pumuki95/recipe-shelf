@@ -1,0 +1,22 @@
+{
+  "src": {"key":"CQL1IW8vadk","platform":"YouTube","creator":"Megan The Trainer","title":"Thicc Ninja Creami Recipe","url":"https://www.youtube.com/watch?v=CQL1IW8vadk","recipes":1},
+  "recipes": [{
+    "id":"thick-pb-chocolate-creami","title":"Thick PB Chocolate Protein Ice Cream (Ninja Creami)","img":"img/thick-pb-chocolate-creami.jpg","part":1,"t":0,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":397,"protein":51.5,"carbs":21.1,"fat":12.5},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","Vegetarian","High protein","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":1,"u":"cup","i":"vanilla Greek yogurt, plus 1 big tbsp for the respin","a":"Dairy"},
+        {"q":3,"u":"tbsp","i":"powdered peanut butter (e.g. PBfit)","a":"Pantry"},
+        {"q":0.25,"u":"cup","i":"chocolate protein powder","a":"Pantry"},
+        {"q":0.5,"u":"cup","i":"milk","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Mix and freeze","Mix the yogurt, powdered peanut butter, protein powder and milk really well in a Creami pint and freeze 24 hours."],
+      ["Spin","Spin on the Smoothie Bowl setting — it will look powdery, which is what you want."],
+      ["Respin","Dig a hole in the middle, add a big tablespoon of Greek yogurt and Re-spin until thick and creamy."]
+    ],
+    "notes":"Recipe from the video; whole-pint macros come from the on-screen nutrition card. The Greek yogurt base is what makes it thick like ice cream. Freezing time not included."
+  }]
+}
