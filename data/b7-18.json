@@ -1,0 +1,31 @@
+{
+ "src": {"key": "A_gUfK4Y_qA", "platform": "YouTube", "creator": "BREADOR",
+  "title": "Just Oats & Spinach! No Flour, No Sugar, No Yeast",
+  "url": "https://www.youtube.com/watch?v=A_gUfK4Y_qA", "recipes": 1},
+ "recipes": [{
+  "id": "spinach-oat-flatbread",
+  "title": "Spinach Oat Flatbread (No Flour, No Yeast)",
+  "img": "img/spinach-oat-flatbread.jpg",
+  "part": 1, "t": 0, "servings": 8, "unit": "flatbread", "time": 40,
+  "macros": {"cal": 130, "protein": 4, "carbs": 18, "fat": 5},
+  "stated": ["cal"],
+  "tags": ["Bread", "Side dish", "Vegan", "Gluten-free", "Freezer friendly"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 2.25, "u": "cup", "i": "rolled oats, ground into flour and sifted (about 200 g), plus extra for rolling", "a": "Pantry"},
+    {"q": 60, "u": "g", "i": "fresh spinach", "a": "Produce"},
+    {"q": 20, "u": "g", "i": "cilantro (or more spinach)", "a": "Produce"},
+    {"q": 1, "u": "", "i": "inch fresh ginger (optional)", "a": "Produce"},
+    {"q": 1, "u": "", "i": "garlic clove (optional)", "a": "Produce"},
+    {"q": 70, "u": "g", "i": "water (⅓ cup)", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 2, "u": "tbsp", "i": "olive oil", "a": "Pantry"}]}],
+  "steps": [
+   ["Oat flour", "Grind the oats into a fine flour and sift."],
+   ["Green purée", "Blend the spinach, cilantro, ginger, garlic and water until smooth and creamy."],
+   ["Dough", "Pour into a bowl, add the salt and stir in about 200 g oat flour gradually (add more if sticky). Add the olive oil and knead into a smooth, cohesive dough."],
+   ["Shape", "Roll into a log on an oat-floured surface, cut into 8 equal pieces and shape into balls. Dip each in oat flour and roll out into thin rounds, brushing off excess flour."],
+   ["Cook", "Cook in a hot dry non-stick pan, flipping whenever bubbles appear and pressing gently, until puffed and spotted. For extra puff, hold briefly over an open flame."],
+   ["Serve", "Brush with a little butter while warm if you like. Serve with garlic-mint yogurt, eggs, hummus, feta or grilled chicken."]],
+  "notes": "Recipe from the video description; about 130 cal per flatbread when making 8, as stated. Other macros are estimates."
+ }]
+}
