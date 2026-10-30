@@ -1,0 +1,32 @@
+{
+ "src": {"key": "RSL-9dnOUyM", "platform": "YouTube", "creator": "Rahul Kamat",
+  "title": "Stop Buying Protein Bars. Make These For $1.",
+  "url": "https://www.youtube.com/watch?v=RSL-9dnOUyM", "recipes": 1},
+ "recipes": [{
+  "id": "fudgy-chocolate-protein-bars",
+  "title": "Fudgy Chocolate Protein Bars",
+  "img": "img/fudgy-chocolate-protein-bars.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "bar", "time": 20,
+  "macros": {"cal": 210, "protein": 18, "carbs": 16, "fat": 8},
+  "stated": [],
+  "tags": ["Snack", "Dessert", "Vegetarian", "High protein", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Base", "items": [
+    {"q": 60, "u": "g", "i": "rolled oats, blended into flour", "a": "Pantry"},
+    {"q": 60, "u": "g", "i": "chocolate protein powder (2 scoops)", "a": "Pantry"},
+    {"q": 30, "u": "g", "i": "peanut butter powder", "a": "Pantry"},
+    {"q": 15, "u": "g", "i": "unsweetened cocoa powder", "a": "Baking"},
+    {"q": 120, "u": "g", "i": "Greek yogurt", "a": "Dairy"},
+    {"q": 60, "u": "ml", "i": "unsweetened almond milk, as needed", "a": "Dairy"}]},
+   {"name": "Chocolate top", "items": [
+    {"q": 50, "u": "g", "i": "dark chocolate", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "coconut oil", "a": "Pantry"},
+    {"q": null, "u": "", "i": "flaky sea salt", "a": "Pantry"}]}],
+  "steps": [
+   ["Base", "Mix the oat flour, protein powder, peanut butter powder and cocoa, then add the Greek yogurt and enough almond milk to form a thick dough."],
+   ["Press", "Press evenly into a small lined tin."],
+   ["Top", "Melt the dark chocolate with the coconut oil and pour over the base. Sprinkle with flaky salt."],
+   ["Set & slice", "Freeze until firm, then slice into 5 bars. Keep chilled."]],
+  "notes": "The short shows the ingredients but no amounts or macros (the full version is on his channel), so quantities and macros are estimates. About $0.94 per bar as stated."
+ }]
+}
