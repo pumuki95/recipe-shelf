@@ -1,0 +1,40 @@
+{
+ "src": {"key": "4s5PT_rl4cg", "platform": "YouTube", "creator": "Joseph Abell",
+  "title": "I made cinnamon rolls healthy?!",
+  "url": "https://www.youtube.com/watch?v=4s5PT_rl4cg", "recipes": 1},
+ "recipes": [{
+  "id": "mini-cinnamon-roll-skillet",
+  "title": "Mini Cinnamon Roll Skillet",
+  "img": "img/mini-cinnamon-roll-skillet.jpg",
+  "part": 1, "t": 0, "servings": 7, "unit": "roll", "time": 40,
+  "macros": {"cal": 64, "protein": 5, "carbs": 7, "fat": 1},
+  "stated": ["cal", "protein"],
+  "tags": ["Dessert", "Breakfast", "Snack", "Vegetarian", "High protein", "Baked"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 30, "u": "g", "i": "vital wheat gluten (¼ cup)", "a": "Baking"},
+    {"q": 40, "u": "g", "i": "all-purpose flour (¼ cup)", "a": "Baking"},
+    {"q": 52, "u": "g", "i": "nonfat Greek yogurt (3 tbsp)", "a": "Dairy"},
+    {"q": 30, "u": "g", "i": "unsweetened almond milk (2 tbsp)", "a": "Dairy"},
+    {"q": 7.5, "u": "g", "i": "low-calorie sweetener (½ tbsp)", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "baking powder", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "instant yeast", "a": "Baking"},
+    {"q": 0.125, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 0.25, "u": "tsp", "i": "vanilla extract", "a": "Baking"}]},
+   {"name": "Filling", "items": [
+    {"q": 2, "u": "tsp", "i": "light butter, softened", "a": "Dairy"},
+    {"q": 2, "u": "tsp", "i": "brown sugar substitute (e.g. Swerve Brown)", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "cinnamon", "a": "Baking"}]},
+   {"name": "Frosting", "items": [
+    {"q": 30, "u": "g", "i": "nonfat Greek yogurt (2 tbsp)", "a": "Dairy"},
+    {"q": 1, "u": "tsp", "i": "zero-calorie powdered sweetener", "a": "Baking"},
+    {"q": null, "u": "", "i": "dash of cinnamon and vanilla", "a": "Baking"}]}],
+  "steps": [
+   ["Dough", "Combine all the dough ingredients and knead 4 minutes until smooth and elastic. Rest 10 minutes."],
+   ["Fill", "Roll into an 8 × 10 in rectangle, spread with the softened butter and sprinkle with the brown sweetener and cinnamon."],
+   ["Roll & slice", "Roll up tightly from the long edge and slice into 7 rolls."],
+   ["Bake", "Arrange spiral side up in a lightly greased 6-inch oven-safe skillet and bake at 350°F for 17 minutes, until golden but still soft in the centre."],
+   ["Frost", "Mix the frosting and spoon over the warm rolls."]],
+  "notes": "Whole skillet: 450 cal and 32 g protein (stated, about $1.30). Per-roll carbs and fat are estimates."
+ }]
+}

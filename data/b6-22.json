@@ -1,0 +1,34 @@
+{
+ "src": {"key": "7TEnUTVOeBM", "platform": "YouTube", "creator": "KWOOWK",
+  "title": "Cinnamon Rolls But Healthier",
+  "url": "https://www.youtube.com/watch?v=7TEnUTVOeBM", "recipes": 1},
+ "recipes": [{
+  "id": "whole-wheat-date-cinnamon-rolls",
+  "title": "Whole Wheat Date-Filled Cinnamon Rolls",
+  "img": "img/whole-wheat-date-cinnamon-rolls.jpg",
+  "part": 1, "t": 0, "servings": 12, "unit": "roll", "time": 150,
+  "macros": {"cal": 205, "protein": 5, "carbs": 46, "fat": 1.5},
+  "stated": [],
+  "tags": ["Dessert", "Breakfast", "Vegetarian", "Bread", "Baked"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 3, "u": "cup", "i": "whole wheat flour", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 2.25, "u": "tsp", "i": "instant yeast (1 packet)", "a": "Baking"},
+    {"q": 0.75, "u": "cup", "i": "warm milk, plus a little for brushing", "a": "Dairy"},
+    {"q": 0.5, "u": "cup", "i": "unsweetened applesauce", "a": "Pantry"},
+    {"q": 1, "u": "", "i": "egg", "a": "Dairy"},
+    {"q": 0.25, "u": "cup", "i": "maple syrup", "a": "Pantry"}]},
+   {"name": "Date filling", "items": [
+    {"q": 12, "u": "", "i": "Medjool dates, pitted", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "cinnamon (a lot!)", "a": "Baking"}]}],
+  "steps": [
+   ["Dough", "Whisk the flour and salt. Stir the yeast into the warm milk and add it, then whisk the applesauce, egg and maple syrup together and add that too."],
+   ["Knead & rise", "Mix into a dough and knead until it springs back when pressed. Cover and let rise about 1 hour."],
+   ["Filling", "Soak the dates in hot water for a few minutes, drain, and blend with the cinnamon into a thick paste."],
+   ["Roll", "Roll the dough into a large rectangle, spread the date paste over it, roll it up tightly and slice into 12 thick rolls."],
+   ["Proof", "Arrange in a baking dish and proof 45 minutes."],
+   ["Bake", "Brush with milk and bake about 25 minutes at 350°F until golden."]],
+  "notes": "The video names the ingredients but gives no amounts or oven temperature, so quantities, the 350°F bake and the macros are estimates."
+ }]
+}
