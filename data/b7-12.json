@@ -1,0 +1,27 @@
+{
+ "src": {"key": "pXvsOUPXtNs", "platform": "YouTube", "creator": "Joseph Abell",
+  "title": "this smoothie bowl seems impossible… (120g protein)",
+  "url": "https://www.youtube.com/watch?v=pXvsOUPXtNs", "recipes": 1},
+ "recipes": [{
+  "id": "pb-chocolate-protein-smoothie-bowl",
+  "title": "120g Protein Peanut Butter Chocolate Smoothie Bowl",
+  "img": "img/pb-chocolate-protein-smoothie-bowl.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "bowl", "time": 5,
+  "macros": {"cal": 850, "protein": 120, "carbs": 68, "fat": 10},
+  "stated": ["protein"],
+  "tags": ["Breakfast", "Dessert", "Vegetarian", "Gluten-free", "High protein", "Quick"],
+  "groups": [
+   {"name": "Smoothie bowl", "items": [
+    {"q": 1, "u": "cup", "i": "frozen banana slices", "a": "Frozen"},
+    {"q": 1.5, "u": "cup", "i": "0% fat Greek yogurt", "a": "Dairy"},
+    {"q": 4, "u": "tbsp", "i": "peanut butter powder", "a": "Pantry"},
+    {"q": 2, "u": "", "i": "scoops chocolate protein powder", "a": "Pantry"},
+    {"q": 0.5, "u": "cup", "i": "Fairlife milk", "a": "Dairy"}]},
+   {"name": "Topping", "items": [
+    {"q": null, "u": "", "i": "chopped dark chocolate", "a": "Baking"}]}],
+  "steps": [
+   ["Blend", "Blend the frozen banana, Greek yogurt, peanut butter powder, protein powder and milk until thick and smooth (add milk a splash at a time if needed)."],
+   ["Serve", "Spoon into a bowl and top with chopped chocolate."]],
+  "notes": "Protein breakdown from the video: banana 1 g, yogurt 36 g, PB powder 16 g, protein powder 60 g, milk 7 g = 120 g. Calories, carbs and fat are estimates; it's a big bowl — easy to split in two. (The video says '4 tsp' PB powder but the 16 g protein matches about 4 tbsp.)"
+ }]
+}

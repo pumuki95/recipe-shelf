@@ -1,0 +1,46 @@
+{
+ "src": {"key": "BNG0mH0dpgI", "platform": "YouTube", "creator": "Joseph Abell",
+  "title": "86g protein honey garlic gochujang chicken",
+  "url": "https://www.youtube.com/watch?v=BNG0mH0dpgI", "recipes": 1},
+ "recipes": [{
+  "id": "slow-cooker-honey-garlic-gochujang-chicken",
+  "title": "Slow Cooker Honey Garlic Gochujang Chicken with Cucumber Crema",
+  "img": "img/slow-cooker-honey-garlic-gochujang-chicken.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "serving", "time": 360,
+  "macros": {"cal": 607, "protein": 86, "carbs": 20, "fat": 12},
+  "stated": ["cal", "protein"],
+  "tags": ["Main meal", "Chicken", "High protein", "Meal prep"],
+  "groups": [
+   {"name": "Chicken", "items": [
+    {"q": 1815, "u": "g", "i": "boneless skinless chicken breasts (4 lb)", "a": "Meat"},
+    {"q": 0.5, "u": "cup", "i": "reduced-sodium soy sauce", "a": "International"},
+    {"q": 0.5, "u": "cup", "i": "sugar-free honey", "a": "Pantry"},
+    {"q": 0.5, "u": "cup", "i": "chicken broth", "a": "Pantry"},
+    {"q": 0.25, "u": "cup", "i": "rice vinegar (or apple cider vinegar)", "a": "International"},
+    {"q": 1, "u": "tbsp", "i": "sesame oil", "a": "International"},
+    {"q": 1, "u": "tbsp", "i": "fresh ginger, minced", "a": "Produce"},
+    {"q": 4, "u": "", "i": "garlic cloves, minced", "a": "Produce"},
+    {"q": 2, "u": "tbsp", "i": "gochujang", "a": "International"},
+    {"q": 0.5, "u": "tsp", "i": "crushed red pepper flakes", "a": "Pantry"},
+    {"q": 0.5, "u": "tsp", "i": "black pepper", "a": "Pantry"},
+    {"q": 3, "u": "tbsp", "i": "cilantro, chopped (divided)", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "sesame seeds (optional)", "a": "Pantry"}]},
+   {"name": "Cucumber cilantro crema", "items": [
+    {"q": 1, "u": "cup", "i": "plain Greek yogurt", "a": "Dairy"},
+    {"q": 0.5, "u": "cup", "i": "cucumber, grated and squeezed", "a": "Produce"},
+    {"q": 0.25, "u": "cup", "i": "fresh cilantro, finely chopped", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "lime juice", "a": "Produce"},
+    {"q": 1, "u": "", "i": "small garlic clove, grated", "a": "Produce"},
+    {"q": 2, "u": "tbsp", "i": "water", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "To serve", "items": [
+    {"q": null, "u": "", "i": "cooked rice and shredded cucumber", "a": "Pantry"}]}],
+  "steps": [
+   ["Sauce", "Put the chicken in the slow cooker. Whisk the soy sauce, honey, broth, vinegar, sesame oil, ginger, garlic, gochujang, pepper flakes, black pepper and 2 tbsp cilantro and pour over."],
+   ["Slow cook", "Cook on low 5–6 hours, medium 4 hours, or high 2½–3 hours."],
+   ["Shred", "Shred the chicken in the pot, stir it back into the sauce and give it another 30 minutes on low."],
+   ["Crema", "Mix the yogurt, squeezed cucumber, cilantro, lime juice, garlic, salt and pepper, thin with 1–2 tbsp water and chill 15–30 minutes."],
+   ["Serve", "Stir in the remaining cilantro, garnish with sesame seeds, and serve over rice and cucumber with the crema drizzled on top."]],
+  "notes": "Recipe from the video description. 607 cal and 86 g protein per serving of chicken as stated (about $3.15); crema is 31 cal / 3 g protein per serving (makes 8). Rice not included. Carbs and fat are estimates."
+ }]
+}
