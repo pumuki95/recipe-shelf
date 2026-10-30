@@ -1,0 +1,34 @@
+{
+ "src": {"key": "hrK5_f4ULfA", "platform": "YouTube", "creator": "Bernardo Rebeil",
+  "title": "Most Viral Protein Hack",
+  "url": "https://www.youtube.com/watch?v=hrK5_f4ULfA", "recipes": 1},
+ "recipes": [{
+  "id": "honey-sriracha-ground-beef",
+  "title": "Honey Sriracha Ground Beef",
+  "img": "img/honey-sriracha-ground-beef.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 20,
+  "macros": {"cal": 490, "protein": 50, "carbs": 34, "fat": 16},
+  "stated": [],
+  "tags": ["Main meal", "Beef", "Ground beef", "High protein", "Quick", "Meal prep"],
+  "groups": [
+   {"name": "Sauce", "items": [
+    {"q": 4, "u": "tbsp", "i": "sriracha", "a": "International"},
+    {"q": 2, "u": "tbsp", "i": "honey", "a": "Pantry"},
+    {"q": 2, "u": "tbsp", "i": "soy sauce", "a": "International"},
+    {"q": 1, "u": "tbsp", "i": "rice vinegar", "a": "International"},
+    {"q": 1, "u": "tsp", "i": "fresh ginger, grated", "a": "Produce"},
+    {"q": 3, "u": "", "i": "garlic cloves, minced", "a": "Produce"}]},
+   {"name": "Beef", "items": [
+    {"q": 1, "u": "lb", "i": "lean ground beef (93/7)", "a": "Meat"},
+    {"q": 1, "u": "", "i": "onion, chopped", "a": "Produce"},
+    {"q": 1, "u": "cup", "i": "small broccoli florets", "a": "Produce"},
+    {"q": null, "u": "", "i": "cooked rice, to serve", "a": "Pantry"}]}],
+  "steps": [
+   ["Sauce", "Whisk the sriracha, honey, soy sauce, rice vinegar, ginger and garlic together."],
+   ["Onion", "Sauté the onion in a large pan until soft."],
+   ["Beef", "Add the ground beef and cook, breaking it up, until browned; add the broccoli for the last few minutes."],
+   ["Glaze", "Pour in the sauce and simmer a couple of minutes until it coats the beef."],
+   ["Serve", "Spoon over rice."]],
+  "notes": "The video names the ingredients but only gives the sriracha amount (4 tbsp), so the other quantities and the macros (beef and sauce only, rice not included) are estimates."
+ }]
+}

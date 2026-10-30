@@ -1,0 +1,35 @@
+{
+ "src": {"key": "E3LlCOkbpNo", "platform": "YouTube", "creator": "Legend's_Cooking",
+  "title": "High Protein Cinnamon Roll! Only 55 Calories!",
+  "url": "https://www.youtube.com/watch?v=E3LlCOkbpNo", "recipes": 1},
+ "recipes": [{
+  "id": "mini-protein-cinnamon-rolls-air-fryer",
+  "title": "55-Calorie Air Fryer Mini Cinnamon Rolls",
+  "img": "img/mini-protein-cinnamon-rolls-air-fryer.jpg",
+  "part": 1, "t": 0, "servings": 8, "unit": "roll", "time": 25,
+  "macros": {"cal": 55, "protein": 3.5, "carbs": 9, "fat": 0},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Dessert", "Snack", "Breakfast", "Vegetarian", "Quick"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 151, "u": "g", "i": "Greek yogurt (⅔ cup)", "a": "Dairy"},
+    {"q": 120, "u": "g", "i": "flour (1 cup)", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "baking soda", "a": "Baking"}]},
+   {"name": "Filling", "items": [
+    {"q": 96, "u": "g", "i": "monkfruit sweetener (½ cup)", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "cinnamon", "a": "Baking"},
+    {"q": 3, "u": "tbsp", "i": "sugar-free syrup (3–4 tbsp)", "a": "Pantry"}]},
+   {"name": "Glaze", "items": [
+    {"q": 0.5, "u": "", "i": "scoop protein powder (birthday cake or vanilla)", "a": "Pantry"},
+    {"q": 2, "u": "tbsp", "i": "powdered sugar or powdered monkfruit", "a": "Baking"},
+    {"q": 2, "u": "tbsp", "i": "milk (2–3 tbsp)", "a": "Dairy"}]}],
+  "steps": [
+   ["Dough", "Preheat the air fryer to 375°F. Mix the yogurt, flour and baking soda into a dough — chilling it briefly makes it easier to handle."],
+   ["Filling", "Stir the monkfruit, cinnamon and syrup into a paste."],
+   ["Roll", "Roll the dough out on a floured surface and spread the filling over it."],
+   ["Cut", "Roll it up lengthwise and cut into 8 pieces (unflavoured floss makes clean cuts)."],
+   ["Air fry", "Air fry 6–8 minutes until golden."],
+   ["Glaze", "Mix the glaze ingredients and pour over the warm rolls."]],
+  "notes": "Macros per roll as stated in the description. Recipe credited to @fitfoodieliving."
+ }]
+}
