@@ -1,0 +1,41 @@
+{
+ "src": {"key": "mwsYqg5e_Co", "platform": "YouTube", "creator": "Cookingforgains",
+  "title": "Raising canes breakfast burritos",
+  "url": "https://www.youtube.com/watch?v=mwsYqg5e_Co", "recipes": 1},
+ "recipes": [{
+  "id": "canes-sauce-beef-bacon-egg-burritos",
+  "title": "Beef, Bacon & Egg Burritos with Cane's-Style Protein Sauce",
+  "img": "img/canes-sauce-beef-bacon-egg-burritos.jpg",
+  "part": 1, "t": 0, "servings": 10, "unit": "burrito", "time": 45,
+  "macros": {"cal": 420, "protein": 57, "carbs": 20, "fat": 15},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Breakfast", "Main meal", "Beef", "Ground beef", "High protein", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Filling", "items": [
+    {"q": 3, "u": "lb", "i": "96/4 lean ground beef", "a": "Meat"},
+    {"q": null, "u": "", "i": "salt, pepper and garlic powder", "a": "Pantry"},
+    {"q": 1, "u": "", "i": "pack beef bacon (45 cal/serving), chopped", "a": "Meat"},
+    {"q": 10, "u": "", "i": "eggs", "a": "Dairy"},
+    {"q": 10, "u": "", "i": "servings fat-free shredded cheddar", "a": "Dairy"},
+    {"q": 10, "u": "", "i": "Ole Xtreme Wellness wraps (two 6-packs — the large size)", "a": "Bakery"}]},
+   {"name": "Cane's-style protein sauce", "items": [
+    {"q": 400, "u": "g", "i": "plain Greek yogurt", "a": "Dairy"},
+    {"q": 150, "u": "g", "i": "light sour cream", "a": "Dairy"},
+    {"q": 20, "u": "g", "i": "mustard", "a": "Pantry"},
+    {"q": 20, "u": "g", "i": "lemon juice", "a": "Produce"},
+    {"q": 10, "u": "g", "i": "Worcestershire sauce", "a": "Pantry"},
+    {"q": 6, "u": "g", "i": "paprika", "a": "Pantry"},
+    {"q": 6, "u": "g", "i": "garlic powder", "a": "Pantry"},
+    {"q": 4, "u": "g", "i": "onion powder", "a": "Pantry"},
+    {"q": 2, "u": "g", "i": "salt", "a": "Pantry"},
+    {"q": 10, "u": "g", "i": "stevia (optional)", "a": "Baking"}]}],
+  "steps": [
+   ["Beef", "Brown the beef seasoned with salt, pepper and garlic powder."],
+   ["Bacon", "Chop the whole pack of beef bacon and cook it alongside."],
+   ["Eggs", "Scramble the 10 eggs with salt and pepper in a sprayed skillet."],
+   ["Sauce", "Stir all the sauce ingredients together."],
+   ["Combine", "Mix the beef, bacon, eggs, cheese and sauce in one big bowl."],
+   ["Wrap & toast", "Divide among the 10 wraps, fold the ends in and roll tightly, then toast seam side down until golden."]],
+  "notes": "Recipe and per-burrito macros from the description. In the video he also adds 40 g no-sugar ketchup and 5 g honey to the sauce instead of stevia — either works."
+ }]
+}

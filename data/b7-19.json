@@ -1,0 +1,25 @@
+{
+ "src": {"key": "KFa8kDRpPXE", "platform": "YouTube", "creator": "Shay Click",
+  "title": "100g protein smoothie hack",
+  "url": "https://www.youtube.com/watch?v=KFa8kDRpPXE", "recipes": 1},
+ "recipes": [{
+  "id": "giga-berry-protein-smoothie",
+  "title": "100g Protein Berry Banana \"Giga\" Smoothie",
+  "img": "img/giga-berry-protein-smoothie.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "smoothie", "time": 5,
+  "macros": {"cal": 750, "protein": 100, "carbs": 70, "fat": 10},
+  "stated": ["cal", "protein"],
+  "tags": ["Breakfast", "Vegetarian", "Gluten-free", "High protein", "Quick"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 1, "u": "cup", "i": "frozen mixed berries", "a": "Frozen"},
+    {"q": 0.67, "u": "cup", "i": "frozen banana", "a": "Frozen"},
+    {"q": 1.5, "u": "cup", "i": "plain nonfat Greek yogurt", "a": "Dairy"},
+    {"q": 0.33, "u": "cup", "i": "milk", "a": "Dairy"},
+    {"q": 2, "u": "", "i": "scoops vanilla protein powder", "a": "Pantry"},
+    {"q": 1, "u": "tbsp", "i": "chia seeds", "a": "Pantry"}]}],
+  "steps": [
+   ["Blend", "Add everything to a blender — the yogurt-to-milk ratio looks off, but it blends up thick and creamy — and blend until smooth."],
+   ["Lighter version", "To cut about 200 calories, use skim milk and one scoop of protein (still about 70 g protein)."]],
+  "notes": "Amounts from the video; 750 cal and 100 g protein as stated. Carbs and fat are estimates. Based on Joseph Abell's 'giga smoothie'."
+ }]
+}
