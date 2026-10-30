@@ -1,0 +1,24 @@
+{
+  "src": {"key":"O5d2BS0vDNU","platform":"YouTube","creator":"Stefan Bodegrajac","title":"Protein French Toast Cloud!","url":"https://www.youtube.com/watch?v=O5d2BS0vDNU","recipes":1},
+  "recipes": [{
+    "id":"protein-french-toast-cloud","title":"Protein French Toast Cloud","img":"img/protein-french-toast-cloud.jpg","part":1,"t":0,
+    "servings":8,"unit":"slice","time":55,
+    "macros":{"cal":83,"protein":8.3,"carbs":5.7,"fat":2.9},"stated":["cal","protein","carbs","fat"],
+    "tags":["Breakfast","Dessert","Vegetarian","Gluten-free","High protein","Baked","Meal prep"],
+    "groups":[
+      {"name":"Batter","items":[
+        {"q":410,"u":"g","i":"light Greek yogurt (plain or vanilla, about 2 cups)","a":"Dairy"},
+        {"q":5,"u":"","i":"whole eggs","a":"Dairy"},
+        {"q":30,"u":"g","i":"cornflour / cornstarch (about 5 tbsp)","a":"Baking"}]},
+      {"name":"Topping","items":[
+        {"q":30,"u":"g","i":"sugar-free caramel topping (or strawberry topping)","a":"Pantry"},
+        {"q":null,"u":"","i":"powdered sugar, for dusting (optional)","a":"Baking"}]}
+    ],
+    "steps":[
+      ["Mix","Whisk the yogurt, eggs and cornflour until smooth."],
+      ["Bake","Pour into a parchment-lined loaf pan and bake at 200 °C (about 400 °F) for around 45 minutes until puffed and deep golden — keep an eye on it, every oven differs."],
+      ["Serve","Slice into 8, drizzle with sugar-free caramel and dust with powdered sugar."]
+    ],
+    "notes":"Recipe and macros (whole recipe 661 cal, 66 g protein) are from the video description; per-slice macros include the caramel topping. The video voiceover says 350 °F for about an hour instead — both work, just watch the colour."
+  }]
+}
