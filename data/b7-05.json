@@ -1,0 +1,26 @@
+{
+ "src": {"key": "7NYZjdkj_ko", "platform": "YouTube", "creator": "The Plant Slant",
+  "title": "Date bark (reacting to @mob)",
+  "url": "https://www.youtube.com/watch?v=7NYZjdkj_ko", "recipes": 1},
+ "recipes": [{
+  "id": "peanut-butter-date-bark",
+  "title": "Peanut Butter Chocolate Date Bark",
+  "img": "img/peanut-butter-date-bark.jpg",
+  "part": 1, "t": 0, "servings": 12, "unit": "piece", "time": 15,
+  "macros": {"cal": 270, "protein": 5, "carbs": 37, "fat": 12},
+  "stated": [],
+  "tags": ["Dessert", "Snack", "Vegan", "Gluten-free", "No-bake", "Freezer friendly"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 20, "u": "", "i": "Medjool dates, pitted", "a": "Produce"},
+    {"q": 0.5, "u": "cup", "i": "smooth peanut butter", "a": "Pantry"},
+    {"q": 40, "u": "g", "i": "roasted peanuts, roughly chopped", "a": "Pantry"},
+    {"q": 150, "u": "g", "i": "dark chocolate, melted", "a": "Baking"},
+    {"q": null, "u": "", "i": "flaky sea salt", "a": "Pantry"}]}],
+  "steps": [
+   ["Date layer", "Split the dates open and press them flat, side by side, on a parchment-lined tray. Cover with another sheet of parchment and press into one even layer."],
+   ["Peanut layer", "Spread or drizzle the peanut butter over the dates and scatter with chopped peanuts."],
+   ["Chocolate", "Pour the melted dark chocolate over the top, spread it to the edges, and sprinkle with flaky salt."],
+   ["Set", "Freeze until firm, then break or cut into pieces. Keep in the freezer."]],
+  "notes": "Three ingredients (dates, peanut butter, dark chocolate) as named in the video — amounts weren't shown, so quantities and macros are estimates."
+ }]
+}

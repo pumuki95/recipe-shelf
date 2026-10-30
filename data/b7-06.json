@@ -1,0 +1,30 @@
+{
+ "src": {"key": "rISbfLJRsVM", "platform": "YouTube", "creator": "The Plant Slant",
+  "title": "High protein egg salad (reacting to @adamhoad_coaching)",
+  "url": "https://www.youtube.com/watch?v=rISbfLJRsVM", "recipes": 1},
+ "recipes": [{
+  "id": "high-protein-avocado-egg-salad",
+  "title": "High Protein Avocado Egg Salad",
+  "img": "img/high-protein-avocado-egg-salad.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 15,
+  "macros": {"cal": 350, "protein": 36, "carbs": 13, "fat": 17},
+  "stated": ["cal", "protein"],
+  "tags": ["Breakfast", "Snack", "Vegetarian", "Gluten-free", "High protein", "Quick", "Meal prep"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 6, "u": "", "i": "hard-boiled eggs, chopped", "a": "Dairy"},
+    {"q": 200, "u": "g", "i": "cottage cheese", "a": "Dairy"},
+    {"q": 1, "u": "", "i": "small avocado", "a": "Produce"},
+    {"q": 150, "u": "g", "i": "0% Greek yogurt", "a": "Dairy"},
+    {"q": 0.25, "u": "", "i": "red onion, finely diced", "a": "Produce"},
+    {"q": 0.5, "u": "", "i": "cucumber, finely diced", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "mustard", "a": "Pantry"},
+    {"q": 0.5, "u": "", "i": "lemon, juiced", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt, pepper and hot sauce (Tabasco or Cholula)", "a": "Pantry"}]}],
+  "steps": [
+   ["Combine", "Add the chopped eggs, cottage cheese, avocado and Greek yogurt to a bowl and mash together."],
+   ["Add crunch", "Stir in the red onion, cucumber, mustard and lemon juice."],
+   ["Season", "Season with salt, pepper and a dash of hot sauce (jalapeño is good too) and mix well."],
+   ["Serve", "Pile onto toast or rice cakes, or toss with pasta. Keeps a couple of days in the fridge."]],
+  "notes": "The whole bowl is about 700 cal and 70 g protein as stated (split into 2 servings here); amounts weren't shown, so quantities and carbs/fat are estimates. Pictured on toast with spinach and roasted tomatoes."
+ }]
+}
