@@ -1,0 +1,31 @@
+{
+  "src": {"key":"qFkuF603KME","platform":"YouTube","creator":"Rahul Kamat","title":"Cinnamon Rolls to Lose Weight (90g Protein)","url":"https://www.youtube.com/watch?v=qFkuF603KME","recipes":1},
+  "recipes": [{
+    "id":"two-ingredient-dough-cinnamon-rolls","title":"Two-Ingredient Dough Protein Cinnamon Rolls","img":"img/two-ingredient-dough-cinnamon-rolls.jpg","part":1,"t":28,
+    "servings":6,"unit":"roll","time":45,
+    "macros":{"cal":203,"protein":15,"carbs":30,"fat":1},"stated":["cal","protein","carbs","fat"],
+    "tags":["Breakfast","Dessert","Vegetarian","High protein","Bread"],
+    "groups":[
+      {"name":"Dough","items":[
+        {"q":210,"u":"g","i":"self-rising flour (1¾ cups) — or all-purpose plus baking powder","a":"Baking"},
+        {"q":225,"u":"g","i":"nonfat plain Greek yogurt (1 cup)","a":"Dairy"}]},
+      {"name":"Filling","items":[
+        {"q":48,"u":"g","i":"erythritol / granulated sugar substitute (¼ cup)","a":"Baking"},
+        {"q":null,"u":"","i":"a little molasses (makes it 'brown sugar')","a":"Baking"},
+        {"q":20,"u":"g","i":"light butter, melted (2 tbsp, 35 cal/tbsp)","a":"Dairy"},
+        {"q":1,"u":"tbsp","i":"ground cinnamon","a":"Pantry"}]},
+      {"name":"Protein icing","items":[
+        {"q":60,"u":"g","i":"vanilla whey protein powder (2 scoops)","a":"Pantry"},
+        {"q":null,"u":"","i":"almond milk, a little at a time","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Make the dough","Mix the flour and yogurt — keep going even when it looks dry — until it comes together, then fold, push and stretch for 3–5 minutes. Rest 5 minutes."],
+      ["Filling","Mix the sweetener with a little molasses, the melted light butter and the cinnamon."],
+      ["Roll out","Roll the dough into a rectangle about 13 × 9 inches, flipping as you go so it doesn't stick."],
+      ["Fill and cut","Spread the filling edge to edge, cut into 6 long strips and roll each into a cinnamon roll."],
+      ["Bake","Set on a parchment-lined tray, pour any leftover butter over the top and bake at 350 °F for about 20 minutes until golden."],
+      ["Ice","Mix the protein powder with almond milk, a splash at a time, into a thick icing and spread or drizzle over the warm rolls."]
+    ],
+    "notes":"Recipe from the video audio; per-roll macros come from the video description. If you use all-purpose flour, add baking powder (not baking soda)."
+  }]
+}

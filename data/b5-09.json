@@ -1,0 +1,34 @@
+{
+  "src": {"key":"4ewaiHOcXzc","platform":"YouTube","creator":"Justin Eseller","title":"Low calorie Protein cinnamon rolls","url":"https://www.youtube.com/watch?v=4ewaiHOcXzc","recipes":1},
+  "recipes": [{
+    "id":"keto-flour-protein-cinnamon-rolls","title":"108-Calorie Protein Cinnamon Rolls","img":"img/keto-flour-protein-cinnamon-rolls.jpg","part":1,"t":7,
+    "servings":12,"unit":"roll","time":50,
+    "macros":{"cal":108,"protein":16,"carbs":7,"fat":3},"stated":["cal","protein","carbs","fat"],
+    "tags":["Breakfast","Dessert","Snack","Vegetarian","High protein","Low carb","Bread","Meal prep"],
+    "groups":[
+      {"name":"Dough","items":[
+        {"q":2,"u":"cup","i":"keto wheat flour (e.g. King Arthur Keto)","a":"Baking"},
+        {"q":2,"u":"tsp","i":"baking powder","a":"Baking","staple":true},
+        {"q":0.25,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":227,"u":"g","i":"0% Greek yogurt (Fage, 8 oz)","a":"Dairy"},
+        {"q":1,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true}]},
+      {"name":"Filling","items":[
+        {"q":3,"u":"tsp","i":"light buttery spread (e.g. I Can't Believe It's Not Butter), melted","a":"Dairy"},
+        {"q":0.33,"u":"cup","i":"brown sugar substitute (e.g. Truvia)","a":"Baking"},
+        {"q":1,"u":"tbsp","i":"ground cinnamon","a":"Pantry"}]},
+      {"name":"Protein icing","items":[
+        {"q":1,"u":"cup","i":"vanilla Greek yogurt","a":"Dairy"},
+        {"q":1,"u":"","i":"scoop vanilla protein powder","a":"Pantry"},
+        {"q":0.25,"u":"tsp","i":"salt","a":"Pantry","staple":true}]}
+    ],
+    "steps":[
+      ["Make the dough","Mix the flour, baking powder and salt, then add the yogurt and vanilla and stir, then knead into a smooth dough."],
+      ["Roll out","Roll the dough into a large rectangle on the counter."],
+      ["Filling","Mix the melted spread, brown sugar substitute and cinnamon into a paste and spread it over the dough."],
+      ["Roll and cut","Roll up tightly from the long side and cut into 12 rolls. Arrange in a round baking pan."],
+      ["Bake","Bake at 375 °F for 24–26 minutes."],
+      ["Ice","Mix the vanilla yogurt, protein powder and salt until smooth and spread over the warm rolls."]
+    ],
+    "notes":"Amounts and per-roll macros come from the on-screen captions (the full recipe is on his Instagram). Keto wheat flour is what keeps the carbs low; regular flour will raise them. The count of 12 rolls is from what's shown in the pan."
+  }]
+}
