@@ -1,0 +1,25 @@
+{
+  "src": {"key":"XHnZt7F13r0","platform":"YouTube","creator":"Justin Anderson","title":"Oreo Protein Ice Cream (41g Protein)","url":"https://www.youtube.com/watch?v=XHnZt7F13r0","recipes":1},
+  "recipes": [{
+    "id":"oreo-protein-creami-justin","title":"Oreo Protein Ice Cream with Greek Yogurt (Ninja Creami)","img":"img/oreo-protein-creami-justin.jpg","part":1,"t":0,
+    "servings":1,"unit":"pint","time":5,
+    "macros":{"cal":390,"protein":41,"carbs":40,"fat":8},"stated":["protein"],
+    "tags":["Dessert","Snack","Vegetarian","High protein","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":10,"u":"fl_oz","i":"low-fat milk (1¼ cups)","a":"Dairy"},
+        {"q":1,"u":"tbsp","i":"Oreo pudding mix","a":"Baking"},
+        {"q":1,"u":"","i":"scoop vanilla protein powder","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"Greek yogurt","a":"Dairy"}]},
+      {"name":"Mix-ins","items":[
+        {"q":3,"u":"","i":"Oreo Thins, broken","a":"Pantry"},
+        {"q":null,"u":"","i":"splash of milk, for the spin","a":"Dairy"}]}
+    ],
+    "steps":[
+      ["Mix and freeze","Stir the milk, pudding mix, protein powder and Greek yogurt together in a Creami pint and freeze overnight."],
+      ["Spin","Spin on Lite Ice Cream, add a splash of milk and Re-spin if powdery."],
+      ["Mix in","Add the Oreo Thins and run Mix-In."]
+    ],
+    "notes":"Recipe from the on-screen captions (no voiceover); 41 g protein for the pint is as shown, other macros are estimates. Freezing time not included."
+  }]
+}

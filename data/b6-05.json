@@ -1,0 +1,1270 @@
+{
+ "src": {
+  "key": "ufyVd3fTwdU",
+  "platform": "YouTube",
+  "creator": "Amanda | FitFoodAE",
+  "title": "NO PROTEIN POWDER Breakfasts for Weight Loss (10 Recipes!)",
+  "url": "https://www.youtube.com/watch?v=ufyVd3fTwdU",
+  "recipes": 10
+ },
+ "recipes": [
+  {
+   "id": "cottage-cheese-chocolate-chip-pancakes",
+   "title": "Cottage Cheese Chocolate Chip Pancakes",
+   "img": "img/cottage-cheese-chocolate-chip-pancakes.jpg",
+   "part": 1,
+   "t": 27,
+   "servings": 1,
+   "unit": "serving",
+   "time": 20,
+   "macros": {
+    "cal": 549,
+    "protein": 41.5,
+    "carbs": 60,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Batter",
+     "items": [
+      {
+       "q": 60,
+       "u": "g",
+       "i": "all-purpose flour",
+       "a": "Baking"
+      },
+      {
+       "q": 170,
+       "u": "g",
+       "i": "light cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 90,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "egg",
+       "a": "Dairy"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "sugar-free maple syrup",
+       "a": "Pantry"
+      },
+      {
+       "q": 4,
+       "u": "g",
+       "i": "baking powder",
+       "a": "Baking"
+      },
+      {
+       "q": 3,
+       "u": "g",
+       "i": "cinnamon",
+       "a": "Baking"
+      },
+      {
+       "q": 4,
+       "u": "ml",
+       "i": "vanilla extract",
+       "a": "Baking"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "mini chocolate chips",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend everything except the chocolate chips until smooth."
+    ],
+    [
+     "Cook",
+     "Pour small pancakes into a greased non-stick pan over medium-low heat, scatter chocolate chips on top, and flip once bubbles form."
+    ],
+    [
+     "Serve",
+     "Stack and top with a little extra sugar-free syrup if you like."
+    ]
+   ],
+   "notes": "Recipe and macros from the video description (1 serving)."
+  },
+  {
+   "id": "choc-banana-baked-oats",
+   "title": "Chocolate Covered Banana Baked Oats",
+   "img": "img/choc-banana-baked-oats.jpg",
+   "part": 2,
+   "t": 123,
+   "servings": 1,
+   "unit": "serving",
+   "time": 30,
+   "macros": {
+    "cal": 463,
+    "protein": 30,
+    "carbs": 62,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein",
+    "Baked",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Batter",
+     "items": [
+      {
+       "q": 50,
+       "u": "g",
+       "i": "oat flour",
+       "a": "Baking"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "unsweetened cocoa powder",
+       "a": "Baking"
+      },
+      {
+       "q": 90,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "egg",
+       "a": "Dairy"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "baking powder",
+       "a": "Baking"
+      },
+      {
+       "q": 1,
+       "u": "tsp",
+       "i": "vanilla extract",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "q": 50,
+       "u": "g",
+       "i": "banana, sliced",
+       "a": "Produce"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "chocolate chips",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "flaky sea salt",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Heat the oven to 400°F. Mix the batter ingredients until smooth and pour into a greased oven-safe dish."
+    ],
+    [
+     "Top",
+     "Press banana slices and chocolate chips into the top."
+    ],
+    [
+     "Bake",
+     "Bake 25 minutes in a glass dish, or 17–18 minutes in a small cast-iron skillet. Finish with sea salt."
+    ]
+   ],
+   "notes": "Recipe and macros from the video description (1 serving)."
+  },
+  {
+   "id": "pb-french-toast-sticks",
+   "title": "Peanut Butter French Toast Sticks",
+   "img": "img/pb-french-toast-sticks.jpg",
+   "part": 3,
+   "t": 246,
+   "servings": 1,
+   "unit": "serving",
+   "time": 15,
+   "macros": {
+    "cal": 358,
+    "protein": 35,
+    "carbs": 43,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "French toast",
+     "items": [
+      {
+       "q": 3,
+       "u": "",
+       "i": "slices white bread (about 65 cal each)",
+       "a": "Bakery"
+      },
+      {
+       "q": 75,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "egg",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "ml",
+       "i": "Fairlife skim milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 2,
+       "u": "ml",
+       "i": "vanilla extract",
+       "a": "Baking"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "powdered peanut butter",
+       "a": "Pantry"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 3,
+       "u": "g",
+       "i": "cinnamon",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Coating",
+     "items": [
+      {
+       "q": null,
+       "u": "",
+       "i": "monkfruit sweetener + cinnamon",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "sugar-free maple syrup, for dipping (optional)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Soak",
+     "Cut each slice into sticks. Whisk the egg whites, egg, milk, vanilla, powdered PB, monkfruit and cinnamon, and dip the sticks."
+    ],
+    [
+     "Cook",
+     "Cook in a greased pan over medium heat until golden on all sides."
+    ],
+    [
+     "Coat",
+     "Toss the hot sticks in monkfruit-cinnamon and dip in sugar-free syrup."
+    ]
+   ],
+   "notes": "Recipe and macros from the video description (1 serving)."
+  },
+  {
+   "id": "cinnamon-roll-cottage-cheese-pancakes",
+   "title": "Cinnamon Roll Cottage Cheese Pancakes",
+   "img": "img/cinnamon-roll-cottage-cheese-pancakes.jpg",
+   "part": 4,
+   "t": 402,
+   "servings": 1,
+   "unit": "serving",
+   "time": 25,
+   "macros": {
+    "cal": 563,
+    "protein": 51,
+    "carbs": 63,
+    "fat": 10.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein"
+   ],
+   "groups": [
+    {
+     "name": "Batter",
+     "items": [
+      {
+       "q": 60,
+       "u": "g",
+       "i": "all-purpose flour",
+       "a": "Baking"
+      },
+      {
+       "q": 170,
+       "u": "g",
+       "i": "light cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 90,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "egg",
+       "a": "Dairy"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "sugar-free maple syrup",
+       "a": "Pantry"
+      },
+      {
+       "q": 4,
+       "u": "g",
+       "i": "baking powder",
+       "a": "Baking"
+      },
+      {
+       "q": 3,
+       "u": "g",
+       "i": "cinnamon",
+       "a": "Baking"
+      },
+      {
+       "q": 4,
+       "u": "ml",
+       "i": "vanilla extract",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Cinnamon filling",
+     "items": [
+      {
+       "q": 50,
+       "u": "ml",
+       "i": "unsweetened applesauce",
+       "a": "Pantry"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "brown monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "cinnamon",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Frosting",
+     "items": [
+      {
+       "q": 60,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "Swerve powdered sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 3,
+       "u": "ml",
+       "i": "vanilla extract",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the batter ingredients until smooth and let it rest 5–6 minutes."
+    ],
+    [
+     "Filling",
+     "Mix the applesauce, brown monkfruit and cinnamon and spoon into a zip-top bag; snip the corner."
+    ],
+    [
+     "Cook",
+     "Pour pancakes into a greased pan over medium-low heat, pipe a swirl of filling into the middle of each, then flip once set."
+    ],
+    [
+     "Frost",
+     "Stir the frosting ingredients together, pipe from a second bag over the stack, and serve."
+    ]
+   ],
+   "notes": "Recipe and macros from the video description (1 serving)."
+  },
+  {
+   "id": "choc-banana-overnight-oats",
+   "title": "Chocolate Covered Banana Overnight Oats",
+   "img": "img/choc-banana-overnight-oats.jpg",
+   "part": 5,
+   "t": 531,
+   "servings": 1,
+   "unit": "serving",
+   "time": 10,
+   "macros": {
+    "cal": 463,
+    "protein": 36,
+    "carbs": 71,
+    "fat": 5.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Oats",
+     "items": [
+      {
+       "q": 60,
+       "u": "g",
+       "i": "quick oats",
+       "a": "Pantry"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "unsweetened cocoa powder",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "Jell-O fat-free chocolate pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 100,
+       "u": "ml",
+       "i": "Fairlife skim milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 150,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "banana, sliced",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate ganache",
+     "items": [
+      {
+       "q": 50,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "unsweetened cocoa powder",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "Jell-O fat-free chocolate pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 15,
+       "u": "ml",
+       "i": "Fairlife skim milk (15–20 ml)",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "banana slices, to top",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Stir the oat ingredients together (except the banana), then fold in the sliced banana and pack into a jar."
+    ],
+    [
+     "Ganache",
+     "Whisk the ganache ingredients until smooth and spread over the oats; top with banana slices."
+    ],
+    [
+     "Chill",
+     "Refrigerate at least 3 hours or overnight."
+    ]
+   ],
+   "notes": "Recipe and macros from the video description (1 serving)."
+  },
+  {
+   "id": "strawberry-shortcake-overnight-oats",
+   "title": "Strawberry Shortcake Overnight Oats",
+   "img": "img/strawberry-shortcake-overnight-oats.jpg",
+   "part": 6,
+   "t": 638,
+   "servings": 1,
+   "unit": "serving",
+   "time": 10,
+   "macros": {
+    "cal": 457,
+    "protein": 42,
+    "carbs": 52.5,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Oats",
+     "items": [
+      {
+       "q": 60,
+       "u": "g",
+       "i": "quick oats",
+       "a": "Pantry"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "graham cracker crumbs",
+       "a": "Pantry"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "Jell-O fat-free white chocolate pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 100,
+       "u": "ml",
+       "i": "Fairlife skim milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 150,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "q": 3,
+       "u": "ml",
+       "i": "vanilla extract",
+       "a": "Baking"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "strawberries, finely chopped",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "q": 50,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "Jell-O fat-free vanilla pudding mix",
+       "a": "Baking"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 15,
+       "u": "ml",
+       "i": "Fairlife skim milk (15–20 ml)",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "sliced strawberries",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "graham cracker crumbs, to sprinkle",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Stir the oat ingredients together, fold in the chopped strawberries and pack into a jar."
+    ],
+    [
+     "Top",
+     "Whisk the topping ingredients until smooth, spread over the oats and finish with strawberry slices and graham crumbs."
+    ],
+    [
+     "Chill",
+     "Refrigerate at least 3 hours or overnight."
+    ]
+   ],
+   "notes": "Recipe and macros from the video description (1 serving)."
+  },
+  {
+   "id": "pb-cup-pancake-bowl",
+   "title": "Peanut Butter Cup Pancake Bowl",
+   "img": "img/pb-cup-pancake-bowl.jpg",
+   "part": 7,
+   "t": 741,
+   "servings": 1,
+   "unit": "serving",
+   "time": 35,
+   "macros": {
+    "cal": 461,
+    "protein": 40,
+    "carbs": 56,
+    "fat": 10
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein",
+    "Baked",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Batter",
+     "items": [
+      {
+       "q": 45,
+       "u": "g",
+       "i": "all-purpose flour",
+       "a": "Baking"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "powdered peanut butter",
+       "a": "Pantry"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "unsweetened cocoa powder",
+       "a": "Baking"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "baking powder",
+       "a": "Baking"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "1% cottage cheese, blended",
+       "a": "Dairy"
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 75,
+       "u": "ml",
+       "i": "Fairlife skim milk",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Mix-in & topping",
+     "items": [
+      {
+       "q": 1,
+       "u": "",
+       "i": "Reese's peanut butter cup, chopped (half in, half on top)",
+       "a": "Pantry"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "peanut butter, melted",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Heat the oven to 350°F. Whisk the dry ingredients, then stir in the cottage cheese, yogurt, egg whites and milk."
+    ],
+    [
+     "Bake",
+     "Fold in half the chopped Reese's, pour into a greased oven-safe dish and bake about 30 minutes."
+    ],
+    [
+     "Top",
+     "Drizzle with melted peanut butter and the rest of the Reese's."
+    ]
+   ],
+   "notes": "Recipe and macros from the on-screen captions (1 serving)."
+  },
+  {
+   "id": "maple-pecan-pancake-bowl",
+   "title": "Maple Pecan Pancake Bowl",
+   "img": "img/maple-pecan-pancake-bowl.jpg",
+   "part": 8,
+   "t": 827,
+   "servings": 1,
+   "unit": "serving",
+   "time": 35,
+   "macros": {
+    "cal": 446,
+    "protein": 35.5,
+    "carbs": 48.5,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein",
+    "Baked",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Batter",
+     "items": [
+      {
+       "q": 50,
+       "u": "g",
+       "i": "all-purpose flour",
+       "a": "Baking"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "brown monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "baking powder",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "cinnamon",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "1% cottage cheese, blended",
+       "a": "Dairy"
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 75,
+       "u": "ml",
+       "i": "Fairlife skim milk",
+       "a": "Dairy"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "pecans, finely chopped",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "q": 15,
+       "u": "ml",
+       "i": "sugar-free maple syrup",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "Biscoff spread drizzle (optional)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Heat the oven to 350°F. Whisk the dry ingredients, then stir in the wet ingredients and the pecans."
+    ],
+    [
+     "Bake",
+     "Pour into a greased oven-safe dish and bake about 30 minutes."
+    ],
+    [
+     "Soak",
+     "Poke holes all over, pour on the maple syrup and add a Biscoff drizzle if you like."
+    ]
+   ],
+   "notes": "Recipe and macros from the on-screen captions (1 serving)."
+  },
+  {
+   "id": "smores-baked-oats",
+   "title": "S'mores Baked Oats",
+   "img": "img/smores-baked-oats.jpg",
+   "part": 9,
+   "t": 923,
+   "servings": 1,
+   "unit": "serving",
+   "time": 25,
+   "macros": {
+    "cal": 462,
+    "protein": 30.5,
+    "carbs": 59.5,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein",
+    "Baked"
+   ],
+   "groups": [
+    {
+     "name": "Batter",
+     "items": [
+      {
+       "q": 45,
+       "u": "g",
+       "i": "oat flour",
+       "a": "Baking"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "graham cracker crumbs",
+       "a": "Pantry"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "baking powder",
+       "a": "Baking"
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "egg",
+       "a": "Dairy"
+      },
+      {
+       "q": 3,
+       "u": "ml",
+       "i": "vanilla extract",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "q": 10,
+       "u": "g",
+       "i": "mini chocolate chips",
+       "a": "Baking"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "mini marshmallows",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "graham cracker crumbs (optional)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Heat the oven to 400°F. Mix the batter ingredients until smooth."
+    ],
+    [
+     "Top",
+     "Pour into a sprayed small cast-iron skillet and top with chocolate chips, marshmallows and graham crumbs."
+    ],
+    [
+     "Bake",
+     "Bake 18 minutes, until the marshmallows are toasted."
+    ]
+   ],
+   "notes": "Recipe and macros from the on-screen captions (1 serving)."
+  },
+  {
+   "id": "biscoff-baked-oats-fitfood",
+   "title": "Biscoff Baked Oats",
+   "img": "img/biscoff-baked-oats-fitfood.jpg",
+   "part": 10,
+   "t": 1020,
+   "servings": 1,
+   "unit": "serving",
+   "time": 25,
+   "macros": {
+    "cal": 468,
+    "protein": 30,
+    "carbs": 53,
+    "fat": 15.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian",
+    "High protein",
+    "Baked"
+   ],
+   "groups": [
+    {
+     "name": "Batter",
+     "items": [
+      {
+       "q": 45,
+       "u": "g",
+       "i": "oat flour",
+       "a": "Baking"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "Biscoff cookies, crushed",
+       "a": "Pantry"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "monkfruit sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "baking powder",
+       "a": "Baking"
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "egg",
+       "a": "Dairy"
+      },
+      {
+       "q": 3,
+       "u": "ml",
+       "i": "vanilla extract",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Filling & topping",
+     "items": [
+      {
+       "q": 10,
+       "u": "g",
+       "i": "Biscoff spread (split between middle and top)",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "extra Biscoff crumbs (optional)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Heat the oven to 400°F. Mix the batter ingredients until smooth."
+    ],
+    [
+     "Layer",
+     "Pour half into a sprayed small cast-iron skillet, add a spoon of Biscoff spread, then the rest of the batter."
+    ],
+    [
+     "Bake",
+     "Bake 17–18 minutes, then top with the remaining Biscoff spread (warmed) and crumbs."
+    ]
+   ],
+   "notes": "Recipe and macros from the on-screen captions (1 serving)."
+  }
+ ]
+}
