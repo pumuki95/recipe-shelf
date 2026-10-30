@@ -1,0 +1,36 @@
+{
+ "src": {"key": "uNM5ZvNkN1U", "platform": "YouTube", "creator": "Joshua Weissman Recipes",
+  "title": "The Best Low Calorie Burger Ever",
+  "url": "https://www.youtube.com/watch?v=uNM5ZvNkN1U", "recipes": 1},
+ "recipes": [{
+  "id": "low-calorie-cheeseburger-weissman",
+  "title": "Low Calorie Double Cheeseburger",
+  "img": "img/low-calorie-cheeseburger-weissman.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "burger", "time": 30,
+  "macros": {"cal": 450, "protein": 45, "carbs": 33, "fat": 15},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "Beef", "Ground beef", "High protein", "Quick"],
+  "groups": [
+   {"name": "Burger sauce", "items": [
+    {"q": 1, "u": "tbsp", "i": "light mayo", "a": "Pantry"},
+    {"q": 1, "u": "tbsp", "i": "yellow mustard", "a": "Pantry"},
+    {"q": 2, "u": "tbsp", "i": "sriracha", "a": "International"},
+    {"q": null, "u": "", "i": "salt and black pepper", "a": "Pantry"}]},
+   {"name": "Burgers", "items": [
+    {"q": 1.5, "u": "lb", "i": "96% lean ground beef (eight 3 oz balls)", "a": "Meat"},
+    {"q": 4, "u": "", "i": "burger buns (Dave's Killer Bread, 160 cal each)", "a": "Bakery"},
+    {"q": 4, "u": "", "i": "slices American cheese", "a": "Dairy"},
+    {"q": null, "u": "", "i": "small whole pickles, sliced lengthwise", "a": "Pantry"},
+    {"q": 1, "u": "", "i": "yellow or sweet onion, sliced paper-thin", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt and black pepper", "a": "Pantry"}]}],
+  "steps": [
+   ["Sauce", "Whisk the mayo, mustard, sriracha, salt and pepper together — enough for four burgers."],
+   ["Toppings", "Slice the pickles lengthwise just under ¼ in thick. Shave the onion into paper-thin rings (a mandoline helps), then rinse in cold water and drain."],
+   ["Portion", "Weigh the beef into eight 3 oz portions and roll each into an even ball."],
+   ["Toast", "Dry-toast the buns cut side down over medium heat for 1–2 minutes, then toast the outsides too."],
+   ["Smash", "On a very hot, well-seasoned flat top or non-stick pan, smash each ball (under parchment) about 25% wider than the bun. Season with salt and pepper."],
+   ["Cook", "Flip early — when the patty is about two-thirds cooked through — so the lean beef stays juicy. Add one cheese slice per burger and cook 1–2 minutes more; stack two patties per burger."],
+   ["Assemble", "Sauce the bottom bun, add pickles, onion and the double patty, then sauce the top bun (about 1 tbsp) and close."]],
+  "notes": "Macros per burger as stated in the video (two 3 oz patties, one cheese slice). They only hold with 96% lean beef and the same buns."
+ }]
+}

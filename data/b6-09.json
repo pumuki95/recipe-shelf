@@ -1,0 +1,40 @@
+{
+ "src": {"key": "Z6gHPuFOy9g", "platform": "YouTube", "creator": "hunt",
+  "title": "High Protein Chipotle Lime Crunchwrap Supremes",
+  "url": "https://www.youtube.com/watch?v=Z6gHPuFOy9g", "recipes": 1},
+ "recipes": [{
+  "id": "chipotle-lime-crunchwrap-supreme",
+  "title": "Chipotle Lime Crunchwrap Supremes",
+  "img": "img/chipotle-lime-crunchwrap-supreme.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "crunchwrap", "time": 45,
+  "macros": {"cal": 552, "protein": 40, "carbs": 44, "fat": 24},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "Beef", "Ground beef", "High protein", "Meal prep"],
+  "groups": [
+   {"name": "Beef filling", "items": [
+    {"q": 1.25, "u": "lb", "i": "93/7 lean ground beef (567 g)", "a": "Meat"},
+    {"q": 1, "u": "", "i": "medium white onion, diced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "bell pepper, diced", "a": "Produce"},
+    {"q": 3, "u": "", "i": "garlic cloves, minced", "a": "Produce"},
+    {"q": 4, "u": "oz", "i": "can diced green chilies, drained", "a": "International"},
+    {"q": 1, "u": "", "i": "packet low-sodium taco seasoning", "a": "International"},
+    {"q": 1.5, "u": "tsp", "i": "chipotle in adobo, minced (1–2 tsp)", "a": "International"},
+    {"q": 0.25, "u": "cup", "i": "beef broth or stock", "a": "Pantry"},
+    {"q": 0.5, "u": "", "i": "lime, juiced", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "Assembly", "items": [
+    {"q": 4, "u": "", "i": "Ole Xtreme Wellness 10-inch wraps", "a": "Bakery"},
+    {"q": 1, "u": "cup", "i": "shredded reduced-fat cheddar", "a": "Dairy"},
+    {"q": 2, "u": "cup", "i": "shredded lettuce", "a": "Produce"},
+    {"q": 4, "u": "", "i": "tostadas", "a": "International"},
+    {"q": null, "u": "", "i": "Greek yogurt, to spread", "a": "Dairy"},
+    {"q": null, "u": "", "i": "guacamole or hot sauce, to serve", "a": "Produce"}]}],
+  "steps": [
+   ["Sauté", "Cook the bell pepper and onion in a hot pan until softened, then add the garlic for a minute."],
+   ["Brown the beef", "Push the veg aside, add the beef and brown it, then stir in the taco seasoning."],
+   ["Season", "Add the broth, green chilies and chipotle in adobo, simmer briefly, and finish with lime juice, salt and pepper."],
+   ["Build", "On each wrap, spread a little Greek yogurt, then add lettuce, cheese, a quarter of the beef and a tostada on top."],
+   ["Fold & toast", "Fold the edges in around the tostada and toast seam side down in a pan over medium-high heat, then flip, until golden on both sides."]],
+  "notes": "Macros per crunchwrap (¼ recipe) as stated in the description. The Greek yogurt appears in the video but has no amount listed."
+ }]
+}
