@@ -1,0 +1,39 @@
+{
+  "src": {"key":"2P3RFmjGWH0","platform":"YouTube","creator":"Panacea Palm","title":"The TASTIEST High Protein Breakfast Crunch Wraps","url":"https://www.youtube.com/watch?v=2P3RFmjGWH0","recipes":1},
+  "recipes": [{
+    "id":"breakfast-crunchwraps","title":"High-Protein Breakfast Crunchwraps","img":"img/breakfast-crunchwraps.jpg","part":1,"t":0,
+    "servings":6,"unit":"crunchwrap","time":45,
+    "macros":{"cal":575,"protein":54,"carbs":42,"fat":22},"stated":["cal","protein"],
+    "tags":["Breakfast","Ground beef","Eggs","Tortillas","Potatoes","High protein","Meal prep"],
+    "groups":[
+      {"name":"Crispy beef tortillas","items":[
+        {"q":540,"u":"g","i":"lean ground beef","a":"Meat"},
+        {"q":20,"u":"g","i":"taco seasoning","a":"Pantry"},
+        {"q":6,"u":"","i":"mini tortillas","a":"Bakery"},
+        {"q":6,"u":"","i":"slices light cheese","a":"Dairy"}]},
+      {"name":"Eggs","items":[
+        {"q":10,"u":"","i":"eggs, beaten","a":"Dairy"}]},
+      {"name":"Sauce","items":[
+        {"q":60,"u":"g","i":"low-sugar ketchup","a":"Pantry"},
+        {"q":60,"u":"g","i":"light mayo","a":"Pantry"},
+        {"q":70,"u":"g","i":"Greek yogurt","a":"Dairy"}]},
+      {"name":"Assembly","items":[
+        {"q":6,"u":"","i":"large tortillas, warmed","a":"Bakery"},
+        {"q":6,"u":"","i":"hash brown patties (about 46 g each), air-fried","a":"Frozen"},
+        {"q":6,"u":"tbsp","i":"chives, chopped","a":"Produce"},
+        {"q":150,"u":"g","i":"low-fat shredded cheese (25 g per wrap)","a":"Dairy"},
+        {"q":null,"u":"","i":"foil, for freezing","a":"Household","staple":true}]}
+    ],
+    "steps":[
+      ["Season the beef","Mix the beef with the taco seasoning until it changes color."],
+      ["Beef tortillas","Put a ball of beef on each mini tortilla and squash it flat to the edges."],
+      ["Sear","Cook meat side down in a pan until crispy, flip, add a cheese slice and cover to melt. Repeat for all six."],
+      ["Scramble","In the same pan, scramble the eggs over low heat until light and fluffy."],
+      ["Sauce","Mix the ketchup, mayo and yogurt until smooth."],
+      ["Build","On each large tortilla: a sixth of the sauce, a crispy hash brown (broken up), eggs, chives, 25 g cheese, then a beef tortilla beef-side down."],
+      ["Fold and toast","Fold the sides in around the beef tortilla to make a crunchwrap and toast seam-side down in a pan until crispy on both sides."],
+      ["Store","Wrap in foil and freeze; reheat when you want one."]
+    ],
+    "notes":"Amounts come from the on-screen captions; 575 cal and 54 g protein per crunchwrap are from the video title. Carbs and fat are estimates."
+  }]
+}

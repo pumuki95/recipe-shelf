@@ -1,0 +1,1240 @@
+{
+ "src": {
+  "key": "siyCb0cAdyE",
+  "platform": "YouTube",
+  "creator": "Flexible Dieting Lifestyle",
+  "title": "My Favorite Meals While Losing Fat (7 Ways)",
+  "url": "https://www.youtube.com/watch?v=siyCb0cAdyE",
+  "recipes": 7,
+  "extra": {
+   "label": "Free recipe book",
+   "url": "https://recipes.macrofriendly.com/tortilla-recipes-yt?utm_source=youtube&utm_campaign=7-tortilla-recipes"
+  }
+ },
+ "recipes": [
+  {
+   "id": "cheesy-beef-dipping-burritos",
+   "title": "Cheesy Beef Dipping Burritos",
+   "img": "img/cheesy-beef-dipping-burritos.jpg",
+   "part": 1,
+   "t": 37,
+   "servings": 8,
+   "unit": "burrito",
+   "time": 35,
+   "macros": {
+    "cal": 190,
+    "protein": 24,
+    "carbs": 15,
+    "fat": 7
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Snack",
+    "Ground beef",
+    "Tortillas",
+    "High protein",
+    "Air fryer",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Creamy Taco Bell sauce",
+     "items": [
+      {
+       "q": 170,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 113,
+       "u": "g",
+       "i": "2% cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 113,
+       "u": "g",
+       "i": "Taco Bell sauce (bottled)",
+       "a": "International"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "taco seasoning",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Cheesy beef",
+     "items": [
+      {
+       "q": 16,
+       "u": "oz",
+       "i": "96/4 lean ground beef",
+       "a": "Meat"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "packet taco seasoning",
+       "a": "Pantry"
+      },
+      {
+       "q": 120,
+       "u": "g",
+       "i": "chicken broth (90 g plus 30 g if needed)",
+       "a": "Pantry"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "Laughing Cow light cheese wedges",
+       "a": "Dairy"
+      },
+      {
+       "q": 56,
+       "u": "g",
+       "i": "2% Mexican-blend shredded cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 6,
+       "u": "g",
+       "i": "nutritional yeast",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Burritos",
+     "items": [
+      {
+       "q": 8,
+       "u": "",
+       "i": "low-carb tortillas (La Banderita Carb Counter, 60 cal)",
+       "a": "Bakery"
+      },
+      {
+       "q": 8,
+       "u": "",
+       "i": "light string cheese sticks, frozen, halved lengthwise",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "avocado oil spray",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make the sauce",
+     "Blend the yogurt, cottage cheese, Taco Bell sauce and taco seasoning until smooth. Chill."
+    ],
+    [
+     "Crust the beef",
+     "Heat the pan to 7/10. Flatten the beef, cut it in half and leave it until it browns up the sides, flip, then break it up while still slightly pink."
+    ],
+    [
+     "Season",
+     "Add the taco seasoning packet and mix, then 90 g chicken broth and let the beef soak it up."
+    ],
+    [
+     "Make it cheesy",
+     "Turn down to 3/10. Stir in the Laughing Cow wedges, shredded cheese and nutritional yeast until creamy, adding up to 30 g more broth if it's too thick. Let it cool a little."
+    ],
+    [
+     "Fill",
+     "Spread an eighth of the beef in the middle of each tortilla and lay a string cheese half on each side."
+    ],
+    [
+     "Fold flat",
+     "Fold in the sides, then the bottom and top flaps, pulling tight, and press flat into a rectangle rather than rolling."
+    ],
+    [
+     "Air fry",
+     "Spray and air fry 4 at a time at 400 °F for 4 minutes, flipping after 2. Serve with the sauce."
+    ]
+   ],
+   "notes": "Amounts come from the video's audio and on-screen captions. Macros (per burrito) are from the creator's on-screen nutrition card. They freeze well. Full recipes are in the creator's free recipe book (linked)."
+  },
+  {
+   "id": "nashville-hot-honey-chicken-crunchwrap",
+   "title": "Nashville Hot Honey Chicken Crunchwrap",
+   "img": "img/nashville-hot-honey-chicken-crunchwrap.jpg",
+   "part": 2,
+   "t": 338,
+   "servings": 4,
+   "unit": "crunchwrap",
+   "time": 60,
+   "macros": {
+    "cal": 459,
+    "protein": 55,
+    "carbs": 44,
+    "fat": 13
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Chicken",
+    "Tortillas",
+    "High protein",
+    "Air fryer",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Honey slaw",
+     "items": [
+      {
+       "q": 120,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "light mayo",
+       "a": "Pantry"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "apple cider vinegar",
+       "a": "Pantry"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "pickle juice",
+       "a": "Pantry"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "honey",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.5,
+       "u": "tsp",
+       "i": "sea salt",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 0.5,
+       "u": "tsp",
+       "i": "black pepper",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 240,
+       "u": "g",
+       "i": "shredded cabbage",
+       "a": "Produce"
+      },
+      {
+       "q": 80,
+       "u": "g",
+       "i": "shredded carrots",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Low-cal hot honey",
+     "items": [
+      {
+       "q": 80,
+       "u": "g",
+       "i": "sugar-free pancake syrup",
+       "a": "Pantry"
+      },
+      {
+       "q": 40,
+       "u": "g",
+       "i": "honey",
+       "a": "Pantry"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "apple cider vinegar",
+       "a": "Pantry"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "light butter",
+       "a": "Dairy"
+      },
+      {
+       "q": 40,
+       "u": "g",
+       "i": "water (20 g + 20 g for the slurry)",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 6,
+       "u": "g",
+       "i": "cornstarch",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "½ tsp each cayenne, paprika, black pepper, sea salt, garlic powder and brown sugar",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Nashville crispy chicken",
+     "items": [
+      {
+       "q": 24,
+       "u": "oz",
+       "i": "chicken breast, flattened and cut into 4 patties",
+       "a": "Meat"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "Frank's RedHot Buffalo sauce",
+       "a": "Pantry"
+      },
+      {
+       "q": 25,
+       "u": "g",
+       "i": "all-purpose flour",
+       "a": "Baking"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "cornstarch",
+       "a": "Baking"
+      },
+      {
+       "q": 3,
+       "u": "g",
+       "i": "baking powder",
+       "a": "Baking",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "Nashville seasoning: cayenne, paprika, black pepper, sea salt, garlic powder, brown sugar",
+       "a": "Pantry",
+       "est": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "avocado oil spray",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Pickle-brine cream sauce",
+     "items": [
+      {
+       "q": 40,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "light mayo",
+       "a": "Pantry"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "pickle juice",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Assembly",
+     "items": [
+      {
+       "q": 4,
+       "u": "",
+       "i": "low-carb burrito tortillas",
+       "a": "Bakery"
+      },
+      {
+       "q": 24,
+       "u": "",
+       "i": "dill pickle slices",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Honey slaw",
+     "Mix the yogurt, mayo, vinegar, pickle juice, honey, salt and pepper until smooth, then toss in the cabbage and carrots. Chill."
+    ],
+    [
+     "Hot honey",
+     "Put the syrup, honey, vinegar, butter, 20 g water and spices in a pot, then heat on 5/10, stirring until it simmers. Take off the heat, stir in the cornstarch mixed with 20 g water and keep stirring until thick."
+    ],
+    [
+     "Prep the chicken",
+     "Flatten the chicken and cut out 4 even patties (cook the offcuts too)."
+    ],
+    [
+     "Coat",
+     "Whisk egg whites with Frank's. Mix the flour, cornstarch, baking powder and Nashville seasoning. Dip each patty in the wet, then press into the dry, getting into every crevice."
+    ],
+    [
+     "Air fry",
+     "Spray until no flour shows and air fry at 400 °F for 9 minutes, flipping and spraying after 5. Brush with warm hot honey."
+    ],
+    [
+     "Build",
+     "Soften a tortilla in warm water, cut one slit from the middle to the edge, then fill the four quarters with chicken, slaw, pickle-brine sauce and 6 pickles. Fold each quarter over the next and press shut."
+    ],
+    [
+     "Crisp",
+     "Spray and air fry at 400 °F for 5 minutes (a ramekin on top keeps it shut). Slice in half."
+    ]
+   ],
+   "notes": "Amounts come from the audio and on-screen captions. Macros (per crunchwrap) are from the creator's on-screen nutrition card. Spice amounts in the chicken coating are estimates."
+  },
+  {
+   "id": "chicken-bacon-ranch-pinwheels",
+   "title": "Crispy Chicken Bacon Ranch Pinwheels",
+   "img": "img/chicken-bacon-ranch-pinwheels.jpg",
+   "part": 3,
+   "t": 671,
+   "servings": 6,
+   "unit": "serving",
+   "time": 50,
+   "macros": {
+    "cal": 228,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Snack",
+    "Chicken",
+    "Tortillas",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "High-protein ranch",
+     "items": [
+      {
+       "q": 170,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 113,
+       "u": "g",
+       "i": "2% cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 16,
+       "u": "g",
+       "i": "ranch dip mix",
+       "a": "Pantry"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "pickle juice",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tsp",
+       "i": "dried dill",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "q": 1,
+       "u": "lb",
+       "i": "chicken breast",
+       "a": "Meat"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "ranch dip mix, to season the chicken",
+       "a": "Pantry"
+      },
+      {
+       "q": 4,
+       "u": "",
+       "i": "slices center-cut bacon",
+       "a": "Meat"
+      },
+      {
+       "q": 150,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 3,
+       "u": "",
+       "i": "Laughing Cow light cheese wedges",
+       "a": "Dairy"
+      },
+      {
+       "q": 42,
+       "u": "g",
+       "i": "part-skim mozzarella",
+       "a": "Dairy"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "ranch dip mix",
+       "a": "Pantry"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "pickles, chopped",
+       "a": "Pantry"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "green onion, sliced",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Pinwheels",
+     "items": [
+      {
+       "q": 4,
+       "u": "",
+       "i": "large low-carb burrito tortillas",
+       "a": "Bakery"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "avocado oil spray",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Ranch",
+     "Blend the ranch ingredients 60–90 seconds until smooth. Chill."
+    ],
+    [
+     "Bacon",
+     "Bake the bacon at 400 °F for 15–17 minutes, drain on paper towels and chop."
+    ],
+    [
+     "Chicken",
+     "Pat the chicken dry, flatten, season both sides with ranch mix, spray and air fry at 400 °F for 9–10 minutes. Rest 10 minutes, then dice finely."
+    ],
+    [
+     "Filling",
+     "Mix the chicken, bacon, yogurt, Laughing Cow, mozzarella, ranch mix, pickles and green onion, breaking up the cheese wedges."
+    ],
+    [
+     "Roll",
+     "Spread a quarter of the filling over each tortilla, leaving an inch at the edges. Trim the round edges off, roll up tightly and cut into 6 pinwheels."
+    ],
+    [
+     "Bake",
+     "Put the pinwheels in a muffin tin and bake at 400 °F for 14–16 minutes until crispy underneath. Serve with the ranch."
+    ]
+   ],
+   "notes": "Amounts come from the audio and on-screen captions. Macros are from the creator's card (57 cal per pinwheel); a serving here is 4 pinwheels."
+  },
+  {
+   "id": "jalapeno-popper-chicken-pockets",
+   "title": "Crispy Jalapeño Popper Chicken Pockets",
+   "img": "img/jalapeno-popper-chicken-pockets.jpg",
+   "part": 4,
+   "t": 851,
+   "servings": 16,
+   "unit": "pocket",
+   "time": 45,
+   "macros": {
+    "cal": 101,
+    "protein": 12,
+    "carbs": 6.5,
+    "fat": 3
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Snack",
+    "Main meal",
+    "Chicken",
+    "Tortillas",
+    "High protein",
+    "Air fryer",
+    "Spicy",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Chipotle honey mustard sauce",
+     "items": [
+      {
+       "q": 170,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 113,
+       "u": "g",
+       "i": "2% cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 4,
+       "u": "",
+       "i": "chipotle peppers in adobo",
+       "a": "International"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "water",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pickle juice, honey and mustard",
+       "a": "Pantry",
+       "est": true
+      },
+      {
+       "q": 0.25,
+       "u": "tsp",
+       "i": "black pepper",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 0.5,
+       "u": "tsp",
+       "i": "smoked paprika",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "sea salt, garlic powder, onion powder",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Popper filling",
+     "items": [
+      {
+       "q": 16,
+       "u": "oz",
+       "i": "chicken tenders",
+       "a": "Meat"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "blackened seasoning",
+       "a": "Pantry"
+      },
+      {
+       "q": 4,
+       "u": "",
+       "i": "jalapeños",
+       "a": "Produce",
+       "est": true
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy",
+       "est": true
+      },
+      {
+       "q": 3,
+       "u": "",
+       "i": "Laughing Cow light cheese wedges (or cream cheese)",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "",
+       "i": "packet ranch dip mix",
+       "a": "Pantry"
+      },
+      {
+       "q": 42,
+       "u": "g",
+       "i": "part-skim mozzarella",
+       "a": "Dairy"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "black beans",
+       "a": "Pantry"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "sweet corn",
+       "a": "Frozen"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "pico de gallo",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Pockets",
+     "items": [
+      {
+       "q": 8,
+       "u": "",
+       "i": "small low-carb tortillas, halved",
+       "a": "Bakery"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "flour and cold water, for the 'glue'",
+       "a": "Baking",
+       "staple": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "avocado oil spray and garlic powder",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Sauce",
+     "Blend all the sauce ingredients until smooth. Chill (keeps 7–10 days)."
+    ],
+    [
+     "Chicken",
+     "Season the tenders with blackened seasoning, spray and air fry at 400 °F for 9 minutes. Dice finely."
+    ],
+    [
+     "Roast the jalapeños",
+     "Air fry the jalapeños at 400 °F for 5–7 minutes, then remove stems and seeds (keep seeds for more heat) and dice."
+    ],
+    [
+     "Filling",
+     "Mash the yogurt, Laughing Cow, jalapeños and ranch mix with a fork, then mix in the mozzarella, chicken, black beans, corn and pico."
+    ],
+    [
+     "Form cones",
+     "Mix flour and water into a paste. Fold each tortilla half into a cone, gluing the seam."
+    ],
+    [
+     "Fill and seal",
+     "Fill each cone without overstuffing, glue the top flap shut and crimp the edge with a fork."
+    ],
+    [
+     "Air fry",
+     "Spray, sprinkle with garlic powder and air fry at 400 °F for 4–5 minutes. Serve with the sauce."
+    ]
+   ],
+   "notes": "Amounts come from the audio and on-screen captions. Macros (per pocket) are from the creator's on-screen nutrition card. He made 8 pockets with half the filling, so the full batch makes about 16. Jalapeño and yogurt amounts in the filling, and the honey/mustard in the sauce are estimates. Freezes well."
+  },
+  {
+   "id": "buffalo-chicken-pocket-pizza",
+   "title": "Buffalo Chicken Stuffed Pocket Pizza",
+   "img": "img/buffalo-chicken-pocket-pizza.jpg",
+   "part": 5,
+   "t": 1066,
+   "servings": 6,
+   "unit": "slice",
+   "time": 45,
+   "macros": {
+    "cal": 192,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 8.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Chicken",
+    "Tortillas",
+    "Pizza",
+    "High protein",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Buffalo chicken dip",
+     "items": [
+      {
+       "q": 1,
+       "u": "lb",
+       "i": "chicken breast",
+       "a": "Meat"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "ranch dip mix, to season",
+       "a": "Pantry"
+      },
+      {
+       "q": 113,
+       "u": "g",
+       "i": "Frank's RedHot Buffalo sauce",
+       "a": "Pantry"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "Laughing Cow light cheese wedges",
+       "a": "Dairy"
+      },
+      {
+       "q": 56,
+       "u": "g",
+       "i": "part-skim mozzarella",
+       "a": "Dairy"
+      },
+      {
+       "q": 6,
+       "u": "g",
+       "i": "nutritional yeast",
+       "a": "Pantry"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "red onion, diced",
+       "a": "Produce"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "green onion, sliced",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Pizza",
+     "items": [
+      {
+       "q": 3,
+       "u": "",
+       "i": "low-carb burrito tortillas, halved",
+       "a": "Bakery"
+      },
+      {
+       "q": 120,
+       "u": "g",
+       "i": "pizza sauce (20 g per slice)",
+       "a": "Pantry"
+      },
+      {
+       "q": 72,
+       "u": "g",
+       "i": "part-skim mozzarella, rinsed",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "cooking spray",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Chicken",
+     "Pat dry, flatten, season with ranch mix, spray and air fry at 400 °F for 9–10 minutes. Rest 10 minutes and dice finely."
+    ],
+    [
+     "Buffalo dip",
+     "Mix the chicken with the Buffalo sauce, Laughing Cow, mozzarella, nutritional yeast, red onion and green onion."
+    ],
+    [
+     "Fill",
+     "Wet each tortilla half, add a scoop of dip in a triangle shape, fold one side then the other over it and press completely flat."
+    ],
+    [
+     "Bake",
+     "Preheat a sheet pan in the oven. Spray it, lay the 6 pockets apart, spray the tops and bake at 400 °F for 8–10 minutes until golden."
+    ],
+    [
+     "Top",
+     "Push the slices together into a pizza, add 20 g pizza sauce per slice and the mozzarella, then broil until the cheese is golden."
+    ]
+   ],
+   "notes": "Amounts come from the audio. Macros (per slice) are from the creator's on-screen nutrition card. Rinsing shredded mozzarella removes the starch so it melts and stretches better."
+  },
+  {
+   "id": "meal-prep-freezer-breakfast-burritos",
+   "title": "Meal Prep Freezer Breakfast Burritos",
+   "img": "img/meal-prep-freezer-breakfast-burritos.jpg",
+   "part": 6,
+   "t": 1258,
+   "servings": 6,
+   "unit": "burrito",
+   "time": 50,
+   "macros": {
+    "cal": 472,
+    "protein": 47,
+    "carbs": 44,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Ground beef",
+    "Eggs",
+    "Tortillas",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Maple Buffalo sauce",
+     "items": [
+      {
+       "q": 60,
+       "u": "g",
+       "i": "Frank's RedHot Buffalo sauce",
+       "a": "Pantry",
+       "est": true
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "sugar-free pancake syrup",
+       "a": "Pantry",
+       "est": true
+      }
+     ]
+    },
+    {
+     "name": "Meat filling",
+     "items": [
+      {
+       "q": 400,
+       "u": "g",
+       "i": "frozen peppers and onions",
+       "a": "Frozen",
+       "est": true
+      },
+      {
+       "q": 8,
+       "u": "oz",
+       "i": "99/1 lean ground turkey",
+       "a": "Meat"
+      },
+      {
+       "q": 8,
+       "u": "oz",
+       "i": "96/4 lean ground beef",
+       "a": "Meat"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "packet taco seasoning",
+       "a": "Pantry"
+      },
+      {
+       "q": 450,
+       "u": "g",
+       "i": "2% cottage cheese (3 cups)",
+       "a": "Dairy"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "nutritional yeast",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Eggs",
+     "items": [
+      {
+       "q": 400,
+       "u": "g",
+       "i": "liquid egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 6,
+       "u": "",
+       "i": "large eggs",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "sea salt",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    },
+    {
+     "name": "Burritos",
+     "items": [
+      {
+       "q": 6,
+       "u": "",
+       "i": "burrito tortillas (Mission, 210 cal)",
+       "a": "Bakery"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "aluminum foil",
+       "a": "Household",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Sauce",
+     "Mix the Buffalo sauce and sugar-free syrup."
+    ],
+    [
+     "Veggies",
+     "Add the frozen peppers and onions to a hot pan (7/10), cover until softened, then uncover and sauté until browned."
+    ],
+    [
+     "Meat",
+     "Add the turkey and beef, flatten and let a crust form, cook 2 more minutes, then break up and mix with the veggies and taco seasoning."
+    ],
+    [
+     "Make it creamy",
+     "Stir in the cottage cheese and nutritional yeast and keep mixing 10–15 minutes until thick (lower to 4–5/10 if it catches). Cool in a bowl."
+    ],
+    [
+     "Eggs",
+     "In the same pan on 5/10, add the egg whites and eggs and keep the spatula moving in circles 3–4 minutes until just fluffy. Remove, then salt. Cool."
+    ],
+    [
+     "Roll",
+     "Fill each tortilla with a sixth of the meat and eggs and roll up tightly. Wrap in foil and freeze."
+    ],
+    [
+     "Reheat",
+     "Unwrap, wrap in a paper towel and microwave 2½ minutes, then air fry at 360 °F for 10–12 minutes until crispy. Serve with the maple Buffalo sauce."
+    ]
+   ],
+   "notes": "Amounts come from the audio and on-screen captions. Macros (per burrito) are from the creator's on-screen nutrition card. The veg and sauce amounts are estimates. A low-carb tortilla cuts the calories further."
+  },
+  {
+   "id": "egg-white-pizzadilla",
+   "title": "High-Protein Pizzadilla",
+   "img": "img/egg-white-pizzadilla.jpg",
+   "part": 7,
+   "t": 1532,
+   "servings": 1,
+   "unit": "pizzadilla",
+   "time": 15,
+   "macros": {
+    "cal": 509,
+    "protein": 51,
+    "carbs": 38,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Eggs",
+    "Tortillas",
+    "Pizza",
+    "High protein",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Pizzadilla",
+     "items": [
+      {
+       "q": 200,
+       "u": "g",
+       "i": "liquid egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "burrito tortilla (or low-carb to save ~100 cal)",
+       "a": "Bakery"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "pizza sauce, divided",
+       "a": "Pantry",
+       "est": true
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "oregano, basil and red pepper flakes",
+       "a": "Pantry",
+       "staple": true
+      },
+      {
+       "q": 42,
+       "u": "g",
+       "i": "part-skim mozzarella, divided (rinsed for topping)",
+       "a": "Dairy",
+       "est": true
+      },
+      {
+       "q": 26,
+       "u": "",
+       "i": "turkey pepperoni slices (17 inside, 9 on top)",
+       "a": "Meat"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "cooking spray",
+       "a": "Pantry",
+       "staple": true
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Egg layer",
+     "Pour the egg whites into a sprayed pan and lay the tortilla on top. Cover until the egg whites set."
+    ],
+    [
+     "Flip",
+     "Carefully flip so the egg side is up."
+    ],
+    [
+     "Fill",
+     "Spread pizza sauce over half, season well with oregano, basil and chili flakes, and add mozzarella and 17 pepperoni. Fold in half while the bottom crisps."
+    ],
+    [
+     "Top and bake",
+     "Top with more sauce, mozzarella and 9 pepperoni, then bake at 450 °F until golden. Cut into 4 slices."
+    ]
+   ],
+   "notes": "Amounts come from the audio and on-screen captions. Macros (for the whole pizzadilla) are from the creator's on-screen nutrition card. The sauce amount is an estimate. The egg whites add about 22 g protein and you can't taste them; use 100 g if you prefer."
+  }
+ ]
+}
