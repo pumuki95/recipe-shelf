@@ -1,0 +1,31 @@
+{
+ "src": {"key": "meSsrfLmxvc", "platform": "YouTube", "creator": "MyHealthyDish",
+  "title": "High Protein Egg Bites",
+  "url": "https://www.youtube.com/watch?v=meSsrfLmxvc", "recipes": 1},
+ "recipes": [{
+  "id": "bacon-cottage-cheese-egg-bites",
+  "title": "Bacon & Cottage Cheese Egg Bites",
+  "img": "img/bacon-cottage-cheese-egg-bites.jpg",
+  "part": 1, "t": 0, "servings": 12, "unit": "egg bite", "time": 35,
+  "macros": {"cal": 120, "protein": 10, "carbs": 2, "fat": 8},
+  "stated": ["cal", "protein"],
+  "tags": ["Breakfast", "Snack", "Eggs", "High protein", "Low carb", "Gluten-free", "Meal prep", "Freezer friendly"],
+  "groups": [
+   {"name": "Egg mixture", "items": [
+    {"q": 12, "u": "", "i": "eggs", "a": "Dairy"},
+    {"q": 1, "u": "cup", "i": "cottage cheese", "a": "Dairy"},
+    {"q": 0.5, "u": "cup", "i": "Parmesan, grated", "a": "Dairy"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "Fillings", "items": [
+    {"q": 6, "u": "", "i": "slices bacon, cooked and chopped", "a": "Meat"},
+    {"q": 1, "u": "", "i": "bell pepper, finely diced", "a": "Produce"},
+    {"q": 0.5, "u": "", "i": "onion, finely diced", "a": "Produce"},
+    {"q": null, "u": "", "i": "cooking spray", "a": "Pantry"}]}],
+  "steps": [
+   ["Blend", "Heat the oven to 350°F. Blend the eggs, cottage cheese, Parmesan, salt and pepper until smooth."],
+   ["Fill", "Spray a 12-cup silicone or muffin mould and divide the bacon, peppers and onion between the cups."],
+   ["Bake", "Pour the egg mixture over the fillings and bake on a sheet pan about 25 minutes, until puffed and set."],
+   ["Store", "Cool and refrigerate or freeze; reheat in the microwave."]],
+  "notes": "About 120 cal and 10 g protein per egg bite as stated. Ingredients are named in the video but not measured, so amounts, bake time and carbs/fat are estimates."
+ }]
+}

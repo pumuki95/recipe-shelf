@@ -1,0 +1,29 @@
+{
+ "src": {"key": "5q5UfJ2HtjY", "platform": "YouTube", "creator": "Karissa Stevens",
+  "title": "PRINCESS DIANA'S OVERNIGHT OATS",
+  "url": "https://www.youtube.com/watch?v=5q5UfJ2HtjY", "recipes": 1},
+ "recipes": [{
+  "id": "orange-juice-overnight-oats",
+  "title": "Orange Juice Overnight Oats with Apple & Honey",
+  "img": "img/orange-juice-overnight-oats.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "bowl", "time": 10,
+  "macros": {"cal": 430, "protein": 15, "carbs": 75, "fat": 9},
+  "stated": [],
+  "tags": ["Breakfast", "Vegetarian", "Meal prep"],
+  "groups": [
+   {"name": "Overnight", "items": [
+    {"q": 0.5, "u": "cup", "i": "rolled oats", "a": "Pantry"},
+    {"q": 2, "u": "", "i": "oranges, juiced (fresh)", "a": "Produce"}]},
+   {"name": "In the morning", "items": [
+    {"q": 0.33, "u": "cup", "i": "Greek yogurt", "a": "Dairy"},
+    {"q": 0.5, "u": "", "i": "Honeycrisp apple, grated", "a": "Produce"},
+    {"q": null, "u": "", "i": "walnuts, chopped (optional)", "a": "Pantry"},
+    {"q": null, "u": "", "i": "blueberries (optional)", "a": "Produce"},
+    {"q": 1, "u": "tsp", "i": "honey, to drizzle", "a": "Pantry"}]}],
+  "steps": [
+   ["Soak", "Stir the oats into the fresh orange juice, cover and refrigerate overnight."],
+   ["Finish", "In the morning, stir in the Greek yogurt and grated apple."],
+   ["Top", "Top with walnuts (and blueberries if you like) and drizzle with honey."]],
+  "notes": "Based on the overnight oats Princess Diana's former chef described making for her, as recreated in the video. Amounts beyond ½ cup oats and 2 oranges weren't given, so the rest and the macros are estimates."
+ }]
+}
