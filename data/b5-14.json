@@ -1,0 +1,98 @@
+{
+  "src": {"key":"urR6YWJAyq4","platform":"YouTube","creator":"Logan Nathanson","title":"The Only 5 Creami Recipes You'll Ever Need","url":"https://www.youtube.com/watch?v=urR6YWJAyq4","recipes":5},
+  "recipes": [
+  {
+    "id":"banana-maple-creami","title":"2-Ingredient Banana Ice Cream (Ninja Creami)","img":"img/banana-maple-creami.jpg","part":1,"t":26,
+    "servings":1,"unit":"pint","time":5,
+    "macros":{"cal":390,"protein":11,"carbs":79,"fat":6},"stated":[],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","Meal prep"],
+    "groups":[{"name":"Base","items":[
+      {"q":2,"u":"","i":"bananas, broken in half","a":"Produce"},
+      {"q":1,"u":"cup","i":"2% milk","a":"Dairy"},
+      {"q":1,"u":"tsp","i":"pure vanilla extract","a":"Baking","staple":true},
+      {"q":1,"u":"tbsp","i":"maple syrup","a":"Pantry"}]}],
+    "steps":[
+      ["Freeze","Put everything in a Creami pint and freeze 24 hours."],
+      ["Spin","Spin on Ice Cream. Re-spin with a splash of milk only if it's powdery."]
+    ],
+    "notes":"Amounts are as said in the video; no macros were given, so they're estimates. Tastes a bit like banana pudding."
+  },
+  {
+    "id":"pb-cup-cottage-cheese-creami","title":"Peanut Butter Cup Protein Ice Cream (Ninja Creami)","img":"img/pb-cup-cottage-cheese-creami.jpg","part":2,"t":127,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":535,"protein":60,"carbs":40,"fat":12},"stated":[],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","High protein","Meal prep"],
+    "groups":[{"name":"Base","items":[
+      {"q":0.67,"u":"cup","i":"cottage cheese","a":"Dairy"},
+      {"q":1.1,"u":"","i":"scoops chocolate protein powder (a little over 1)","a":"Pantry"},
+      {"q":4,"u":"tbsp","i":"powdered peanut butter (e.g. PBfit)","a":"Pantry"},
+      {"q":0.67,"u":"tbsp","i":"cocoa powder","a":"Baking"},
+      {"q":1.33,"u":"tbsp","i":"Swerve or other sugar substitute","a":"Baking"},
+      {"q":0.67,"u":"cup","i":"chocolate milk","a":"Dairy"}]}],
+    "steps":[
+      ["Blend and freeze","Blend everything until smooth, pour into a Creami pint and freeze 24 hours."],
+      ["Spin","Spin on CreamiFit (or Lite Ice Cream). Re-spin with a splash of milk if powdery."]
+    ],
+    "notes":"Amounts are as said in the video (\"over 30 g of protein\"); calories, carbs, fat and the protein figure here are estimates. You can't taste the cottage cheese."
+  },
+  {
+    "id":"blueberry-cheesecake-creami","title":"Low-Cal Blueberry Cheesecake Ice Cream (Ninja Creami)","img":"img/blueberry-cheesecake-creami.jpg","part":3,"t":212,
+    "servings":1,"unit":"pint","time":5,
+    "macros":{"cal":190,"protein":10,"carbs":21,"fat":7},"stated":[],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","Meal prep"],
+    "groups":[{"name":"Base","items":[
+      {"q":0.5,"u":"cup","i":"frozen blueberries","a":"Frozen"},
+      {"q":0.75,"u":"cup","i":"milk","a":"Dairy"},
+      {"q":2,"u":"tbsp","i":"fat-free Greek yogurt","a":"Dairy"},
+      {"q":1,"u":"tbsp","i":"light cream cheese","a":"Dairy"},
+      {"q":1,"u":"tbsp","i":"Swerve or other sugar substitute","a":"Baking"},
+      {"q":0.5,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+      {"q":0.5,"u":"tsp","i":"lemon juice","a":"Produce"},
+      {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true}]}],
+    "steps":[
+      ["Blend and freeze","Blend everything, pour into a Creami pint and freeze 24 hours."],
+      ["Spin","Spin on Lite Ice Cream — it shouldn't need a re-spin."]
+    ],
+    "notes":"Amounts are as said in the video; under 200 calories for the pint per the creator, other macros estimated. Honest note: he found the cream cheese flavor a bit sour and didn't recommend this one — you might add more sweetener or less lemon."
+  },
+  {
+    "id":"churro-protein-creami","title":"Churro Protein Ice Cream (Ninja Creami)","img":"img/churro-protein-creami.jpg","part":4,"t":307,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":390,"protein":56,"carbs":19,"fat":9},"stated":[],
+    "tags":["Dessert","Snack","Vegetarian","Gluten-free","High protein","Low carb","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":0.67,"u":"cup","i":"cottage cheese","a":"Dairy"},
+        {"q":1.33,"u":"","i":"scoops vanilla protein powder","a":"Pantry"},
+        {"q":2,"u":"tbsp","i":"brown sugar Swerve","a":"Baking"},
+        {"q":0.5,"u":"tsp","i":"ground cinnamon","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"buttery sweet dough flavoring (LorAnn)","a":"Baking"},
+        {"q":0.75,"u":"cup","i":"milk, to the max fill line","a":"Dairy"}]},
+      {"name":"To serve (optional)","items":[
+        {"q":null,"u":"","i":"churros or churro strips, for dipping","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Blend and freeze","Blend everything, pour into a Creami pint and freeze 24 hours."],
+      ["Spin","Spin on CreamiFit (or Lite Ice Cream)."],
+      ["Serve","Serve with churro strips for dipping."]
+    ],
+    "notes":"Amounts are as said in the video; no macros were given, so they're estimates (before the churro strips). The buttery sweet dough flavoring is what makes it taste like a churro."
+  },
+  {
+    "id":"mango-coconut-sorbet-creami","title":"Dairy-Free Mango Coconut Sorbet (Ninja Creami)","img":"img/mango-coconut-sorbet-creami.jpg","part":5,"t":428,
+    "servings":1,"unit":"pint","time":5,
+    "macros":{"cal":410,"protein":4,"carbs":49,"fat":25},"stated":[],
+    "tags":["Dessert","Snack","Vegan","Gluten-free","Meal prep"],
+    "groups":[{"name":"Base","items":[
+      {"q":1.5,"u":"cup","i":"frozen mango chunks (a 10 oz bag)","a":"Frozen"},
+      {"q":0.5,"u":"cup","i":"canned full-fat coconut milk","a":"International"},
+      {"q":2,"u":"tsp","i":"maple syrup","a":"Pantry"},
+      {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true}]}],
+    "steps":[
+      ["Freeze","Put everything in a Creami pint and freeze 24 hours."],
+      ["Spin","Spin on Sorbet."]
+    ],
+    "notes":"Amounts are as said in the video; no macros were given, so they're estimates. Dairy-free; tastes like a mango lassi crossed with coconut ice cream."
+  }
+  ]
+}

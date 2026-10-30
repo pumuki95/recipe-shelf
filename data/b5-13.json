@@ -1,0 +1,28 @@
+{
+  "src": {"key":"OO8CLg8CimM","platform":"YouTube","creator":"Sara and Steve's Kitchen","title":"Banana Bread Protein Ice Cream - Ninja Creami","url":"https://www.youtube.com/watch?v=OO8CLg8CimM","recipes":1},
+  "recipes": [{
+    "id":"banana-bread-protein-creami","title":"Banana Bread Protein Ice Cream (Ninja Creami)","img":"img/banana-bread-protein-creami.jpg","part":1,"t":0,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":520,"protein":37,"carbs":67,"fat":13},"stated":["protein"],
+    "tags":["Dessert","Snack","Vegetarian","High protein","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":1,"u":"cup","i":"milk","a":"Dairy"},
+        {"q":1,"u":"","i":"banana","a":"Produce"},
+        {"q":1,"u":"","i":"scoop vanilla protein powder","a":"Pantry"},
+        {"q":1,"u":"tbsp","i":"cinnamon","a":"Pantry"},
+        {"q":0.25,"u":"tsp","i":"vanilla extract","a":"Baking","staple":true},
+        {"q":1,"u":"tbsp","i":"plain Greek yogurt","a":"Dairy"},
+        {"q":1,"u":"tbsp","i":"maple syrup","a":"Pantry"}]},
+      {"name":"Mix-ins","items":[
+        {"q":1,"u":"","i":"graham cracker sheet, crushed","a":"Pantry","est":true},
+        {"q":1,"u":"tbsp","i":"pecans, crushed","a":"Pantry","est":true}]}
+    ],
+    "steps":[
+      ["Blend and freeze","Blend the milk, banana, protein powder, cinnamon, vanilla, yogurt and maple syrup, pour into a Creami pint and freeze 24 hours."],
+      ["Spin","Spin on Lite Ice Cream, adding a splash of milk and Re-spinning if it's powdery."],
+      ["Mix in","Make a hole, add the crushed graham crackers and pecans and run Mix-In."]
+    ],
+    "notes":"Recipe from the on-screen captions; 37 g protein for the pint is as shown. Mix-in amounts, calories, carbs and fat are estimates. Freezing time not included."
+  }]
+}
