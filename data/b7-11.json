@@ -1,0 +1,38 @@
+{
+ "src": {"key": "zZY4mQ-kZFw", "platform": "YouTube", "creator": "Panacea Palm",
+  "title": "The MOST DELICIOUS High Protein Creamy Cajun Chicken & Rice! 55g Protein ONLY 547 calories!",
+  "url": "https://www.youtube.com/watch?v=zZY4mQ-kZFw", "recipes": 1},
+ "recipes": [{
+  "id": "creamy-cajun-chicken-rice-meal-prep",
+  "title": "Creamy Cajun Chicken & Rice Meal Prep",
+  "img": "img/creamy-cajun-chicken-rice-meal-prep.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "meal", "time": 30,
+  "macros": {"cal": 547, "protein": 55, "carbs": 52, "fat": 13},
+  "stated": ["cal", "protein"],
+  "tags": ["Main meal", "Chicken", "Rice", "High protein", "Meal prep"],
+  "groups": [
+   {"name": "Cajun rice", "items": [
+    {"q": 20, "u": "g", "i": "light butter", "a": "Dairy"},
+    {"q": 0.5, "u": "", "i": "red onion, diced", "a": "Produce"},
+    {"q": 2, "u": "", "i": "garlic cloves, minced", "a": "Produce"},
+    {"q": 2, "u": "tsp", "i": "Cajun seasoning", "a": "Pantry"},
+    {"q": 700, "u": "g", "i": "cooked white rice", "a": "Pantry"}]},
+   {"name": "Chicken", "items": [
+    {"q": 800, "u": "g", "i": "chicken breast, pounded thin", "a": "Meat"},
+    {"q": 1, "u": "tbsp", "i": "Cajun seasoning", "a": "Pantry"},
+    {"q": null, "u": "", "i": "cooking spray", "a": "Pantry"}]},
+   {"name": "Creamy Cajun sauce", "items": [
+    {"q": 15, "u": "g", "i": "light butter", "a": "Dairy"},
+    {"q": 1, "u": "tsp", "i": "Cajun seasoning", "a": "Pantry"},
+    {"q": 200, "u": "ml", "i": "low-fat milk", "a": "Dairy"},
+    {"q": 160, "u": "g", "i": "light cream cheese", "a": "Dairy"},
+    {"q": 20, "u": "g", "i": "Parmesan, grated", "a": "Dairy"},
+    {"q": null, "u": "", "i": "chopped parsley or chives, to garnish", "a": "Produce"}]}],
+  "steps": [
+   ["Cajun rice", "Melt the butter over medium heat, cook the onion and garlic until fragrant, add the Cajun seasoning and toast 1 minute, then stir in the cooked rice to coat. Set aside."],
+   ["Chicken", "Spray the flattened chicken, coat in Cajun seasoning and cook over medium-high heat 3–4 minutes per side until golden. Slice."],
+   ["Sauce", "In the same pan melt the butter, add the seasoning, milk and cream cheese and stir until melted, then add Parmesan and simmer on low until thickened."],
+   ["Assemble", "Divide the rice and chicken between 4 containers and spoon the creamy sauce over the top."]],
+  "notes": "Amounts from the on-screen captions; 547 cal and 55 g protein per meal as stated (carbs and fat estimated). The Cajun seasoning blend for the chicken was in the caption, not shown — store-bought works."
+ }]
+}

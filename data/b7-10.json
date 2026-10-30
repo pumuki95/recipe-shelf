@@ -1,0 +1,23 @@
+{
+ "src": {"key": "el-56KEIPX8", "platform": "YouTube", "creator": "Lee Lem",
+  "title": "How to perfectly cook chicken breast every time (AIR FRYER)",
+  "url": "https://www.youtube.com/watch?v=el-56KEIPX8", "recipes": 1},
+ "recipes": [{
+  "id": "air-fryer-juicy-chicken-breast",
+  "title": "Perfect Air Fryer Chicken Breast (No Oil)",
+  "img": "img/air-fryer-juicy-chicken-breast.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "serving", "time": 35,
+  "macros": {"cal": 210, "protein": 40, "carbs": 0, "fat": 4.5},
+  "stated": [],
+  "tags": ["Main meal", "Chicken", "High protein", "Low carb", "Gluten-free", "Meal prep", "Quick"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 700, "u": "g", "i": "whole chicken breasts (not butterflied)", "a": "Meat"},
+    {"q": null, "u": "", "i": "seasoning or marinade of choice", "a": "Pantry"}]}],
+  "steps": [
+   ["Set the temperature", "Pick the air-fryer temperature by total chicken weight: 500 g → 180°C (355°F), 600 g → 185°C (365°F), 700 g → 190°C (375°F), 800 g → 195°C (385°F), 900 g → 200°C (390°F)."],
+   ["Season", "Season or marinate the whole breasts however you like — no oil needed."],
+   ["Cook", "Air fry 10 minutes, flip the moment the timer goes off, then cook another 10 minutes at the same temperature."],
+   ["Rest", "Take it out immediately and rest at least 10 minutes — it finishes cooking as it rests (cut early and it'll still be raw). Slice or shred."]],
+  "notes": "Timing table from the video description; follow it closely. Optional: coat in baking soda for 20–30 minutes and rinse before marinating for extra tenderness. Macros are estimates for plain chicken (about 175 g raw per serving)."
+ }]
+}
