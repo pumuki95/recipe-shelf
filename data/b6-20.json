@@ -1,0 +1,35 @@
+{
+ "src": {"key": "J5jKUb2cg6Q", "platform": "YouTube", "creator": "NickKaz Fit",
+  "title": "Low Calorie/High Protein Large Cinnamon Roll",
+  "url": "https://www.youtube.com/watch?v=J5jKUb2cg6Q", "recipes": 1},
+ "recipes": [{
+  "id": "large-protein-cinnamon-rolls-nickkaz",
+  "title": "Large Protein Cinnamon Rolls",
+  "img": "img/large-protein-cinnamon-rolls-nickkaz.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "roll", "time": 30,
+  "macros": {"cal": 183, "protein": 20, "carbs": 22, "fat": 2},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Dessert", "Breakfast", "Snack", "Vegetarian", "High protein", "Baked"],
+  "groups": [
+   {"name": "Wet", "items": [
+    {"q": 85, "u": "g", "i": "plain nonfat Greek yogurt (⅓ cup)", "a": "Dairy"},
+    {"q": 24, "u": "g", "i": "brown sugar substitute, e.g. Swerve (6 tbsp)", "a": "Baking"}]},
+   {"name": "Dry", "items": [
+    {"q": 1, "u": "", "i": "scoop vanilla protein powder", "a": "Pantry"},
+    {"q": 40, "u": "g", "i": "all-purpose flour (⅓ cup)", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "baking soda", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "ground cinnamon", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "ground nutmeg", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "salt", "a": "Pantry"}]},
+   {"name": "Glaze", "items": [
+    {"q": 35, "u": "g", "i": "plain nonfat Greek yogurt (2 tbsp)", "a": "Dairy"},
+    {"q": 1, "u": "tsp", "i": "butter (5 g)", "a": "Dairy"},
+    {"q": 24, "u": "g", "i": "powdered sugar substitute, e.g. Swerve (6 tbsp)", "a": "Baking"}]}],
+  "steps": [
+   ["Mix", "Heat the oven to 350°F. Mix the yogurt and brown sweetener in one bowl and the dry ingredients in another, then combine into a dough ball (add a splash of water if your protein powder makes it too stiff)."],
+   ["Shape", "Split into two balls. On floured parchment, stretch each into a long strip about 1½ in wide, then roll up from the bottom with lightly floured hands."],
+   ["Bake", "Bake 11–14 minutes and let rest 15 minutes."],
+   ["Glaze", "Mix the glaze ingredients and spoon over the rolls."]],
+  "notes": "Macros per roll as stated in the description (recipe makes 2)."
+ }]
+}

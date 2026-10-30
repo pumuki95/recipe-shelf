@@ -1,0 +1,41 @@
+{
+ "src": {"key": "BFaNhsHmLGg", "platform": "YouTube", "creator": "Hungry Hobby",
+  "title": "Healthy Cinnamon Rolls",
+  "url": "https://www.youtube.com/watch?v=BFaNhsHmLGg", "recipes": 1},
+ "recipes": [{
+  "id": "grain-free-date-cinnamon-rolls",
+  "title": "Grain-Free Date-Sweetened Cinnamon Rolls",
+  "img": "img/grain-free-date-cinnamon-rolls.jpg",
+  "part": 1, "t": 0, "servings": 20, "unit": "roll", "time": 50,
+  "macros": {"cal": 352, "protein": 6, "carbs": 46, "fat": 18},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Dessert", "Breakfast", "Vegetarian", "Gluten-free", "Baked", "Indulgent"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 3, "u": "cup", "i": "almond flour (not meal)", "a": "Baking"},
+    {"q": 0.25, "u": "cup", "i": "coconut flour", "a": "Baking"},
+    {"q": 0.5, "u": "cup", "i": "tapioca flour", "a": "Baking"},
+    {"q": 0.125, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 2, "u": "", "i": "eggs", "a": "Dairy"},
+    {"q": 0.33, "u": "cup", "i": "maple syrup", "a": "Pantry"},
+    {"q": 0.33, "u": "cup", "i": "butter or ghee, melted", "a": "Dairy"}]},
+   {"name": "Filling", "items": [
+    {"q": 16, "u": "", "i": "Medjool dates, pitted", "a": "Produce"},
+    {"q": 1, "u": "tsp", "i": "cinnamon", "a": "Baking"},
+    {"q": 0.67, "u": "cup", "i": "maple syrup", "a": "Pantry"},
+    {"q": 1, "u": "cup", "i": "pecan pieces (optional)", "a": "Pantry"}]},
+   {"name": "Frosting", "items": [
+    {"q": 5, "u": "oz", "i": "whole-milk vanilla Greek yogurt", "a": "Dairy"},
+    {"q": 0.5, "u": "cup", "i": "whipped cream cheese", "a": "Dairy"},
+    {"q": 2, "u": "cup", "i": "powdered sugar", "a": "Baking"}]}],
+  "steps": [
+   ["Dough", "Pulse the dough ingredients in a food processor until a dough forms, then chill it in the freezer while you make the filling."],
+   ["Prep", "Heat the oven to 350°F and line a cast-iron pan or 9-inch pie dish with parchment."],
+   ["Filling", "Blend the dates, cinnamon and maple syrup into a thick, syrupy paste."],
+   ["Roll", "Working with a third of the cold dough at a time, flatten it to about ¼ in thick, spread on filling, sprinkle with pecans and roll into a log (keep going if it cracks)."],
+   ["Slice", "Cut into 1-inch rolls and pack them close together in the pan — they won't rise. Repeat with the rest."],
+   ["Bake", "Bake 35–40 minutes until the edges are golden."],
+   ["Frost", "Whisk the yogurt, cream cheese and powdered sugar and drizzle over the warm rolls. If you'll reheat them later, frost just before serving."]],
+  "notes": "Yeast-free and grain-free. Recipe, method and per-roll macros from the Hungry Hobby website."
+ }]
+}
