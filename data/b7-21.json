@@ -1,0 +1,26 @@
+{
+ "src": {"key": "bo8dS6DDBkY", "platform": "YouTube", "creator": "UMUT SULEYMAN ALTINPA",
+  "title": "Muscle-building berry smoothie",
+  "url": "https://www.youtube.com/watch?v=bo8dS6DDBkY", "recipes": 1},
+ "recipes": [{
+  "id": "berry-banana-almond-smoothie",
+  "title": "Berry Banana Almond Smoothie",
+  "img": "img/berry-banana-almond-smoothie.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "smoothie", "time": 5,
+  "macros": {"cal": 470, "protein": 16, "carbs": 70, "fat": 16},
+  "stated": [],
+  "tags": ["Breakfast", "Snack", "Vegetarian", "Gluten-free", "Quick"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 1, "u": "", "i": "banana", "a": "Produce"},
+    {"q": 0.75, "u": "cup", "i": "strawberries", "a": "Produce"},
+    {"q": 0.5, "u": "cup", "i": "blueberries", "a": "Produce"},
+    {"q": 25, "u": "g", "i": "almonds (about 20)", "a": "Pantry"},
+    {"q": 1, "u": "tbsp", "i": "honey", "a": "Pantry"},
+    {"q": 1, "u": "cup", "i": "milk", "a": "Dairy"},
+    {"q": 1, "u": "cup", "i": "ice", "a": "Frozen"}]}],
+  "steps": [
+   ["Load", "Add the banana, strawberries, blueberries, almonds, honey, milk and ice to a blender."],
+   ["Blend", "Blend until completely smooth and pour."]],
+  "notes": "Ingredients named in the video without amounts, so quantities and macros are estimates. Add a scoop of protein powder for a higher-protein version."
+ }]
+}

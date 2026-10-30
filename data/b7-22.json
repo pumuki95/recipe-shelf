@@ -1,0 +1,32 @@
+{
+ "src": {"key": "PNBo1sa0WkA", "platform": "YouTube", "creator": "Dan Petcash",
+  "title": "Meal I ate every night as a d1 athlete to gain 10 pounds of muscle",
+  "url": "https://www.youtube.com/watch?v=PNBo1sa0WkA", "recipes": 1},
+ "recipes": [{
+  "id": "beef-egg-rice-bulking-bowl",
+  "title": "Beef, Egg & Rice Bulking Bowl",
+  "img": "img/beef-egg-rice-bulking-bowl.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "bowl", "time": 20,
+  "macros": {"cal": 1800, "protein": 107, "carbs": 140, "fat": 88},
+  "stated": ["cal", "protein"],
+  "tags": ["Main meal", "Beef", "Ground beef", "Rice", "High protein", "Quick", "Indulgent"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 1, "u": "tbsp", "i": "butter", "a": "Dairy"},
+    {"q": 1, "u": "lb", "i": "grass-fed ground beef", "a": "Meat"},
+    {"q": null, "u": "", "i": "seasonings of choice (e.g. garlic, paprika, seasoned salt)", "a": "Pantry"},
+    {"q": 2, "u": "", "i": "eggs", "a": "Dairy"},
+    {"q": 1.5, "u": "cup", "i": "cooked white rice", "a": "Pantry"},
+    {"q": 0.5, "u": "", "i": "bell pepper, diced (optional)", "a": "Produce"},
+    {"q": 0.5, "u": "cup", "i": "bone broth", "a": "Pantry"},
+    {"q": 0.25, "u": "cup", "i": "chunky salsa", "a": "International"},
+    {"q": null, "u": "", "i": "hot sauce", "a": "International"},
+    {"q": 30, "u": "g", "i": "shredded cheese", "a": "Dairy"}]}],
+  "steps": [
+   ["Brown", "Melt the butter in a large pan, add the ground beef and seasonings, and cook, breaking it up."],
+   ["Eggs", "Push the beef aside, crack in the eggs and scramble them into the beef."],
+   ["Rice", "Stir in the white rice and bell pepper until heated through."],
+   ["Loosen", "Move to a bowl and stir in bone broth (extra protein and moisture), salsa and hot sauce."],
+   ["Top", "Top with shredded cheese."]],
+  "notes": "A bulking meal — about 1,800 cal and 107 g protein for the whole bowl as stated. Amounts other than the 1 lb beef and 2 eggs, plus carbs and fat, are estimates. Split it in two for a regular-size meal."
+ }]
+}
