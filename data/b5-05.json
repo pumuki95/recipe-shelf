@@ -1,0 +1,47 @@
+{
+  "src": {"key":"CeqyuXxbmXw","platform":"YouTube","creator":"Panacea Palm","title":"The CRISPIEST High Protein Lebanese Beef Wraps","url":"https://www.youtube.com/watch?v=CeqyuXxbmXw","recipes":1},
+  "recipes": [{
+    "id":"crispy-lebanese-beef-wraps","title":"Crispy Lebanese Beef Pitta Wraps","img":"img/crispy-lebanese-beef-wraps.jpg","part":1,"t":0,
+    "servings":6,"unit":"wrap","time":40,
+    "macros":{"cal":420,"protein":44,"carbs":38,"fat":10},"stated":["cal","protein"],
+    "tags":["Main meal","Ground beef","Bread","High protein","Meal prep","Mediterranean"],
+    "groups":[
+      {"name":"Spiced beef","items":[
+        {"q":1,"u":"","i":"medium white onion","a":"Produce"},
+        {"q":4,"u":"","i":"garlic cloves","a":"Produce"},
+        {"q":1,"u":"","i":"green chili","a":"Produce","est":true},
+        {"q":1,"u":"","i":"handful fresh parsley","a":"Produce"},
+        {"q":650,"u":"g","i":"lean ground beef","a":"Meat"},
+        {"q":2,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+        {"q":1,"u":"tsp","i":"black pepper","a":"Pantry","staple":true},
+        {"q":1,"u":"tsp","i":"salt","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"other warm spices, e.g. cumin and allspice","a":"Pantry"}]},
+      {"name":"Crunchy salad","items":[
+        {"q":1,"u":"","i":"red onion, sliced","a":"Produce"},
+        {"q":1,"u":"","i":"handful parsley, chopped","a":"Produce"},
+        {"q":1,"u":"tsp","i":"sumac","a":"Pantry","est":true},
+        {"q":null,"u":"","i":"salt, to taste","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"drizzle of olive oil","a":"Pantry","staple":true}]},
+      {"name":"Garlic yogurt sauce","items":[
+        {"q":250,"u":"g","i":"0% Greek yogurt","a":"Dairy"},
+        {"q":0.5,"u":"","i":"cucumber, grated","a":"Produce","est":true},
+        {"q":1,"u":"tsp","i":"roasted garlic paste","a":"Produce"},
+        {"q":0.5,"u":"","i":"lemon, juiced","a":"Produce"},
+        {"q":null,"u":"","i":"salt","a":"Pantry","staple":true}]},
+      {"name":"Wraps","items":[
+        {"q":6,"u":"","i":"pitta breads (about 90 g each)","a":"Bakery"},
+        {"q":null,"u":"","i":"cooking spray","a":"Pantry","staple":true},
+        {"q":null,"u":"","i":"pickles and hot sauce, to serve","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Blitz the aromatics","Finely chop the white onion, garlic, chili and parsley in a mini chopper, then squeeze out the water in a cloth."],
+      ["Season the beef","Mix the aromatics into the beef with the paprika, pepper, salt and spices. Set aside."],
+      ["Crunchy salad","Toss the red onion and parsley with sumac, salt and a drizzle of olive oil."],
+      ["Garlic sauce","Mix the yogurt, grated cucumber, garlic paste, lemon juice and salt until creamy."],
+      ["Fill the pittas","Split each pitta into two layers. Spread a sixth of the beef thinly over the bottom half, put the top on and press down firmly."],
+      ["Crisp","Toast in a pan over medium heat with cooking spray, both sides, until golden and the beef is cooked through."],
+      ["Serve","Open up, add garlic sauce, crunchy salad, pickles and hot sauce, then fold into a wrap."]
+    ],
+    "notes":"Amounts come from the on-screen captions; 420 cal and 44 g protein per wrap are from the video title. The chili, cucumber and sumac amounts, and carbs/fat, are estimates."
+  }]
+}

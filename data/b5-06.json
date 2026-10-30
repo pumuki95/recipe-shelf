@@ -1,0 +1,26 @@
+{
+  "src": {"key":"aXN2MKM5CLg","platform":"YouTube","creator":"Eli | FPF","title":"Oreo McFlurry Protein Ice Cream","url":"https://www.youtube.com/watch?v=aXN2MKM5CLg","recipes":1},
+  "recipes": [{
+    "id":"oreo-mcflurry-protein-creami","title":"143-Calorie Oreo McFlurry Ice Cream (Ninja Creami)","img":"img/oreo-mcflurry-protein-creami.jpg","part":1,"t":0,
+    "servings":1,"unit":"pint","time":10,
+    "macros":{"cal":143,"protein":16,"carbs":24,"fat":0},"stated":["cal","protein","carbs","fat"],
+    "tags":["Dessert","Snack","Vegetarian","Meal prep"],
+    "groups":[
+      {"name":"Base","items":[
+        {"q":400,"u":"g","i":"high-protein low-calorie milk (Milk50 vanilla or original)","a":"Dairy"},
+        {"q":42,"u":"g","i":"monk fruit sweetener (40–45 g)","a":"Baking"},
+        {"q":5,"u":"g","i":"vanilla bean paste or extract (1 tsp)","a":"Baking"},
+        {"q":null,"u":"","i":"pinch of salt","a":"Pantry","staple":true},
+        {"q":1,"u":"g","i":"xanthan gum (¼ tsp)","a":"Baking"}]},
+      {"name":"Mix-in","items":[
+        {"q":3,"u":"","i":"Oreo Thins, cream scraped out","a":"Pantry"}]}
+    ],
+    "steps":[
+      ["Blend and freeze","Blend all the base ingredients, pour into a Creami pint and freeze at least 16 hours."],
+      ["Thaw the edge","Run the pint under hot water for at least 60 seconds."],
+      ["Spin","Spin on Lite Ice Cream, then Re-spin. Re-spin again if it's still powdery."],
+      ["Mix in","Make a hole down to the bottom, add the crumbled Oreo Thins and run Mix-In."]
+    ],
+    "notes":"Recipe and whole-pint macros come from the video description. Keep the Oreo cream in if you like — it roughly doubles the cookie calories. Freezing time not included."
+  }]
+}
