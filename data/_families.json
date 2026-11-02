@@ -184,7 +184,10 @@
   "canes-sauce-beef-bacon-egg-burritos",
   "breakfast-crunchwraps",
   "sausage-egg-cheese-sandwiches",
-  "five-minute-breakfast-sandwich"
+  "five-minute-breakfast-sandwich",
+  "beyond-meat-breakfast-burritos",
+  "vegetarian-breakfast-sandwich",
+  "frittata-breakfast-bagel"
  ],
  "Crunchwraps & wraps": [
   "breakfast-crunchwraps",
@@ -221,7 +224,7 @@
   "cheeseburger-hot-pockets",
   "triple-meat-stuffed-crust-protein-pizza"
  ],
- "Pancakes": [
+ "Pancakes & waffles": [
   "chocolate-chip-protein-pancakes",
   "greek-yogurt-blueberry-pancakes",
   "cottage-cheese-chocolate-chip-pancakes",
@@ -229,7 +232,10 @@
   "sweet-potato-protein-pancakes",
   "pb-cup-pancake-bowl",
   "maple-pecan-pancake-bowl",
-  "oat-flour-protein-pancake-bowls"
+  "oat-flour-protein-pancake-bowls",
+  "pumpkin-cottage-cheese-pancakes",
+  "cottage-cheese-oat-flour-waffles",
+  "almond-flour-low-carb-waffles"
  ],
  "Oats (baked & overnight)": [
   "choc-banana-baked-oats",
@@ -238,13 +244,18 @@
   "choc-banana-overnight-oats",
   "strawberry-shortcake-overnight-oats",
   "orange-juice-overnight-oats",
-  "carrot-cake-baked-oats-frosting"
+  "carrot-cake-baked-oats-frosting",
+  "chocolate-chunk-oat-bake",
+  "blueberry-oat-bake",
+  "chocolate-biscoff-egg-white-oats",
+  "milk-chocolate-overnight-oats-ganache"
  ],
  "French toast": [
   "sourdough-french-toast-bake",
   "pb-french-toast-sticks",
   "carnivore-french-toast",
-  "protein-french-toast-cloud"
+  "protein-french-toast-cloud",
+  "white-chocolate-french-toast"
  ],
  "Protein pasta": [
   "spicy-protein-vodka-pasta",
@@ -289,7 +300,8 @@
   "honey-garlic-chicken-tenders",
   "garlic-parmesan-cornflake-tenders",
   "chicken-chicharrones",
-  "air-fryer-juicy-chicken-breast"
+  "air-fryer-juicy-chicken-breast",
+  "crispy-chicken-mac-cheese-meal-prep"
  ],
  "Brownies, cakes & cheesecake": [
   "double-chocolate-protein-cheesecake",

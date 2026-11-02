@@ -1,0 +1,47 @@
+{
+ "src": {"key": "GF6vms6wSmY", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "This Meal Prep Has 70g of Protein and Tastes Like a Cheat Meal",
+  "url": "https://www.youtube.com/watch?v=GF6vms6wSmY", "recipes": 1},
+ "recipes": [{
+  "id": "crispy-chicken-mac-cheese-meal-prep",
+  "title": "Crispy Chicken & High-Protein Mac and Cheese with Chilli Yogurt",
+  "img": "img/crispy-chicken-mac-cheese-meal-prep.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "container", "time": 45,
+  "macros": {"cal": 736, "protein": 70, "carbs": 65, "fat": 15},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Pasta", "Baked", "Air fryer", "Comfort food"],
+  "groups": [
+   {"name": "Crispy chicken", "items": [
+    {"q": 900, "u": "g", "i": "chicken breast (3 large), butterflied and halved", "a": "Meat"},
+    {"q": 2, "u": "tsp", "i": "onion powder", "a": "Baking"},
+    {"q": 2, "u": "tsp", "i": "garlic powder", "a": "Baking"},
+    {"q": 2, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 125, "u": "g", "i": "panko breadcrumbs", "a": "Pantry"},
+    {"q": 3, "u": "", "i": "large eggs", "a": "Dairy"},
+    {"q": null, "u": "", "i": "spray oil", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "High-protein mac & cheese", "items": [
+    {"q": 400, "u": "g", "i": "high-protein macaroni (or pasta of choice)", "a": "Pantry"},
+    {"q": 375, "u": "ml", "i": "low-fat milk", "a": "Dairy"},
+    {"q": 100, "u": "g", "i": "cheddar cheese, grated", "a": "Dairy"},
+    {"q": 75, "u": "g", "i": "low-fat mozzarella, grated", "a": "Dairy"},
+    {"q": 4, "u": "", "i": "lite cheese slices", "a": "Dairy"},
+    {"q": 2, "u": "tsp", "i": "Dijon mustard", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "Chilli yogurt", "items": [
+    {"q": 180, "u": "g", "i": "high-protein Greek yogurt", "a": "Dairy"},
+    {"q": 1, "u": "tbsp", "i": "chilli sauce of choice", "a": "International"},
+    {"q": null, "u": "", "i": "salt and pepper, to taste", "a": "Pantry"},
+    {"q": null, "u": "", "i": "flat-leaf parsley, to garnish (optional)", "a": "Produce"}]}],
+  "steps": [
+   ["Butterfly", "Butterfly each chicken breast and cut it in half to make 6 even fillets. Toss with the onion powder, garlic powder, smoked paprika, a pinch of salt and plenty of pepper."],
+   ["Sauce", "Mix the Greek yogurt with the chilli sauce, salt and pepper. Put it in a squeeze bottle or small containers and refrigerate (don't reheat it)."],
+   ["Crumb", "Spread the panko on a tray. Whisk the eggs in a bowl. Dip each fillet in egg, then press it into the panko until fully coated. No flour needed."],
+   ["Bake", "Place on a lined, oiled tray and spray the chicken thoroughly with oil on both sides. Bake at 220°C / 390°F (or air fry) for 18–20 minutes, flipping halfway, until golden and 74°C / 165°F inside."],
+   ["Pasta", "Cook the macaroni in well-salted boiling water for 1 minute less than the packet says, then drain."],
+   ["Cheese sauce", "Gently warm the milk over medium heat (don't let it simmer). Add the cheddar, mozzarella and cheese slices and stir gently until melted, then stir in the Dijon and a pinch of salt."],
+   ["Combine", "Fold the drained macaroni through the sauce until creamy and stringy, and season with pepper."],
+   ["Portion", "Slice the chicken into strips. Divide the mac and cheese between 5 containers, top with the chicken, and add the chilli yogurt and parsley when serving."]],
+  "notes": "Amounts and the per-container macros (736 cal, 70 g protein, 65 g carbs, 15 g fat) are from the creator. You'll have one fillet left over across 5 containers; either share it out or make 6 smaller portions."
+ }]
+}
