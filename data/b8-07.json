@@ -1,0 +1,33 @@
+{
+ "src": {"key": "TYB48SEDHO8", "platform": "YouTube", "creator": "Tasty Shreds",
+  "title": "150g of protein",
+  "url": "https://www.youtube.com/watch?v=TYB48SEDHO8", "recipes": 1},
+ "recipes": [{
+  "id": "triple-meat-stuffed-crust-protein-pizza",
+  "title": "Triple Meat Stuffed-Crust Protein Pizza",
+  "img": "img/triple-meat-stuffed-crust-protein-pizza.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "serving (2 slices)", "time": 30,
+  "macros": {"cal": 312, "protein": 40, "carbs": 26, "fat": 6},
+  "stated": ["cal", "protein"],
+  "tags": ["Main meal", "Pizza", "High protein", "Meal prep", "Baked", "Chicken", "Pork"],
+  "groups": [
+   {"name": "Stuffed crust", "items": [
+    {"q": 1, "u": "cup", "i": "Fit flour (or self-rising flour)", "a": "Baking"},
+    {"q": 200, "u": "g", "i": "nonfat Greek yogurt", "a": "Dairy"},
+    {"q": 40, "u": "g", "i": "fat-free shredded cheese", "a": "Dairy"}]},
+   {"name": "Toppings", "items": [
+    {"q": 1, "u": "", "i": "chicken sausage, casing removed", "a": "Meat"},
+    {"q": 0.5, "u": "cup", "i": "pizza sauce", "a": "International"},
+    {"q": 15, "u": "g", "i": "turkey pepperoni", "a": "Meat"},
+    {"q": 60, "u": "g", "i": "reduced-fat mozzarella, shredded", "a": "Dairy"},
+    {"q": 2, "u": "", "i": "slices center-cut bacon, cooked and chopped", "a": "Meat"}]}],
+  "steps": [
+   ["Dough", "Mix the flour and Greek yogurt in a bowl, then knead into a smooth dough ball (dust with a little flour if sticky)."],
+   ["Stuff the crust", "Roll the dough into a large round on parchment. Scatter the fat-free cheese around the edge, then fold the edge over the cheese and press to seal."],
+   ["Par-bake", "Bake at 400°F / 200°C for 10 minutes."],
+   ["Sausage", "Meanwhile, break up the chicken sausage (pulse it in a chopper if you like) and brown it in a non-stick pan."],
+   ["Top", "Spread the pizza sauce over the crust, then add the mozzarella, turkey pepperoni, bacon and cooked sausage."],
+   ["Finish", "Bake another 8–10 minutes, until the cheese is melted and the crust is golden. Cut into 8 slices."]],
+  "notes": "Amounts are from the video's on-screen text. Stated: 156 cal and 20 g protein per slice; 4 servings of 2 slices (312 cal, 40 g protein). Carbs, fat and the second bake time are estimates. Fit flour is a higher-protein flour; self-rising flour works too but adds a little less protein."
+ }]
+}

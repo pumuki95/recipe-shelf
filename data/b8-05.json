@@ -1,0 +1,36 @@
+{
+ "src": {"key": "qpUOiG7o_Z0", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "Meal Prep For The Week In 30 Minutes | Sticky Garlic Beef Stir-Fry",
+  "url": "https://www.youtube.com/watch?v=qpUOiG7o_Z0", "recipes": 1},
+ "recipes": [{
+  "id": "sticky-garlic-beef-rice-meal-prep",
+  "title": "Sticky Garlic Beef, Broccoli & Jasmine Rice Meal Prep",
+  "img": "img/sticky-garlic-beef-rice-meal-prep.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "container", "time": 30,
+  "macros": {"cal": 584, "protein": 51, "carbs": 63, "fat": 14},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Ground beef", "Beef", "Rice", "Asian-inspired", "Freezer friendly", "Quick"],
+  "groups": [
+   {"name": "Beef & garlic sauce", "items": [
+    {"q": 800, "u": "g", "i": "lean beef mince (5% fat)", "a": "Meat"},
+    {"q": 4, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": 100, "u": "ml", "i": "low-sodium soy sauce", "a": "International"},
+    {"q": 40, "u": "g", "i": "honey", "a": "Pantry"},
+    {"q": 1, "u": "tbsp", "i": "peanut oil (or spray oil)", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and ground white pepper, to taste", "a": "Pantry"}]},
+   {"name": "Jasmine rice", "items": [
+    {"q": 300, "u": "g", "i": "jasmine rice, washed", "a": "Pantry"},
+    {"q": 550, "u": "ml", "i": "cold water", "a": "Pantry"},
+    {"q": null, "u": "", "i": "pinch of salt", "a": "Pantry"}]},
+   {"name": "Broccoli", "items": [
+    {"q": 1, "u": "", "i": "large head broccoli, florets and stem trimmed", "a": "Produce"}]}],
+  "steps": [
+   ["Rice", "Add the washed rice, cold water and a pinch of salt to a saucepan over high heat. Once it boils, put the lid on, turn the heat to low and cook for 12 minutes. Take it off the heat and leave the lid on for another 4 minutes, then fluff with a fork."],
+   ["Broccoli", "Cut the florets to an even size and chop the stem (peel it if you like). Steam over boiling water, lid on, for 5–6 minutes."],
+   ["Sauce", "Whisk the soy sauce, honey, grated garlic and a little white pepper until the honey is mixed through."],
+   ["Beef", "Heat a large pan or wok over high heat until lightly smoking, add the oil, then the beef. Let it sit for a minute before breaking it up, and cook 6–7 minutes until no longer pink and all the released water has evaporated. Season lightly (the soy is salty)."],
+   ["Glaze", "Pour in the sauce and cook 1–2 minutes until it turns sticky and coats the beef. Stir through the steamed broccoli."],
+   ["Portion", "Divide the rice and beef between five 750 ml containers. Keeps 4 days in the fridge or 3 months in the freezer."]],
+  "notes": "Amounts and the per-container macros (584 cal, 51 g protein, 63 g carbs, 14 g fat) are from the creator. Add a splash of dark soy sauce for a darker colour."
+ }]
+}

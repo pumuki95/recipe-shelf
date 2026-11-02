@@ -1,0 +1,26 @@
+{
+ "src": {"key": "uGf-btHt5UQ", "platform": "YouTube", "creator": "Michael Doherty",
+  "title": "Air fryer Chickpea Review",
+  "url": "https://www.youtube.com/watch?v=uGf-btHt5UQ", "recipes": 1},
+ "recipes": [{
+  "id": "crispy-parmesan-air-fryer-chickpeas",
+  "title": "Crispy Parmesan Air Fryer Chickpeas",
+  "img": "img/crispy-parmesan-air-fryer-chickpeas.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 20,
+  "macros": {"cal": 185, "protein": 10, "carbs": 27, "fat": 5},
+  "stated": [],
+  "tags": ["Snack", "Air fryer", "Vegetarian", "Gluten-free", "Quick", "High fiber"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 1, "u": "", "i": "can chickpeas (15 oz / 400 g), drained, rinsed and patted dry", "a": "Pantry"},
+    {"q": null, "u": "", "i": "olive oil spray", "a": "Pantry"},
+    {"q": 0.5, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "spices of choice (e.g. smoked paprika, garlic powder)", "a": "Baking"},
+    {"q": 2, "u": "tbsp", "i": "grated Parmesan", "a": "Dairy"}]}],
+  "steps": [
+   ["Dry", "Drain and rinse the chickpeas, then pat them very dry with a towel (dry chickpeas get crunchier)."],
+   ["Season", "Put them in a bowl, spray with oil and toss with the salt, spices and Parmesan."],
+   ["Air fry", "Air fry at 200°C / 390°F for 15–18 minutes, shaking the basket every 5 minutes, until deep golden and crunchy. Or bake at 200°C / 400°F for 25–30 minutes."],
+   ["Cool", "Let them cool for a few minutes; they crisp up more as they cool. Best eaten the same day."]],
+  "notes": "A savory, crunchy snack that keeps you full. The reviewer said they taste more like potato than chickpeas. No amounts are given in the video, so quantities and macros are estimates for one can."
+ }]
+}

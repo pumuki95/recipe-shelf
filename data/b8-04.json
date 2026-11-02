@@ -1,0 +1,29 @@
+{
+ "src": {"key": "-9JjzuC43PY", "platform": "YouTube", "creator": "Bree’s Balanced Life",
+  "title": "High Protein Breakfast Bowl Meal Prep",
+  "url": "https://www.youtube.com/watch?v=-9JjzuC43PY", "recipes": 1},
+ "recipes": [{
+  "id": "sausage-egg-white-breakfast-bowls",
+  "title": "Baked Sausage & Veggie Egg Breakfast Bowls",
+  "img": "img/sausage-egg-white-breakfast-bowls.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "bowl", "time": 40,
+  "macros": {"cal": 360, "protein": 37, "carbs": 9, "fat": 19},
+  "stated": [],
+  "tags": ["Breakfast", "Meal prep", "High protein", "Eggs", "Baked", "Low carb", "Gluten-free"],
+  "groups": [{"name": "Per bowl (make 4)", "items": [
+    {"q": 0.5, "u": "cup", "i": "liquid eggs or egg whites", "a": "Dairy"},
+    {"q": 0.25, "u": "cup", "i": "cottage cheese", "a": "Dairy"},
+    {"q": 0.25, "u": "cup", "i": "shredded cheddar cheese", "a": "Dairy"},
+    {"q": 0.33, "u": "cup", "i": "diced bell pepper, onion and tomato", "a": "Produce"},
+    {"q": null, "u": "", "i": "seasoning (salt, pepper, garlic powder)", "a": "Pantry"},
+    {"q": 1, "u": "", "i": "cooked chicken or pork sausage link, sliced", "a": "Meat"},
+    {"q": 1, "u": "", "i": "green onion, sliced, to finish", "a": "Produce"}]}],
+  "steps": [
+   ["Set up", "Heat the oven to 375°F / 190°C. Line up 4 oven-safe glass meal-prep bowls on a sheet pan."],
+   ["Fill", "Pour the liquid eggs into each bowl, then add the cottage cheese, shredded cheddar and diced veggies."],
+   ["Season", "Season each bowl, then top with the sliced sausage."],
+   ["Bake", "Bake for 25–30 minutes, until the eggs are puffed and set in the middle and golden on top."],
+   ["Finish", "Sprinkle with green onion. Cool, lid and refrigerate for up to 4 days; reheat in the microwave for 1–2 minutes."]],
+  "notes": "The video has no narration or amounts; it shows liquid eggs, a white dairy scoop (cottage cheese), shredded cheddar, diced peppers/onion/tomato, seasoning and sliced sausage layered into glass bowls and baked. Amounts and macros are estimates per bowl."
+ }]
+}
