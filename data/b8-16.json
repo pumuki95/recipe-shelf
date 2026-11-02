@@ -1,0 +1,25 @@
+{
+ "src": {"key": "K6VZukRiUQo", "platform": "YouTube", "creator": "AlexanderCooks",
+  "title": "This is the Genius Bowl",
+  "url": "https://www.youtube.com/watch?v=K6VZukRiUQo", "recipes": 1},
+ "recipes": [{
+  "id": "blueberry-dark-chocolate-protein-yogurt-bowl",
+  "title": "Blueberry Dark Chocolate Protein Yogurt Bowl",
+  "img": "img/blueberry-dark-chocolate-protein-yogurt-bowl.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "bowl", "time": 5,
+  "macros": {"cal": 495, "protein": 47, "carbs": 51, "fat": 11},
+  "stated": [],
+  "tags": ["Breakfast", "Snack", "High protein", "Vegetarian", "Gluten-free", "Quick", "No-cook", "Sweet tooth"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 200, "u": "g", "i": "Greek yogurt (1 cup)", "a": "Dairy"},
+    {"q": 100, "u": "g", "i": "blueberries (½ cup), fresh or frozen", "a": "Produce"},
+    {"q": 1, "u": "", "i": "scoop whey protein (about 30 g)", "a": "Pantry"},
+    {"q": null, "u": "", "i": "splash of milk", "a": "Dairy"},
+    {"q": 20, "u": "g", "i": "high-quality dark chocolate, chopped (a handful)", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "honey", "a": "Pantry"}]}],
+  "steps": [
+   ["Mix", "Stir the Greek yogurt, blueberries and whey protein together in a bowl, adding a splash of milk to loosen it to a smooth, ice-cream-like texture. Frozen blueberries turn it purple and extra cold."],
+   ["Top", "Scatter over the chopped dark chocolate and drizzle with honey."]],
+  "notes": "The video gives the yogurt (200 g) and blueberry (100 g) amounts; the other quantities and the macros are estimates."
+ }]
+}
