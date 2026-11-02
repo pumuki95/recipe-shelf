@@ -1,0 +1,34 @@
+{
+ "src": {"key": "axS3WTCXmmU", "platform": "YouTube", "creator": "AlexanderCooks",
+  "title": "Beef Burritos High Protein Easy Meal Prep",
+  "url": "https://www.youtube.com/watch?v=axS3WTCXmmU", "recipes": 1},
+ "recipes": [{
+  "id": "beef-cream-cheese-green-chile-burritos",
+  "title": "Beef, Cream Cheese & Green Chile Burritos",
+  "img": "img/beef-cream-cheese-green-chile-burritos.jpg",
+  "part": 1, "t": 0, "servings": 8, "unit": "burrito", "time": 25,
+  "macros": {"cal": 300, "protein": 30, "carbs": 18, "fat": 12},
+  "stated": ["cal", "protein"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Ground beef", "Beef", "Tortillas", "Freezer friendly", "Mexican-inspired", "Quick"],
+  "groups": [
+   {"name": "Filling", "items": [
+    {"q": 2, "u": "lb", "i": "extra-lean (94/6) ground beef", "a": "Meat"},
+    {"q": 1, "u": "tbsp", "i": "garlic powder", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "onion powder", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 100, "u": "g", "i": "reduced-fat (⅓ less fat) cream cheese", "a": "Dairy"},
+    {"q": 1, "u": "", "i": "can (4 oz) mild diced green chiles", "a": "International"},
+    {"q": 4, "u": "oz", "i": "shredded cheese (half an 8 oz bag)", "a": "Dairy"}]},
+   {"name": "To assemble", "items": [
+    {"q": 8, "u": "", "i": "low-calorie tortillas (about 60 cal each)", "a": "Bakery"},
+    {"q": null, "u": "", "i": "light sour cream and taco sauce (optional)", "a": "Dairy"}]}],
+  "steps": [
+   ["Season", "Put the beef in a large pan, mash it up, and add the garlic powder, onion powder, smoked paprika and salt. Mix well."],
+   ["Brown", "Cook over medium-high heat for 8–10 minutes until browned and cooked through."],
+   ["Creamy", "Turn the heat down, add the cream cheese and stir until it melts into the beef. Stir in the whole can of green chiles, then half the bag of shredded cheese."],
+   ["Wrap", "Divide the filling between 8 tortillas (add light sour cream or taco sauce if you like) and fold them up tightly."],
+   ["Sear", "Toast the burritos seam-side down in a hot pan, turning to crisp the sides. Store in the fridge or wrap and freeze."]],
+  "notes": "300 cal and 30 g protein per burrito, 8 burritos, as stated in the video (amounts from the video). The description version uses 12 wraps and adds sour cream and taco sauce. Carbs and fat are estimates."
+ }]
+}

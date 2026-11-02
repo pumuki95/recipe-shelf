@@ -1,0 +1,33 @@
+{
+ "src": {"key": "0-iwBctrMLA", "platform": "YouTube", "creator": "Adam Frater",
+  "title": "Healthy breakfast for getting shredded",
+  "url": "https://www.youtube.com/watch?v=0-iwBctrMLA", "recipes": 1},
+ "recipes": [{
+  "id": "eggs-avocado-rice-cakes-acai-smoothie",
+  "title": "Tallow Eggs, Avocado Rice Cakes & Açaí Smoothie",
+  "img": "img/eggs-avocado-rice-cakes-acai-smoothie.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "breakfast", "time": 15,
+  "macros": {"cal": 1035, "protein": 33, "carbs": 87, "fat": 62},
+  "stated": [],
+  "tags": ["Breakfast", "Eggs", "Gluten-free", "Vegetarian", "Quick"],
+  "groups": [
+   {"name": "Eggs & rice cakes", "items": [
+    {"q": 1, "u": "tsp", "i": "grass-fed beef tallow (or butter)", "a": "Pantry"},
+    {"q": 4, "u": "", "i": "pasture-raised eggs", "a": "Dairy"},
+    {"q": 1, "u": "", "i": "ripe avocado", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt", "a": "Pantry"},
+    {"q": 2, "u": "", "i": "plain rice cakes", "a": "Pantry"}]},
+   {"name": "Açaí smoothie", "items": [
+    {"q": 1, "u": "", "i": "frozen açaí purée pack (100 g)", "a": "Frozen"},
+    {"q": 1, "u": "", "i": "banana", "a": "Produce"},
+    {"q": 0.5, "u": "cup", "i": "mango chunks", "a": "Frozen"},
+    {"q": 0.5, "u": "cup", "i": "mango nectar", "a": "Pantry"},
+    {"q": 2, "u": "tbsp", "i": "coconut cream", "a": "International"}]}],
+  "steps": [
+   ["Eggs", "Heat a pan to medium, melt the tallow and fry the eggs to your liking."],
+   ["Avocado", "Halve and pit the avocado, mash it with a little salt and spread it over the rice cakes."],
+   ["Plate", "Plate the eggs with the avocado rice cakes."],
+   ["Smoothie", "Blend the açaí, banana, mango, mango nectar and coconut cream until smooth and pour into a glass."]],
+  "notes": "A big, energy-dense breakfast. The video gives no amounts; quantities and macros (for everything, eggs plus smoothie) are estimates. Drop the smoothie or use fewer eggs for a lighter meal."
+ }]
+}

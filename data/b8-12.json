@@ -1,0 +1,32 @@
+{
+ "src": {"key": "cIFhCycg6r0", "platform": "YouTube", "creator": "Cookingforgains",
+  "title": "I’ve had this meal every day for the last five years",
+  "url": "https://www.youtube.com/watch?v=cIFhCycg6r0", "recipes": 1},
+ "recipes": [{
+  "id": "taco-egg-white-rice-scramble",
+  "title": "Cheesy Taco Egg & Rice Scramble",
+  "img": "img/taco-egg-white-rice-scramble.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "bowl", "time": 15,
+  "macros": {"cal": 625, "protein": 63, "carbs": 63, "fat": 15},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Breakfast", "Main meal", "High protein", "Eggs", "Rice", "Quick", "Gluten-free", "Vegetarian", "Mexican-inspired"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 60, "u": "g", "i": "jasmine white rice (uncooked)", "a": "Pantry"},
+    {"q": 1, "u": "cup", "i": "water, for the rice", "a": "Pantry"},
+    {"q": null, "u": "", "i": "light butter, for the pan", "a": "Dairy"},
+    {"q": 3, "u": "", "i": "eggs", "a": "Dairy"},
+    {"q": 8, "u": "oz", "i": "liquid egg whites (1 cup)", "a": "Dairy"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"},
+    {"q": 80, "u": "g", "i": "plain Greek yogurt", "a": "Dairy"},
+    {"q": 40, "u": "g", "i": "fat-free mozzarella cheese", "a": "Dairy"},
+    {"q": 8, "u": "g", "i": "low-sodium taco seasoning", "a": "Baking"},
+    {"q": 30, "u": "g", "i": "Taco Bell mild sauce", "a": "International"},
+    {"q": 10, "u": "g", "i": "lime or lemon juice", "a": "Produce"}]}],
+  "steps": [
+   ["Rice", "Cook the rice with the water (he microwaves it for about 4 minutes; cook until tender)."],
+   ["Eggs", "Melt a little light butter in a pan, add the eggs and egg whites, season with salt and pepper, and stir as they cook into a soft scramble."],
+   ["Combine", "Add the hot rice to the pan, then the Greek yogurt, mozzarella, taco seasoning, Taco Bell sauce and lime juice."],
+   ["Finish", "Toss everything together until the cheese melts, then eat straight away."]],
+  "notes": "Amounts and macros (625 cal, 63 g protein, 63 g carbs, 15 g fat) are from the creator's description; the Greek yogurt is mentioned in the video but not the description. Fast-digesting and good for energy in the morning."
+ }]
+}
