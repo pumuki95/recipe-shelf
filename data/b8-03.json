@@ -1,0 +1,42 @@
+{
+ "src": {"key": "Cho29m5SMFk", "platform": "YouTube", "creator": "Panacea Palm",
+  "title": "The BEST Protein Cinnamon Buns! 20g Protein each and so easy to make!",
+  "url": "https://www.youtube.com/watch?v=Cho29m5SMFk", "recipes": 1},
+ "recipes": [{
+  "id": "greek-yogurt-protein-cinnamon-buns",
+  "title": "Greek Yogurt Protein Cinnamon Buns",
+  "img": "img/greek-yogurt-protein-cinnamon-buns.jpg",
+  "part": 1, "t": 0, "servings": 6, "unit": "bun", "time": 45,
+  "macros": {"cal": 290, "protein": 20, "carbs": 40, "fat": 5},
+  "stated": ["protein"],
+  "tags": ["Dessert", "Breakfast", "High protein", "Baked", "Vegetarian", "Meal prep", "Sweet tooth"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 300, "u": "g", "i": "bread flour", "a": "Baking"},
+    {"q": 50, "u": "g", "i": "granulated sweetener", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "baking powder", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "baking soda", "a": "Baking"},
+    {"q": null, "u": "", "i": "pinch of salt", "a": "Pantry"},
+    {"q": 400, "u": "g", "i": "0% fat Greek yogurt", "a": "Dairy"},
+    {"q": 1, "u": "", "i": "egg yolk", "a": "Dairy"}]},
+   {"name": "Filling", "items": [
+    {"q": 30, "u": "g", "i": "light butter, softened", "a": "Dairy"},
+    {"q": 50, "u": "g", "i": "brown stevia (brown sugar alternative)", "a": "Baking"},
+    {"q": null, "u": "", "i": "ground cinnamon, for dusting", "a": "Baking"}]},
+   {"name": "Frosting", "items": [
+    {"q": 45, "u": "g", "i": "light cream cheese", "a": "Dairy"},
+    {"q": 45, "u": "g", "i": "vanilla protein powder", "a": "Pantry"},
+    {"q": null, "u": "", "i": "water, for consistency", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "vanilla extract", "a": "Baking"},
+    {"q": null, "u": "", "i": "sweetener, to taste", "a": "Baking"}]}],
+  "steps": [
+   ["Dry mix", "In a bowl, mix the bread flour, sweetener, baking powder, baking soda and a pinch of salt."],
+   ["Dough", "Add the Greek yogurt and the egg yolk (the yolk keeps the buns rich and moist) and knead into a smooth dough ball."],
+   ["Roll", "Roll the dough out into a square about 1 in / 2.5 cm thick. Spread with the light butter, sprinkle the brown stevia over it and dust with cinnamon."],
+   ["Shape", "Slice into 6 equal strips and roll each one up into a bun. Place in a greased baking dish and press down gently."],
+   ["Bake", "Bake at 180°C / 350°F for 25–30 minutes, until golden. Let them cool."],
+   ["Frosting", "Mix the light cream cheese, protein powder, vanilla and sweetener, adding water a little at a time until it's pourable. Push it through a sieve for a silky-smooth frosting."],
+   ["Finish", "Drizzle the frosting over the cooled buns, then pull apart and enjoy."]],
+  "notes": "All amounts are from the video's on-screen text; 20 g protein per bun is stated. Calories, carbs and fat are estimates."
+ }]
+}

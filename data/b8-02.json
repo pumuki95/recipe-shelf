@@ -1,0 +1,28 @@
+{
+ "src": {"key": "nKNHfE2qyjI", "platform": "YouTube", "creator": "The JC's blog",
+  "title": "How to make a perfect low carb waffle recipe",
+  "url": "https://www.youtube.com/watch?v=nKNHfE2qyjI", "recipes": 1},
+ "recipes": [{
+  "id": "almond-flour-low-carb-waffles",
+  "title": "Low-Carb Almond Flour Waffles",
+  "img": "img/almond-flour-low-carb-waffles.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 15,
+  "macros": {"cal": 395, "protein": 18, "carbs": 12, "fat": 33},
+  "stated": [],
+  "tags": ["Breakfast", "Low carb", "Gluten-free", "Vegetarian", "Quick"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 1, "u": "cup", "i": "blanched almond flour", "a": "Baking"},
+    {"q": 2, "u": "", "i": "eggs", "a": "Dairy"},
+    {"q": 0.25, "u": "cup", "i": "unsweetened almond milk", "a": "Dairy"},
+    {"q": 2, "u": "tbsp", "i": "erythritol–monk fruit sweetener (e.g. Whole Earth)", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "baking powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "vanilla extract", "a": "Baking"},
+    {"q": null, "u": "", "i": "pinch of salt", "a": "Pantry"}]}],
+  "steps": [
+   ["Blend", "Add the almond milk, almond flour, sweetener, eggs, baking powder, vanilla and salt to a blender or Magic Bullet and blend into a smooth, pourable batter."],
+   ["Heat", "Preheat a waffle maker and grease it lightly if it isn't non-stick."],
+   ["Cook", "Pour in enough batter to cover the plates, close and cook until the light says it's done and the waffles are golden, about 4–5 minutes."],
+   ["Serve", "Lift out gently (almond flour waffles are softer when hot and firm up as they cool). Serve with berries, sugar-free syrup or butter."]],
+  "notes": "The video is silent with no amounts on screen; it shows almond milk, Kirkland blanched almond flour, Whole Earth erythritol–monk fruit sweetener and vanilla going into a blender (eggs are assumed, as in any almond-flour waffle). Amounts and macros are estimates for a standard almond-flour waffle batter (makes one 4-square waffle, about 2 servings)."
+ }]
+}

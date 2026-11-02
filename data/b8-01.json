@@ -1,0 +1,45 @@
+{
+ "src": {"key": "zYIueaY22XA", "platform": "YouTube", "creator": "Jonathan Clarke",
+  "title": "My Go-To Fat Loss Breakfast When I Want Something Sweet (34g Protein)",
+  "url": "https://www.youtube.com/watch?v=zYIueaY22XA", "recipes": 1},
+ "recipes": [{
+  "id": "carrot-cake-baked-oats-frosting",
+  "title": "Carrot Cake Baked Oats with Cottage Cheese Frosting",
+  "img": "img/carrot-cake-baked-oats-frosting.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "slice", "time": 40,
+  "macros": {"cal": 457, "protein": 34, "carbs": 37, "fat": 16},
+  "stated": ["cal", "protein"],
+  "tags": ["Breakfast", "Meal prep", "High protein", "Baked", "Vegetarian", "Sweet tooth"],
+  "groups": [
+   {"name": "Baked oats", "items": [
+    {"q": 1, "u": "", "i": "ripe banana", "a": "Produce"},
+    {"q": 3, "u": "", "i": "eggs", "a": "Dairy"},
+    {"q": 100, "u": "ml", "i": "milk", "a": "Dairy"},
+    {"q": 150, "u": "g", "i": "nonfat Greek yogurt", "a": "Dairy"},
+    {"q": 2, "u": "tbsp", "i": "zero-calorie maple syrup", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "vanilla extract", "a": "Baking"},
+    {"q": 120, "u": "g", "i": "rolled oats", "a": "Pantry"},
+    {"q": 60, "u": "g", "i": "vanilla protein powder", "a": "Pantry"},
+    {"q": 1, "u": "", "i": "large carrot, grated", "a": "Produce"},
+    {"q": 1, "u": "tsp", "i": "ground cinnamon", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "ground ginger", "a": "Baking"},
+    {"q": 0.25, "u": "tsp", "i": "ground nutmeg", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "baking powder", "a": "Baking"}]},
+   {"name": "Frosting", "items": [
+    {"q": 250, "u": "g", "i": "low-fat cottage cheese", "a": "Dairy"},
+    {"q": 100, "u": "g", "i": "nonfat Greek yogurt", "a": "Dairy"},
+    {"q": 1, "u": "tbsp", "i": "zero-calorie maple syrup", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "vanilla extract", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "ground cinnamon", "a": "Baking"}]},
+   {"name": "Topping", "items": [
+    {"q": 50, "u": "g", "i": "walnuts, chopped", "a": "Pantry"},
+    {"q": null, "u": "", "i": "pinch of ground cinnamon", "a": "Baking"}]}],
+  "steps": [
+   ["Wet mix", "Heat the oven to 180°C / 350°F. Mash the banana in a bowl, then whisk in the eggs, milk, Greek yogurt, zero-calorie maple syrup and vanilla."],
+   ["Dry mix", "Stir in the oats, protein powder, grated carrot, cinnamon, ginger, nutmeg and baking powder until combined."],
+   ["Bake", "Pour into a lined baking dish and bake for about 30 minutes, until set. Let it cool."],
+   ["Frosting", "Blend the cottage cheese, Greek yogurt, maple syrup, vanilla and cinnamon until completely smooth and creamy."],
+   ["Finish", "Spread the frosting over the cooled oats, scatter with chopped walnuts and a little cinnamon, and cut into 4 slices."]],
+  "notes": "457 cal and 34 g protein per slice as stated. The video gives no amounts (full recipe is in the creator's paid hub), so ingredient quantities, carbs and fat are estimates sized to match the stated calories. Keeps in the fridge for 3–4 days."
+ }]
+}
