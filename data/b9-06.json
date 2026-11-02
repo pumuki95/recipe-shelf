@@ -1,0 +1,39 @@
+{
+ "src": {"key": "zHTvmHSeW04", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "20 MINUTE Lamb Chops | Moroccan Lamb Chops Recipe",
+  "url": "https://www.youtube.com/watch?v=zHTvmHSeW04", "recipes": 1},
+ "recipes": [{
+  "id": "moroccan-lamb-cutlets-spiced-yogurt",
+  "title": "Moroccan Spiced Lamb Cutlets with Spiced Yogurt",
+  "img": "img/moroccan-lamb-cutlets-spiced-yogurt.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "serving", "time": 25,
+  "macros": {"cal": 560, "protein": 42, "carbs": 6, "fat": 41},
+  "stated": [],
+  "tags": ["Main meal", "High protein", "Low carb", "Gluten-free", "Quick", "Spicy"],
+  "groups": [
+   {"name": "Moroccan spice blend", "items": [
+    {"q": 1, "u": "tbsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "ground cumin", "a": "Baking"},
+    {"q": 2, "u": "tsp", "i": "ground coriander", "a": "Baking"},
+    {"q": 0.25, "u": "tsp", "i": "ground cloves", "a": "Baking"},
+    {"q": 0.25, "u": "tsp", "i": "ground allspice", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "cayenne pepper or chilli powder", "a": "Baking"}]},
+   {"name": "Lamb", "items": [
+    {"q": 1, "u": "kg", "i": "lamb cutlets", "a": "Meat"},
+    {"q": 1, "u": "tbsp", "i": "olive oil", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt, cracked black pepper and sea salt flakes", "a": "Pantry"}]},
+   {"name": "Spiced yogurt", "items": [
+    {"q": 1, "u": "cup", "i": "natural Greek yogurt (250 g)", "a": "Dairy"},
+    {"q": 2, "u": "g", "i": "fresh coriander (cilantro), chopped, plus extra to garnish", "a": "Produce"},
+    {"q": 2, "u": "g", "i": "fresh mint, chopped, plus extra to garnish", "a": "Produce"},
+    {"q": 1.5, "u": "tsp", "i": "lemon juice", "a": "Produce"}]}],
+  "steps": [
+   ["Spice blend", "Mix the smoked paprika, cumin, coriander, cloves, allspice and cayenne. Set 1 tbsp aside for the yogurt."],
+   ["Season", "Toss the lamb cutlets with the rest of the spice blend, the olive oil, salt and pepper until fully coated."],
+   ["Yogurt", "Mix the Greek yogurt with the reserved spice blend, coriander, mint, lemon juice, salt and pepper. Refrigerate until serving."],
+   ["Heat grill", "Heat a charcoal barbecue or gas grill (or a griddle pan) to about 240°C / 470°F."],
+   ["Grill", "Grill the cutlets about 3 minutes per side for medium-rare (about 50°C / 122°F inside), rotating halfway on each side for crosshatch marks. Keep the lid closed between turns."],
+   ["Rest & serve", "Rest 5 minutes, then arrange on a platter with the spiced yogurt, chopped coriander and mint, and a pinch of sea salt flakes."]],
+  "notes": "Amounts are from the video. The spice blend is also great on chicken, fish or beef. Macros are estimates."
+ }]
+}

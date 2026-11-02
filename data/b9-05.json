@@ -1,0 +1,46 @@
+{
+ "src": {"key": "RpxtJI_Zmlg", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "TRADITIONAL Ragu Bolognese | Authentic Italian Recipe",
+  "url": "https://www.youtube.com/watch?v=RpxtJI_Zmlg", "recipes": 1},
+ "recipes": [{
+  "id": "traditional-ragu-bolognese",
+  "title": "Traditional Ragù Bolognese with Garlic Bread",
+  "img": "img/traditional-ragu-bolognese.jpg",
+  "part": 1, "t": 0, "servings": 6, "unit": "serving", "time": 180,
+  "macros": {"cal": 720, "protein": 38, "carbs": 70, "fat": 30},
+  "stated": [],
+  "tags": ["Main meal", "Pasta", "Beef", "Pork", "Ground beef", "Italian", "Comfort food", "Freezer friendly", "Make-ahead"],
+  "groups": [
+   {"name": "Ragù", "items": [
+    {"q": 140, "u": "g", "i": "pancetta, diced", "a": "Meat"},
+    {"q": 1, "u": "", "i": "brown onion, diced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "celery stick, diced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "carrot, diced", "a": "Produce"},
+    {"q": 750, "u": "g", "i": "mixed beef, veal and pork mince", "a": "Meat"},
+    {"q": 180, "u": "ml", "i": "dry red wine (or stock)", "a": "Pantry"},
+    {"q": 2, "u": "tbsp", "i": "tomato paste (optional)", "a": "Pantry"},
+    {"q": 700, "u": "ml", "i": "passata (tomato sauce), plus ½ bottle of water", "a": "Pantry"},
+    {"q": 180, "u": "ml", "i": "full-fat milk", "a": "Dairy"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "To serve", "items": [
+    {"q": 500, "u": "g", "i": "tagliatelle (or pasta of choice)", "a": "Pantry"},
+    {"q": null, "u": "", "i": "Parmigiano Reggiano, grated", "a": "Dairy"},
+    {"q": null, "u": "", "i": "fresh basil leaves", "a": "Produce"}]},
+   {"name": "Garlic bread (optional)", "items": [
+    {"q": 125, "u": "g", "i": "unsalted butter, softened", "a": "Dairy"},
+    {"q": 6, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": 1, "u": "tsp", "i": "dried parsley", "a": "Baking"},
+    {"q": 1, "u": "", "i": "sourdough loaf or baguette", "a": "Bakery"}]}],
+  "steps": [
+   ["Pancetta", "Cook the pancetta in a large pan over medium heat for 4–5 minutes until the fat renders and it's golden (no salt needed)."],
+   ["Soffritto", "Add the onion, celery and carrot with a little salt and sauté 6–7 minutes, stirring, without letting them colour."],
+   ["Brown meat", "Turn the heat to medium-high, add the mince, let it sit a minute or two, then break it up and cook 8–10 minutes until no longer pink and the water has evaporated. Season."],
+   ["Wine", "Pour in the red wine and reduce by about 75%, 2–3 minutes, scraping up the browned bits."],
+   ["Simmer", "Stir in the tomato paste, passata and the half bottle of water used to rinse it out. Bring to a simmer, check seasoning, then cook on low for at least 2 hours (up to 5). He cooked it 3."],
+   ["Garlic bread", "Mix the butter, grated garlic, parsley, salt and pepper. Slice the bread almost all the way through, spread the butter between the slices, and bake 10–15 minutes while the pasta cooks."],
+   ["Pasta", "About 20 minutes before the end, cook the pasta in salted water for 1 minute less than the packet says. Reserve some pasta water, then drain."],
+   ["Milk", "Stir the milk gently into the ragù over low heat. It balances the acidity and makes it creamy; don't let it boil or it can split."],
+   ["Toss & serve", "Toss each serving of pasta in a pan with a couple of ladles of ragù and a splash of pasta water over higher heat. Add Parmesan, torn basil and pepper, then pile high with extra sauce and Parmesan on top."]],
+  "notes": "Amounts are from the video; the ragù freezes well, so make extra. No macros are given, so they're estimates per serving (with pasta, without garlic bread)."
+ }]
+}

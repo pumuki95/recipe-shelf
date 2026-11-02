@@ -1,0 +1,42 @@
+{
+ "src": {"key": "gwH1Ww_224E", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "FAST High Protein Beef Pasta Meal Prep",
+  "url": "https://www.youtube.com/watch?v=gwH1Ww_224E", "recipes": 1},
+ "recipes": [{
+  "id": "creamy-spiced-steak-pasta-meal-prep",
+  "title": "Creamy Spiced Steak Pasta Meal Prep",
+  "img": "img/creamy-spiced-steak-pasta-meal-prep.jpg",
+  "part": 1, "t": 0, "servings": 6, "unit": "container", "time": 30,
+  "macros": {"cal": 659, "protein": 47, "carbs": 63, "fat": 24, "fiber": 4, "sugar": 6},
+  "stated": ["cal", "protein", "carbs", "fat", "fiber", "sugar"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Beef", "Pasta", "Freezer friendly", "Quick"],
+  "groups": [
+   {"name": "Steak", "items": [
+    {"q": 1, "u": "tbsp", "i": "olive or avocado oil (or spray oil)", "a": "Pantry"},
+    {"q": 900, "u": "g", "i": "lean steak (topside, skirt, flank, sirloin), thinly sliced across the grain", "a": "Meat"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "Creamy pasta", "items": [
+    {"q": 500, "u": "g", "i": "rigatoni or penne", "a": "Pantry"},
+    {"q": 1, "u": "tbsp", "i": "unsalted butter", "a": "Dairy"},
+    {"q": 6, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": 60, "u": "ml", "i": "beef, chicken or vegetable stock", "a": "Pantry"},
+    {"q": 350, "u": "ml", "i": "unsweetened evaporated milk (or cream)", "a": "Dairy"},
+    {"q": 2, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "chilli powder or flakes (optional)", "a": "Baking"},
+    {"q": 200, "u": "g", "i": "baby spinach", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "Garnish", "items": [
+    {"q": 5, "u": "g", "i": "flat-leaf parsley, chopped", "a": "Produce"},
+    {"q": null, "u": "", "i": "Parmigiano Reggiano, grated, and cracked black pepper", "a": "Dairy"}]}],
+  "steps": [
+   ["Prep", "Put a pot of water on to boil. Slice the steak thinly across the grain (20–30 minutes in the freezer makes this easier) and season with salt and pepper."],
+   ["Sear", "Heat the oil in a large high-sided pan over high heat. Sear the steak in batches for 2–2½ minutes until browned but not cooked through, then set aside."],
+   ["Pasta", "Salt the water and cook the pasta 1 minute less than the packet says."],
+   ["Garlic", "In the same pan over medium-high heat, melt the butter and cook the garlic for 1 minute, stirring so it doesn't burn. Deglaze with the stock for 1 minute."],
+   ["Sauce", "Add the evaporated milk, smoked paprika and chilli. Bring to a simmer, season, then reduce to low for 5–6 minutes until slightly thickened."],
+   ["Spinach & steak", "Stir in the spinach for 1½–2 minutes until wilted, then add the steak and its juices."],
+   ["Combine", "Transfer the pasta to the sauce with a little pasta water and cook 1 minute over medium-high heat until coated."],
+   ["Portion", "Divide into 6 containers (about 400 g each), top with Parmesan, parsley and pepper. Keeps 3 days in the fridge or 4 months frozen; reheat in the microwave."]],
+  "notes": "Amounts and per-container nutrition (659 cal, 47 g protein, 63 g carbs, 24 g fat, 4 g fibre, 6 g sugar) are from the creator. Evaporated milk keeps it lighter than cream."
+ }]
+}
