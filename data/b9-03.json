@@ -1,0 +1,31 @@
+{
+ "src": {"key": "mqqn9fpgIrQ", "platform": "YouTube", "creator": "The West Country Kitchen",
+  "title": "This NEW Pasta Sauce is actually NEXT LEVEL",
+  "url": "https://www.youtube.com/watch?v=mqqn9fpgIrQ", "recipes": 1},
+ "recipes": [{
+  "id": "onion-pecorino-spaghetti",
+  "title": "Onion & Pecorino Romano Spaghetti",
+  "img": "img/onion-pecorino-spaghetti.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 40,
+  "macros": {"cal": 700, "protein": 23, "carbs": 98, "fat": 24},
+  "stated": [],
+  "tags": ["Main meal", "Pasta", "Vegetarian", "Italian-inspired", "Comfort food"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 3, "u": "", "i": "medium onions, thinly sliced", "a": "Produce"},
+    {"q": 2, "u": "tbsp", "i": "olive oil", "a": "Pantry"},
+    {"q": 20, "u": "g", "i": "butter", "a": "Dairy"},
+    {"q": 3, "u": "", "i": "garlic cloves, roughly chopped", "a": "Produce"},
+    {"q": 200, "u": "ml", "i": "chicken stock (vegetable stock for vegetarian)", "a": "Pantry"},
+    {"q": 50, "u": "g", "i": "Pecorino Romano, grated, plus extra to serve", "a": "Dairy"},
+    {"q": 200, "u": "g", "i": "spaghetti", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and plenty of black pepper", "a": "Pantry"}]}],
+  "steps": [
+   ["Sweat", "Thinly slice the onions. Cook them in the olive oil with a pinch of salt over medium-low heat until very soft."],
+   ["Caramelise", "Add the butter and black pepper and keep cooking until golden and caramelised, then add the garlic for a minute."],
+   ["Sauce", "Pour in the stock, grate in the Pecorino, then blitz everything in a blender until smooth."],
+   ["Pasta", "Cook the spaghetti in salted water until al dente."],
+   ["Toss", "Add the spaghetti to a pan with a splash of pasta water and the onion sauce and toss until glossy and creamy, adjusting with more water or sauce."],
+   ["Serve", "Finish with more Pecorino and black pepper."]],
+  "notes": "Adapted by the creator from a Thomas Straker recipe. The video gives no amounts, so quantities and macros are estimates. Use vegetable stock to keep it vegetarian."
+ }]
+}

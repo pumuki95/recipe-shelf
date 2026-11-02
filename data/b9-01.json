@@ -1,0 +1,30 @@
+{
+ "src": {"key": "SbN-lkHz1b8", "platform": "YouTube", "creator": "Noah Perlo",
+  "title": "The FLUFFIEST Protein Pancakes.",
+  "url": "https://www.youtube.com/watch?v=SbN-lkHz1b8", "recipes": 1},
+ "recipes": [{
+  "id": "fluffy-cottage-cheese-ring-pancakes",
+  "title": "Fluffy Cottage Cheese Ring Pancakes with Air-Fried Banana",
+  "img": "img/fluffy-cottage-cheese-ring-pancakes.jpg",
+  "part": 1, "t": 0, "servings": 8, "unit": "pancake", "time": 30,
+  "macros": {"cal": 135, "protein": 9, "carbs": 17.5, "fat": 3.25},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Breakfast", "Vegetarian", "High protein", "Meal prep"],
+  "groups": [
+   {"name": "Batter", "items": [
+    {"q": 2, "u": "cup", "i": "low-fat cottage cheese", "a": "Dairy"},
+    {"q": 4, "u": "", "i": "whole eggs", "a": "Dairy"},
+    {"q": 1, "u": "tsp", "i": "vanilla extract", "a": "Baking"},
+    {"q": 4, "u": "tbsp", "i": "sugar-free maple syrup, plus extra to serve", "a": "Pantry"},
+    {"q": 1.25, "u": "cup", "i": "self-rising flour", "a": "Baking"}]},
+   {"name": "Topping (optional)", "items": [
+    {"q": 2, "u": "", "i": "ripe bananas, halved lengthwise", "a": "Produce"},
+    {"q": null, "u": "", "i": "ground cinnamon", "a": "Baking"}]}],
+  "steps": [
+   ["Blend", "Blend the cottage cheese, eggs, vanilla and sugar-free maple syrup until smooth, then mix in the self-rising flour."],
+   ["Cook in rings", "Heat a greased pan over medium heat with greased metal muffin/egg rings. Fill the rings with batter and cook low and slow until set and golden underneath, then flip (ring and all) and finish the other side. This is what makes them extra tall and fluffy."],
+   ["Banana", "Sprinkle the banana halves with cinnamon and air fry until caramelised."],
+   ["Serve", "Stack the pancakes, drizzle with sugar-free syrup and top with the bananas."]],
+  "notes": "Amounts and per-pancake macros (135 cal, 9 g protein, 17.5 g carbs, 3.25 g fat; recipe makes 8) are from the creator's description."
+ }]
+}

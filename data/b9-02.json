@@ -1,0 +1,26 @@
+{
+ "src": {"key": "awjqgAIccZM", "platform": "YouTube", "creator": "AlexanderCooks",
+  "title": "Healthy High Protein Ice Cream",
+  "url": "https://www.youtube.com/watch?v=awjqgAIccZM", "recipes": 1},
+ "recipes": [{
+  "id": "berry-cottage-cheese-ice-cream",
+  "title": "3-Ingredient Berry Cottage Cheese Ice Cream",
+  "img": "img/berry-cottage-cheese-ice-cream.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 100,
+  "macros": {"cal": 235, "protein": 13.5, "carbs": 42, "fat": 2.5},
+  "stated": [],
+  "tags": ["Dessert", "Snack", "Vegetarian", "Gluten-free", "High protein", "No-bake", "Make-ahead"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 1, "u": "cup", "i": "cottage cheese", "a": "Dairy"},
+    {"q": 0.5, "u": "cup", "i": "blueberries", "a": "Produce"},
+    {"q": 0.5, "u": "cup", "i": "raspberries", "a": "Produce"},
+    {"q": 3, "u": "tbsp", "i": "honey", "a": "Pantry"},
+    {"q": null, "u": "", "i": "coconut or dark chocolate, to top (optional)", "a": "Baking"}]}],
+  "steps": [
+   ["Blend", "Blend the cottage cheese, blueberries, raspberries and honey until completely smooth and liquid."],
+   ["Freeze", "Pour into a medium freezer-safe bowl or container, spread it out evenly and freeze for at least 1½ hours."],
+   ["Soften", "Let it sit at room temperature for 10 minutes so it's easy to scoop."],
+   ["Serve", "Scoop into bowls and top with coconut or dark chocolate if you like. Also good for breakfast or on a healthy crumble."]],
+  "notes": "Amounts from the video; macros are estimates. Any fruit works in place of the berries."
+ }]
+}

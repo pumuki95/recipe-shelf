@@ -1,0 +1,52 @@
+{
+ "src": {"key": "ZlsrmJvk9f4", "platform": "YouTube", "creator": "Ethan Paff",
+  "title": "The Lasagna You Can Eat Every Day... INFINITELY | High Protein Meal Prep",
+  "url": "https://www.youtube.com/watch?v=ZlsrmJvk9f4", "recipes": 1},
+ "recipes": [{
+  "id": "high-protein-beef-veggie-lasagna",
+  "title": "High-Protein Beef & Veggie Cottage Cheese Lasagna",
+  "img": "img/high-protein-beef-veggie-lasagna.jpg",
+  "part": 1, "t": 0, "servings": 10, "unit": "serving", "time": 90,
+  "macros": {"cal": 626, "protein": 57, "carbs": 46.7, "fat": 23},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Ground beef", "Beef", "Pasta", "Baked", "Italian-inspired", "Comfort food", "Freezer friendly"],
+  "groups": [
+   {"name": "Veggies", "items": [
+    {"q": 1, "u": "", "i": "medium zucchini, diced", "a": "Produce"},
+    {"q": 2, "u": "", "i": "medium carrots, diced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "medium red bell pepper, diced", "a": "Produce"},
+    {"q": 0.5, "u": "cup", "i": "mushrooms, diced", "a": "Produce"},
+    {"q": 2, "u": "", "i": "garlic cloves, minced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "shallot, minced", "a": "Produce"}]},
+   {"name": "Sauce", "items": [
+    {"q": 3, "u": "", "i": "cans (15 oz / 425 g) tomato sauce, plus ½ can water", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "garlic powder", "a": "Baking"},
+    {"q": 2, "u": "tsp", "i": "onion powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "black pepper", "a": "Baking"},
+    {"q": 2.5, "u": "tsp", "i": "dried oregano", "a": "Baking"},
+    {"q": 5, "u": "tsp", "i": "dried basil", "a": "Baking"}]},
+   {"name": "Meat & pasta", "items": [
+    {"q": 2, "u": "lb", "i": "93/7 lean ground beef", "a": "Meat"},
+    {"q": 1, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 12, "u": "oz", "i": "oven-ready lasagna noodles", "a": "Pantry"}]},
+   {"name": "Cheese mix", "items": [
+    {"q": 2, "u": "", "i": "containers (16 oz / 454 g) 2% cottage cheese", "a": "Dairy"},
+    {"q": 2, "u": "tbsp", "i": "cornstarch", "a": "Baking"},
+    {"q": 2, "u": "", "i": "large eggs", "a": "Dairy"},
+    {"q": 1, "u": "tbsp", "i": "dried parsley, plus extra to garnish", "a": "Baking"}]},
+   {"name": "Cheese (part goes in the mix)", "items": [
+    {"q": 1, "u": "lb", "i": "low-moisture part-skim mozzarella, shredded (1 cup goes in the cheese mix)", "a": "Dairy"},
+    {"q": 150, "u": "g", "i": "Parmigiano Reggiano, shredded (½ cup goes in the cheese mix)", "a": "Dairy"}]}],
+  "steps": [
+   ["Prep", "Dice the zucchini, carrots, bell pepper and mushrooms to a similar size; mince the garlic and shallot separately. Heat the oven to 400°F / 204°C."],
+   ["Sauce", "Add the tomato sauce, water, salt, garlic powder, onion powder, pepper, oregano and basil to a pot and simmer covered on low."],
+   ["Meat", "Brown the beef with the salt over medium heat, adding the garlic and shallot as it finishes. Stir into the sauce and cover."],
+   ["Veggies", "In the same pan, cook the mushrooms first to release their moisture, then the other veggies until slightly softened. Stir into the sauce and turn off the heat."],
+   ["Cheese mix", "Whisk or blend the cottage cheese with the cornstarch, then whisk in the eggs, parsley, 1 cup mozzarella and ½ cup Parmesan. Mix the remaining shredded cheeses for the top."],
+   ["Layer", "In a 9 × 13 in glass dish (set on a foil-lined sheet), layer a third of the sauce and cheese mix, noodles, another third of each, noodles, the last of the sauce and cheese mix, then the cheese topping."],
+   ["Bake", "Tent loosely with foil and bake 30 minutes. Uncover and bake 15 minutes more, then raise to 450°F / 230°C for 5–10 minutes until the top is browned to your liking."],
+   ["Rest", "Cool for 15 minutes before slicing; garnish with parsley."]],
+  "notes": "Full recipe and macros from the creator's description. Whole lasagna: 6,256 cal, 571 g protein, 467 g carbs, 229 g fat. Per serving it's 782 cal / 71 g protein for 8 servings, 626 cal / 57 g for 10 (shown here), or 521 cal / 47.5 g for 12."
+ }]
+}
