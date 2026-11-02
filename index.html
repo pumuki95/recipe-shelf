@@ -160,29 +160,6 @@ nav.tabs a[aria-current="page"]{background:var(--ink);color:var(--bg);border-col
 .aisle h4{margin:0 0 6px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--basil)}
 .gi{display:flex;gap:10px;align-items:flex-start;padding:6px 0;border-bottom:1px dashed var(--line);font-size:14px}
 .gi:last-child{border-bottom:none}
-.house{display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;background:var(--basil-soft);border-radius:12px;padding:12px 14px;margin:0 0 14px;font-size:14px}
-.house>div:first-child{flex:1 1 320px}
-.house .hstart{flex:1 1 100%}
-.hrow{display:flex;gap:8px;flex-wrap:wrap}.hrow .search{flex:1 1 180px;max-width:280px}
-.hbtns{display:flex;gap:8px;flex-wrap:wrap}
-.btn.sm{padding:6px 12px;font-size:13px}
-.syncstat{display:inline-flex;align-items:center;gap:8px;font-weight:700;font-size:13.5px}
-.syncstat i{width:9px;height:9px;border-radius:50%;background:var(--muted);flex:none}
-.syncstat.live i{background:var(--basil);box-shadow:0 0 0 0 var(--basil);animation:pulse 2s infinite}
-.syncstat.connecting i{background:var(--mustard)}
-.syncstat.offline i,.syncstat.error i{background:var(--chili)}
-@keyframes pulse{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--basil) 60%,transparent)}70%{box-shadow:0 0 0 7px transparent}100%{box-shadow:0 0 0 0 transparent}}
-@media (prefers-reduced-motion:reduce){.syncstat.live i{animation:none}}
-.needbar{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin:0 0 12px}
-.needbar .seg{display:flex;gap:6px}
-.ahead{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:4px}
-.ahead h4{margin:0}
-.aleft{font-size:12px;color:var(--muted);font-weight:600}
-.claim{margin-left:auto;font:inherit;font-size:12px;font-weight:700;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:3px 10px;cursor:pointer}
-.aisle.claimed .claim{background:var(--mustard-soft);border-color:var(--mustard)}
-.claim.mine{background:var(--basil-soft)!important;border-color:var(--basil)!important;color:var(--basil)}
-.aisle.done{opacity:.7}.aisle.done .aleft{color:var(--basil)}
-.gi .by{color:var(--basil);font-weight:600}
 .gi input{margin-top:3px;accent-color:var(--basil);width:16px;height:16px}
 .gi.got label{text-decoration:line-through;color:var(--muted)}
 .gi small{display:block;color:var(--muted);font-size:12px}
@@ -355,7 +332,7 @@ let state = {
   plan: store.get("rs-plan", null) || {days:[[],[],[],[],[],[],[]]},   // days[0..6] = [{id, sv}]
   cmp: store.get("rs-cmp", []),           // recipe ids picked for "My comparison"
   goal: "ppc", basis: "serving",
-  scale: {}, done: {}, pick: {}, claims: {}, need: store.get("rs-need", false)
+  scale: {}, done: {}, pick: {}
 };
 const DAYS = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];
 const DAYS_LONG = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
@@ -407,7 +384,7 @@ function fmtQH(n){
   return (m[1] ? `<span class="wh">${m[1]}</span>` : "") + `<span class="frac" aria-label="${m[1]?m[1]+" and ":""}${nu}/${de}"><sup>${nu}</sup><span class="sl">⁄</span><sub>${de}</sub></span>`;
 }
 const fracText = h => String(h).replace(/(\d?)([⅛¼⅓½⅔¾])/g, (_, w, g) => { const [nu,de] = FRH[g]; return (w?`<span class="wh">${w}</span>`:"")+`<span class="frac"><sup>${nu}</sup><span class="sl">⁄</span><sub>${de}</sub></span>`; });
-function savePlan(){ store.set("rs-plan", state.plan); pcount(); syncPushPlan(); }
+function savePlan(){ store.set("rs-plan", state.plan); pcount(); }
 function pcount(){ const n = state.plan.days.reduce((a,d)=>a+d.length,0), el=$("#pcount"); el.textContent=n; el.hidden=!n; }
 function saveCmp(){ store.set("rs-cmp", state.cmp); }
 function copyText(txt, msg="Copied"){
@@ -423,159 +400,7 @@ async function shareText(title, txt){
 const waLink = txt => "https://wa.me/?text=" + encodeURIComponent(txt);
 function toast(m){ const t=$("#toast"); t.textContent=m; t.classList.add("on"); clearTimeout(toast._); toast._=setTimeout(()=>t.classList.remove("on"),1800); }
 function gcount(){ $("#gcount").textContent = Object.keys(state.grocery).length; }
-function saveG(){ store.set("rs-grocery", state.grocery); store.set("rs-got", state.got); gcount(); syncPushG(); }
-
-/* ---------- household sync ----------
-   One shared grocery list + meal plan per household, kept in a Firebase Realtime Database.
-   Every phone that opens the household's join link sees ticks, claims and changes live
-   (REST writes + a server-sent-events stream; no SDK needed). Lists live at /houses/<code>,
-   where <code> is a long random id that only people with the link know. */
-const SYNC_DEFAULT = "";   // Firebase Realtime Database URL, e.g. https://xyz-default-rtdb.firebaseio.com
-const SYNC_URL = (()=>{ try{ return localStorage.getItem("rs-sync-url"); }catch(e){ return null; } })() || SYNC_DEFAULT;
-const fbKey = k => encodeURIComponent(k).replace(/\./g,"%2E");      // Firebase keys can't hold . $ # [ ] /
-const unKey = k => { try{ return decodeURIComponent(k); }catch(e){ return k; } };
-const vals = o => o && typeof o==="object" ? Object.values(o).filter(v=>v!=null) : [];
-const sync = {
-  code: store.get("rs-house", null), name: store.get("rs-name", ""),
-  raw: null, es: null, status: "off", pending: new Map(), timer: null, flushing: false,
-  on(){ return !!(SYNC_URL && this.code); },
-  url(parts){ return SYNC_URL.replace(/\/+$/,"") + "/houses/" + encodeURIComponent(this.code) + parts.map(p=>"/"+encodeURIComponent(p)).join("") + ".json"; },
-  setAt(parts, val, merge){
-    if(!parts.length){ this.raw = merge ? {...(this.raw||{}), ...val} : val; return; }
-    if(!this.raw || typeof this.raw!=="object") this.raw = {};
-    let o = this.raw;
-    for(const p of parts.slice(0,-1)){ if(!o[p] || typeof o[p]!=="object") o[p] = {}; o = o[p]; }
-    const last = parts[parts.length-1];
-    if(merge && val && typeof val==="object"){ o[last] = {...(o[last]||{})}; for(const [k,v] of Object.entries(val)) if(v==null) delete o[last][k]; else o[last][k] = v; }
-    else if(val==null) delete o[last]; else o[last] = val;
-  },
-  put(parts, val){              // optimistic: update our copy now, send in the background
-    this.setAt(parts, val);
-    const key = parts.join("\u0000"); this.pending.delete(key); this.pending.set(key, [parts, val]); this.flush();
-  },
-  async flush(){
-    if(this.flushing || !this.on()) return; this.flushing = true;
-    let ok = true;
-    try{
-      for(const [key, [parts, val]] of [...this.pending]){
-        const r = await fetch(this.url(parts), {method: val==null ? "DELETE" : "PUT", body: val==null ? undefined : JSON.stringify(val)});
-        if(!r.ok) throw new Error(r.status);
-        const cur = this.pending.get(key); if(cur && cur[1]===val) this.pending.delete(key);
-      }
-    }catch(e){ ok = false; this.setStatus("offline"); clearTimeout(this.timer); this.timer = setTimeout(()=>this.flush(), 5000); }
-    finally{ this.flushing = false; }
-    if(ok && this.status==="offline" && this.es && this.es.readyState===1) this.setStatus("live");
-    if(ok && this.pending.size) this.flush();
-  },
-  start(){
-    if(!this.on() || this.es) return;
-    this.setStatus("connecting");
-    const es = this.es = new EventSource(this.url([]));
-    const handle = merge => e => {
-      try{ const {path, data} = JSON.parse(e.data); this.setAt(path.split("/").filter(Boolean), data, merge); }catch(err){ return; }
-      if(this.status!=="live") this.setStatus("live");
-      // re-apply our own unsent changes on top of what the server says
-      for(const [parts, val] of this.pending.values()) this.setAt(parts, val);
-      fromRemote();
-    };
-    es.addEventListener("put", handle(false));
-    es.addEventListener("patch", handle(true));
-    es.addEventListener("cancel", ()=>{ es.close(); this.es = null; this.setStatus("error"); });
-    es.addEventListener("auth_revoked", ()=>{ es.close(); this.es = null; this.setStatus("error"); });
-    es.onopen = ()=>{ this.flush(); };
-    es.onerror = ()=>{ if(this.status!=="error") this.setStatus("offline"); };
-  },
-  stop(){ if(this.es){ this.es.close(); this.es = null; } this.pending.clear(); this.setStatus("off"); },
-  setStatus(s){ if(this.status===s) return; this.status = s; const d = $("#syncstat"); if(d) d.outerHTML = syncBadge(); }
-};
-const SYNC_TXT = {live:"Live · shared with your household", connecting:"Connecting to the shared list…", offline:"Offline · your changes will sync when you're back online", error:"Can't reach the shared list right now", off:""};
-const syncBadge = () => `<span id="syncstat" class="syncstat ${sync.status}" role="status"><i></i>${SYNC_TXT[sync.status]||""}</span>`;
-function remoteState(){
-  const d = sync.raw || {};
-  const grocery = {}; for(const [id, v] of Object.entries(d.grocery||{})) if(v && typeof v==="object") grocery[id] = {sv: Math.max(1, +v.sv||1), ex: vals(v.ex).map(String)};
-  const got = {}; for(const [k, v] of Object.entries(d.got||{})) if(v) got[unKey(k)] = v;
-  const days = (d.plan && d.plan.days) || {};
-  const plan = {days: [0,1,2,3,4,5,6].map(i=>vals(days[i]).filter(e=>e && e.id).map(e=>({id:e.id, sv:Math.max(1,+e.sv||1)})))};
-  const claims = {}; for(const [k, v] of Object.entries(d.claims||{})) if(v) claims[unKey(k)] = v;
-  return {grocery, got, plan, claims};
-}
-/* Shared copy → this device's state, then refresh whatever page is open. */
-function fromRemote(){
-  const s = remoteState();
-  state.grocery = s.grocery; state.got = s.got; state.plan = s.plan; state.claims = s.claims;
-  store.set("rs-grocery", state.grocery); store.set("rs-got", state.got); store.set("rs-plan", state.plan);
-  gcount(); pcount();
-  const h = location.hash.slice(1), y = scrollY, a = document.activeElement;
-  if(h==="grocery"){ grocery(); scrollTo(0, y); }
-  else if(h==="plan" && !document.querySelector(".picker:not([hidden])") && !(a && a.closest && a.closest("#app input"))){ planView(); scrollTo(0, y); }
-}
-const normG = g => JSON.stringify(Object.keys(g).sort().map(k=>[k, g[k].sv, [...(g[k].ex||[])].map(String).sort()]));
-const normP = p => JSON.stringify(p.days.map(d=>d.map(e=>[e.id, e.sv])));
-function syncPushG(){
-  if(!sync.on() || !sync.raw) return;
-  const r = remoteState();
-  if(normG(r.grocery) !== normG(state.grocery)) sync.put(["grocery"], Object.keys(state.grocery).length ? state.grocery : null);
-  for(const k of new Set([...Object.keys(state.got), ...Object.keys(r.got)])){
-    const a = state.got[k], b = r.got[k];
-    if(!!a !== !!b) sync.put(["got", fbKey(k)], a ? {by: sync.name||"", at: Date.now()} : null);
-  }
-}
-function syncPushPlan(){
-  if(!sync.on() || !sync.raw) return;
-  if(normP(remoteState().plan) !== normP(state.plan)) sync.put(["plan"], state.plan.days.some(d=>d.length) ? {days: state.plan.days} : null);
-}
-function claimAisle(a){
-  if(!sync.on()) return;
-  const mine = state.claims[a] === sync.name;
-  state.claims[a] = mine ? undefined : sync.name;
-  sync.put(["claims", fbKey(a)], mine ? null : sync.name);
-  grocery();
-}
-function newHouseCode(){
-  const abc = "abcdefghjkmnpqrstuvwxyz23456789", a = new Uint8Array(20); crypto.getRandomValues(a);
-  return Array.from(a, b=>abc[b%abc.length]).join("");
-}
-async function startHousehold(name){
-  sync.name = name; store.set("rs-name", name);
-  const code = newHouseCode();
-  const tree = {grocery: Object.keys(state.grocery).length ? state.grocery : null,
-    got: Object.fromEntries(Object.entries(state.got).filter(([,v])=>v).map(([k])=>[fbKey(k), {by:name, at:Date.now()}])),
-    plan: state.plan.days.some(d=>d.length) ? {days: state.plan.days} : null, created: Date.now()};
-  sync.code = code;
-  let r; try{ r = await fetch(sync.url([]), {method:"PUT", body: JSON.stringify(tree)}); }catch(e){}
-  if(!r || !r.ok){ sync.code = null; throw new Error("Couldn't reach the shared list. Check your connection and try again."); }
-  store.set("rs-house", code); sync.raw = tree; sync.start();
-}
-function joinHousehold(code, name){
-  sync.stop(); sync.raw = null;
-  sync.name = name; store.set("rs-name", name);
-  sync.code = code; store.set("rs-house", code);
-  sync.start();
-}
-function leaveHousehold(){ sync.stop(); sync.code = null; sync.raw = null; store.set("rs-house", null); state.claims = {}; }
-const inviteLink = () => siteUrl() + "#join=" + sync.code;
-const inviteText = () => "Join our shared grocery list on The Recipe Shelf. Ticks show up on everyone's phone live:\n" + inviteLink();
-window.addEventListener("online", ()=>{ if(sync.on()){ sync.flush(); if(!sync.es) sync.start(); } });
-document.addEventListener("visibilitychange", ()=>{ if(!document.hidden && sync.on() && (!sync.es || sync.es.readyState===2)){ sync.es = null; sync.start(); } });
-
-/* Join screen for #join=<code> links */
-function joinView(code){
-  const already = sync.code === code;
-  if(!SYNC_URL){ $("#app").innerHTML = `<div class="empty">Shared lists aren't switched on for this site yet.</div>`; return; }
-  $("#app").innerHTML = `<div class="howto">
-    <h2>${already ? "You're already in this list" : "Join the household grocery list"}</h2>
-    ${already ? `<p>This device is already connected. <a href="#grocery">Open the grocery list →</a></p>` : `
-    <p>Everyone who opens this link shares one grocery list and meal plan. When someone ticks an item, it updates on every phone right away.</p>
-    ${Object.keys(state.grocery).length ? `<p class="note">The list currently on this device will be replaced by the shared one.</p>` : ""}
-    <label class="flabel" for="jname">Your name (shown when you tick items or take an aisle)</label>
-    <input id="jname" class="search" value="${esc(sync.name||"")}" placeholder="e.g. Andrea" autocomplete="given-name">
-    <div class="addrow" style="margin-top:10px"><button class="btn" id="dojoin">Join list</button><a class="btn ghost" href="#">Not now</a></div>`}
-  </div>`;
-  const b = $("#dojoin"); if(b) b.onclick = ()=>{
-    const n = $("#jname").value.trim(); if(!n){ $("#jname").focus(); return; }
-    joinHousehold(code, n); toast("Joined — the list is live"); location.hash = "grocery";
-  };
-}
+function saveG(){ store.set("rs-grocery", state.grocery); store.set("rs-got", state.got); gcount(); }
 
 /* ---------- shelf ---------- */
 /* Two rows: [Meal | Protein] and [Carb | Diet | count · sort]. */
@@ -789,13 +614,6 @@ function grocery(){
   const items = groceryItems();
   const byAisle = AISLES.map(a=>[a, items.filter(([,e])=>e.a===a)]).filter(([,l])=>l.length);
   const nGot = items.filter(([key])=>state.got[key]).length;
-  const shared = sync.on(), need = state.need;
-  const who = v => v && typeof v==="object" && v.by ? (v.by===sync.name ? "you" : v.by) : "";
-  const house = !SYNC_URL ? "" : shared ? `<div class="house on">${syncBadge()}
-      <span class="hbtns"><button class="btn ghost sm" id="hinv">Invite someone</button><a class="btn ghost sm" id="hwa" href="${waLink(inviteText())}" target="_blank" rel="noopener">Invite on WhatsApp</a><button class="btn ghost sm" id="hleave">Leave</button></span></div>`
-    : `<div class="house"><div><b>Shopping with someone?</b> Make this a live list: everyone in your household sees what's been picked up, in real time, on their own phone.</div>
-      <div class="hstart" id="hstart" hidden><label class="flabel" for="hname">Your name</label><span class="hrow"><input id="hname" class="search" value="${esc(sync.name||"")}" placeholder="e.g. Andrea" autocomplete="given-name"><button class="btn" id="hgo">Start shared list</button></span></div>
-      <button class="btn" id="hopen">Share live with my household</button></div>`;
   $("#app").innerHTML = `
     <div class="gl-head"><h2>Grocery list</h2>
       ${ids.length?`<div class="glbtns">
@@ -804,36 +622,14 @@ function grocery(){
         <button class="btn ghost" id="copy">Copy</button>
         <button class="btn ghost" id="rmgot" ${nGot?"":"disabled"}>Remove checked${nGot?` (${nGot})`:""}</button>
         <button class="btn ghost danger" id="clearall">Clear list</button></div>`:""}</div>
-    ${house}
     ${ids.length ? `
-      <div class="needbar"><span class="seg" role="group" aria-label="Show"><button class="chip ${need?"":"on"}" data-need="0" aria-pressed="${!need}">All items</button><button class="chip ${need?"on":""}" data-need="1" aria-pressed="${need}">Still needed${items.length-nGot?` (${items.length-nGot})`:""}</button></span>
-        <span class="est">${nGot} of ${items.length} picked up</span></div>
       <div class="gl-recipes">${ids.map(id=>{const r=RECIPES.find(x=>x.id===id); return r?`<span class="rchip"><a href="#r-${id}">${esc(r.title)} · ${gEntry(id).sv} ${pl(r.unit,2)}</a><button class="x" data-rid="${id}" aria-label="Remove ${esc(r.title)} from list">×</button></span>`:""}).join("")}</div>
-      <div class="gl-cols">${byAisle.map(([a,l])=>{ const left = l.filter(([key])=>!state.got[key]).length, cl = state.claims[a];
-        const show = need ? l.filter(([key])=>!state.got[key]) : l;
-        return `<div class="aisle ${left?"":"done"} ${cl?"claimed":""}"><div class="ahead"><h4>${a}</h4><span class="aleft">${left ? left+" left" : "✓ done"}</span>
-          ${shared && left ? `<button class="claim ${cl===sync.name?"mine":""}" data-aisle="${esc(a)}">${!cl ? "I'll get these" : cl===sync.name ? "You're on it · undo" : esc(cl)+" is on it"}</button>` : ""}</div>
-        ${show.map(([key,e])=>`
-        <div class="gi ${state.got[key]?"got":""}"><input type="checkbox" id="g-${esc(key)}" data-k="${esc(key)}" ${state.got[key]?"checked":""}><label for="g-${esc(key)}">${e.q?`<b class="num">${fmtQH(e.q)}${e.u?" "+e.u:""}</b> `:""}${esc(e.name)}<small>${[...e.from].map(esc).join(" · ")}${shared && state.got[key] && who(state.got[key]) ? ` · <span class="by">✓ ${esc(who(state.got[key]))}</span>` : ""}</small></label><button class="x" data-key="${esc(key)}" aria-label="Remove ${esc(e.name)}">×</button></div>`).join("")}</div>`; }).join("")}</div>
-      <p class="est" style="margin-top:12px">Tick items as you shop.${shared ? " Everyone in your household sees ticks the moment they happen. Tap <b>I'll get these</b> on an aisle so others know you're covering it." : ""} Use × to take something off the list entirely. <b>Share list…</b> opens your phone's or Mac's share sheet, so you can send it to WhatsApp, Notes, Messages or Reminders; ticked items are left out.</p>`
+      <div class="gl-cols">${byAisle.map(([a,l])=>`<div class="aisle"><h4>${a}</h4>${l.map(([key,e])=>`
+        <div class="gi ${state.got[key]?"got":""}"><input type="checkbox" id="g-${esc(key)}" data-k="${esc(key)}" ${state.got[key]?"checked":""}><label for="g-${esc(key)}">${e.q?`<b class="num">${fmtQH(e.q)}${e.u?" "+e.u:""}</b> `:""}${esc(e.name)}<small>${[...e.from].map(esc).join(" · ")}</small></label><button class="x" data-key="${esc(key)}" aria-label="Remove ${esc(e.name)}">×</button></div>`).join("")}</div>`).join("")}</div>
+      <p class="est" style="margin-top:12px">Tick items as you shop. Use × to take something off the list entirely. <b>Share list…</b> opens your phone's or Mac's share sheet, so you can send it to WhatsApp, Notes, Messages or Reminders; ticked items are left out.</p>`
     : `<div class="empty">Your list is empty. Open any recipe, tick the ingredients you need and choose <b>Add to grocery list</b>, or plan your week on the <a href="#plan">Plan</a> page and add the whole week at once.</div>`}`;
   const rows = new Map(items);
-  document.querySelectorAll(".gi input").forEach(cb=>cb.onchange=()=>{ if(cb.checked) state.got[cb.dataset.k] = {by: sync.name||"", at: Date.now()}; else delete state.got[cb.dataset.k]; saveG(); grocery(); });
-  document.querySelectorAll("[data-need]").forEach(b=>b.onclick=()=>{ state.need = b.dataset.need==="1"; store.set("rs-need", state.need); grocery(); });
-  document.querySelectorAll(".claim").forEach(b=>b.onclick=()=>claimAisle(b.dataset.aisle));
-  const ho = $("#hopen"); if(ho) ho.onclick = ()=>{ ho.hidden = true; $("#hstart").hidden = false; $("#hname").focus(); };
-  const hg = $("#hgo"); if(hg) hg.onclick = async ()=>{
-    const n = $("#hname").value.trim(); if(!n){ $("#hname").focus(); return; }
-    hg.disabled = true; hg.textContent = "Starting…";
-    try{ await startHousehold(n); grocery(); shareText("Shared grocery list", inviteText()); }
-    catch(e){ toast(e.message); hg.disabled = false; hg.textContent = "Start shared list"; }
-  };
-  const hn = $("#hname"); if(hn) hn.onkeydown = e=>{ if(e.key==="Enter") $("#hgo").click(); };
-  const hi = $("#hinv"); if(hi) hi.onclick = ()=>shareText("Shared grocery list", inviteText());
-  const hl = $("#hleave"); if(hl) hl.onclick = ()=>{
-    if(!hl.dataset.armed){ hl.dataset.armed="1"; hl.textContent="Tap again to leave"; setTimeout(()=>{ if(hl.isConnected){ delete hl.dataset.armed; hl.textContent="Leave"; } },3000); return; }
-    leaveHousehold(); toast("Left the shared list. This phone keeps a copy."); grocery();
-  };
+  document.querySelectorAll(".gi input").forEach(cb=>cb.onchange=()=>{ state.got[cb.dataset.k]=cb.checked; saveG(); grocery(); });
   document.querySelectorAll(".gi .x").forEach(b=>b.onclick=()=>{ const row=rows.get(b.dataset.key); if(row){ removeRow(row); delete state.got[b.dataset.key]; saveG(); toast(`Removed ${row.name}`); grocery(); } });
   document.querySelectorAll(".rchip .x").forEach(b=>b.onclick=()=>{ delete state.grocery[b.dataset.rid]; saveG(); toast("Recipe removed from list"); grocery(); });
   const rg = $("#rmgot"); if(rg) rg.onclick = ()=>{ for(const [key,row] of items) if(state.got[key]){ removeRow(row); delete state.got[key]; } saveG(); toast("Checked items removed"); grocery(); };
@@ -1284,7 +1080,6 @@ function route(){
   const h = location.hash.slice(1);
   ["shelf","plan","compare","grocery"].forEach(n=>$("#nav-"+n).removeAttribute("aria-current"));
   if(h==="add"){ history.replaceState(null,"","#"); }
-  if(h.startsWith("join=")){ $("#nav-grocery").setAttribute("aria-current","page"); return joinView(h.slice(5).replace(/[^a-z0-9]/gi,"")); }
   if(h.startsWith("plan")){ $("#nav-plan").setAttribute("aria-current","page"); const code = h.startsWith("plan=") ? readPlanCode(h.slice(5)) : null; return planView(code); }
   if(h.startsWith("compare")){ $("#nav-compare").setAttribute("aria-current","page"); window.scrollTo(0,0); return h.startsWith("compare/") ? compareView(h.slice(8)) : compareHome(); }
   if(h.startsWith("edit-")){ const r = RECIPES.find(x=>x.id===h.slice(5)); if(r){ $("#nav-shelf").setAttribute("aria-current","page"); window.scrollTo(0,0); return editView(r); } }
@@ -1302,7 +1097,6 @@ function boot(data, edits){
   $("#tally").textContent = RECIPES.length + " recipes · " + data.sources.length + " videos";
   gcount(); pcount();
   route();
-  if(sync.on()) sync.start();
 }
 applyTheme((()=>{ try{ return localStorage.getItem("rs-theme")||"auto"; }catch(e){ return "auto"; } })());
 $("#theme").onclick = cycleTheme;
