@@ -617,16 +617,14 @@ function grocery(){
   $("#app").innerHTML = `
     <div class="gl-head"><h2>Grocery list</h2>
       ${ids.length?`<div class="glbtns">
-        <button class="btn" id="share">Share to Notes…</button>
-        <a class="btn ghost" id="wa" href="#" target="_blank" rel="noopener">WhatsApp</a>
-        <button class="btn ghost" id="copy">Copy for Notes</button>
+        <button class="btn" id="copy">Copy list</button>
         <button class="btn ghost" id="rmgot" ${nGot?"":"disabled"}>Remove checked${nGot?` (${nGot})`:""}</button>
         <button class="btn ghost danger" id="clearall">Clear list</button></div>`:""}</div>
     ${ids.length ? `
       <div class="gl-recipes">${ids.map(id=>{const r=RECIPES.find(x=>x.id===id); return r?`<span class="rchip"><a href="#r-${id}">${esc(r.title)} · ${gEntry(id).sv} ${pl(r.unit,2)}</a><button class="x" data-rid="${id}" aria-label="Remove ${esc(r.title)} from list">×</button></span>`:""}).join("")}</div>
       <div class="gl-cols">${byAisle.map(([a,l])=>`<div class="aisle"><h4>${a}</h4>${l.map(([key,e])=>`
         <div class="gi ${state.got[key]?"got":""}"><input type="checkbox" id="g-${esc(key)}" data-k="${esc(key)}" ${state.got[key]?"checked":""}><label for="g-${esc(key)}">${e.q?`<b class="num">${fmtQH(e.q)}${e.u?" "+e.u:""}</b> `:""}${esc(e.name)}<small>${[...e.from].map(esc).join(" · ")}</small></label><button class="x" data-key="${esc(key)}" aria-label="Remove ${esc(e.name)}">×</button></div>`).join("")}</div>`).join("")}</div>
-      <p class="est" style="margin-top:12px">Tick items as you shop. Use × to take something off the list entirely. Ticked items are left out of what you share.<br><b>Apple Notes:</b> tap <b>Share to Notes…</b> (or <b>Copy for Notes</b> and paste). In the note, select all the text and tap the checklist button (☑︎ in the toolbar, or Format → Checklist on a Mac) so every item gets a tickbox. Share the note with your household from Notes and everyone can tick items in it.<br><b>WhatsApp:</b> sends the list grouped by aisle, with bullets.</p>`
+      <p class="est" style="margin-top:12px">Tick items as you shop. Use × to take something off the list entirely. <b>Copy list</b> copies everything you haven't ticked, one item per line and grouped by aisle, so you can paste it into Notes, WhatsApp or anywhere else. In Apple Notes, select the pasted text and tap the checklist button to give every item a tickbox.</p>`
     : `<div class="empty">Your list is empty. Open any recipe, tick the ingredients you need and choose <b>Add to grocery list</b>, or plan your week on the <a href="#plan">Plan</a> page and add the whole week at once.</div>`}`;
   const rows = new Map(items);
   document.querySelectorAll(".gi input").forEach(cb=>cb.onchange=()=>{ state.got[cb.dataset.k]=cb.checked; saveG(); grocery(); });
@@ -639,14 +637,9 @@ function grocery(){
   };
   const qty = e => (e.q?fmtQ(e.q)+(e.u?" "+e.u:"")+" ":"")+e.name;
   const left = byAisle.map(([a,l])=>[a, l.filter(([key])=>!state.got[key])]).filter(([,l])=>l.length);
-  const forLine = "For: " + ids.map(id=>byId(id)?.title).filter(Boolean).join(", ");
-  // WhatsApp: bold aisle headings + "- " bullets (WhatsApp shows these as a list)
-  const txt = "🛒 *Grocery list*\n\n" + left.map(([a,l])=>"*"+a+"*\n"+l.map(([,e])=>"- "+qty(e)).join("\n")).join("\n\n") + "\n\n_" + forLine + "_";
-  // Apple Notes: one item per line, grouped by aisle, so "Checklist" turns every line into a tickbox
+  // one item per line, grouped by aisle: pastes cleanly into Notes (Checklist), WhatsApp or anywhere
   const notesTxt = left.map(([,l])=>l.map(([,e])=>qty(e)).join("\n")).join("\n\n");
-  const c = $("#copy"); if(c) c.onclick = ()=>copyText(notesTxt, "Copied — paste into Notes, select all, then tap Checklist");
-  const sh = $("#share"); if(sh) sh.onclick = ()=>shareText("Grocery list", notesTxt);
-  const wa = $("#wa"); if(wa) wa.href = waLink(txt);
+  const c = $("#copy"); if(c) c.onclick = ()=>copyText(notesTxt, "List copied");
 }
 function fallbackCopy(txt){
   const ta=document.createElement("textarea"); ta.value=txt; document.body.appendChild(ta); ta.select();
