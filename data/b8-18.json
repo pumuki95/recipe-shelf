@@ -1,0 +1,416 @@
+{
+ "src": {
+  "key": "FFkHNouSexE",
+  "platform": "YouTube",
+  "creator": "Felu - Fit by cooking",
+  "title": "High Protein Sandwiches 4 Ways",
+  "url": "https://www.youtube.com/watch?v=FFkHNouSexE",
+  "recipes": 4
+ },
+ "recipes": [
+  {
+   "id": "ham-cheese-pickle-panini",
+   "title": "Ham, Cheese & Pickle Panini",
+   "img": "img/ham-cheese-pickle-panini.jpg",
+   "part": 1,
+   "t": 0,
+   "servings": 1,
+   "unit": "sandwich",
+   "time": 10,
+   "macros": {
+    "cal": 296,
+    "protein": 17,
+    "carbs": 30,
+    "fat": 13
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "Quick",
+    "Pork"
+   ],
+   "groups": [
+    {
+     "name": "Ingredients",
+     "items": [
+      {
+       "q": 2,
+       "u": "",
+       "i": "slices white sandwich bread (about 60 cal each)",
+       "a": "Bakery"
+      },
+      {
+       "q": 4,
+       "u": "g",
+       "i": "oil",
+       "a": "Pantry"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "mustard",
+       "a": "Pantry"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "lean ham",
+       "a": "Meat"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "pickles, sliced",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "slice American cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and black pepper",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Toast",
+     "Heat a non-stick pan over medium heat with half the oil. Toast the bread 60–90 seconds, moving it around, until golden; add the rest of the oil and flip."
+    ],
+    [
+     "Fill",
+     "Spread mustard on one slice and top with the ham and pickles; lay the cheese on the other slice."
+    ],
+    [
+     "Melt",
+     "After another minute, add a splash of water and cover the pan; the steam melts the cheese in about 20 seconds."
+    ],
+    [
+     "Close",
+     "Close the sandwich and serve (about 4 minutes in total)."
+    ]
+   ],
+   "notes": "Ingredients and macros from the video description."
+  },
+  {
+   "id": "savory-french-toast-chicken-sandwich",
+   "title": "Savory French Toast Chicken & Mozzarella Sandwich",
+   "img": "img/savory-french-toast-chicken-sandwich.jpg",
+   "part": 2,
+   "t": 150,
+   "servings": 1,
+   "unit": "sandwich",
+   "time": 12,
+   "macros": {
+    "cal": 382,
+    "protein": 24,
+    "carbs": 28,
+    "fat": 19
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Quick",
+    "Eggs",
+    "Chicken",
+    "High protein"
+   ],
+   "groups": [
+    {
+     "name": "Ingredients",
+     "items": [
+      {
+       "q": 1,
+       "u": "",
+       "i": "egg",
+       "a": "Dairy"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "egg whites",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "tsp",
+       "i": "dried oregano",
+       "a": "Baking"
+      },
+      {
+       "q": 0.5,
+       "u": "tsp",
+       "i": "paprika",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and black pepper",
+       "a": "Pantry"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "slices white sandwich bread",
+       "a": "Bakery"
+      },
+      {
+       "q": 4,
+       "u": "g",
+       "i": "oil",
+       "a": "Pantry"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "deli chicken",
+       "a": "Meat"
+      },
+      {
+       "q": 25,
+       "u": "g",
+       "i": "shredded mozzarella",
+       "a": "Dairy"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "light mayonnaise (optional)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Egg mix",
+     "Whisk the egg, egg whites, oregano, paprika, a strong pinch of salt and pepper (or use 100 g egg whites or 2 eggs)."
+    ],
+    [
+     "Soak",
+     "Dunk both bread slices in the egg, flipping until they've soaked up most of it."
+    ],
+    [
+     "Cook",
+     "Cook in the oil over medium heat 2–3 minutes per side, pouring any leftover egg into the pan so it sticks to the bread."
+    ],
+    [
+     "Fill",
+     "Top with the deli chicken, mozzarella and light mayo if using, close and flip once or twice until the cheese melts."
+    ]
+   ],
+   "notes": "Ingredients and macros from the video description."
+  },
+  {
+   "id": "caprese-toast-sandwich",
+   "title": "Caprese Toast Sandwich",
+   "img": "img/caprese-toast-sandwich.jpg",
+   "part": 3,
+   "t": 267,
+   "servings": 1,
+   "unit": "sandwich",
+   "time": 8,
+   "macros": {
+    "cal": 285,
+    "protein": 16,
+    "carbs": 30,
+    "fat": 11
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Snack",
+    "Breakfast",
+    "Vegetarian",
+    "Quick",
+    "Italian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Ingredients",
+     "items": [
+      {
+       "q": 2,
+       "u": "",
+       "i": "slices white sandwich bread",
+       "a": "Bakery"
+      },
+      {
+       "q": 4,
+       "u": "g",
+       "i": "olive oil",
+       "a": "Pantry"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "light fresh mozzarella, sliced ½ cm thick",
+       "a": "Dairy"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "tomatoes, sliced",
+       "a": "Produce"
+      },
+      {
+       "q": 5,
+       "u": "g",
+       "i": "balsamic glaze (crème)",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "fresh basil",
+       "a": "Produce"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt, black pepper and dried oregano",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Toast",
+     "Toast the bread in the olive oil over medium heat until golden on both sides, then remove from the pan."
+    ],
+    [
+     "Layer",
+     "Top with the mozzarella slices (served cold, since fresh mozzarella doesn't melt well), then the tomato."
+    ],
+    [
+     "Season",
+     "Salt the tomatoes (don't skip it), add pepper and oregano, a drizzle of balsamic glaze and fresh basil, then close."
+    ]
+   ],
+   "notes": "Ingredients and macros from the video description."
+  },
+  {
+   "id": "tuna-avocado-olive-sandwich",
+   "title": "Tuna, Avocado & Olive Sandwich Spread",
+   "img": "img/tuna-avocado-olive-sandwich.jpg",
+   "part": 4,
+   "t": 330,
+   "servings": 1,
+   "unit": "batch of spread",
+   "time": 10,
+   "macros": {
+    "cal": 357,
+    "protein": 39,
+    "carbs": 12,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Snack",
+    "High protein",
+    "Fish",
+    "Quick",
+    "Gluten-free",
+    "No-cook"
+   ],
+   "groups": [
+    {
+     "name": "Tuna spread",
+     "items": [
+      {
+       "q": 150,
+       "u": "g",
+       "i": "tuna canned in water, drained",
+       "a": "Pantry"
+      },
+      {
+       "q": 80,
+       "u": "g",
+       "i": "fat-free cream cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.5,
+       "u": "",
+       "i": "avocado",
+       "a": "Produce"
+      },
+      {
+       "q": 0.5,
+       "u": "",
+       "i": "lemon, juiced",
+       "a": "Produce"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "olives, chopped",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and black pepper",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "q": null,
+       "u": "",
+       "i": "toasted sandwich bread",
+       "a": "Bakery"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Add the tuna, cream cheese, avocado, lemon juice, chopped olives, salt and pepper to a bowl."
+    ],
+    [
+     "Mash",
+     "Slowly mash the avocado and mix until it turns into a creamy tuna salad."
+    ],
+    [
+     "Serve",
+     "Spread on toasted sandwich bread (stack 3–4 slices for a double-decker), or eat it on its own."
+    ]
+   ],
+   "notes": "Ingredients from the video description. The macros (357 cal, 39 g protein) are for the whole tuna spread without bread; the creator puts a sandwich serving at about 290 cal with 17 g protein."
+  }
+ ]
+}

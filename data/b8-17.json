@@ -1,0 +1,39 @@
+{
+ "src": {"key": "sOR9Mwja_Ws", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "HIGH PROTEIN Meal Prep Marry Me Chicken In 25 Minutes",
+  "url": "https://www.youtube.com/watch?v=sOR9Mwja_Ws", "recipes": 1},
+ "recipes": [{
+  "id": "high-protein-marry-me-chicken-pasta",
+  "title": "High-Protein Marry Me Chicken Pasta",
+  "img": "img/high-protein-marry-me-chicken-pasta.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "container", "time": 25,
+  "macros": {"cal": 650, "protein": 64, "carbs": 68, "fat": 11, "fiber": 4, "sugar": 7},
+  "stated": ["cal", "protein", "carbs", "fat", "fiber", "sugar"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Pasta", "Italian-inspired", "Freezer friendly", "Quick"],
+  "groups": [
+   {"name": "Chicken & pasta", "items": [
+    {"q": 800, "u": "g", "i": "boneless, skinless chicken breast, diced", "a": "Meat"},
+    {"q": 1, "u": "tbsp", "i": "dried Italian herbs", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "sun-dried tomato oil (from the jar)", "a": "Pantry"},
+    {"q": 500, "u": "g", "i": "shell pasta (or pasta of choice)", "a": "Pantry"},
+    {"q": 200, "u": "g", "i": "baby spinach, washed", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt and cracked black pepper", "a": "Pantry"}]},
+   {"name": "Cottage cheese sauce", "items": [
+    {"q": 2, "u": "cup", "i": "high-protein cottage cheese (400 g)", "a": "Dairy"},
+    {"q": 0.67, "u": "cup", "i": "chicken stock (180 ml), plus extra to loosen", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "onion powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "garlic powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 0.5, "u": "cup", "i": "Parmigiano Reggiano, grated (50 g), plus extra to serve", "a": "Dairy"},
+    {"q": 0.5, "u": "cup", "i": "sun-dried tomatoes, drained (100 g)", "a": "Pantry"}]}],
+  "steps": [
+   ["Season", "Put a pot of water on to boil. Dice the chicken and toss with the Italian herbs, a big pinch of salt and plenty of pepper."],
+   ["Blend sauce", "Blend the cottage cheese, chicken stock, onion powder, garlic powder, smoked paprika, Parmesan, sun-dried tomatoes, salt and pepper until completely smooth."],
+   ["Pasta", "Salt the boiling water and cook the pasta for 3 minutes less than the packet says, then drain."],
+   ["Chicken", "Heat the sun-dried tomato oil in a large high-sided pan over medium-high heat. Add the chicken, let it sit 1–2 minutes to brown, then cook 5–6 minutes total until just cooked through (in batches if crowded)."],
+   ["Combine", "Turn the heat to low, add the pasta and the sauce and stir gently for about 2 minutes. Keep it low or the sauce will split."],
+   ["Spinach", "Stir in the spinach for about a minute until wilted. Season, and loosen with a splash of stock if you like it saucier."],
+   ["Portion", "Divide between five 750 ml containers (about 450 g each) and top with extra Parmesan and pepper. Keeps 3 days in the fridge or 3 months frozen."]],
+  "notes": "Amounts and per-portion nutrition (650 cal, 64 g protein, 68 g carbs, 11 g fat) are from the creator. Cottage cheese replaces the cream in the classic version: more protein and less fat, with very similar flavour."
+ }]
+}

@@ -189,7 +189,9 @@
   "beyond-meat-breakfast-burritos",
   "vegetarian-breakfast-sandwich",
   "frittata-breakfast-bagel",
-  "beef-cheesy-egg-breakfast-burritos"
+  "beef-cheesy-egg-breakfast-burritos",
+  "ham-cheese-pickle-panini",
+  "savory-french-toast-chicken-sandwich"
  ],
  "Crunchwraps & wraps": [
   "breakfast-crunchwraps",
@@ -257,7 +259,8 @@
   "pb-french-toast-sticks",
   "carnivore-french-toast",
   "protein-french-toast-cloud",
-  "white-chocolate-french-toast"
+  "white-chocolate-french-toast",
+  "savory-french-toast-chicken-sandwich"
  ],
  "Protein pasta": [
   "spicy-protein-vodka-pasta",
@@ -273,7 +276,8 @@
   "cauliflower-protein-alfredo",
   "garlic-beef-red-pepper-pasta",
   "creamy-beef-bacon-protein-pasta",
-  "cottage-cheese-alfredo-cajun-chicken"
+  "cottage-cheese-alfredo-cajun-chicken",
+  "high-protein-marry-me-chicken-pasta"
  ],
  "Alfredo": [
   "cauliflower-protein-alfredo",
