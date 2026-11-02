@@ -1,0 +1,43 @@
+{
+ "src": {"key": "pM9qsrmoNy4", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "This HIGH PROTEIN Breakfast Burrito Will Change Your Morning Forever!",
+  "url": "https://www.youtube.com/watch?v=pM9qsrmoNy4", "recipes": 1},
+ "recipes": [{
+  "id": "beef-cheesy-egg-breakfast-burritos",
+  "title": "Beef & Cheesy Egg Breakfast Burritos",
+  "img": "img/beef-cheesy-egg-breakfast-burritos.jpg",
+  "part": 1, "t": 0, "servings": 6, "unit": "burrito", "time": 35,
+  "macros": {"cal": 600, "protein": 53, "carbs": 35, "fat": 23, "fiber": 8, "sugar": 3},
+  "stated": ["cal", "protein", "carbs", "fat", "fiber", "sugar"],
+  "tags": ["Breakfast", "Meal prep", "High protein", "Freezer friendly", "Ground beef", "Beef", "Eggs", "Tortillas", "Baked"],
+  "groups": [
+   {"name": "Beef mix", "items": [
+    {"q": null, "u": "", "i": "spray oil", "a": "Pantry"},
+    {"q": 750, "u": "g", "i": "lean (90%) beef mince / ground beef", "a": "Meat"},
+    {"q": 2, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "ground cumin", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "onion powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "garlic powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "dried oregano", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "dried thyme", "a": "Baking"},
+    {"q": 1, "u": "", "i": "can (400 g) diced tomatoes", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and cracked black pepper", "a": "Pantry"}]},
+   {"name": "Cheesy eggs", "items": [
+    {"q": 1, "u": "tbsp", "i": "unsalted butter", "a": "Dairy"},
+    {"q": 12, "u": "", "i": "whole eggs", "a": "Dairy"},
+    {"q": 100, "u": "g", "i": "cheddar cheese, grated", "a": "Dairy"},
+    {"q": null, "u": "", "i": "salt and ground white pepper", "a": "Pantry"}]},
+   {"name": "To assemble", "items": [
+    {"q": 6, "u": "", "i": "low-calorie wraps (or wraps of choice)", "a": "Bakery"},
+    {"q": null, "u": "", "i": "sauce of choice (not in the macros)", "a": "International"}]}],
+  "steps": [
+   ["Prep eggs", "Crack the 12 eggs into a bowl and whisk until smooth (don't season yet). Grate the cheddar."],
+   ["Beef", "Heat a large pan over medium-high heat with spray oil. Add the beef, let it sit a minute to brown, then break it up and cook 5–6 minutes with a pinch of salt and pepper, until no longer pink and the liquid has evaporated."],
+   ["Spice", "Add the smoked paprika, cumin, onion powder, garlic powder, oregano, thyme, diced tomatoes and a splash of water. Cook 2–2½ minutes until slightly reduced. Move to a bowl."],
+   ["Eggs", "In the same pan over medium heat, melt the butter and add the eggs. Gently fold for 2–3 minutes for big soft curds; take them off while still slightly underdone. Season with salt and white pepper, then stir in the cheese off the heat to melt."],
+   ["Wrap", "Lay out the wraps. Add about 125 g beef mix and 120 g egg to each, a little sauce and pepper, then roll up tightly with the seam underneath."],
+   ["Toast", "Place on a lined tray, spray with oil and bake at 200°C / 390°F for about 15 minutes until golden and crunchy (or air fry)."],
+   ["Store", "Wrap tightly in foil or bags. Keeps 3 days in the fridge or 3 months frozen; defrost overnight and reheat in the oven or air fryer until hot in the middle."]],
+  "notes": "Amounts and the per-burrito nutrition (600 cal, 53 g protein, 35 g carbs, 23 g fat, 8 g fiber, 3 g sugar) are from the creator. Swap the beef for pork, chicken or turkey if you like."
+ }]
+}

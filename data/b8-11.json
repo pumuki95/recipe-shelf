@@ -1,0 +1,25 @@
+{
+ "src": {"key": "ZcVGR-dEChY", "platform": "YouTube", "creator": "Hey It's Honeysuckle",
+  "title": "Testing a Watermelon Gatorade Recipe from TikTok!",
+  "url": "https://www.youtube.com/watch?v=ZcVGR-dEChY", "recipes": 1},
+ "recipes": [{
+  "id": "creamy-watermelon-yogurt-cooler",
+  "title": "Creamy Watermelon Yogurt Cooler",
+  "img": "img/creamy-watermelon-yogurt-cooler.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "glass", "time": 5,
+  "macros": {"cal": 140, "protein": 7.5, "carbs": 28, "fat": 0.5},
+  "stated": [],
+  "tags": ["Snack", "Vegetarian", "Gluten-free", "Quick", "No-cook"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 3, "u": "cup", "i": "watermelon, cubed", "a": "Produce"},
+    {"q": 0.5, "u": "cup", "i": "nonfat Greek yogurt (or coconut milk)", "a": "Dairy"},
+    {"q": 0.5, "u": "", "i": "lime, juiced, plus a wedge to garnish", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "honey", "a": "Pantry"},
+    {"q": null, "u": "", "i": "pinch of salt", "a": "Pantry"},
+    {"q": 1, "u": "cup", "i": "ice cubes, plus more (pebble ice is best) to serve", "a": "Frozen"}]}],
+  "steps": [
+   ["Blend", "Add the watermelon, Greek yogurt, lime juice, honey, a pinch of salt and the ice cubes to a blender and blend until smooth and frothy."],
+   ["Serve", "Pour into glasses full of ice and garnish with a lime wedge."]],
+  "notes": "The original recipe gives no amounts, so these are estimates. The reviewer said it doesn't taste like Gatorade, more like a creamy watermelon creamsicle or sorbet. Try coconut milk instead of yogurt, or add matcha."
+ }]
+}
