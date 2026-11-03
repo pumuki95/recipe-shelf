@@ -1,0 +1,44 @@
+{
+ "src": {"key": "OMIDBv2lFgI", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "HIGH PROTEIN Loaded BBQ Chicken Potatoes | MEAL PREP",
+  "url": "https://www.youtube.com/watch?v=OMIDBv2lFgI", "recipes": 1},
+ "recipes": [{
+  "id": "loaded-bbq-chicken-potatoes-meal-prep",
+  "title": "Loaded BBQ Chicken Potatoes Meal Prep",
+  "img": "img/loaded-bbq-chicken-potatoes-meal-prep.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "container", "time": 35,
+  "macros": {"cal": 680, "protein": 59, "carbs": 58, "fat": 20, "fiber": 22, "sugar": 10},
+  "stated": ["cal", "protein", "carbs", "fat", "fiber", "sugar"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Potatoes", "Air fryer", "Gluten-free", "Freezer friendly"],
+  "groups": [
+   {"name": "Potatoes", "items": [
+    {"q": 900, "u": "g", "i": "all-rounder potatoes, unpeeled, diced bite-size", "a": "Produce"},
+    {"q": 1, "u": "tsp", "i": "onion powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "garlic powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "dried oregano", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "dried thyme", "a": "Baking"},
+    {"q": 1.5, "u": "tbsp", "i": "olive oil", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and cracked black pepper", "a": "Pantry"}]},
+   {"name": "BBQ chicken", "items": [
+    {"q": 900, "u": "g", "i": "boneless, skinless chicken breast, diced bite-size", "a": "Meat"},
+    {"q": 6, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": 1, "u": "tsp", "i": "onion powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "dried oregano", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "dried thyme", "a": "Baking"},
+    {"q": 1.5, "u": "tbsp", "i": "olive oil", "a": "Pantry"},
+    {"q": 0.5, "u": "cup", "i": "BBQ sauce (125 g), plus extra to drizzle", "a": "International"},
+    {"q": 150, "u": "g", "i": "mozzarella, grated", "a": "Dairy"},
+    {"q": null, "u": "", "i": "flat-leaf parsley, to garnish (optional)", "a": "Produce"}]}],
+  "steps": [
+   ["Potatoes", "Toss the diced potatoes with the onion powder, garlic powder, smoked paprika, oregano, thyme, olive oil, salt and pepper. Air fry at 200°C / 390°F for about 22 minutes (or roast in the oven) until golden and tender."],
+   ["Season chicken", "Toss the diced chicken with the grated garlic, onion powder, smoked paprika, oregano, thyme, salt and pepper. Grate the mozzarella."],
+   ["Cook chicken", "Heat the oil in a large pan over medium-high heat. Add the chicken, spread out and leave 1–1½ minutes to build a crust, then cook 5–6 minutes total until just cooked through."],
+   ["Glaze", "Add the BBQ sauce and cook about a minute until thick and glossy."],
+   ["Combine", "Add the potatoes and toss to coat, then turn the heat to low."],
+   ["Melt cheese", "Scatter most of the mozzarella over the top, cover and cook 1–1½ minutes until melted."],
+   ["Portion", "Divide between 5 containers (about 400 g each) and top with the rest of the mozzarella, extra BBQ sauce and parsley if you like. Keeps 3–4 days in the fridge or 3 months frozen."]],
+  "notes": "Amounts are from the video; per-container nutrition (680 cal, 59 g protein, 58 g carbs, 20 g fat, 22 g fibre, 10 g sugar) is from the creator's card. The extra BBQ drizzle and parsley aren't included."
+ }]
+}

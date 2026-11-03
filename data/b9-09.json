@@ -1,0 +1,45 @@
+{
+ "src": {"key": "Snq17L3Dv3k", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "HIGH PROTEIN Korean Chicken Rice | MEAL PREP",
+  "url": "https://www.youtube.com/watch?v=Snq17L3Dv3k", "recipes": 1},
+ "recipes": [{
+  "id": "korean-gochujang-chicken-rice-bowls",
+  "title": "Korean Gochujang Chicken Rice Bowls with Cucumber Salad",
+  "img": "img/korean-gochujang-chicken-rice-bowls.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "container", "time": 40,
+  "macros": {"cal": 579, "protein": 46, "carbs": 67, "fat": 12, "fiber": 1, "sugar": 12},
+  "stated": ["cal", "protein", "carbs", "fat", "fiber", "sugar"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Rice", "Korean-inspired", "Spicy", "Baked", "Freezer friendly"],
+  "groups": [
+   {"name": "Chicken marinade", "items": [
+    {"q": 1, "u": "kg", "i": "boneless, skinless chicken thigh, diced", "a": "Meat"},
+    {"q": 2, "u": "tsp", "i": "toasted sesame oil", "a": "International"},
+    {"q": 5, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": 10, "u": "g", "i": "ginger, peeled and grated", "a": "Produce"},
+    {"q": 0.25, "u": "cup", "i": "gochujang (60 g)", "a": "International"},
+    {"q": 1.5, "u": "tbsp", "i": "sriracha", "a": "International"},
+    {"q": 0.25, "u": "cup", "i": "low-sodium soy sauce (60 ml)", "a": "International"},
+    {"q": null, "u": "", "i": "ground white pepper and cooking spray", "a": "Pantry"}]},
+   {"name": "Gochujang cucumbers", "items": [
+    {"q": 1, "u": "", "i": "large continental cucumber, thickly sliced", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "gochujang", "a": "International"},
+    {"q": 2, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": 2, "u": "tsp", "i": "low-sodium soy sauce", "a": "International"},
+    {"q": 2, "u": "tsp", "i": "rice wine vinegar", "a": "International"},
+    {"q": 0.5, "u": "tsp", "i": "gochugaru or chilli flakes", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "toasted sesame oil", "a": "International"},
+    {"q": 1, "u": "", "i": "spring onion, thinly sliced (white for the salad, green to garnish)", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt and ground white pepper", "a": "Pantry"}]},
+   {"name": "Jasmine rice", "items": [
+    {"q": 300, "u": "g", "i": "jasmine rice, washed", "a": "Pantry"},
+    {"q": 500, "u": "ml", "i": "cold water", "a": "Pantry"},
+    {"q": 2, "u": "tsp", "i": "black sesame seeds (optional)", "a": "International"}]}],
+  "steps": [
+   ["Cucumbers", "Mix the sliced cucumber with the gochujang, 2 grated garlic cloves, soy sauce, rice wine vinegar, gochugaru, sesame oil, the sliced spring onion whites, a little salt and white pepper. Refrigerate."],
+   ["Marinate", "Mix the chicken with the soy sauce, gochujang, sriracha, sesame oil, the remaining garlic, the ginger and white pepper. Use straight away or marinate up to 48 hours."],
+   ["Bake", "Spread the chicken and all the marinade on a lined, lightly oiled tray and bake at 200°C / 390°F for 20–22 minutes (or air fry), until cooked and caramelised. Rest 5 minutes, then dice."],
+   ["Rice", "Bring the rice, water and a pinch of salt to a boil, then cover and cook on low for 12 minutes. Leave covered off the heat for 4 minutes, then fluff with the sesame seeds."],
+   ["Portion", "Divide the rice, chicken (with the pan juices) and cucumber salad between 5 containers and garnish with spring onion greens and sesame seeds. Keeps 4 days in the fridge or 4 months frozen (store the cucumbers separately if freezing)."]],
+  "notes": "Amounts are from the creator's description; per-container nutrition (440 g: 579 cal, 46 g protein, 67 g carbs, 12 g fat) is from his card."
+ }]
+}
