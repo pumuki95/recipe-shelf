@@ -1,0 +1,37 @@
+{"src":{"key":"L_HTkLgzWzI","platform":"YouTube","creator":"Sara - Nutrient Matters","title":"This might be better than pizza","url":"https://www.youtube.com/watch?v=L_HTkLgzWzI","recipes":1},
+"recipes":[{"id":"turkish-pide-three-ways","title":"Turkish Pide (beef, sucuk & cheese)","img":"img/turkish-pide-three-ways.jpg","t":52,"servings":8,"unit":"pide","time":"2 h (incl. rising)","macros":{"cal":465,"protein":22,"carbs":51,"fat":19,"fiber":2,"sugar":3},"stated":[],"tags":["Dinner","Baked","Turkish","Comfort food"],
+"groups":[
+{"name":"Dough","items":[
+{"q":600,"u":"g","i":"all-purpose flour","a":"Baking"},
+{"q":1.5,"u":"tsp","i":"salt","a":"Pantry"},
+{"q":7,"u":"g","i":"instant yeast (1 packet)","a":"Baking"},
+{"q":360,"u":"ml","i":"warm water","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"olive oil","a":"Pantry"}]},
+{"name":"Beef topping (kıymalı)","items":[
+{"q":250,"u":"g","i":"ground beef","a":"Meat"},
+{"q":1,"i":"onion","a":"Produce"},
+{"q":0.5,"i":"green bell pepper","a":"Produce"},
+{"q":0.25,"u":"cup","i":"parsley","a":"Produce"},
+{"q":1,"u":"tbsp","i":"tomato paste","a":"Pantry"},
+{"q":1,"u":"tbsp","i":"red pepper paste (biber salçası)","a":"International"},
+{"q":1,"i":"tomato, finely diced","a":"Produce"},
+{"q":1,"u":"tsp","i":"each paprika and red pepper flakes","a":"Pantry"},
+{"i":"salt and black pepper","a":"Pantry"}]},
+{"name":"Cheese toppings","items":[
+{"q":200,"u":"g","i":"mozzarella, shredded","a":"Dairy"},
+{"q":150,"u":"g","i":"akkawi or feta-style white cheese, crumbled","a":"Dairy"},
+{"q":80,"u":"g","i":"sucuk (Turkish sausage), sliced","a":"Meat"},
+{"q":4,"i":"shishito or long green peppers, sliced","a":"Produce"}]},
+{"name":"Finish","items":[
+{"q":1,"i":"egg, beaten","a":"Dairy"},
+{"i":"sesame seeds and nigella (black) seeds","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"butter, melted","a":"Dairy"}]}],
+"steps":[
+["Dough","Mix the flour, salt, yeast dissolved in the warm water, and olive oil, then knead (by hand or stand mixer) into a smooth ball. Cover and rest 30 minutes."],
+["Divide","Divide into 8 equal pieces, shape into balls, cover and rest another 30–45 minutes."],
+["Beef topping","Pulse the onion, bell pepper and parsley in a food processor, then mix into the ground beef with the tomato paste, red pepper paste, diced tomato, paprika, chili flakes, salt and pepper."],
+["Cheese topping","Mix the mozzarella with the crumbled white cheese."],
+["Shape","Roll each ball into a thin long oval. Spread with the beef mixture, the cheese mix, or the cheese mix topped with sucuk and green peppers. Pinch the ends into points and fold the long edges over the filling."],
+["Bake","Brush the edges with egg wash and sprinkle with sesame and nigella seeds. Bake on a tray on the very bottom of a very hot oven (about 500°F / 260°C) for 8–12 minutes until golden."],
+["Finish","Brush the crusts with melted butter, slice and serve."]],
+"notes":"Estimated recipe: the video gives the method but not amounts, so quantities and macros are estimates (per pide, averaged across the three toppings)."}]}

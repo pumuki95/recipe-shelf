@@ -1,0 +1,26 @@
+{"src":{"key":"VMdcRptxo1Y","platform":"YouTube","creator":"Notorious Foodie","title":"Gyudon 😍🥩 #Shorts","url":"https://www.youtube.com/watch?v=VMdcRptxo1Y","recipes":1},
+"recipes":[{"id":"gyudon-beef-rice-bowl-egg-yolk","title":"Gyudon (Japanese Beef & Onion Rice Bowl)","img":"img/gyudon-beef-rice-bowl-egg-yolk.jpg","t":56,"servings":2,"unit":"bowl","time":"30 min","macros":{"cal":720,"protein":33,"carbs":88,"fat":24,"fiber":2,"sugar":12},"stated":[],"tags":["Dinner","Beef","Rice bowl","Japanese"],
+"groups":[
+{"name":"Beef & sauce","items":[
+{"q":300,"u":"g","i":"ribeye (or well-marbled beef), partly frozen and shaved paper-thin","a":"Meat"},
+{"q":1,"i":"onion, thinly sliced","a":"Produce"},
+{"q":3,"i":"shiitake mushrooms, sliced","a":"Produce"},
+{"q":2,"i":"garlic cloves, minced","a":"Produce"},
+{"q":1,"u":"tsp","i":"grated ginger","a":"Produce"},
+{"q":200,"u":"ml","i":"dashi stock","a":"International"},
+{"q":3,"u":"tbsp","i":"soy sauce","a":"International"},
+{"q":2,"u":"tbsp","i":"mirin","a":"International"},
+{"q":1,"u":"tbsp","i":"sake","a":"International"},
+{"q":1,"u":"tbsp","i":"sugar","a":"Baking"},
+{"q":2,"i":"green onions, cut into lengths, plus thin shreds to garnish","a":"Produce"}]},
+{"name":"To serve","items":[
+{"q":1.5,"u":"cup","i":"cooked short-grain Japanese rice (per bowl, about 3 cups total)","a":"Pantry"},
+{"q":2,"i":"egg yolks","a":"Dairy"},
+{"i":"shichimi togarashi and sesame seeds","a":"International"}]}],
+"steps":[
+["Shave the beef","Freeze the beef for 30–60 minutes until firm, then slice it as thinly as possible."],
+["Simmer the sauce","In a wide pan bring the dashi, soy sauce, mirin, sake and sugar to a simmer with the shiitake, garlic and ginger."],
+["Onions","Add the sliced onion and simmer until soft and sweet, about 5 minutes."],
+["Beef","Add the beef and green onion lengths and simmer just until cooked through, skimming off any foam."],
+["Serve","Pile the beef, onions and some sauce over bowls of hot rice. Top each with an egg yolk, shredded green onion, shichimi togarashi and sesame seeds."]],
+"notes":"Estimated recipe: the video has no narration or amounts, so the sauce follows a classic gyudon ratio; quantities and macros are estimates."}]}
