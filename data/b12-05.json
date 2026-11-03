@@ -1,0 +1,36 @@
+{"src":{"key":"syMmU_qM2Ck","platform":"YouTube","creator":"Thea Din","title":"[recipe vlog] Recreating Supreme Croissant by La Fayette / New York Viral Circular Croissant","url":"https://www.youtube.com/watch?v=syMmU_qM2Ck","recipes":1},
+"recipes":[{"id":"supreme-round-croissant-chocolate","title":"Supreme Round Croissant with Chocolate Cream (La Fayette-style)","img":"img/supreme-round-croissant-chocolate.jpg","t":582,"servings":8,"unit":"croissant","time":"8 h (incl. chilling & proofing)","macros":{"cal":690,"protein":13,"carbs":75,"fat":38,"fiber":2,"sugar":30},"stated":[],"tags":["Dessert","Breakfast","Baked","Pastry","Vegetarian"],
+"groups":[
+{"name":"Dough","items":[
+{"q":500,"u":"g","i":"all-purpose flour","a":"Baking"},
+{"q":60,"u":"g","i":"sugar","a":"Baking"},
+{"q":10,"u":"g","i":"salt","a":"Pantry"},
+{"q":10,"u":"g","i":"dry yeast","a":"Baking"},
+{"q":100,"u":"ml","i":"cold milk","a":"Dairy"},
+{"q":160,"u":"ml","i":"cold water","a":"Pantry"},
+{"q":50,"u":"g","i":"cold butter, cubed","a":"Dairy"}]},
+{"name":"Butter block","items":[{"q":250,"u":"g","i":"cold unsalted butter (for laminating)","a":"Dairy"}]},
+{"name":"Pastry cream","items":[
+{"q":100,"u":"g","i":"sugar (for the eggs)","a":"Baking"},
+{"q":60,"u":"g","i":"cornstarch","a":"Baking"},
+{"q":2,"i":"whole eggs","a":"Dairy"},
+{"q":4,"i":"egg yolks","a":"Dairy"},
+{"q":800,"u":"ml","i":"milk","a":"Dairy"},
+{"q":100,"u":"g","i":"sugar (for the milk)","a":"Baking"},
+{"q":50,"u":"g","i":"butter","a":"Dairy"},
+{"q":2,"u":"tsp","i":"vanilla","a":"Baking"}]},
+{"name":"Chocolate ganache","items":[
+{"q":200,"u":"ml","i":"heavy cream","a":"Dairy"},
+{"q":200,"u":"g","i":"dark chocolate","a":"Baking"},
+{"i":"cacao nibs, to finish (optional)","a":"Baking"}]}],
+"steps":[
+["Dough","Mix the flour and sugar with the yeast and salt on opposite sides of the bowl. Add the cold milk and water, mix, then knead in the cold cubed butter until smooth. Rest covered 30 minutes, flatten into a 30 × 20 cm rectangle, wrap and refrigerate 2 hours."],
+["Butter block","Pound and roll the cold butter between baking paper into a 20 × 20 cm square; keep cold."],
+["Laminate","Place the butter on the dough, fold the dough over to seal it in completely, then roll out and fold (letter folds), chilling between turns, to build the layers. Stretch the edges as you go to keep the layers even."],
+["Roll the spirals","Roll the dough into a large thin sheet, trim the edges (save the scraps), and cut into long strips. Roll each strip up tightly into a spiral, brushing the end with water to seal."],
+["Proof","Place the spirals in foil-wrapped rings (about 8–9 cm) on a lined tray. Let them rise for 2–3 hours in a warm, dark place."],
+["Bake","Bake at 175°C (350°F) for 15–20 minutes, then flip upside down and bake another 15–20 minutes until deep golden on both flat sides. Cool completely."],
+["Pastry cream","Whisk the 100 g sugar, cornstarch, eggs and yolks. Heat the milk with the other 100 g sugar, temper it into the eggs, return to the pan and cook, whisking, until it boils and thickens. Stir in the butter and vanilla and chill."],
+["Ganache","Bring the cream to a simmer, pour over the chocolate and stir until smooth. Mix some of the ganache into part of the pastry cream for a chocolate cream."],
+["Fill & finish","Pipe the chocolate cream into each croissant from the side, then pipe or drizzle ganache on top and finish with cacao nibs."]],
+"notes":"Dough and pastry cream amounts are the creator's (from the on-screen text). The butter block, ganache amounts and macros are estimated. Bake the trimmed scraps in a muffin tin with brown sugar for bonus 'cruffins'."}]}
