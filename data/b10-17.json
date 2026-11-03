@@ -1,0 +1,29 @@
+{"src":{"key":"4W5BvriTyzs","platform":"YouTube","creator":"KWOOWK","title":"3 Levels of Hot Chocolate","url":"https://www.youtube.com/watch?v=4W5BvriTyzs","recipes":3},
+"recipes":[
+{"id":"classic-cocoa-hot-chocolate","title":"Classic Cocoa Hot Chocolate","img":"img/classic-cocoa-hot-chocolate.jpg","part":"Level 1","t":11,"servings":1,"unit":"mug","time":"5 min","macros":{"cal":240,"protein":10,"carbs":34,"fat":9,"fiber":2,"sugar":30},"stated":[],"tags":["Drinks","Dessert","Quick","Vegetarian"],
+"groups":[{"name":"Hot chocolate","items":[
+{"q":1,"u":"cup","i":"milk","a":"Dairy"},
+{"q":1.5,"u":"tbsp","i":"sugar","a":"Baking"},
+{"q":1.5,"u":"tbsp","i":"cocoa powder, sifted","a":"Baking"},
+{"i":"pinch of salt","a":"Pantry"}]}],
+"steps":[["Heat","Warm the milk in a small pan until steaming."],["Whisk","Add the sugar and sifted cocoa powder and whisk until smooth. Finish with a pinch of salt; don't skip it."]],
+"notes":"Estimated recipe and macros (whole milk); the video gives no amounts."},
+{"id":"french-style-thick-hot-chocolate","title":"French-Style Thick Hot Chocolate","img":"img/french-style-thick-hot-chocolate.jpg","part":"Level 2","t":32,"servings":1,"unit":"mug","time":"10 min","macros":{"cal":553,"protein":10,"carbs":40,"fat":39,"fiber":4,"sugar":32},"stated":[],"tags":["Drinks","Dessert","Vegetarian"],
+"groups":[{"name":"Hot chocolate","items":[
+{"q":40,"u":"g","i":"dark chocolate, finely shaved","a":"Baking"},
+{"q":1,"u":"tbsp","i":"sugar","a":"Baking"},
+{"i":"pinch of salt","a":"Pantry"},
+{"q":3,"u":"tbsp","i":"heavy cream","a":"Dairy"},
+{"q":0.75,"u":"cup","i":"milk","a":"Dairy"},
+{"i":"whipped cream, to top (optional)","a":"Dairy"}]}],
+"steps":[["Melt","Shave the dark chocolate with a knife. Put it in a pot with the sugar, salt and cream and melt gently over low heat until glossy."],["Thin slowly","Drizzle in the milk a little at a time, whisking constantly, until thick, smooth and silky."],["Serve","Pour into a cup and top with whipped cream and a little grated chocolate."]],
+"notes":"Estimated recipe and macros (whole milk, 70% chocolate, without the whipped cream topping); the video gives no amounts."},
+{"id":"spiced-oat-milk-hot-chocolate","title":"Cinnamon-Cardamom Oat Milk Hot Chocolate","img":"img/spiced-oat-milk-hot-chocolate.jpg","part":"Level 3","t":57,"servings":1,"unit":"mug","time":"15 min","macros":{"cal":412,"protein":6,"carbs":47,"fat":22,"fiber":6,"sugar":30},"stated":[],"tags":["Drinks","Dessert","Vegan","Dairy free"],
+"groups":[{"name":"Hot chocolate","items":[
+{"q":40,"u":"g","i":"dark chocolate, chopped","a":"Baking"},
+{"q":1,"u":"tbsp","i":"brown sugar","a":"Baking"},
+{"q":1,"i":"cinnamon stick","a":"Pantry"},
+{"q":2,"i":"cardamom pods, lightly cracked","a":"Pantry"},
+{"q":1,"u":"cup","i":"oat milk, plus extra to adjust","a":"Dairy"}]}],
+"steps":[["Steep","Put the chocolate, brown sugar, cinnamon stick and cardamom pods in a pot and cover with the oat milk."],["Infuse","Leave on very low heat for about 10 minutes so the spices infuse the milk."],["Whisk","Remove the spices, whisk until smooth and add more oat milk until it's as thick as you like."]],
+"notes":"Estimated recipe and macros; the video gives no amounts. Use dairy-free dark chocolate to keep it vegan."}]}
