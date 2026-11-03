@@ -1,0 +1,46 @@
+{
+ "src": {"key": "7qnEWfmqEIM", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "High Protein Spicy Chicken Rice | Lose Weight and Build Muscle",
+  "url": "https://www.youtube.com/watch?v=7qnEWfmqEIM", "recipes": 1},
+ "recipes": [{
+  "id": "spicy-chicken-turmeric-rice-tzatziki",
+  "title": "Spicy Chicken & Turmeric Rice with Tzatziki",
+  "img": "img/spicy-chicken-turmeric-rice-tzatziki.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "container", "time": 35,
+  "macros": {"cal": 556, "protein": 53, "carbs": 52, "fat": 13, "sugar": 3},
+  "stated": ["cal", "protein", "carbs", "fat", "sugar"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Rice", "Spicy", "Gluten-free", "Freezer friendly"],
+  "groups": [
+   {"name": "Chicken", "items": [
+    {"q": 1, "u": "kg", "i": "chicken breast, diced", "a": "Meat"},
+    {"q": 1, "u": "tbsp", "i": "olive oil, plus spray oil", "a": "Pantry"},
+    {"q": 1.5, "u": "tsp", "i": "onion powder", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "garlic powder", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "ground cumin", "a": "Baking"},
+    {"q": 0.75, "u": "tsp", "i": "red chilli powder", "a": "Baking"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "Turmeric rice", "items": [
+    {"q": 1, "u": "tbsp", "i": "unsalted butter", "a": "Dairy"},
+    {"q": 300, "u": "g", "i": "basmati rice, washed", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "ground turmeric", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "ground cumin", "a": "Baking"},
+    {"q": 550, "u": "ml", "i": "chicken stock", "a": "Pantry"}]},
+   {"name": "Tzatziki", "items": [
+    {"q": 150, "u": "g", "i": "Greek yogurt", "a": "Dairy"},
+    {"q": 0.25, "u": "", "i": "cucumber, grated and squeezed", "a": "Produce"},
+    {"q": 0.25, "u": "", "i": "lemon, juiced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "garlic clove, grated", "a": "Produce"},
+    {"q": 2, "u": "g", "i": "dill, chopped", "a": "Produce"},
+    {"q": 2, "u": "g", "i": "flat-leaf parsley, chopped, plus extra to garnish", "a": "Produce"}]}],
+  "steps": [
+   ["Season", "Mix the chicken with the onion powder, garlic powder, smoked paprika, cumin, chilli powder, salt, pepper and olive oil."],
+   ["Sear", "Heat a lightly oiled pan over medium-high heat and sear the chicken in batches for 6–7 minutes until cooked. Set aside."],
+   ["Toast rice", "In the same pan, melt the butter and toast the rice for 2 minutes to pick up the chicken flavour."],
+   ["Cook rice", "Add the turmeric, paprika, cumin, stock, salt and pepper. Bring to a boil, cover and cook on low for 12 minutes. Leave covered off the heat for 4 minutes, then fluff."],
+   ["Tzatziki", "Mix the Greek yogurt, squeezed cucumber, lemon juice, garlic, dill, parsley, salt and pepper."],
+   ["Portion", "Divide the rice and chicken between 5 containers (about 420 g each), drizzle with tzatziki (or pack it separately) and garnish with parsley. Keeps 3–4 days in the fridge or 4 months frozen."]],
+  "notes": "Recipe from the creator's description; per-container nutrition (556 cal, 53 g protein, 52 g carbs, 13 g fat) is from his card. It's only mildly spicy; skip the chilli for none."
+ }]
+}

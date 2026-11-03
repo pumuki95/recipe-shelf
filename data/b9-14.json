@@ -1,0 +1,45 @@
+{
+ "src": {"key": "GDRZk9uXKRw", "platform": "YouTube", "creator": "Jalalsamfit",
+  "title": "Garlic Parmesan Steak Alfredo Pasta Meal Prep",
+  "url": "https://www.youtube.com/watch?v=GDRZk9uXKRw", "recipes": 1},
+ "recipes": [{
+  "id": "garlic-parmesan-steak-alfredo-pasta",
+  "title": "Garlic Parmesan Steak Bites & Alfredo Pasta",
+  "img": "img/garlic-parmesan-steak-alfredo-pasta.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "container", "time": 30,
+  "macros": {"cal": 595, "protein": 65, "carbs": 50, "fat": 15},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Beef", "Pasta", "Freezer friendly", "Quick"],
+  "groups": [
+   {"name": "Garlic Parmesan steak bites", "items": [
+    {"q": 800, "u": "g", "i": "lean steak (topside / top round), cubed", "a": "Meat"},
+    {"q": 1.5, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 1.5, "u": "tsp", "i": "black pepper", "a": "Baking"},
+    {"q": 2, "u": "tsp", "i": "Italian herbs", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "dried parsley", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "garlic powder", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 2, "u": "tsp", "i": "olive oil", "a": "Pantry"},
+    {"q": 35, "u": "g", "i": "light butter (for cooking and finishing)", "a": "Dairy"},
+    {"q": 2, "u": "tsp", "i": "garlic paste or minced garlic", "a": "Produce"},
+    {"q": 20, "u": "g", "i": "Parmigiano Reggiano, grated", "a": "Dairy"}]},
+   {"name": "Alfredo pasta", "items": [
+    {"q": 80, "u": "g", "i": "white onion, chopped", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "garlic, chopped", "a": "Produce"},
+    {"q": 1, "u": "tsp", "i": "each salt, pepper, Italian herbs, parsley and smoked paprika", "a": "Baking"},
+    {"q": 275, "u": "ml", "i": "light evaporated milk (or regular milk)", "a": "Dairy"},
+    {"q": 130, "u": "g", "i": "light cream cheese", "a": "Dairy"},
+    {"q": 40, "u": "g", "i": "Parmigiano Reggiano, grated", "a": "Dairy"},
+    {"q": 210, "u": "g", "i": "pasta (uncooked weight), e.g. fettuccine", "a": "Pantry"},
+    {"q": 55, "u": "ml", "i": "pasta water, if needed", "a": "Pantry"}]}],
+  "steps": [
+   ["Marinate", "Toss the cubed steak with the salt, pepper, Italian herbs, parsley, garlic powder, smoked paprika and olive oil. Leave 30 minutes for more flavour."],
+   ["Sear", "Cook the steak in a little light butter over medium-high heat, about 2 minutes per side, until golden and juicy."],
+   ["Garlic Parmesan", "Lower the heat, add the rest of the butter, the garlic and Parmesan and toss for a minute until coated. Set aside."],
+   ["Pasta", "Cook the pasta in salted water, reserving a little pasta water."],
+   ["Base", "In the same pan, cook the onion and garlic over medium-low heat 5–6 minutes until soft, then add the extra seasoning for a minute."],
+   ["Sauce", "Add the evaporated milk, cream cheese and Parmesan on low heat and stir until smooth. Let it bubble gently until thick, loosening with pasta water if needed."],
+   ["Combine", "Toss the cooked pasta through the sauce, then divide into 4 containers with the steak bites. Freezes well; reheat with a dash of milk."]],
+  "notes": "Amounts and per-serving macros (595 cal, 65 g protein, 50 g carbs, 15 g fat) are from the creator's description."
+ }]
+}
