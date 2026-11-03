@@ -1,0 +1,37 @@
+{"src":{"key":"BAMeeQ0f3EI","platform":"YouTube","creator":"The Golden Balance","title":"Grilled Cheese Burrito","url":"https://www.youtube.com/watch?v=BAMeeQ0f3EI","recipes":1},
+"recipes":[{"id":"grilled-cheese-california-burrito","title":"Grilled Cheese California Burrito","img":"img/grilled-cheese-california-burrito.jpg","t":52,"servings":4,"unit":"burrito","time":"1 h + marinating","macros":{"cal":1380,"protein":66,"carbs":98,"fat":77,"fiber":8,"sugar":6},"stated":[],"tags":["Dinner","Beef","Comfort food","Mexican"],
+"groups":[
+{"name":"Steak & marinade","items":[
+{"q":1.5,"u":"lb","i":"skirt steak","a":"Meat"},
+{"q":0.25,"u":"cup","i":"cilantro, chopped","a":"Produce"},
+{"q":3,"i":"garlic cloves, minced","a":"Produce"},
+{"q":3,"u":"tbsp","i":"soy sauce","a":"International"},
+{"q":1,"u":"tbsp","i":"Worcestershire sauce","a":"Pantry"},
+{"q":1,"u":"tsp","i":"honey","a":"Pantry"},
+{"q":1,"i":"lime, juiced","a":"Produce"},
+{"q":2,"u":"tbsp","i":"oil","a":"Pantry"},
+{"q":1,"u":"tsp","i":"each onion powder, garlic powder, paprika and chipotle chili powder","a":"Pantry"},
+{"i":"pinch of cayenne pepper","a":"Pantry"}]},
+{"name":"Roasted salsa","items":[
+{"q":4,"i":"tomatoes, halved","a":"Produce"},
+{"q":2,"i":"jalapeños","a":"Produce"},
+{"q":0.5,"i":"onion, in chunks","a":"Produce"},
+{"q":1,"i":"bunch cilantro","a":"Produce"},
+{"q":2,"i":"garlic cloves","a":"Produce"},
+{"q":1,"i":"lime, juiced","a":"Produce"},
+{"i":"oil, salt and pepper","a":"Pantry"}]},
+{"name":"Burritos","items":[
+{"q":4,"i":"large flour tortillas","a":"Bakery"},
+{"q":1,"i":"avocado, mashed with salt and lime","a":"Produce"},
+{"q":1,"u":"lb","i":"frozen fries","a":"Frozen"},
+{"q":0.5,"i":"onion, finely diced, plus chopped cilantro","a":"Produce"},
+{"q":0.5,"u":"cup","i":"sour cream","a":"Dairy"},
+{"q":2,"u":"cup","i":"shredded cheese (half inside, half for the crust)","a":"Dairy"}]}],
+"steps":[
+["Marinate","Mix the cilantro, garlic, soy sauce, Worcestershire, honey, lime juice, oil and spices. Pour over the skirt steak and marinate for at least 30 minutes, or as long as you can wait."],
+["Roast the salsa","Put the tomatoes, jalapeños and onion in a baking dish, toss with oil, salt and pepper and roast at 425°F (220°C) until charred and soft. Blend with the cilantro, garlic and lime juice."],
+["Fries","Cook the frozen fries until crisp (oven, air fryer or fryer)."],
+["Sear the steak","Sear the steak in a screaming-hot cast iron pan for 2–3 minutes per side until deeply browned. Rest, then chop."],
+["Build","On a warm tortilla spread mashed avocado, then add steak, onion, cilantro, salsa, a pile of fries, sour cream and cheese. Fold in the sides and roll up tightly."],
+["Grilled cheese crust","Scatter a thin layer of cheese in a non-stick pan over medium heat, set the burrito on top and cook until the cheese is golden and crisp and sticks to the tortilla, turning to coat all sides."]],
+"notes":"Estimated recipe: the video gives the method but no amounts, so quantities and macros are estimates. It's a big, indulgent burrito; one could easily feed two."}]}
