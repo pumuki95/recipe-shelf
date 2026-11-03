@@ -1,0 +1,22 @@
+{"src":{"key":"oXjWUxfeAgc","platform":"YouTube","creator":"Sweet Kitchen (스윗 키친)","title":"Easier souffle pancake with 1 egg","url":"https://www.youtube.com/watch?v=oXjWUxfeAgc","recipes":1},
+"recipes":[{"id":"one-egg-souffle-pancake","title":"One-Egg Japanese Soufflé Pancake","img":"img/one-egg-souffle-pancake.jpg","t":630,"servings":1,"unit":"tall pancake (or 2 small)","time":"30 min","macros":{"cal":225,"protein":8,"carbs":34,"fat":5,"sugar":22},"stated":[],"tags":["Breakfast","Dessert","Vegetarian"],
+"groups":[
+{"name":"Batter","items":[
+{"q":1,"i":"egg yolk","a":"Dairy"},
+{"q":15,"u":"g","i":"milk (about 1 tbsp)","a":"Dairy"},
+{"q":0.5,"u":"g","i":"salt (a tiny pinch)","a":"Pantry"},
+{"i":"a little vanilla paste or extract (optional)","a":"Baking"},
+{"q":17,"u":"g","i":"cake flour (or all-purpose or rice flour)","a":"Baking"}]},
+{"name":"Meringue","items":[
+{"q":1,"i":"egg white (35–40 g, from a large egg)","a":"Dairy"},
+{"q":5,"u":"g","i":"lemon juice (1 tsp), or 3–4 g vinegar","a":"Produce"},
+{"q":21,"u":"g","i":"sugar (about 1.5 tbsp)","a":"Baking"}]},
+{"name":"To serve","items":[{"i":"whipped cream, berries and mint","a":"Dairy"}]}],
+"steps":[
+["Batter","Whisk the egg yolk, milk, salt and vanilla, then whisk in the cake flour until smooth."],
+["Meringue","Whip the egg white with the lemon juice. Add the sugar in three additions (at about 30 seconds, 1 minute and 1½ minutes) and keep whipping to a glossy, firm meringue, about 3 minutes total."],
+["Fold","Soften the meringue with a quick stir, then fold it into the yolk batter in parts until just combined."],
+["Prepare the ring","Lightly oil a pan, wiping off the excess so the pancake doesn't spot. Set a 12 cm mousse ring lined with a 4–4.5 cm strip of parchment on the pan and fill with the batter."],
+["Cook","Cook covered over low–medium heat (about 180°C/350°F surface) for 6 minutes, carefully flip, cook 5 minutes more, then turn off the heat and leave covered for 2–3 minutes so it sets without collapsing."],
+["Serve","Unmould and top with whipped cream, berries and mint."]],
+"notes":"Macros are estimated, before toppings. The creator corrected the sugar to 20–22 g per egg (the on-screen amount was a mistake). No mousse ring? Make 2 smaller pancakes; cooking times depend on your pan."}]}
