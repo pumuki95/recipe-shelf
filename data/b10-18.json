@@ -1,0 +1,34 @@
+{"src":{"key":"BPe6qQ12DvI","platform":"YouTube","creator":"Mark Stache","title":"One can of Chickpeas WILL Change how you Think about Protein Bars","url":"https://www.youtube.com/watch?v=BPe6qQ12DvI","recipes":2},
+"recipes":[
+{"id":"black-bean-chocolate-protein-bars","title":"Black Bean Chocolate Protein Bars","img":"img/black-bean-chocolate-protein-bars.jpg","part":"Chocolate bars","t":426,"servings":8,"unit":"bar","time":"35 min","macros":{"cal":218,"protein":14,"carbs":32,"fat":1.5},"stated":["cal","protein","carbs","fat"],"tags":["Snack","High protein","Vegan","Dairy free","Meal prep","Baked"],
+"groups":[{"name":"Bars","items":[
+{"q":1,"u":"cup","i":"old-fashioned rolled oats","a":"Pantry"},
+{"q":1,"i":"can (15 oz) black beans, drained (save the liquid) and rinsed","a":"Pantry"},
+{"q":4,"i":"Medjool dates, pitted (about 1/2 cup)","a":"Pantry"},
+{"q":4,"u":"scoops","i":"vanilla plant-based protein powder (about 60 g protein)","a":"Pantry"},
+{"q":0.25,"u":"cup","i":"100% cacao powder","a":"Baking"},
+{"q":0.25,"u":"cup","i":"maple syrup","a":"Pantry"},
+{"q":0.25,"u":"cup","i":"aquafaba (the liquid from the can), as needed","a":"Pantry"},
+{"i":"vegan chocolate chips, flaky salt and a sprinkle of cane sugar, to top","a":"Baking"}]}],
+"steps":[
+["Pulse the oats","Heat the oven to 350°F (175°C). Pulse the oats in a food processor into small bits (not quite flour)."],
+["Blend","Add the black beans, dates, protein powder, cacao powder and maple syrup. Add the aquafaba a little at a time, pulsing, until it forms one smooth dough ball."],
+["Pack","Line a loaf pan with parchment, press the dough in evenly and top with chocolate chips, a pinch of salt and a little cane sugar."],
+["Bake","Bake for about 20 minutes. Cool, then lift out and cut into 8 bars."]],
+"notes":"Macros are the creator's, per bar. They're dense; half a bar makes a good snack. He used unsweetened chocolate chips by mistake; use sweetened dark or vegan chips."},
+{"id":"chickpea-peanut-butter-protein-bars","title":"Chickpea Peanut Butter Protein Bars","img":"img/chickpea-peanut-butter-protein-bars.jpg","part":"Peanut butter bars","t":436,"servings":8,"unit":"bar","time":"35 min","macros":{"cal":225,"protein":18.5,"carbs":17,"fat":8},"stated":["cal","protein","carbs","fat"],"tags":["Snack","High protein","Vegan","Dairy free","Meal prep","Baked"],
+"groups":[{"name":"Bars","items":[
+{"q":1,"u":"cup","i":"old-fashioned rolled oats","a":"Pantry"},
+{"q":1,"i":"can (15 oz) chickpeas, drained (save the liquid)","a":"Pantry"},
+{"q":0.25,"u":"cup","i":"allulose (or another sweetener)","a":"Baking"},
+{"q":4,"u":"scoops","i":"vanilla plant-based protein powder","a":"Pantry"},
+{"q":0.5,"u":"cup","i":"peanut butter powder","a":"Pantry"},
+{"q":0.25,"u":"cup","i":"peanut butter","a":"Pantry"},
+{"q":0.5,"u":"cup","i":"aquafaba (the liquid from the can), as needed","a":"Pantry"},
+{"i":"pinch of salt, to top","a":"Pantry"}]}],
+"steps":[
+["Pulse the oats","Heat the oven to 350°F (175°C). Pulse the oats in a food processor into small bits."],
+["Blend","Add the chickpeas, allulose, protein powder, peanut butter powder and peanut butter. Add the aquafaba gradually, pulsing, until it comes together into a thick dough."],
+["Pack","Press into a parchment-lined loaf pan and sprinkle with a little salt."],
+["Bake","Bake for about 20 minutes. Cool, then cut into 8 bars."]],
+"notes":"Macros are the creator's, per bar. They taste like a cakey peanut butter fudge; swap in chocolate protein powder for a chocolate–peanut butter version."}]}

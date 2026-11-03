@@ -369,7 +369,9 @@
   "pb-banana-bark",
   "peanut-butter-date-bark",
   "cottage-cheese-brownie-balls",
-  "fudgy-chocolate-pb-protein-oat-bars"
+  "fudgy-chocolate-pb-protein-oat-bars",
+  "black-bean-chocolate-protein-bars",
+  "chickpea-peanut-butter-protein-bars"
  ],
  "Banana bread, muffins & loaves": [
   "double-chocolate-banana-bread",
@@ -417,5 +419,10 @@
   "mozzarella-tomato-basil-arugula-salad",
   "citrus-avocado-feta-salad",
   "spicy-tuna-cucumber-jar-salad"
+ ],
+ "Hot chocolate": [
+  "classic-cocoa-hot-chocolate",
+  "french-style-thick-hot-chocolate",
+  "spiced-oat-milk-hot-chocolate"
  ]
 }
