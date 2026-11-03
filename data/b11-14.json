@@ -1,0 +1,24 @@
+{"src":{"key":"Ru3K-EOtvYM","platform":"YouTube","creator":"Tasty Shreds","title":"1800 calorie pizza vs 850 calorie pizza. #recipe #proteindiet #pizza a","url":"https://www.youtube.com/watch?v=Ru3K-EOtvYM","recipes":1},
+"recipes":[{"id":"three-meat-tortilla-crust-protein-pizza","title":"Three-Meat Stuffed-Crust Tortilla Pizza (850 cal, 85 g protein)","img":"img/three-meat-tortilla-crust-protein-pizza.jpg","t":54,"servings":1,"unit":"whole pizza","time":"35 min","macros":{"cal":850,"protein":85,"carbs":50,"fat":40,"fiber":30},"stated":["cal","protein"],"tags":["Dinner","High protein","Pizza","Low carb"],
+"groups":[
+{"name":"Meatballs (makes extra)","items":[
+{"q":1,"u":"lb","i":"93/7 lean ground beef","a":"Meat"},
+{"q":1,"i":"egg","a":"Dairy"},
+{"q":1,"u":"tsp","i":"Italian seasoning","a":"Pantry"},
+{"q":1,"u":"tsp","i":"garlic seasoning","a":"Pantry"},
+{"i":"salt and pepper","a":"Pantry"}]},
+{"name":"Pizza","items":[
+{"q":2,"i":"Mission Carb Balance large tortillas","a":"Bakery"},
+{"q":2,"i":"light string cheese sticks (50 cal each)","a":"Dairy"},
+{"q":0.5,"u":"cup","i":"pizza sauce","a":"Pantry"},
+{"q":28,"u":"g","i":"shredded mozzarella","a":"Dairy"},
+{"q":2,"i":"thin provolone slices","a":"Dairy"},
+{"q":28,"u":"g","i":"turkey pepperoni","a":"Meat"},
+{"q":2,"u":"oz","i":"cooked meatballs (from above)","a":"Meat"},
+{"q":2,"i":"slices center-cut bacon, cooked and chopped","a":"Meat"}]}],
+"steps":[
+["Meatballs","Mix the ground beef with the egg, Italian seasoning, garlic seasoning, salt and pepper. Roll into a couple dozen small meatballs and air fry at 400°F (200°C) for about 15 minutes."],
+["Crust","Stack the two tortillas. Lay the string cheese around the edge and fold the tortilla edge over it to make a stuffed crust."],
+["Top","Spread the pizza sauce, then add the mozzarella, provolone, turkey pepperoni, 2 oz of meatballs (halved) and chopped bacon."],
+["Bake","Bake at 400°F (200°C) for about 12 minutes until bubbling and the crust is crisp."]],
+"notes":"The creator gives about 850 calories and 85 g protein for the whole pizza (vs ~1,800 calories for a frozen three-meat pizza); carbs and fat are estimated. You'll have leftover meatballs for other meals."}]}
