@@ -1,0 +1,20 @@
+{"src":{"key":"I56GxfRiD4Q","platform":"YouTube","creator":"Joshua Weissman","title":"The 450 Calorie Cheeseburger (45g Protein)","url":"https://www.youtube.com/watch?v=I56GxfRiD4Q","recipes":1},
+"recipes":[{"id":"lean-double-cheeseburger-450","title":"450-Calorie Double Cheeseburger (45 g protein)","img":"img/lean-double-cheeseburger-450.jpg","t":33,"servings":1,"unit":"burger","time":"15 min","macros":{"cal":450,"protein":45,"carbs":32,"fat":15},"stated":["cal","protein"],"tags":["Lunch","Dinner","High protein","Beef","Quick","Meal prep"],
+"groups":[
+{"name":"Burger","items":[
+{"q":170,"u":"g","i":"96% lean ground beef, split into 2 thin patties","a":"Meat"},
+{"q":1,"i":"slice American cheese","a":"Dairy"},
+{"q":1,"i":"light / high-protein burger bun","a":"Bakery"},
+{"i":"dill pickle slices","a":"International"},
+{"i":"salt and pepper","a":"Pantry"}]},
+{"name":"Burger sauce (makes several)","items":[
+{"q":30,"u":"g","i":"light mayo","a":"Pantry"},
+{"q":40,"u":"g","i":"sriracha","a":"International"},
+{"q":30,"u":"g","i":"yellow mustard","a":"Pantry"},
+{"i":"salt and pepper","a":"Pantry"}]}],
+"steps":[
+["Sauce","Stir together the light mayo, sriracha, mustard, salt and pepper."],
+["Smash & sear","Smash the beef into two thin patties on a very hot griddle or skillet, season and cook fast, about 1–2 minutes per side. Lean beef dries out if you chase a deep crust, so pull them slightly underdone."],
+["Cheese","Put the one slice of cheese on one patty and stack the other patty on top so it melts between them; let it rest a minute."],
+["Build","Toast the bun, spread with sauce, add pickles and the stacked patties."]],
+"notes":"The creator gives 450 calories and 45 g protein; carbs and fat are estimated and depend on your bun. The patties are good for meal prep: cook a batch slightly underdone and reheat briefly."}]}
