@@ -1,0 +1,29 @@
+{
+ "src": {"key": "-VRsAiJ0hG0", "platform": "YouTube", "creator": "Felu - Fit by cooking",
+  "title": "Why OATBARS are Amazing as a Snack or Breakfast",
+  "url": "https://www.youtube.com/watch?v=-VRsAiJ0hG0", "recipes": 1},
+ "recipes": [{
+  "id": "fudgy-chocolate-pb-protein-oat-bars",
+  "title": "Fudgy Chocolate Peanut Butter Protein Oat Bars",
+  "img": "img/fudgy-chocolate-pb-protein-oat-bars.jpg",
+  "part": 1, "t": 0, "servings": 6, "unit": "bar", "time": 50,
+  "macros": {"cal": 205, "protein": 15, "carbs": 20, "fat": 6.5},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Snack", "Breakfast", "High protein", "Baked", "Vegetarian", "Meal prep", "No refined sugar"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 150, "u": "g", "i": "rolled oats (or quick oats)", "a": "Pantry"},
+    {"q": 30, "u": "g", "i": "unsweetened cocoa powder", "a": "Baking"},
+    {"q": 50, "u": "g", "i": "creamy peanut butter (or powdered peanut butter)", "a": "Pantry"},
+    {"q": 60, "u": "g", "i": "vanilla casein protein powder (or a whey/casein blend)", "a": "Pantry"},
+    {"q": null, "u": "", "i": "pinch of salt", "a": "Pantry"},
+    {"q": 150, "u": "g", "i": "skim milk", "a": "Dairy"},
+    {"q": 50, "u": "g", "i": "water, plus more as needed", "a": "Pantry"}]}],
+  "steps": [
+   ["Mix dry", "Combine the oats, cocoa, peanut butter, protein powder and salt in a large bowl."],
+   ["Add liquid", "Stir in the milk, then add water a little at a time until it looks like thick Nutella with oats (casein needs more liquid than whey)."],
+   ["Pan", "Line an 8 × 20 cm (about 3 × 8 in) tin with parchment paper and spread the mixture evenly."],
+   ["Bake", "Bake at 200°C / 400°F for 25 minutes. It will still feel a little jiggly."],
+   ["Cool & cut", "Lift out, cool on a plate for about 20 minutes to firm up, then cut into 6 bars."]],
+  "notes": "Amounts and macros are from the video: the whole tray is 1,230 cal, 122 g carbs, 40 g fat and 89 g protein, about 205 cal and 15 g protein per bar. No added sugar; the milk sweetens it. Whey makes them drier, more like a protein bar."
+ }]
+}

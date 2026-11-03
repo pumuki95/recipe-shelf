@@ -1,0 +1,58 @@
+{
+ "src": {"key": "ASDP-9KplTs", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "PROTEIN PACKED Chicken Curry Meal Prep | Chicken Tikka Masala",
+  "url": "https://www.youtube.com/watch?v=ASDP-9KplTs", "recipes": 1},
+ "recipes": [{
+  "id": "chicken-tikka-masala-meal-prep",
+  "title": "Chicken Tikka Masala with Turmeric Rice",
+  "img": "img/chicken-tikka-masala-meal-prep.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "container", "time": 60,
+  "macros": {"cal": 687, "protein": 57, "carbs": 71, "fat": 23, "fiber": 4, "sugar": 10},
+  "stated": ["cal", "protein", "carbs", "fat", "fiber", "sugar"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Rice", "Spicy", "Gluten-free", "Freezer friendly"],
+  "groups": [
+   {"name": "Chicken marinade", "items": [
+    {"q": 1, "u": "kg", "i": "boneless, skinless chicken thigh, diced", "a": "Meat"},
+    {"q": 6, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": 10, "u": "g", "i": "ginger, grated", "a": "Produce"},
+    {"q": 2, "u": "tsp", "i": "Kashmiri chilli powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "ground turmeric", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "garam masala", "a": "Baking"},
+    {"q": 0.5, "u": "cup", "i": "high-protein or natural Greek yogurt (130 g)", "a": "Dairy"},
+    {"q": 0.5, "u": "", "i": "lemon, juiced", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "peanut oil", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and cracked black pepper", "a": "Pantry"}]},
+   {"name": "Gravy", "items": [
+    {"q": 2, "u": "tbsp", "i": "ghee (clarified butter)", "a": "Dairy"},
+    {"q": 1, "u": "", "i": "brown (yellow) onion, sliced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "red bell pepper, sliced", "a": "Produce"},
+    {"q": 2, "u": "", "i": "garlic cloves, chopped", "a": "Produce"},
+    {"q": 10, "u": "g", "i": "ginger, julienned", "a": "Produce"},
+    {"q": 1.5, "u": "tbsp", "i": "garam masala", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "whole cumin seeds", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "ground coriander", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "Kashmiri chilli powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "sweet or smoked paprika", "a": "Baking"},
+    {"q": 300, "u": "g", "i": "tomato paste", "a": "Pantry"},
+    {"q": 150, "u": "g", "i": "high-protein or natural Greek yogurt", "a": "Dairy"},
+    {"q": 300, "u": "ml", "i": "chicken stock", "a": "Pantry"},
+    {"q": 200, "u": "ml", "i": "thickened (heavy) cream", "a": "Dairy"},
+    {"q": 10, "u": "g", "i": "coriander (cilantro), chopped", "a": "Produce"}]},
+   {"name": "Turmeric rice", "items": [
+    {"q": 300, "u": "g", "i": "basmati rice, washed", "a": "Pantry"},
+    {"q": 550, "u": "ml", "i": "chicken stock", "a": "Pantry"},
+    {"q": 1.5, "u": "tsp", "i": "ground turmeric", "a": "Baking"},
+    {"q": 5, "u": "g", "i": "coriander (cilantro), chopped", "a": "Produce"}]}],
+  "steps": [
+   ["Marinate", "Mix the chicken with the grated garlic, ginger, Kashmiri chilli, turmeric, garam masala, Greek yogurt, lemon juice, salt and pepper."],
+   ["Char", "Heat the peanut oil in a large pan over high heat and sear the chicken in two batches, about 5 minutes each, until golden and lightly charred but not cooked through. Set aside."],
+   ["Soften", "Melt the ghee in a large pot over medium-high heat and fry the onion and bell pepper with a pinch of salt for 5–6 minutes until soft. Add the garlic and ginger for 1 minute."],
+   ["Spices", "Add the cumin seeds, garam masala, Kashmiri chilli, paprika and ground coriander and cook 30–45 seconds."],
+   ["Tomato paste", "Stir in the tomato paste, turn to medium and cook 3–4 minutes to bring out its oils and depth."],
+   ["Simmer", "Turn up to medium-high, return the chicken and juices, stir in the Greek yogurt and bring to a light simmer (about 2 minutes). Add the stock and a pinch of salt, bring to a boil, then simmer uncovered on low for 25–30 minutes until the chicken is tender and the gravy thick."],
+   ["Rice", "Bring the rice, stock, turmeric and a pinch of salt to a boil, cover and cook on low for 12 minutes, rest 4 minutes off the heat, then fluff in the 5 g coriander."],
+   ["Finish", "Stir the cream and remaining coriander into the curry and cook 2 more minutes; adjust seasoning."],
+   ["Portion", "Divide into 5 containers (about 200 g rice and 350 g curry each). Keeps 3 days in the fridge or 4 months frozen; reheat in a pan with a splash of stock."]],
+  "notes": "Amounts are from the creator's description; per-container nutrition (687 cal, 57 g protein, 71 g carbs, 23 g fat, 4 g fibre, 10 g sugar) is from his card. Use less cream to lighten it."
+ }]
+}
