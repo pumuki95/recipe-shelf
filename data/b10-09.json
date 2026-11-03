@@ -1,0 +1,30 @@
+{"src":{"key":"wBrLvbXf-Fo","platform":"YouTube","creator":"Joshua Weissman","title":"The BEST Steak Sandwich","url":"https://www.youtube.com/watch?v=wBrLvbXf-Fo","recipes":1},
+"recipes":[{"id":"steak-sandwich-chimichurri-onion-sauce","title":"Steak Sandwich with Chimichurri & Caramelized Onion Sauce","img":"img/steak-sandwich-chimichurri-onion-sauce.jpg","t":34,"servings":2,"unit":"half sandwich","time":"45 min","macros":{"cal":1000,"protein":58,"carbs":78,"fat":52,"fiber":4,"sugar":10},"stated":[],"tags":["Lunch","Dinner","High protein","Sandwich","Beef"],
+"groups":[
+{"name":"Chimichurri","items":[
+{"q":0.5,"u":"cup","i":"fresh parsley, finely chopped","a":"Produce"},
+{"q":1,"i":"red chili, finely chopped (or chili flakes)","a":"Produce"},
+{"q":2,"i":"garlic cloves, grated","a":"Produce"},
+{"q":3,"u":"tbsp","i":"olive oil","a":"Pantry"},
+{"q":1,"u":"tbsp","i":"red wine vinegar","a":"Pantry"},
+{"i":"salt","a":"Pantry"}]},
+{"name":"Onion sauce","items":[
+{"q":1,"i":"onion, thinly sliced (most caramelized, a little left raw and minced)","a":"Produce"},
+{"q":1,"u":"tbsp","i":"butter","a":"Dairy"},
+{"q":2,"u":"tbsp","i":"pickles, finely chopped","a":"International"},
+{"q":0.25,"u":"tsp","i":"instant coffee","a":"Pantry"},
+{"q":3,"u":"tbsp","i":"mayonnaise","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"ketchup","a":"Pantry"},
+{"q":1,"u":"tsp","i":"pickle juice or Worcestershire sauce","a":"Pantry"},
+{"i":"salt and black pepper","a":"Pantry"}]},
+{"name":"Sandwich","items":[
+{"q":12,"u":"oz","i":"steak (ribeye, strip or sirloin)","a":"Meat"},
+{"q":1,"i":"crusty loaf (ciabatta or baguette)","a":"Bakery"},
+{"q":1,"u":"tbsp","i":"neutral oil, for searing","a":"Pantry"}]}],
+"steps":[
+["Chimichurri","Mix the parsley, chili, grated garlic, olive oil, vinegar and a pinch of salt. Set aside."],
+["Caramelize onions","Cook most of the sliced onion in butter over medium-low heat for 20–25 minutes, stirring often, until deep golden and jammy."],
+["Onion sauce","Mix the caramelized onions with a little minced raw onion, chopped pickles, the instant coffee, mayo, ketchup, pickle juice or Worcestershire, salt and plenty of black pepper."],
+["Sear the steak","Season the steak well with salt and pepper. Sear in a very hot oiled pan for 3–4 minutes per side for medium-rare, then rest for 5 minutes and slice against the grain."],
+["Build","Split and lightly toast the loaf. Spread the onion sauce on the bread, pile on the sliced steak, spoon over chimichurri, close and cut in half."]],
+"notes":"Estimated recipe: the video shows the sauce ingredient list and the method but no amounts, so quantities and macros are estimated (per half sandwich)."}]}
