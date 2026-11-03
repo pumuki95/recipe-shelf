@@ -1,0 +1,31 @@
+{
+ "src": {"key": "kID3o9MLj6E", "platform": "YouTube", "creator": "Tasty Shreds",
+  "title": "Healthy fully loaded pizza for fat loss & muscle gain",
+  "url": "https://www.youtube.com/watch?v=kID3o9MLj6E", "recipes": 1},
+ "recipes": [{
+  "id": "philly-cheesesteak-protein-pizza",
+  "title": "Buffalo Philly Cheesesteak Protein Pizza",
+  "img": "img/philly-cheesesteak-protein-pizza.jpg",
+  "part": 1, "t": 0, "servings": 8, "unit": "slice", "time": 35,
+  "macros": {"cal": 120, "protein": 17, "carbs": 9, "fat": 2},
+  "stated": ["cal", "protein"],
+  "tags": ["Main meal", "Pizza", "High protein", "Beef", "Baked", "Spicy", "Meal prep"],
+  "groups": [
+   {"name": "Crust", "items": [
+    {"q": 90, "u": "g", "i": "Fit flour (or self-rising flour)", "a": "Baking"},
+    {"q": 120, "u": "g", "i": "nonfat Greek yogurt", "a": "Dairy"}]},
+   {"name": "Toppings", "items": [
+    {"q": 12, "u": "oz", "i": "lean steak (e.g. sirloin), seasoned", "a": "Meat"},
+    {"q": 3, "u": "tbsp", "i": "buffalo blue cheese sauce (light)", "a": "International"},
+    {"q": 60, "u": "g", "i": "reduced-fat mozzarella or provolone, shredded", "a": "Dairy"},
+    {"q": 0.5, "u": "", "i": "white onion, thinly sliced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "green bell pepper, sliced", "a": "Produce"}]}],
+  "steps": [
+   ["Dough", "Mix the flour and Greek yogurt into a dough and roll it out into a large round (or a deep pan)."],
+   ["Pre-bake", "Bake at 425°F / 220°C for about 6 minutes."],
+   ["Steak", "Season the steak and sear it on high heat, then slice or shave it thinly."],
+   ["Top", "Spread the buffalo blue cheese sauce over the crust, add the steak, cheese, onion and green pepper."],
+   ["Bake", "Bake for another 10 minutes until the cheese is melted and the crust golden. Cut into 8 slices."]],
+  "notes": "Crust amounts are from the video; the creator says the whole pizza is under 1,000 cal with over 130 g protein (about 120 cal and 17 g protein a slice). Topping amounts, carbs and fat are estimates; his full list was in a caption I couldn't see."
+ }]
+}

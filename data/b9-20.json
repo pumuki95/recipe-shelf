@@ -1,0 +1,25 @@
+{
+ "src": {"key": "olwdk4N8A14", "platform": "YouTube", "creator": "Sabrosos Tasty",
+  "title": "The big secret of my mother's business",
+  "url": "https://www.youtube.com/watch?v=olwdk4N8A14", "recipes": 1},
+ "recipes": [{
+  "id": "mango-passion-fruit-milk-drink",
+  "title": "Creamy Mango Passion Fruit Drink",
+  "img": "img/mango-passion-fruit-milk-drink.jpg",
+  "part": 1, "t": 0, "servings": 4, "unit": "glass", "time": 15,
+  "macros": {"cal": 330, "protein": 9, "carbs": 58, "fat": 7.5},
+  "stated": [],
+  "tags": ["Snack", "Dessert", "Vegetarian", "Gluten-free", "No-cook", "Indulgent"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 4, "u": "", "i": "passion fruits", "a": "Produce"},
+    {"q": 2, "u": "", "i": "ripe mangoes, peeled and diced", "a": "Produce"},
+    {"q": 2, "u": "cup", "i": "milk", "a": "Dairy"},
+    {"q": 200, "u": "g", "i": "sweetened condensed milk", "a": "Dairy"},
+    {"q": null, "u": "", "i": "lots of ice", "a": "Frozen"}]}],
+  "steps": [
+   ["Passion fruit", "Scoop the pulp from the passion fruits, blend for about 2 minutes, then strain to remove the seeds."],
+   ["Blend", "Blend the diced mango with the passion fruit juice, milk and condensed milk for about 2 minutes."],
+   ["Chill", "Pour over a big bowl of ice so it's very cold, then serve in glasses."]],
+  "notes": "Amounts are from the video; macros are estimates. Sweet and rich because of the condensed milk; use less or a light version to cut sugar."
+ }]
+}
