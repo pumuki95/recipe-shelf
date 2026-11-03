@@ -1,0 +1,39 @@
+{
+ "src": {"key": "IPuxHAUaVm4", "platform": "YouTube", "creator": "Rahul Kamat",
+  "title": "Triple Chocolate Cinnamon Rolls to OBLITERATE Fat (96g Protein)",
+  "url": "https://www.youtube.com/watch?v=IPuxHAUaVm4", "recipes": 1},
+ "recipes": [{
+  "id": "triple-chocolate-protein-cinnamon-rolls",
+  "title": "Triple Chocolate Protein Cinnamon Rolls",
+  "img": "img/triple-chocolate-protein-cinnamon-rolls.jpg",
+  "part": 1, "t": 0, "servings": 6, "unit": "roll", "time": 50,
+  "macros": {"cal": 185, "protein": 16, "carbs": 29, "fat": 1},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Dessert", "Breakfast", "High protein", "Baked", "Vegetarian", "Sweet tooth", "Meal prep"],
+  "groups": [
+   {"name": "Dough", "items": [
+    {"q": 190, "u": "g", "i": "self-rising flour", "a": "Baking"},
+    {"q": 20, "u": "g", "i": "dark cocoa powder (4 tbsp)", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "baking powder", "a": "Baking"},
+    {"q": 3, "u": "", "i": "packets of sweetener", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "salt", "a": "Pantry"},
+    {"q": 225, "u": "g", "i": "Greek yogurt (1 cup)", "a": "Dairy"}]},
+   {"name": "Filling", "items": [
+    {"q": 2, "u": "tbsp", "i": "sugar-free chocolate syrup (30 g)", "a": "Pantry"},
+    {"q": null, "u": "", "i": "ground cinnamon", "a": "Baking"},
+    {"q": null, "u": "", "i": "mini chocolate chips (optional)", "a": "Baking"}]},
+   {"name": "Frosting", "items": [
+    {"q": 120, "u": "g", "i": "Greek yogurt", "a": "Dairy"},
+    {"q": 20, "u": "g", "i": "whey protein powder", "a": "Pantry"},
+    {"q": 20, "u": "g", "i": "casein protein powder", "a": "Pantry"},
+    {"q": 10, "u": "g", "i": "dark cocoa powder", "a": "Baking"},
+    {"q": 2, "u": "tbsp", "i": "sugar-free chocolate syrup (30 g)", "a": "Pantry"}]}],
+  "steps": [
+   ["Dough", "Mix the flour, cocoa, baking powder, sweetener and salt, then add the Greek yogurt and knead into a smooth dough."],
+   ["Fill", "Roll out into a rectangle, spread with the sugar-free chocolate syrup, and sprinkle with cinnamon and mini chocolate chips."],
+   ["Roll & cut", "Roll up tightly and cut into 6 rolls. Place in a lined loaf pan or baking dish."],
+   ["Bake", "Bake at 350°F / 175°C for 20 minutes, then cover with foil and bake 10 minutes more."],
+   ["Frost", "Whisk the Greek yogurt, whey, casein, cocoa and chocolate syrup into a thick frosting and spread over the warm rolls."]],
+  "notes": "Amounts and per-roll macros (185 cal, 16 g protein, 29 g carbs, 1 g fat; makes 6) are from the creator's description. The whole batch is about 96 g protein."
+ }]
+}

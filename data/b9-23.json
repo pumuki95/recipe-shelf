@@ -1,0 +1,26 @@
+{
+ "src": {"key": "xTERq1otvEA", "platform": "YouTube", "creator": "Dustin Hadley",
+  "title": "I figured this would be awful",
+  "url": "https://www.youtube.com/watch?v=xTERq1otvEA", "recipes": 1},
+ "recipes": [{
+  "id": "air-fryer-frozen-steak",
+  "title": "Air Fryer Steak Straight from Frozen",
+  "img": "img/air-fryer-frozen-steak.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "steak", "time": 30,
+  "macros": {"cal": 560, "protein": 52, "carbs": 1, "fat": 38},
+  "stated": [],
+  "tags": ["Main meal", "Beef", "Air fryer", "High protein", "Low carb", "Gluten-free"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 1, "u": "", "i": "frozen steak (about 10 oz / 280 g, e.g. ribeye or sirloin)", "a": "Meat"},
+    {"q": 1, "u": "tsp", "i": "avocado oil", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt, pepper and garlic powder", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "garlic herb butter", "a": "Dairy"}]}],
+  "steps": [
+   ["Oil", "Rub the frozen steak (no thawing) with avocado oil."],
+   ["First cook", "Air fry at 400°F / 200°C for 8 minutes."],
+   ["Season", "Season the top with salt, pepper and garlic powder, flip, season the other side, and air fry 8 minutes more."],
+   ["Check", "Check the temperature; flip and cook about 5 more minutes, or until it reaches your preferred doneness (130–135°F / 54–57°C for medium-rare)."],
+   ["Rest", "Top with garlic herb butter, tent with foil and rest 5–10 minutes before slicing."]],
+  "notes": "Times are from the video (about 21 minutes total for his steak); thicker steaks need longer, so go by internal temperature. Steak size and macros are estimates."
+ }]
+}
