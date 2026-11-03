@@ -1,0 +1,39 @@
+{
+ "src": {"key": "dDLRaiocb_k", "platform": "YouTube", "creator": "KWOOWK",
+  "title": "Healthy Meals That Don't Suck",
+  "url": "https://www.youtube.com/watch?v=dDLRaiocb_k", "recipes": 1},
+ "recipes": [{
+  "id": "zaatar-chicken-chickpea-pita-wrap",
+  "title": "Za'atar Chicken & Crispy Chickpea Pita Wraps",
+  "img": "img/zaatar-chicken-chickpea-pita-wrap.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "wrap", "time": 25,
+  "macros": {"cal": 560, "protein": 48, "carbs": 52, "fat": 17},
+  "stated": [],
+  "tags": ["Main meal", "High protein", "Chicken", "Mediterranean", "Quick"],
+  "groups": [
+   {"name": "Chicken & chickpeas", "items": [
+    {"q": 300, "u": "g", "i": "chicken tenders", "a": "Meat"},
+    {"q": 2, "u": "tbsp", "i": "za'atar", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "olive oil", "a": "Pantry"},
+    {"q": 0.5, "u": "", "i": "lemon, juiced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "can (15 oz) chickpeas, drained and dried", "a": "Pantry"},
+    {"q": 1, "u": "tsp", "i": "each paprika, cumin and garlic powder", "a": "Baking"},
+    {"q": null, "u": "", "i": "salt", "a": "Pantry"}]},
+   {"name": "Garlic yogurt sauce", "items": [
+    {"q": 150, "u": "g", "i": "Greek yogurt", "a": "Dairy"},
+    {"q": 0.5, "u": "", "i": "lemon, juiced", "a": "Produce"},
+    {"q": 2, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": null, "u": "", "i": "salt, pepper and a pinch of cumin", "a": "Baking"}]},
+   {"name": "To assemble", "items": [
+    {"q": 2, "u": "", "i": "large pita or flatbreads", "a": "Bakery"},
+    {"q": 0.5, "u": "", "i": "cucumber, diced", "a": "Produce"},
+    {"q": 1, "u": "cup", "i": "red cabbage, finely chopped", "a": "Produce"}]}],
+  "steps": [
+   ["Season chicken", "Rub the chicken tenders with the za'atar, olive oil, lemon juice and a pinch of salt."],
+   ["Cook chicken", "Pan-fry over medium-high heat until golden and cooked through, then chop."],
+   ["Crispy chickpeas", "In the same pan, fry the dried chickpeas with the paprika, cumin, garlic powder and salt for a few minutes until crisp."],
+   ["Sauce", "Whisk the Greek yogurt with the lemon juice, plenty of grated garlic and the spices."],
+   ["Assemble", "Warm the pitas, spread with sauce, add the chicken, chickpeas, cucumber and red cabbage, then wrap up tightly."]],
+  "notes": "The video gives no amounts; quantities and macros are estimates for 2 large wraps."
+ }]
+}

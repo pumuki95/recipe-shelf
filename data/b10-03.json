@@ -1,0 +1,29 @@
+{
+ "src": {"key": "Dr6aiC4IC8g", "platform": "YouTube", "creator": "Hey It's Honeysuckle",
+  "title": "Testing a Steak in a Jar Recipe from TikTok!",
+  "url": "https://www.youtube.com/watch?v=Dr6aiC4IC8g", "recipes": 1},
+ "recipes": [{
+  "id": "steak-in-a-jar",
+  "title": "Steak in a Jar (Poached with Garlic, Rosemary & Tomato)",
+  "img": "img/steak-in-a-jar.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "steak", "time": 75,
+  "macros": {"cal": 590, "protein": 50, "carbs": 9, "fat": 39},
+  "stated": [],
+  "tags": ["Main meal", "Beef", "High protein", "Low carb", "Gluten-free"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 1, "u": "", "i": "steak (about 10 oz / 280 g), such as ribeye or sirloin", "a": "Meat"},
+    {"q": 0.5, "u": "", "i": "onion", "a": "Produce"},
+    {"q": 3, "u": "", "i": "garlic cloves, minced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "sprig fresh rosemary", "a": "Produce"},
+    {"q": 5, "u": "", "i": "cherry tomatoes, halved", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "olive oil", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]}],
+  "steps": [
+   ["Pack the jar", "Put the unseasoned steak into a wide heatproof glass jar (e.g. a mason jar). Wedge the half onion in snugly, then add the garlic, rosemary, cherry tomatoes, salt, pepper and a drizzle of olive oil."],
+   ["Seal", "Close the lid and give it a shake to coat everything."],
+   ["Water bath", "Lay a kitchen towel in the bottom of a deep pot (so the glass doesn't touch the hot base), set the jar on it and add water to cover the jar."],
+   ["Cook", "Bring to a boil, then simmer for about 1 hour."],
+   ["Serve", "Carefully lift out the jar with oven mitts, let it cool a few minutes before opening, then slice the steak and spoon over the juices."]],
+  "notes": "A TikTok method the reviewer rated 9/10: very juicy and tender, a bit like sous vide, though without a seared crust (sear it in a hot pan afterwards if you like). The video gives no amounts; quantities and macros are estimates."
+ }]
+}

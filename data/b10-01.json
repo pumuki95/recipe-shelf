@@ -1,0 +1,35 @@
+{
+ "src": {"key": "TYB4ADeQsPc", "platform": "YouTube", "creator": "Steve | The Vivaldi Way",
+  "title": "Crème Caramel",
+  "url": "https://www.youtube.com/watch?v=TYB4ADeQsPc", "recipes": 1},
+ "recipes": [{
+  "id": "marsala-creme-caramel",
+  "title": "Crème Caramel with Marsala & Lemon",
+  "img": "img/marsala-creme-caramel.jpg",
+  "part": 1, "t": 0, "servings": 10, "unit": "ramekin", "time": 75,
+  "macros": {"cal": 330, "protein": 7, "carbs": 60, "fat": 7},
+  "stated": [],
+  "tags": ["Dessert", "Vegetarian", "Gluten-free", "Baked", "Make-ahead", "Italian-inspired"],
+  "groups": [
+   {"name": "Caramel", "items": [
+    {"q": 3, "u": "cup", "i": "sugar", "a": "Baking"},
+    {"q": 1.5, "u": "cup", "i": "water", "a": "Pantry"}]},
+   {"name": "Custard", "items": [
+    {"q": 1, "u": "cup", "i": "sugar", "a": "Baking"},
+    {"q": 6, "u": "", "i": "eggs", "a": "Dairy"},
+    {"q": 4, "u": "cup", "i": "whole milk", "a": "Dairy"},
+    {"q": 0.5, "u": "cup", "i": "heavy cream", "a": "Dairy"},
+    {"q": 1, "u": "tsp", "i": "vanilla extract (a capful)", "a": "Baking"},
+    {"q": 0.75, "u": "", "i": "lemon, zested", "a": "Produce"},
+    {"q": 3, "u": "tbsp", "i": "Marsala wine", "a": "Pantry"}]}],
+  "steps": [
+   ["Caramel", "Heat the 3 cups sugar with the water. Let it boil until the water evaporates and it turns a deep mahogany colour. Watch closely at the end; it goes from golden to burnt in seconds."],
+   ["Coat ramekins", "Ladle a layer of caramel into each ramekin and let it set. Prepare a water bath (a deep tray to sit the ramekins in)."],
+   ["Custard", "Gently warm the milk, cream, 1 cup sugar, vanilla, lemon zest and Marsala. Whisk the eggs, temper them with a little of the warm milk, then whisk them into the rest."],
+   ["Fill", "Pour the custard into the ramekins over the caramel and pop any air bubbles (a quick pass with a kitchen torch works)."],
+   ["Bake", "Set the ramekins in the water bath and bake at 350°F / 175°C for 35–40 minutes, until set with just a slight jiggle."],
+   ["Chill", "Cool, then refrigerate until fully set (ideally overnight)."],
+   ["Unmold", "Run a knife around the edge, place a plate on top and flip so the caramel sauce pours over the custard."]],
+  "notes": "The sugar amounts (4 cups total: 1 for the custard, the rest for the caramel) and 1½ cups water are from the video; the egg, milk and Marsala quantities and the number of ramekins are estimates for a restaurant-style batch. The Marsala cuts the egginess and adds sweetness. Not as sweet as it sounds."
+ }]
+}

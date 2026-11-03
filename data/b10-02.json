@@ -1,0 +1,25 @@
+{
+ "src": {"key": "SGbdn0omxzY", "platform": "YouTube", "creator": "Adam Rose",
+  "title": "i love banana anything...",
+  "url": "https://www.youtube.com/watch?v=SGbdn0omxzY", "recipes": 1},
+ "recipes": [{
+  "id": "banana-greek-yogurt-cheesecake",
+  "title": "3-Ingredient Banana Yogurt 'Cheesecake'",
+  "img": "img/banana-greek-yogurt-cheesecake.jpg",
+  "part": 1, "t": 0, "servings": 1, "unit": "serving", "time": 30,
+  "macros": {"cal": 300, "protein": 23, "carbs": 38, "fat": 6},
+  "stated": [],
+  "tags": ["Dessert", "Breakfast", "Snack", "High protein", "Vegetarian", "Gluten-free", "Baked", "No refined sugar"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 1, "u": "", "i": "ripe banana", "a": "Produce"},
+    {"q": 170, "u": "g", "i": "nonfat Greek yogurt", "a": "Dairy"},
+    {"q": 1, "u": "", "i": "egg", "a": "Dairy"},
+    {"q": null, "u": "", "i": "chocolate syrup, to drizzle (optional)", "a": "Pantry"}]}],
+  "steps": [
+   ["Mash", "Mash the banana until smooth."],
+   ["Mix", "Whisk in the Greek yogurt and egg."],
+   ["Bake", "Pour into a small greased oven-safe dish or ramekin and bake at 350°F / 175°C for 25–30 minutes, until set (or air fry at 320°F for about 20 minutes)."],
+   ["Serve", "Cool slightly (or chill for a firmer, more cheesecake-like texture) and drizzle with chocolate syrup."]],
+  "notes": "Ingredients are from the video, which gives no amounts or bake time; those and the macros are estimates for one serving."
+ }]
+}
