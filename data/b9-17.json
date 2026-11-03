@@ -1,0 +1,36 @@
+{
+ "src": {"key": "AU6rBTnM-Pw", "platform": "YouTube", "creator": "Rahul Kamat",
+  "title": "I Made Creamy Alfredo Pasta With 63g of Protein",
+  "url": "https://www.youtube.com/watch?v=AU6rBTnM-Pw", "recipes": 1},
+ "recipes": [{
+  "id": "chipotle-cottage-cheese-alfredo-chicken-pasta",
+  "title": "Chipotle Cottage Cheese Alfredo with Crispy Chicken",
+  "img": "img/chipotle-cottage-cheese-alfredo-chicken-pasta.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 30,
+  "macros": {"cal": 625, "protein": 63, "carbs": 65, "fat": 14},
+  "stated": ["cal", "protein", "carbs", "fat"],
+  "tags": ["Main meal", "High protein", "Chicken", "Pasta", "Air fryer", "Spicy", "Mexican-inspired", "Quick"],
+  "groups": [
+   {"name": "Chicken", "items": [
+    {"q": 12, "u": "oz", "i": "boneless chicken thighs", "a": "Meat"},
+    {"q": null, "u": "", "i": "taco seasoning, smoked paprika, garlic powder and salt", "a": "Baking"}]},
+   {"name": "Pasta & sauce", "items": [
+    {"q": 160, "u": "g", "i": "penne pasta (uncooked)", "a": "Pantry"},
+    {"q": 150, "u": "g", "i": "2% cottage cheese", "a": "Dairy"},
+    {"q": 85, "u": "g", "i": "fat-free evaporated milk", "a": "Dairy"},
+    {"q": 28, "u": "g", "i": "Parmesan, grated", "a": "Dairy"},
+    {"q": 1, "u": "", "i": "chipotle pepper in adobo", "a": "International"},
+    {"q": 1, "u": "tbsp", "i": "adobo sauce", "a": "International"},
+    {"q": 0.5, "u": "tsp", "i": "garlic powder", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "paprika", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "onion powder", "a": "Baking"},
+    {"q": 0.5, "u": "tsp", "i": "salt", "a": "Pantry"}]}],
+  "steps": [
+   ["Chicken", "Season the chicken thighs generously with taco seasoning, smoked paprika, garlic powder and salt. Air fry at 400°F / 200°C for 15–20 minutes until crispy and cooked through, then slice."],
+   ["Pasta", "Cook the penne in salted water until al dente; reserve a splash of pasta water and drain."],
+   ["Blend sauce", "Blend the cottage cheese, evaporated milk, Parmesan, chipotle, adobo, garlic powder, paprika, onion powder and salt until completely smooth."],
+   ["Combine", "Warm the sauce gently in the pasta pan, then toss in the penne, loosening with pasta water if needed."],
+   ["Serve", "Divide between 2 plates and top with the sliced chicken."]],
+  "notes": "Amounts and per-serving macros (625 cal, 63 g protein, 65 g carbs, 14 g fat; makes 2) are from the creator's description. Use half the chipotle for less heat."
+ }]
+}

@@ -1,0 +1,47 @@
+{
+ "src": {"key": "rVfROCRNbTI", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "FAST TRACK Your Meal Prep In Less Than 1 HOUR | High Protein Taco Chicken Potato Bowl",
+  "url": "https://www.youtube.com/watch?v=rVfROCRNbTI", "recipes": 1},
+ "recipes": [{
+  "id": "taco-chicken-potato-bowls",
+  "title": "Taco Chicken Potato Bowls with Pico de Gallo",
+  "img": "img/taco-chicken-potato-bowls.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "container", "time": 45,
+  "macros": {"cal": 438, "protein": 46, "carbs": 24, "fat": 15, "fiber": 2},
+  "stated": ["cal", "protein", "carbs", "fat", "fiber"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Potatoes", "Air fryer", "Gluten-free", "Mexican-inspired"],
+  "groups": [
+   {"name": "Taco potatoes", "items": [
+    {"q": 900, "u": "g", "i": "all-rounder potatoes, unpeeled, diced large", "a": "Produce"},
+    {"q": 1, "u": "tsp", "i": "each onion powder, garlic powder, smoked paprika, ground cumin and dried oregano", "a": "Baking"},
+    {"q": 0.25, "u": "tsp", "i": "chilli powder or cayenne", "a": "Baking"},
+    {"q": 1, "u": "tbsp", "i": "avocado or olive oil", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and cracked black pepper", "a": "Pantry"}]},
+   {"name": "Taco chicken", "items": [
+    {"q": 900, "u": "g", "i": "boneless, skinless chicken breast, diced large", "a": "Meat"},
+    {"q": 1, "u": "tsp", "i": "each onion powder, garlic powder, smoked paprika, ground cumin and dried oregano", "a": "Baking"},
+    {"q": null, "u": "", "i": "pinch of chilli flakes", "a": "Baking"},
+    {"q": 2, "u": "tbsp", "i": "avocado or olive oil (1 for the marinade, 1 for cooking)", "a": "Pantry"},
+    {"q": null, "u": "", "i": "salt and cracked black pepper", "a": "Pantry"}]},
+   {"name": "Pico de gallo", "items": [
+    {"q": 220, "u": "g", "i": "cherry tomatoes, diced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "small red onion, diced", "a": "Produce"},
+    {"q": 1, "u": "", "i": "jalapeño, diced (optional)", "a": "Produce"},
+    {"q": 5, "u": "g", "i": "coriander (cilantro), chopped", "a": "Produce"},
+    {"q": 1, "u": "", "i": "lime, juiced", "a": "Produce"}]},
+   {"name": "Smoky lime yogurt sauce", "items": [
+    {"q": 200, "u": "g", "i": "natural Greek yogurt", "a": "Dairy"},
+    {"q": 5, "u": "g", "i": "coriander (cilantro), chopped", "a": "Produce"},
+    {"q": 0.5, "u": "", "i": "lime, zested, plus about 1 tsp juice", "a": "Produce"},
+    {"q": null, "u": "", "i": "chipotle hot sauce (e.g. Cholula Chipotle), to taste", "a": "International"}]}],
+  "steps": [
+   ["Potatoes", "Toss the diced potatoes with the spices, chilli, oil, salt and pepper."],
+   ["Chicken", "In the same bowl, toss the diced chicken with the same spices, chilli flakes, 1 tbsp oil, salt and pepper."],
+   ["Pico", "Mix the tomatoes, onion, jalapeño, coriander and lime juice with a pinch of salt. Refrigerate."],
+   ["Sauce", "Mix the Greek yogurt, coriander, lime zest and juice and the chipotle sauce. Refrigerate (keeps a week)."],
+   ["Air fry", "Air fry the potatoes at 200°C / 390°F for 18–24 minutes until soft and golden (or roast in the oven)."],
+   ["Sear", "Sear the chicken in batches in a hot oiled pan, leaving it 2 minutes to crust, then 5–6 minutes total until cooked through."],
+   ["Portion", "Per container: 150 g potatoes, 170 g chicken with juices. Add 80 g pico and 40 g sauce when serving (store them separately). Keeps 4 days in the fridge or 3 months frozen."]],
+  "notes": "Amounts and per-container nutrition (440 g: 438 cal, 46 g protein, 24 g carbs, 15 g fat) are from the creator. Keep the pico and sauce in separate containers and add after reheating."
+ }]
+}
