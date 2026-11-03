@@ -1,0 +1,30 @@
+{
+ "src": {"key": "fCu4ERVNGbk", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "Authentic Cacio E Pepe | Foolproof Recipe Tips",
+  "url": "https://www.youtube.com/watch?v=fCu4ERVNGbk", "recipes": 1},
+ "recipes": [{
+  "id": "cacio-e-pepe",
+  "title": "Foolproof Cacio e Pepe",
+  "img": "img/cacio-e-pepe.jpg",
+  "part": 1, "t": 0, "servings": 2, "unit": "serving", "time": 20,
+  "macros": {"cal": 870, "protein": 37, "carbs": 129, "fat": 22},
+  "stated": [],
+  "tags": ["Main meal", "Pasta", "Vegetarian", "Italian", "Quick", "Comfort food"],
+  "groups": [{"name": "Ingredients", "items": [
+    {"q": 350, "u": "g", "i": "spaghetti", "a": "Pantry"},
+    {"q": 120, "u": "g", "i": "Pecorino Romano, freshly grated (about 1½ cups), plus extra to serve", "a": "Dairy"},
+    {"q": 1.5, "u": "tbsp", "i": "black peppercorns, coarsely cracked (60–70 grinds), plus extra to serve", "a": "Baking"},
+    {"q": null, "u": "", "i": "salt", "a": "Pantry"},
+    {"q": null, "u": "", "i": "starchy pasta water", "a": "Pantry"}]}],
+  "steps": [
+   ["Water", "Bring a smaller-than-usual pot of water to a boil (less water means more starch). Season lightly with salt."],
+   ["Pasta", "Cook the spaghetti for 2 minutes less than the packet says."],
+   ["Toast pepper", "Meanwhile, toast the cracked pepper in a dry pan over medium heat for about 2 minutes until fragrant, without burning."],
+   ["Pepper water", "Turn the pepper pan to low, add 2–2½ ladles of starchy pasta water, then simmer over medium-high for about 2 minutes, scraping in any pepper from the sides."],
+   ["Combine", "Add the spaghetti with a little more pasta water and turn the heat OFF."],
+   ["Cheese", "Add all the Pecorino and toss quickly so the residual heat melts it into a creamy sauce. Freshly grated cheese is key; pre-grated has anti-caking agents that make it clump."],
+   ["Adjust", "Loosen with more pasta water to the consistency you like, using a little low heat only if needed to bring it together."],
+   ["Serve", "Serve in bowls with extra Pecorino and cracked pepper."]],
+  "notes": "Amounts are from the video; serves 2 generously (or 3 smaller portions). Macros are estimates."
+ }]
+}

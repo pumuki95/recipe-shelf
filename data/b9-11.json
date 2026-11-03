@@ -1,0 +1,45 @@
+{
+ "src": {"key": "ciYKjKwreYk", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "QUICK 30 MINUTE MEAL PREP | Chilli Lime Chicken Rice Bowls",
+  "url": "https://www.youtube.com/watch?v=ciYKjKwreYk", "recipes": 1},
+ "recipes": [{
+  "id": "chilli-lime-chicken-rice-bowls",
+  "title": "Chilli Lime Chicken & Coriander Rice Bowls",
+  "img": "img/chilli-lime-chicken-rice-bowls.jpg",
+  "part": 1, "t": 0, "servings": 5, "unit": "container", "time": 30,
+  "macros": {"cal": 664, "protein": 54, "carbs": 57, "fat": 21, "fiber": 6, "sugar": 4},
+  "stated": ["cal", "protein", "carbs", "fat", "fiber", "sugar"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Rice", "Gluten-free", "Mexican-inspired", "Quick"],
+  "groups": [
+   {"name": "Chilli lime chicken", "items": [
+    {"q": 1, "u": "kg", "i": "boneless, skinless chicken breast, diced", "a": "Meat"},
+    {"q": 2, "u": "tsp", "i": "onion powder", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 1.5, "u": "tsp", "i": "ground cumin", "a": "Baking"},
+    {"q": null, "u": "", "i": "pinch of chilli flakes (optional)", "a": "Baking"},
+    {"q": 4, "u": "", "i": "garlic cloves, grated", "a": "Produce"},
+    {"q": 10, "u": "g", "i": "coriander (cilantro), chopped", "a": "Produce"},
+    {"q": 1, "u": "", "i": "lime, zested and juiced", "a": "Produce"},
+    {"q": 1, "u": "tbsp", "i": "unsalted butter (or olive oil)", "a": "Dairy"},
+    {"q": null, "u": "", "i": "salt and cracked black pepper", "a": "Pantry"}]},
+   {"name": "Coriander rice", "items": [
+    {"q": 300, "u": "g", "i": "jasmine rice, washed", "a": "Pantry"},
+    {"q": 550, "u": "ml", "i": "chicken or vegetable stock", "a": "Pantry"},
+    {"q": 10, "u": "g", "i": "coriander (cilantro), chopped", "a": "Produce"}]},
+   {"name": "Lime yogurt sauce & toppings", "items": [
+    {"q": 0.5, "u": "cup", "i": "natural Greek yogurt (125 g)", "a": "Dairy"},
+    {"q": 1, "u": "tsp", "i": "honey (optional)", "a": "Pantry"},
+    {"q": 5, "u": "g", "i": "coriander (cilantro), chopped", "a": "Produce"},
+    {"q": 1, "u": "", "i": "garlic clove, grated", "a": "Produce"},
+    {"q": 1.5, "u": "tsp", "i": "lime juice", "a": "Produce"},
+    {"q": 2.5, "u": "", "i": "avocados, sliced (½ per container)", "a": "Produce"}]}],
+  "steps": [
+   ["Season", "Toss the diced chicken with the onion powder, smoked paprika, cumin, chilli, garlic, 10 g coriander, lime zest and juice, plenty of salt and pepper."],
+   ["Sear", "Melt the butter in a large pan over medium-high heat and sear the chicken 5–6 minutes (in batches if needed), letting it colour before stirring, until cooked through. Set aside."],
+   ["Rice", "In the same pan over high heat, add the rice, stock and a pinch of salt, scraping up the chicken bits. Bring to a boil, cover and cook on low for 12 minutes, then rest covered 4 minutes off the heat."],
+   ["Sauce", "Whisk the Greek yogurt, honey, 5 g coriander, garlic, lime juice, salt and white pepper. Refrigerate (a squeeze bottle makes it easy)."],
+   ["Finish rice", "Fluff the rice and stir in the remaining 10 g coriander."],
+   ["Portion", "Divide the rice and chicken (with juices) between 5 containers. Add half an avocado and a drizzle of sauce to each after reheating. Keeps 4 days in the fridge or 3 months frozen."]],
+  "notes": "Amounts are from the video; per-container nutrition (664 cal, 54 g protein, 57 g carbs, 21 g fat, 6 g fibre) is from the creator's card. Add the avocado and sauce fresh after reheating."
+ }]
+}
