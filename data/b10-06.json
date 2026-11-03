@@ -1,0 +1,25 @@
+{"src":{"key":"AymAqwbKJZg","platform":"YouTube","creator":"Justin Anderson","title":"Bulking vs Cutting Overnight Oats","url":"https://www.youtube.com/watch?v=AymAqwbKJZg","recipes":2},
+"recipes":[
+{"id":"bulking-overnight-oats","title":"Bulking Overnight Oats (941 cal)","img":"img/bulking-overnight-oats.jpg","part":"Bulking jar","t":2,"servings":1,"unit":"jar","time":"5 min + overnight","macros":{"cal":941,"protein":58,"carbs":122,"fat":33,"fiber":18},"stated":["cal"],"tags":["Breakfast","High protein","Meal prep","No cook","Bulking"],
+"groups":[{"name":"Jar","items":[
+{"q":0.75,"u":"cup","i":"rolled oats","a":"Pantry"},
+{"q":0.75,"u":"cup","i":"whole milk","a":"Dairy"},
+{"q":1,"u":"scoop","i":"protein powder","a":"Pantry"},
+{"q":0.5,"u":"cup","i":"vanilla Greek yogurt","a":"Dairy"},
+{"q":1,"u":"tbsp","i":"honey","a":"Pantry"},
+{"q":1,"u":"tbsp","i":"chia seeds","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"peanut butter","a":"Pantry"},
+{"q":1,"i":"apple, diced","a":"Produce"}]}],
+"steps":[["Layer","Add the oats, whole milk, protein powder, vanilla Greek yogurt, honey, chia seeds and peanut butter to a large jar and stir well."],["Top","Dice a whole apple and pile it on top."],["Chill","Put the lid on and refrigerate overnight."]],
+"notes":"The creator gives 941 calories; protein, carbs and fat are estimated. The yogurt amount isn't shown for this jar, so half a cup (matching the cutting jar) is assumed. See the cutting version for a lighter jar."},
+{"id":"cutting-overnight-oats","title":"Cutting Overnight Oats (467 cal)","img":"img/cutting-overnight-oats.jpg","part":"Cutting jar","t":2,"servings":1,"unit":"jar","time":"5 min + overnight","macros":{"cal":467,"protein":43,"carbs":62,"fat":6,"fiber":10},"stated":["cal"],"tags":["Breakfast","High protein","Meal prep","No cook","Low fat"],
+"groups":[{"name":"Jar","items":[
+{"q":0.5,"u":"cup","i":"rolled oats","a":"Pantry"},
+{"q":0.5,"u":"cup","i":"almond milk","a":"Dairy"},
+{"q":1,"u":"scoop","i":"protein powder","a":"Pantry"},
+{"q":0.5,"u":"cup","i":"non-fat Greek yogurt","a":"Dairy"},
+{"q":1,"u":"tbsp","i":"honey","a":"Pantry"},
+{"i":"splash of vanilla extract","a":"Baking"},
+{"q":0.75,"u":"cup","i":"frozen raspberries","a":"Frozen"}]}],
+"steps":[["Mix","Add the oats, almond milk, protein powder, non-fat Greek yogurt, honey and a splash of vanilla to a jar and stir well."],["Top","Add the frozen raspberries on top; they thaw overnight."],["Chill","Put the lid on and refrigerate overnight."]],
+"notes":"The creator gives 467 calories; protein, carbs and fat are estimated. Roughly the same size jar as the bulking version at about half the calories."}]}
