@@ -1,0 +1,789 @@
+{
+ "src": {
+  "key": "XYRGSqoX1a0",
+  "platform": "YouTube",
+  "creator": "Flexible Dieting Lifestyle",
+  "title": "6 Low-Calorie Air Fryer Recipes You Can't Say 'NO' To...",
+  "url": "https://www.youtube.com/watch?v=XYRGSqoX1a0",
+  "recipes": 6
+ },
+ "recipes": [
+  {
+   "id": "fdl-buffalo-chicken-chalupas",
+   "title": "Air Fryer Buffalo Chicken Chalupas",
+   "img": "img/fdl-buffalo-chicken-chalupas.jpg",
+   "part": 1,
+   "t": 47,
+   "servings": 4,
+   "unit": "chalupa",
+   "time": 35,
+   "macros": {
+    "cal": 247,
+    "protein": 35,
+    "carbs": 11,
+    "fat": 7
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Chicken",
+    "Air fryer",
+    "Spicy",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "q": 16,
+       "u": "oz",
+       "i": "chicken breasts, patted dry and flattened (amount estimated)",
+       "a": "Meat"
+      },
+      {
+       "q": 0.33,
+       "u": "",
+       "i": "packet ranch dip seasoning",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "avocado oil spray",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Buffalo sauce",
+     "items": [
+      {
+       "q": 170,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 113,
+       "u": "g",
+       "i": "2% cottage cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 113,
+       "u": "g",
+       "i": "Frank's RedHot buffalo sauce",
+       "a": "International"
+      }
+     ]
+    },
+    {
+     "name": "To assemble",
+     "items": [
+      {
+       "q": 4,
+       "u": "",
+       "i": "low-calorie pita breads (about 60 cal each)",
+       "a": "Bakery"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "part-skim mozzarella and 2% Colby Jack, shredded",
+       "a": "Dairy"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "shredded lettuce and diced tomato",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Season",
+     "Pat the chicken dry, flatten it, and press ⅓ packet of ranch dip seasoning into both sides. Spray with avocado oil."
+    ],
+    [
+     "Air fry chicken",
+     "Air fry at 400°F / 200°C for 9–10 minutes until cooked through, then dice."
+    ],
+    [
+     "Sauce",
+     "Blend the Greek yogurt, cottage cheese and Frank's RedHot until smooth, then toss with the diced chicken."
+    ],
+    [
+     "Build",
+     "Lay a pita flat, add mozzarella and Colby Jack, the buffalo chicken and more cheese, then fold tightly."
+    ],
+    [
+     "Crisp",
+     "Spray both sides with avocado oil and air fry at 400°F for about 4 minutes until crispy."
+    ],
+    [
+     "Serve",
+     "Open slightly and stuff with lettuce and tomato."
+    ]
+   ],
+   "notes": "Amounts from the on-screen captions; macros per chalupa are from the creator. The chicken amount and number of chalupas (4) are estimates."
+  },
+  {
+   "id": "fdl-crispy-chicken-tenders-garlic-parm",
+   "title": "Crispy Air Fryer Chicken Tenders with Garlic Parmesan Sauce",
+   "img": "img/fdl-crispy-chicken-tenders-garlic-parm.jpg",
+   "part": 2,
+   "t": 184,
+   "servings": 8,
+   "unit": "tender",
+   "time": 60,
+   "macros": {
+    "cal": 75,
+    "protein": 11,
+    "carbs": 5.5,
+    "fat": 1
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Snack",
+    "High protein",
+    "Chicken",
+    "Air fryer",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Tenders",
+     "items": [
+      {
+       "q": 1,
+       "u": "lb",
+       "i": "chicken tenders (amount estimated)",
+       "a": "Meat"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "all-purpose flour",
+       "a": "Baking"
+      },
+      {
+       "q": 100,
+       "u": "g",
+       "i": "egg whites mixed with a splash of buffalo sauce",
+       "a": "Dairy"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "panko breadcrumbs",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "seasoning: sea salt, black pepper, onion powder, chilli powder",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "nonstick cooking spray",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Garlic Parmesan sauce",
+     "items": [
+      {
+       "q": 2,
+       "u": "",
+       "i": "whole bulbs garlic, roasted",
+       "a": "Produce"
+      },
+      {
+       "q": 120,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "apple cider vinegar",
+       "a": "Pantry"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "grated Parmesan",
+       "a": "Dairy"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "zero-calorie sweetener",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "roasted red peppers, diced (optional)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.5,
+       "u": "",
+       "i": "lemon, juiced",
+       "a": "Produce"
+      },
+      {
+       "q": 0.5,
+       "u": "tsp",
+       "i": "sea salt",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "tsp",
+       "i": "each black pepper, red pepper flakes, oregano and basil",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Roast garlic",
+     "Wrap the garlic bulbs loosely in foil and bake at 400°F for 40–50 minutes until soft."
+    ],
+    [
+     "Stations",
+     "Set up three bowls: flour; egg whites with buffalo sauce; panko mixed with the seasoning."
+    ],
+    [
+     "Coat",
+     "Dredge each tender in flour, dip in the egg wash, then press into the panko (one dry hand, one wet hand keeps it tidy)."
+    ],
+    [
+     "Air fry",
+     "Spray both sides with cooking spray and air fry at 400°F / 200°C for 9 minutes until crispy."
+    ],
+    [
+     "Sauce",
+     "Squeeze out the roasted garlic and mix (or blend) with the yogurt, vinegar, Parmesan, sweetener, red peppers, lemon juice and seasonings."
+    ],
+    [
+     "Serve",
+     "Dip the tenders in the sauce."
+    ]
+   ],
+   "notes": "Amounts from the on-screen captions; macros (75 cal, 11 g protein per tender) are from the creator. The whole sauce batch is 212 cal and 7 g protein. Chicken, flour and egg white amounts are estimates."
+  },
+  {
+   "id": "fdl-crunchy-taco-pockets",
+   "title": "Air Fryer Crunchy Taco Pockets",
+   "img": "img/fdl-crunchy-taco-pockets.jpg",
+   "part": 3,
+   "t": 279,
+   "servings": 10,
+   "unit": "pocket",
+   "time": 30,
+   "macros": {
+    "cal": 121,
+    "protein": 12.5,
+    "carbs": 10,
+    "fat": 3.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Snack",
+    "High protein",
+    "Ground beef",
+    "Beef",
+    "Tortillas",
+    "Air fryer",
+    "Mexican-inspired",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "q": 16,
+       "u": "oz",
+       "i": "96/4 lean ground beef",
+       "a": "Meat"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "packet taco seasoning",
+       "a": "Baking"
+      },
+      {
+       "q": 60,
+       "u": "g",
+       "i": "chicken broth, plus a splash more",
+       "a": "Pantry"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "Mexican-blend cheese, shredded",
+       "a": "Dairy"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "light Laughing Cow cheese wedges",
+       "a": "Dairy"
+      },
+      {
+       "q": 6,
+       "u": "g",
+       "i": "nutritional yeast",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Pockets",
+     "items": [
+      {
+       "q": 5,
+       "u": "",
+       "i": "low-calorie tortillas, halved (10 halves)",
+       "a": "Bakery"
+      },
+      {
+       "q": 10,
+       "u": "g",
+       "i": "all-purpose flour mixed with water (the 'glue')",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "nonstick cooking spray",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Filling",
+     "Brown the beef, then add the taco seasoning and chicken broth. Stir in the Mexican cheese, Laughing Cow wedges and nutritional yeast until thick but not dry (add more broth if needed)."
+    ],
+    [
+     "Glue",
+     "Mix the flour with a little water into a paste."
+    ],
+    [
+     "Shape",
+     "Cut each tortilla in half. Fold one side over, glue under the fold and press to make a cone."
+    ],
+    [
+     "Fill & seal",
+     "Spoon in filling, press it down, glue the top edge, fold shut and crimp with a fork. Repeat for all 10."
+    ],
+    [
+     "Air fry",
+     "Spray with cooking spray and air fry at 400°F / 200°C for 4–5 minutes until golden."
+    ]
+   ],
+   "notes": "Amounts from the on-screen captions; macros per pocket (10 total) are from the creator. The cheese amount is an estimate."
+  },
+  {
+   "id": "fdl-jalapeno-popper-hot-pockets",
+   "title": "Air Fryer Jalapeño Popper Chicken Hot Pockets",
+   "img": "img/fdl-jalapeno-popper-hot-pockets.jpg",
+   "part": 4,
+   "t": 354,
+   "servings": 4,
+   "unit": "hot pocket",
+   "time": 40,
+   "macros": {
+    "cal": 244,
+    "protein": 26,
+    "carbs": 26,
+    "fat": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Chicken",
+    "Air fryer",
+    "Spicy",
+    "Meal prep",
+    "Freezer friendly"
+   ],
+   "groups": [
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "q": 1,
+       "u": "lb",
+       "i": "chicken tenders, seasoned with ranch dip mix",
+       "a": "Meat"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "jalapeños",
+       "a": "Produce"
+      },
+      {
+       "q": 150,
+       "u": "g",
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 3,
+       "u": "",
+       "i": "light Laughing Cow cheese wedges",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "",
+       "i": "packet ranch dip mix",
+       "a": "Baking"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "shredded cheese",
+       "a": "Dairy"
+      },
+      {
+       "q": 75,
+       "u": "g",
+       "i": "black beans, drained",
+       "a": "Pantry"
+      },
+      {
+       "q": 50,
+       "u": "g",
+       "i": "sweet corn",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pico de gallo",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Pockets",
+     "items": [
+      {
+       "q": 8,
+       "u": "",
+       "i": "slices low-calorie bread",
+       "a": "Bakery"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "egg whites, for brushing",
+       "a": "Dairy"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Chicken",
+     "Season the chicken tenders with ranch dip mix, cook them through, then chop finely."
+    ],
+    [
+     "Jalapeños",
+     "Air fry the jalapeños at 400°F for 5–7 minutes, then remove the seeds and dice."
+    ],
+    [
+     "Filling",
+     "Mix the Greek yogurt, Laughing Cow wedges, roasted jalapeños and ¼ packet ranch, then fold in the chicken, cheese, black beans, corn and pico."
+    ],
+    [
+     "Assemble",
+     "Brush the edges of a bread slice with egg white, add filling, top with a second slice brushed with egg white, press and crimp with a fork, then trim the crusts. Makes 4 (you'll have filling left over)."
+    ],
+    [
+     "Air fry",
+     "Air fry at 400°F / 200°C for 4–5 minutes until golden."
+    ]
+   ],
+   "notes": "Amounts from the on-screen captions; macros per hot pocket are from the creator. Jalapeño count, cheese and pico amounts are estimates."
+  },
+  {
+   "id": "fdl-thick-mcchicken",
+   "title": "Thick Cornflake-Crusted McChicken",
+   "img": "img/fdl-thick-mcchicken.jpg",
+   "part": 5,
+   "t": 482,
+   "servings": 3,
+   "unit": "sandwich",
+   "time": 25,
+   "macros": {
+    "cal": 316,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Chicken",
+    "Air fryer",
+    "Burgers",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Patties",
+     "items": [
+      {
+       "q": 16,
+       "u": "oz",
+       "i": "lean ground chicken breast",
+       "a": "Meat"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "yellow mustard",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "garlic powder, black pepper, salt and paprika",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Coating",
+     "items": [
+      {
+       "q": 30,
+       "u": "g",
+       "i": "corn flakes",
+       "a": "Pantry"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "garlic powder and paprika",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "q": 3,
+       "u": "",
+       "i": "burger buns",
+       "a": "Bakery"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "shredded lettuce and light mayo",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Patties",
+     "Mix the ground chicken with the mustard and seasonings and form 3 even balls."
+    ],
+    [
+     "Coating",
+     "Blend the corn flakes with garlic powder and paprika into crumbs and tip into a shallow bowl."
+    ],
+    [
+     "Coat",
+     "Press each ball into the crumbs and flatten into a thick patty."
+    ],
+    [
+     "Air fry",
+     "Air fry at 400°F / 200°C for 10–12 minutes, flipping halfway."
+    ],
+    [
+     "Assemble",
+     "Serve in buns with shredded lettuce and light mayo."
+    ]
+   ],
+   "notes": "Amounts from the on-screen captions; macros per sandwich (3 total) are from the creator."
+  },
+  {
+   "id": "fdl-brownie-protein-pizookie",
+   "title": "Triple Chocolate Brownie Protein Pizookie",
+   "img": "img/fdl-brownie-protein-pizookie.jpg",
+   "part": 6,
+   "t": 565,
+   "servings": 1,
+   "unit": "pizookie",
+   "time": 15,
+   "macros": {
+    "cal": 479,
+    "protein": 41,
+    "carbs": 51,
+    "fat": 15
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "High protein",
+    "Air fryer",
+    "Vegetarian",
+    "Sweet tooth"
+   ],
+   "groups": [
+    {
+     "name": "Brownie",
+     "items": [
+      {
+       "q": 40,
+       "u": "g",
+       "i": "chocolate whey/casein blend protein powder",
+       "a": "Pantry"
+      },
+      {
+       "q": 20,
+       "u": "g",
+       "i": "special dark unsweetened cocoa",
+       "a": "Baking"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "all-purpose flour",
+       "a": "Baking"
+      },
+      {
+       "q": 3,
+       "u": "g",
+       "i": "baking soda",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "pinch of sea salt",
+       "a": "Pantry"
+      },
+      {
+       "q": 30,
+       "u": "g",
+       "i": "sugar-free pancake syrup",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "",
+       "i": "large egg, room temperature",
+       "a": "Dairy"
+      },
+      {
+       "q": 80,
+       "u": "g",
+       "i": "canned pumpkin",
+       "a": "Pantry"
+      },
+      {
+       "q": 15,
+       "u": "g",
+       "i": "chocolate chips, melted, plus a few for the top",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Topping (optional)",
+     "items": [
+      {
+       "q": null,
+       "u": "",
+       "i": "protein ice cream (e.g. Oreo protein Creami)",
+       "a": "Frozen"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dry",
+     "Mix the protein powder, cocoa, flour, baking soda and salt so there are no clumps."
+    ],
+    [
+     "Wet",
+     "Add the syrup, egg, pumpkin (you won't taste it) and melted chocolate chips and mix into a thick brownie batter."
+    ],
+    [
+     "Pan",
+     "Spread into a 6½-inch cast-iron pan and scatter a few more chocolate chips on top."
+    ],
+    [
+     "Air fry",
+     "Air fry at 300°F / 150°C for about 6 minutes; it should stay fudgy in the middle."
+    ],
+    [
+     "Serve",
+     "Top with scoops of protein ice cream and eat warm."
+    ]
+   ],
+   "notes": "Amounts from the on-screen captions; macros (whole pizookie) are from the creator and likely exclude the ice cream."
+  }
+ ]
+}

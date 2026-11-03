@@ -203,19 +203,22 @@
   "garlic-parmesan-chicken-shawarma-wraps",
   "sheet-pan-garlic-parmesan-chicken-wraps",
   "crispy-lebanese-beef-wraps",
-  "cottage-cheese-wrap"
+  "cottage-cheese-wrap",
+  "fdl-buffalo-chicken-chalupas"
  ],
  "Burgers": [
   "smash-double-cheeseburger",
   "smash-cheeseburger-burger-sauce",
   "high-protein-big-mac",
   "low-calorie-cheeseburger-weissman",
-  "smash-burger-tacos"
+  "smash-burger-tacos",
+  "fdl-thick-mcchicken"
  ],
  "Tacos": [
   "crispy-beef-tacos",
   "sheet-pan-crispy-beef-tacos",
-  "smash-burger-tacos"
+  "smash-burger-tacos",
+  "fdl-crunchy-taco-pockets"
  ],
  "Pizza & pockets": [
   "chicken-pizza-pocket",
@@ -228,7 +231,9 @@
   "pepperoni-pizza-hot-pockets",
   "vital-wheat-gluten-pepperoni-pizza",
   "cheeseburger-hot-pockets",
-  "triple-meat-stuffed-crust-protein-pizza"
+  "triple-meat-stuffed-crust-protein-pizza",
+  "fdl-jalapeno-popper-hot-pockets",
+  "fdl-crunchy-taco-pockets"
  ],
  "Pancakes & waffles": [
   "chocolate-chip-protein-pancakes",
@@ -327,7 +332,8 @@
   "garlic-parmesan-cornflake-tenders",
   "chicken-chicharrones",
   "air-fryer-juicy-chicken-breast",
-  "crispy-chicken-mac-cheese-meal-prep"
+  "crispy-chicken-mac-cheese-meal-prep",
+  "fdl-crispy-chicken-tenders-garlic-parm"
  ],
  "Brownies, cakes & cheesecake": [
   "double-chocolate-protein-cheesecake",
@@ -335,7 +341,8 @@
   "dairy-free-fudgy-brownies",
   "butternut-squash-brownies",
   "cottage-cheese-lava-cake",
-  "chocolate-banana-cottage-cheese-cake"
+  "chocolate-banana-cottage-cheese-cake",
+  "fdl-brownie-protein-pizookie"
  ],
  "Protein bars, bites & bark": [
   "salted-caramel-twix-bars",
