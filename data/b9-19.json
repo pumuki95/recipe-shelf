@@ -1,38 +1,244 @@
 {
- "src": {"key": "5HDAPgD2r7E", "platform": "YouTube", "creator": "Chef Jack Ovens",
+ "src": {
+  "key": "5HDAPgD2r7E",
+  "platform": "YouTube",
+  "creator": "Chef Jack Ovens",
   "title": "HIGH PROTEIN Chicken Burgers Perfect For Meal Prep",
-  "url": "https://www.youtube.com/watch?v=5HDAPgD2r7E", "recipes": 1},
- "recipes": [{
-  "id": "spicy-chicken-burgers-meal-prep",
-  "title": "Crispy Spicy Chicken Burgers",
-  "img": "img/spicy-chicken-burgers-meal-prep.jpg",
-  "part": 1, "t": 0, "servings": 6, "unit": "burger", "time": 40,
-  "macros": {"cal": 534, "protein": 47, "carbs": 30, "fat": 19, "fiber": 2, "sugar": 4},
-  "stated": ["cal", "protein", "carbs", "fat", "fiber", "sugar"],
-  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Burgers", "Air fryer", "Spicy"],
-  "groups": [
-   {"name": "Spicy chicken", "items": [
-    {"q": 1, "u": "kg", "i": "chicken breasts, butterflied into 6 fillets", "a": "Meat"},
-    {"q": 2, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
-    {"q": 1, "u": "tsp", "i": "each garlic powder and onion powder", "a": "Baking"},
-    {"q": 1, "u": "tsp", "i": "cayenne pepper or chilli powder", "a": "Baking"},
-    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
-   {"name": "Coating", "items": [
-    {"q": 100, "u": "g", "i": "plain flour, seasoned with paprika, salt and pepper", "a": "Baking"},
-    {"q": 2, "u": "", "i": "eggs, beaten", "a": "Dairy"},
-    {"q": 120, "u": "g", "i": "panko breadcrumbs", "a": "Pantry"},
-    {"q": null, "u": "", "i": "spray oil", "a": "Pantry"}]},
-   {"name": "Sauce & burgers", "items": [
-    {"q": 150, "u": "g", "i": "light mayonnaise or Greek yogurt", "a": "Dairy"},
-    {"q": 2, "u": "tbsp", "i": "chopped pickles or jalapeños", "a": "Pantry"},
-    {"q": 6, "u": "", "i": "sesame burger buns", "a": "Bakery"},
-    {"q": null, "u": "", "i": "lettuce leaves", "a": "Produce"}]}],
-  "steps": [
-   ["Season", "Butterfly the chicken into 6 even fillets and toss with the spices, salt and pepper."],
-   ["Crumb", "Dredge each fillet in seasoned flour, dip in beaten egg, then press into the panko."],
-   ["Air fry", "Spray generously with oil and air fry at 200°C / 390°F for 12–15 minutes, flipping halfway, until golden and cooked through (or bake at 220°C)."],
-   ["Sauce", "Mix the mayo or yogurt with the chopped pickles or jalapeños and a pinch of salt and pepper."],
-   ["Assemble", "Spread the sauce on the buns and add lettuce and a crispy fillet. Store the components separately for meal prep and assemble after reheating the chicken."]],
-  "notes": "Per-burger nutrition (534 cal, 47 g protein, 30 g carbs, 19 g fat; makes 6) is from the creator's card. The video has no captions and the written recipe is on his website, which I couldn't open, so ingredient amounts and timings are estimates based on what's shown."
- }]
+  "url": "https://www.youtube.com/watch?v=5HDAPgD2r7E",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "spicy-chicken-burgers-meal-prep",
+   "title": "Crispy Spicy Chicken Burgers",
+   "img": "img/spicy-chicken-burgers-meal-prep.jpg",
+   "part": 1,
+   "t": 0,
+   "servings": 6,
+   "unit": "burger",
+   "time": 40,
+   "macros": {
+    "cal": 534,
+    "protein": 47,
+    "carbs": 30,
+    "fat": 19,
+    "fiber": 2,
+    "sugar": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "fiber",
+    "sugar"
+   ],
+   "tags": [
+    "Main meal",
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Burgers",
+    "Air fryer",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Chicken & seasoning",
+     "items": [
+      {
+       "q": 3,
+       "u": "",
+       "i": "chicken breasts, halved",
+       "a": "Meat"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "onion powder",
+       "a": "Baking"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "garlic powder",
+       "a": "Baking"
+      },
+      {
+       "q": 4,
+       "u": "g",
+       "i": "smoked paprika",
+       "a": "Baking"
+      },
+      {
+       "q": 1,
+       "u": "g",
+       "i": "chilli powder",
+       "a": "Baking"
+      },
+      {
+       "q": 1,
+       "u": "g",
+       "i": "dried chilli flakes (optional)",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and pepper",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Seasoned flour & egg",
+     "items": [
+      {
+       "q": 50,
+       "u": "g",
+       "i": "plain (all-purpose) flour",
+       "a": "Baking"
+      },
+      {
+       "q": 8,
+       "u": "g",
+       "i": "smoked paprika",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "celery salt",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "garlic salt",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "chilli powder",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "baking powder",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "ground white pepper",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "eggs, beaten",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Burger sauce",
+     "items": [
+      {
+       "q": 100,
+       "u": "g",
+       "i": "mayonnaise",
+       "a": "Pantry"
+      },
+      {
+       "q": 2,
+       "u": "g",
+       "i": "yellow mustard powder",
+       "a": "Baking"
+      },
+      {
+       "q": 2,
+       "u": "",
+       "i": "slices dill pickle, chopped",
+       "a": "Pantry"
+      },
+      {
+       "q": 4,
+       "u": "g",
+       "i": "onion powder",
+       "a": "Baking"
+      },
+      {
+       "q": 4,
+       "u": "g",
+       "i": "garlic powder",
+       "a": "Baking"
+      },
+      {
+       "q": null,
+       "u": "",
+       "i": "salt and pepper",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "To assemble",
+     "items": [
+      {
+       "q": null,
+       "u": "",
+       "i": "cooking oil spray",
+       "a": "Pantry"
+      },
+      {
+       "q": 6,
+       "u": "",
+       "i": "burger buns",
+       "a": "Bakery"
+      },
+      {
+       "q": 6,
+       "u": "",
+       "i": "baby romaine lettuce leaves, washed",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Season",
+     "Slice the chicken breasts into 6 pieces and toss with the chicken seasoning."
+    ],
+    [
+     "Coating",
+     "Mix the flour with its seasonings and baking powder in one bowl; beat the eggs in another."
+    ],
+    [
+     "Coat",
+     "Dip each piece in egg, then press firmly into the seasoned flour. Shake off the excess, place on a lined tray or in the air fryer basket and spray lightly with oil."
+    ],
+    [
+     "Cook",
+     "Bake at 200°C / 390°F for 22–23 minutes, or air fry at 190°C / 375°F for 15–16 minutes, flipping halfway, until golden and 74°C / 165°F inside."
+    ],
+    [
+     "Sauce",
+     "Mix the mayonnaise, mustard powder, chopped pickle, onion powder, garlic powder, salt and pepper. Refrigerate."
+    ],
+    [
+     "Assemble",
+     "Toast the buns if you like, spread sauce on both halves, add the chicken and top with lettuce just before eating. Wrap tightly in paper or foil to serve."
+    ],
+    [
+     "Store",
+     "Keep the chicken (4 days in the fridge or 3 months frozen) and sauce (4 days) separately and build fresh. Reheat the chicken in the oven or air fryer for 6–8 minutes to re-crisp."
+    ]
+   ],
+   "notes": "Full recipe and per-burger nutrition (534 cal, 47 g protein, 30 g carbs, 19 g fat, 2 g fibre, 4 g sugar; makes 6) from the creator's website."
+  }
+ ]
 }
