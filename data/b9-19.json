@@ -1,0 +1,38 @@
+{
+ "src": {"key": "5HDAPgD2r7E", "platform": "YouTube", "creator": "Chef Jack Ovens",
+  "title": "HIGH PROTEIN Chicken Burgers Perfect For Meal Prep",
+  "url": "https://www.youtube.com/watch?v=5HDAPgD2r7E", "recipes": 1},
+ "recipes": [{
+  "id": "spicy-chicken-burgers-meal-prep",
+  "title": "Crispy Spicy Chicken Burgers",
+  "img": "img/spicy-chicken-burgers-meal-prep.jpg",
+  "part": 1, "t": 0, "servings": 6, "unit": "burger", "time": 40,
+  "macros": {"cal": 534, "protein": 47, "carbs": 30, "fat": 19, "fiber": 2, "sugar": 4},
+  "stated": ["cal", "protein", "carbs", "fat", "fiber", "sugar"],
+  "tags": ["Main meal", "Meal prep", "High protein", "Chicken", "Burgers", "Air fryer", "Spicy"],
+  "groups": [
+   {"name": "Spicy chicken", "items": [
+    {"q": 1, "u": "kg", "i": "chicken breasts, butterflied into 6 fillets", "a": "Meat"},
+    {"q": 2, "u": "tsp", "i": "smoked paprika", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "each garlic powder and onion powder", "a": "Baking"},
+    {"q": 1, "u": "tsp", "i": "cayenne pepper or chilli powder", "a": "Baking"},
+    {"q": null, "u": "", "i": "salt and pepper", "a": "Pantry"}]},
+   {"name": "Coating", "items": [
+    {"q": 100, "u": "g", "i": "plain flour, seasoned with paprika, salt and pepper", "a": "Baking"},
+    {"q": 2, "u": "", "i": "eggs, beaten", "a": "Dairy"},
+    {"q": 120, "u": "g", "i": "panko breadcrumbs", "a": "Pantry"},
+    {"q": null, "u": "", "i": "spray oil", "a": "Pantry"}]},
+   {"name": "Sauce & burgers", "items": [
+    {"q": 150, "u": "g", "i": "light mayonnaise or Greek yogurt", "a": "Dairy"},
+    {"q": 2, "u": "tbsp", "i": "chopped pickles or jalapeños", "a": "Pantry"},
+    {"q": 6, "u": "", "i": "sesame burger buns", "a": "Bakery"},
+    {"q": null, "u": "", "i": "lettuce leaves", "a": "Produce"}]}],
+  "steps": [
+   ["Season", "Butterfly the chicken into 6 even fillets and toss with the spices, salt and pepper."],
+   ["Crumb", "Dredge each fillet in seasoned flour, dip in beaten egg, then press into the panko."],
+   ["Air fry", "Spray generously with oil and air fry at 200°C / 390°F for 12–15 minutes, flipping halfway, until golden and cooked through (or bake at 220°C)."],
+   ["Sauce", "Mix the mayo or yogurt with the chopped pickles or jalapeños and a pinch of salt and pepper."],
+   ["Assemble", "Spread the sauce on the buns and add lettuce and a crispy fillet. Store the components separately for meal prep and assemble after reheating the chicken."]],
+  "notes": "Per-burger nutrition (534 cal, 47 g protein, 30 g carbs, 19 g fat; makes 6) is from the creator's card. The video has no captions and the written recipe is on his website, which I couldn't open, so ingredient amounts and timings are estimates based on what's shown."
+ }]
+}
