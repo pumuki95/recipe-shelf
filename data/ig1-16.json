@@ -1,0 +1,808 @@
+{
+ "src": {
+  "key": "DdHQlSbAsg4",
+  "platform": "Instagram",
+  "creator": "jalalsamfit",
+  "title": "6 Delicious High Protein Meal Prep Recipes For The Week!👨‍🍳",
+  "url": "https://www.instagram.com/jalalsamfit/p/DdHQlSbAsg4/",
+  "recipes": 6,
+  "linkLabel": "See the post on Instagram"
+ },
+ "recipes": [
+  {
+   "id": "honey-chipotle-chicken-mac-and-cheese-meal-prep",
+   "title": "Honey Chipotle Chicken & Mac and Cheese",
+   "img": "img/honey-chipotle-chicken-mac-and-cheese-meal-prep.jpg",
+   "part": "Meal 1",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "50 min",
+   "macros": {
+    "cal": 651,
+    "protein": 61,
+    "carbs": 54,
+    "fat": 22
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Dinner",
+    "Lunch",
+    "Chicken"
+   ],
+   "groups": [
+    {
+     "name": "Honey chipotle chicken",
+     "items": [
+      {
+       "i": "boneless chicken thighs, cubed",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "chipotle paste",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "each smoked paprika, garlic powder and salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Light mac and cheese",
+     "items": [
+      {
+       "i": "dry macaroni",
+       "a": "Pantry",
+       "q": 240,
+       "u": "g"
+      },
+      {
+       "i": "light cream cheese",
+       "a": "Dairy",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "low-fat milk",
+       "a": "Dairy",
+       "q": 200,
+       "u": "ml"
+      },
+      {
+       "i": "reduced-fat cheddar, grated",
+       "a": "Dairy",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "each garlic powder and paprika",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt, pepper and chopped parsley",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Chicken",
+     "Toss the chicken with chipotle paste, spices and oil, then air fry or bake at 200°C (400°F) for 15–18 minutes. Toss in honey and broil 2–3 minutes until sticky with crispy edges."
+    ],
+    [
+     "Mac and cheese",
+     "Cook the macaroni. In the pot, melt the cream cheese into the milk, stir in the cheddar and seasonings until smooth, then fold in the pasta."
+    ],
+    [
+     "Portion",
+     "Divide into 4 containers and top with parsley."
+    ]
+   ],
+   "notes": "Macros are the creator's, per container. His full recipes are only sent by DM (\"comment RECIPES\"), so ingredients, amounts and method here are estimated to match the photos and his descriptions. Tips from the creator: keep sauces and fresh salads separate, and add a splash of milk before reheating creamy dishes."
+  },
+  {
+   "id": "crispy-tandoori-chicken-chips-coleslaw-meal-prep",
+   "title": "Crispy Tandoori Chicken, Chips & Creamy Coleslaw",
+   "img": "img/crispy-tandoori-chicken-chips-coleslaw-meal-prep.jpg",
+   "part": "Meal 2",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "50 min",
+   "macros": {
+    "cal": 572,
+    "protein": 52,
+    "carbs": 54,
+    "fat": 16
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Dinner",
+    "Lunch",
+    "Chicken"
+   ],
+   "groups": [
+    {
+     "name": "Tandoori chicken",
+     "items": [
+      {
+       "i": "boneless chicken thighs",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "fat-free Greek yogurt",
+       "a": "Dairy",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "tandoori masala",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "each garlic powder, salt and chili powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon, juiced",
+       "a": "Produce",
+       "q": 0.5
+      }
+     ]
+    },
+    {
+     "name": "Seasoned chips",
+     "items": [
+      {
+       "i": "potatoes, cut into wedges",
+       "a": "Produce",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "each paprika, garlic powder and salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Creamy coleslaw",
+     "items": [
+      {
+       "i": "shredded cabbage",
+       "a": "Produce",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "red onion, sliced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "fat-free Greek yogurt",
+       "a": "Dairy",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "lemon juice, salt and chili flakes",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Coat the chicken in yogurt, tandoori masala, spices and lemon juice; marinate 30 minutes or longer."
+    ],
+    [
+     "Chips",
+     "Toss the wedges with oil and seasoning and air fry or bake at 200°C (400°F) for 25 minutes until crisp."
+    ],
+    [
+     "Chicken",
+     "Air fry or bake the chicken at 200°C (400°F) for 18–20 minutes until charred at the edges."
+    ],
+    [
+     "Coleslaw",
+     "Mix the cabbage and onion with the yogurt, mayo, lemon, salt and chili flakes."
+    ],
+    [
+     "Portion",
+     "Divide between 4 containers, keeping the coleslaw cold and separate if possible."
+    ]
+   ],
+   "notes": "Macros are the creator's, per container. His full recipes are only sent by DM (\"comment RECIPES\"), so ingredients, amounts and method here are estimated to match the photos and his descriptions. Tips from the creator: keep sauces and fresh salads separate, and add a splash of milk before reheating creamy dishes."
+  },
+  {
+   "id": "honey-bbq-chicken-garlic-parmesan-potatoes",
+   "title": "Honey BBQ Chicken & Creamy Garlic Parmesan Potatoes",
+   "img": "img/honey-bbq-chicken-garlic-parmesan-potatoes.jpg",
+   "part": "Meal 3",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "50 min",
+   "macros": {
+    "cal": 578,
+    "protein": 55,
+    "carbs": 50,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Dinner",
+    "Lunch",
+    "Chicken"
+   ],
+   "groups": [
+    {
+     "name": "Honey BBQ chicken",
+     "items": [
+      {
+       "i": "boneless chicken thighs, cubed",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "each smoked paprika, garlic powder and salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "low-sugar BBQ sauce",
+       "a": "Pantry",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Garlic parmesan potatoes",
+     "items": [
+      {
+       "i": "baby potatoes, cubed",
+       "a": "Produce",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "light cream cheese",
+       "a": "Dairy",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "milk",
+       "a": "Dairy",
+       "q": 60,
+       "u": "ml"
+      },
+      {
+       "i": "parmesan, grated",
+       "a": "Dairy",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "chili flakes and parsley",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Potatoes",
+     "Toss the potatoes with oil, garlic powder and salt and air fry or roast at 200°C (400°F) for 20–25 minutes until golden."
+    ],
+    [
+     "Chicken",
+     "Season the chicken and air fry or bake 15–18 minutes, then toss with BBQ sauce and honey and return for 3 minutes to caramelize."
+    ],
+    [
+     "Creamy coating",
+     "Melt the cream cheese with the milk and parmesan into a sauce and toss with the potatoes."
+    ],
+    [
+     "Portion",
+     "Divide into 4 containers and finish with parmesan, chili flakes and parsley."
+    ]
+   ],
+   "notes": "Macros are the creator's, per container. His full recipes are only sent by DM (\"comment RECIPES\"), so ingredients, amounts and method here are estimated to match the photos and his descriptions. Tips from the creator: keep sauces and fresh salads separate, and add a splash of milk before reheating creamy dishes."
+  },
+  {
+   "id": "garlic-butter-steak-bites-tuscan-parmesan-rice",
+   "title": "Creamy Garlic Butter Steak Bites with Tuscan Parmesan Rice",
+   "img": "img/garlic-butter-steak-bites-tuscan-parmesan-rice.jpg",
+   "part": "Meal 4",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "50 min",
+   "macros": {
+    "cal": 574,
+    "protein": 60,
+    "carbs": 49,
+    "fat": 14
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Dinner",
+    "Lunch",
+    "Beef"
+   ],
+   "groups": [
+    {
+     "name": "Steak bites",
+     "items": [
+      {
+       "i": "lean sirloin steak, cubed",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "salt, pepper and garlic powder",
+       "a": "Pantry"
+      },
+      {
+       "i": "butter",
+       "a": "Dairy",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 4
+      }
+     ]
+    },
+    {
+     "name": "Creamy sauce",
+     "items": [
+      {
+       "i": "light cooking cream or evaporated milk",
+       "a": "Dairy",
+       "q": 100,
+       "u": "ml"
+      },
+      {
+       "i": "parmesan",
+       "a": "Dairy",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "Cajun or Italian seasoning",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Tuscan parmesan rice",
+     "items": [
+      {
+       "i": "basmati rice (dry)",
+       "a": "Pantry",
+       "q": 240,
+       "u": "g"
+      },
+      {
+       "i": "sun-dried tomatoes, chopped",
+       "a": "International",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "Italian herbs",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "parmesan",
+       "a": "Dairy",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "chicken stock to cook, parsley and chili flakes",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Rice",
+     "Cook the rice in stock with the sun-dried tomatoes and Italian herbs, then stir through parmesan and parsley."
+    ],
+    [
+     "Steak",
+     "Season the steak and sear in a very hot pan in batches; finish with butter and garlic, tossing to coat."
+    ],
+    [
+     "Sauce",
+     "Simmer the cream, parmesan and seasoning until thick."
+    ],
+    [
+     "Portion",
+     "Divide rice and steak into 4 containers and drizzle with the sauce."
+    ]
+   ],
+   "notes": "Macros are the creator's, per container. His full recipes are only sent by DM (\"comment RECIPES\"), so ingredients, amounts and method here are estimated to match the photos and his descriptions. Tips from the creator: keep sauces and fresh salads separate, and add a splash of milk before reheating creamy dishes."
+  },
+  {
+   "id": "caramelized-onion-creamy-chicken-lemon-herb-rice",
+   "title": "Caramelized Onion Creamy Chicken with Lemon Herb Rice",
+   "img": "img/caramelized-onion-creamy-chicken-lemon-herb-rice.jpg",
+   "part": "Meal 5",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "50 min",
+   "macros": {
+    "cal": 609,
+    "protein": 56,
+    "carbs": 56,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Dinner",
+    "Lunch",
+    "Chicken"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken breast or thighs, cubed",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "each garlic powder, paprika and salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Caramelized onion sauce",
+     "items": [
+      {
+       "i": "large onions, thinly sliced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "butter",
+       "a": "Dairy",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "light cooking cream or evaporated milk",
+       "a": "Dairy",
+       "q": 150,
+       "u": "ml"
+      },
+      {
+       "i": "parmesan",
+       "a": "Dairy",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "thyme, salt and pepper",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Lemon butter herb rice",
+     "items": [
+      {
+       "i": "basmati rice (dry)",
+       "a": "Pantry",
+       "q": 240,
+       "u": "g"
+      },
+      {
+       "i": "butter",
+       "a": "Dairy",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "lemon, zested and juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "parsley and chili flakes",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Onions",
+     "Cook the onions slowly in butter for 20–25 minutes until deep golden and jammy."
+    ],
+    [
+     "Chicken",
+     "Season and sear the chicken until browned and cooked through."
+    ],
+    [
+     "Sauce",
+     "Add the cream and parmesan to the onions, simmer until thick, then stir in the chicken."
+    ],
+    [
+     "Rice",
+     "Cook the rice and toss with butter, lemon zest and juice, parsley and chili flakes."
+    ],
+    [
+     "Portion",
+     "Divide between 4 containers; add a splash of milk before reheating to loosen the sauce."
+    ]
+   ],
+   "notes": "Macros are the creator's, per container. His full recipes are only sent by DM (\"comment RECIPES\"), so ingredients, amounts and method here are estimated to match the photos and his descriptions. Tips from the creator: keep sauces and fresh salads separate, and add a splash of milk before reheating creamy dishes."
+  },
+  {
+   "id": "chilli-lime-chicken-coconut-potatoes-mango-salsa",
+   "title": "Chilli Lime Chicken Bowls with Coconut-Crusted Potatoes & Mango Salsa",
+   "img": "img/chilli-lime-chicken-coconut-potatoes-mango-salsa.jpg",
+   "part": "Meal 6",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "50 min",
+   "macros": {
+    "cal": 551,
+    "protein": 46,
+    "carbs": 53,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Dinner",
+    "Lunch",
+    "Chicken"
+   ],
+   "groups": [
+    {
+     "name": "Chilli lime chicken",
+     "items": [
+      {
+       "i": "boneless chicken thighs, cubed",
+       "a": "Meat",
+       "q": 750,
+       "u": "g"
+      },
+      {
+       "i": "chili powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "each garlic powder, smoked paprika and salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lime, zested and juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Coconut-crusted potatoes",
+     "items": [
+      {
+       "i": "potatoes, cubed",
+       "a": "Produce",
+       "q": 700,
+       "u": "g"
+      },
+      {
+       "i": "desiccated coconut",
+       "a": "Baking",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "each paprika and salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cooking spray",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Mango salsa",
+     "items": [
+      {
+       "i": "mango, diced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "red onion, finely diced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "red bell pepper, diced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "cilantro, lime juice and salt",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Chicken",
+     "Marinate the chicken in the spices, lime, honey and oil, then air fry or bake at 200°C (400°F) for 18–20 minutes."
+    ],
+    [
+     "Potatoes",
+     "Toss the potatoes with spray, coconut, paprika and salt and air fry or roast until golden and crisp."
+    ],
+    [
+     "Salsa",
+     "Mix the mango, onion, pepper, cilantro, lime juice and salt."
+    ],
+    [
+     "Portion",
+     "Divide into 4 containers, keeping the salsa cold."
+    ]
+   ],
+   "notes": "Macros are the creator's, per container. His full recipes are only sent by DM (\"comment RECIPES\"), so ingredients, amounts and method here are estimated to match the photos and his descriptions. Tips from the creator: keep sauces and fresh salads separate, and add a splash of milk before reheating creamy dishes."
+  }
+ ]
+}
