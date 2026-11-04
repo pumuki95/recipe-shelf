@@ -1,0 +1,531 @@
+{
+ "src": {
+  "key": "ddGi1wwAISg",
+  "platform": "YouTube",
+  "creator": "The Domestic Geek",
+  "title": "Overnight Oatmeal - 5 Delicious Ways!",
+  "url": "https://www.youtube.com/watch?v=ddGi1wwAISg",
+  "recipes": 5
+ },
+ "recipes": [
+  {
+   "id": "carrot-cake-overnight-oats",
+   "title": "Carrot Cake Overnight Oats",
+   "img": "img/carrot-cake-overnight-oats.jpg",
+   "part": "Carrot Cake",
+   "t": 180,
+   "servings": 1,
+   "unit": "jar",
+   "time": "5 min + overnight",
+   "macros": {
+    "cal": 290,
+    "protein": 11,
+    "carbs": 36,
+    "fat": 12,
+    "fiber": 8,
+    "sugar": 14
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "No cook",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 0.33,
+       "u": "cup",
+       "i": "rolled oats",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "chia seeds (or protein powder)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "almond milk, up to 1/2 cup for thinner oats",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Flavor",
+     "items": [
+      {
+       "q": 0.25,
+       "i": "carrot, shredded",
+       "a": "Produce",
+       "u": "cup"
+      },
+      {
+       "q": 1,
+       "i": "maple syrup",
+       "a": "Pantry",
+       "u": "tbsp"
+      },
+      {
+       "q": 2,
+       "i": "pecans, chopped (optional)",
+       "a": "Pantry",
+       "u": "tbsp"
+      },
+      {
+       "q": 0.25,
+       "i": "cinnamon",
+       "a": "Pantry",
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Combine",
+     "Put the oats, chia seeds, Greek yogurt and almond milk in a mason jar, using less or more milk depending on how thick you like it."
+    ],
+    [
+     "Flavor",
+     "Add the flavor ingredients on top."
+    ],
+    [
+     "Chill",
+     "Close the jar, shake well and refrigerate overnight."
+    ],
+    [
+     "Serve",
+     "Eat cold straight from the fridge, or heat it up for a warm breakfast."
+    ]
+   ],
+   "notes": "Recipe and amounts are the creator's; macros are estimated. A small 8 oz jar portion; double it for a bigger breakfast."
+  },
+  {
+   "id": "blueberry-lemon-overnight-oats",
+   "title": "Blueberry Lemon Overnight Oats",
+   "img": "img/blueberry-lemon-overnight-oats.jpg",
+   "part": "Blueberry Lemon",
+   "t": 180,
+   "servings": 1,
+   "unit": "jar",
+   "time": "5 min + overnight",
+   "macros": {
+    "cal": 250,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 6,
+    "fiber": 7,
+    "sugar": 16
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "No cook",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 0.33,
+       "u": "cup",
+       "i": "rolled oats",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "chia seeds (or protein powder)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "almond milk, up to 1/2 cup for thinner oats",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Flavor",
+     "items": [
+      {
+       "q": 1,
+       "i": "blueberry jam",
+       "a": "Pantry",
+       "u": "tbsp"
+      },
+      {
+       "q": 0.5,
+       "i": "lemon zest",
+       "a": "Produce",
+       "u": "tsp"
+      },
+      {
+       "q": 0.25,
+       "i": "vanilla extract",
+       "a": "Baking",
+       "u": "tsp"
+      },
+      {
+       "q": 0.25,
+       "i": "blueberries",
+       "a": "Produce",
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Combine",
+     "Put the oats, chia seeds, Greek yogurt and almond milk in a mason jar, using less or more milk depending on how thick you like it."
+    ],
+    [
+     "Flavor",
+     "Add the flavor ingredients on top."
+    ],
+    [
+     "Chill",
+     "Close the jar, shake well and refrigerate overnight."
+    ],
+    [
+     "Serve",
+     "Eat cold straight from the fridge, or heat it up for a warm breakfast."
+    ]
+   ],
+   "notes": "Recipe and amounts are the creator's; macros are estimated. A small 8 oz jar portion; double it for a bigger breakfast."
+  },
+  {
+   "id": "chocolate-strawberry-overnight-oats",
+   "title": "Chocolate Strawberry Overnight Oats",
+   "img": "img/chocolate-strawberry-overnight-oats.jpg",
+   "part": "Chocolate Strawberry",
+   "t": 180,
+   "servings": 1,
+   "unit": "jar",
+   "time": "5 min + overnight",
+   "macros": {
+    "cal": 275,
+    "protein": 11,
+    "carbs": 39,
+    "fat": 9,
+    "fiber": 8,
+    "sugar": 18
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "No cook",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 0.33,
+       "u": "cup",
+       "i": "rolled oats",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "chia seeds (or protein powder)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "almond milk, up to 1/2 cup for thinner oats",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Flavor",
+     "items": [
+      {
+       "q": 1,
+       "i": "honey",
+       "a": "Pantry",
+       "u": "tbsp"
+      },
+      {
+       "q": 1,
+       "i": "cocoa powder",
+       "a": "Baking",
+       "u": "tsp"
+      },
+      {
+       "q": 1,
+       "i": "chocolate shavings",
+       "a": "Baking",
+       "u": "tbsp"
+      },
+      {
+       "q": 0.25,
+       "i": "strawberries, hulled and sliced",
+       "a": "Produce",
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Combine",
+     "Put the oats, chia seeds, Greek yogurt and almond milk in a mason jar, using less or more milk depending on how thick you like it."
+    ],
+    [
+     "Flavor",
+     "Add the flavor ingredients on top."
+    ],
+    [
+     "Chill",
+     "Close the jar, shake well and refrigerate overnight."
+    ],
+    [
+     "Serve",
+     "Eat cold straight from the fridge, or heat it up for a warm breakfast."
+    ]
+   ],
+   "notes": "Recipe and amounts are the creator's; macros are estimated. A small 8 oz jar portion; double it for a bigger breakfast."
+  },
+  {
+   "id": "banana-nut-overnight-oats",
+   "title": "Banana Nut Overnight Oats",
+   "img": "img/banana-nut-overnight-oats.jpg",
+   "part": "Banana Nut",
+   "t": 180,
+   "servings": 1,
+   "unit": "jar",
+   "time": "5 min + overnight",
+   "macros": {
+    "cal": 410,
+    "protein": 14,
+    "carbs": 50,
+    "fat": 19,
+    "fiber": 9,
+    "sugar": 24
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "No cook",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 0.33,
+       "u": "cup",
+       "i": "rolled oats",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "chia seeds (or protein powder)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "almond milk, up to 1/2 cup for thinner oats",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Flavor",
+     "items": [
+      {
+       "q": 1,
+       "i": "honey (or maple syrup)",
+       "a": "Pantry",
+       "u": "tbsp"
+      },
+      {
+       "q": 1,
+       "i": "natural nut butter",
+       "a": "Pantry",
+       "u": "tbsp"
+      },
+      {
+       "q": 2,
+       "i": "walnuts, chopped (optional)",
+       "a": "Pantry",
+       "u": "tbsp"
+      },
+      {
+       "q": 0.5,
+       "i": "banana, sliced",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Combine",
+     "Put the oats, chia seeds, Greek yogurt and almond milk in a mason jar, using less or more milk depending on how thick you like it."
+    ],
+    [
+     "Flavor",
+     "Add the flavor ingredients on top."
+    ],
+    [
+     "Chill",
+     "Close the jar, shake well and refrigerate overnight."
+    ],
+    [
+     "Serve",
+     "Eat cold straight from the fridge, or heat it up for a warm breakfast."
+    ]
+   ],
+   "notes": "Recipe and amounts are the creator's; macros are estimated. A small 8 oz jar portion; double it for a bigger breakfast."
+  },
+  {
+   "id": "pina-colada-overnight-oats",
+   "title": "Piña Colada Overnight Oats",
+   "img": "img/pina-colada-overnight-oats.jpg",
+   "part": "Piña Colada",
+   "t": 180,
+   "servings": 1,
+   "unit": "jar",
+   "time": "5 min + overnight",
+   "macros": {
+    "cal": 285,
+    "protein": 11,
+    "carbs": 39,
+    "fat": 10,
+    "fiber": 8,
+    "sugar": 20
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "No cook",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 0.33,
+       "u": "cup",
+       "i": "rolled oats",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "chia seeds (or protein powder)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "almond milk, up to 1/2 cup for thinner oats",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Flavor",
+     "items": [
+      {
+       "q": 1,
+       "i": "honey",
+       "a": "Pantry",
+       "u": "tbsp"
+      },
+      {
+       "q": 1,
+       "i": "shredded coconut",
+       "a": "Baking",
+       "u": "tsp"
+      },
+      {
+       "q": 1,
+       "i": "slivered almonds",
+       "a": "Pantry",
+       "u": "tbsp"
+      },
+      {
+       "q": 0.25,
+       "i": "pineapple, diced",
+       "a": "Produce",
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Combine",
+     "Put the oats, chia seeds, Greek yogurt and almond milk in a mason jar, using less or more milk depending on how thick you like it."
+    ],
+    [
+     "Flavor",
+     "Add the flavor ingredients on top."
+    ],
+    [
+     "Chill",
+     "Close the jar, shake well and refrigerate overnight."
+    ],
+    [
+     "Serve",
+     "Eat cold straight from the fridge, or heat it up for a warm breakfast."
+    ]
+   ],
+   "notes": "Recipe and amounts are the creator's; macros are estimated. A small 8 oz jar portion; double it for a bigger breakfast."
+  }
+ ]
+}

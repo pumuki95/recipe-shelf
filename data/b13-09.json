@@ -1,0 +1,335 @@
+{
+ "src": {
+  "key": "MQHqekDSAuc",
+  "platform": "YouTube",
+  "creator": "WhatsUpMoms",
+  "title": "EAT | Overnight Oats 3 Ways",
+  "url": "https://www.youtube.com/watch?v=MQHqekDSAuc",
+  "recipes": 3
+ },
+ "recipes": [
+  {
+   "id": "choco-banana-overnight-oats-greek-yogurt",
+   "title": "Choco-Banana Overnight Oats",
+   "img": "img/choco-banana-overnight-oats-greek-yogurt.jpg",
+   "part": "Choco-banana",
+   "t": 190,
+   "servings": 1,
+   "unit": "jar",
+   "time": "5 min + overnight",
+   "macros": {
+    "cal": 390,
+    "protein": 15,
+    "carbs": 58,
+    "fat": 13,
+    "fiber": 11,
+    "sugar": 22
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "No cook",
+    "Vegetarian",
+    "Kid friendly"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 0.5,
+       "u": "cup",
+       "i": "old-fashioned rolled oats (not quick oats)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "low-fat plain Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "almond milk (or any milk)",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "chia seeds",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "unsweetened cocoa powder",
+       "a": "Baking"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "agave syrup",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Toppings (add in the morning)",
+     "items": [
+      {
+       "q": 0.5,
+       "i": "banana, sliced",
+       "a": "Produce"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "chopped pecans or walnuts",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Combine",
+     "Add the oats, Greek yogurt, almond milk and chia seeds to a jar with a lid. Keep the oats-to-liquid ratio 1:1."
+    ],
+    [
+     "Flavor",
+     "Add the cocoa powder and agave to the jar before chilling."
+    ],
+    [
+     "Chill",
+     "Close the lid, shake well and refrigerate overnight."
+    ],
+    [
+     "Serve",
+     "Eat cold, or microwave 30–60 seconds if you like it warm, then add the toppings."
+    ]
+   ],
+   "notes": "Base recipe is the creator's; topping amounts and macros are estimated. Add the cocoa powder and agave to the jar before chilling. Save the banana and nuts for the morning so the banana doesn't get slimy."
+  },
+  {
+   "id": "pbj-overnight-oats-greek-yogurt",
+   "title": "PB&J Overnight Oats",
+   "img": "img/pbj-overnight-oats-greek-yogurt.jpg",
+   "part": "PB&J",
+   "t": 190,
+   "servings": 1,
+   "unit": "jar",
+   "time": "5 min + overnight",
+   "macros": {
+    "cal": 420,
+    "protein": 17,
+    "carbs": 50,
+    "fat": 17,
+    "fiber": 9,
+    "sugar": 20
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "No cook",
+    "Vegetarian",
+    "Kid friendly"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 0.5,
+       "u": "cup",
+       "i": "old-fashioned rolled oats (not quick oats)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "low-fat plain Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "almond milk (or any milk)",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "chia seeds",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "peanut butter",
+       "a": "Pantry"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "honey, plus a drizzle to serve",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Toppings (add in the morning)",
+     "items": [
+      {
+       "q": 0.5,
+       "u": "cup",
+       "i": "strawberries, diced",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Combine",
+     "Add the oats, Greek yogurt, almond milk and chia seeds to a jar with a lid. Keep the oats-to-liquid ratio 1:1."
+    ],
+    [
+     "Flavor",
+     "Add the peanut butter and honey before chilling; give it a stir with a spoon as well as a shake, since they're sticky."
+    ],
+    [
+     "Chill",
+     "Close the lid, shake well and refrigerate overnight."
+    ],
+    [
+     "Serve",
+     "Eat cold, or microwave 30–60 seconds if you like it warm, then add the toppings."
+    ]
+   ],
+   "notes": "Base recipe is the creator's; topping amounts and macros are estimated. Add the peanut butter and honey before chilling; give it a stir with a spoon as well as a shake, since they're sticky. Top with strawberries and a drizzle of honey in the morning."
+  },
+  {
+   "id": "maple-blueberry-overnight-oats-greek-yogurt",
+   "title": "Maple Blueberry Overnight Oats",
+   "img": "img/maple-blueberry-overnight-oats-greek-yogurt.jpg",
+   "part": "Maple blueberry",
+   "t": 190,
+   "servings": 1,
+   "unit": "jar",
+   "time": "5 min + overnight",
+   "macros": {
+    "cal": 360,
+    "protein": 13,
+    "carbs": 52,
+    "fat": 12,
+    "fiber": 9,
+    "sugar": 20
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "No cook",
+    "Vegetarian",
+    "Kid friendly"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "q": 0.5,
+       "u": "cup",
+       "i": "old-fashioned rolled oats (not quick oats)",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "low-fat plain Greek yogurt",
+       "a": "Dairy"
+      },
+      {
+       "q": 0.25,
+       "u": "cup",
+       "i": "almond milk (or any milk)",
+       "a": "Dairy"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "chia seeds",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "maple syrup",
+       "a": "Pantry"
+      },
+      {
+       "q": 0.25,
+       "u": "tsp",
+       "i": "cinnamon, plus a dash to serve",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Toppings (add in the morning)",
+     "items": [
+      {
+       "q": 0.33,
+       "u": "cup",
+       "i": "fresh blueberries",
+       "a": "Produce"
+      },
+      {
+       "q": 1,
+       "u": "tbsp",
+       "i": "slivered almonds",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Combine",
+     "Add the oats, Greek yogurt, almond milk and chia seeds to a jar with a lid. Keep the oats-to-liquid ratio 1:1."
+    ],
+    [
+     "Flavor",
+     "Add the maple syrup and cinnamon before chilling, then top with blueberries, slivered almonds and another dash of cinnamon.."
+    ],
+    [
+     "Chill",
+     "Close the lid, shake well and refrigerate overnight."
+    ],
+    [
+     "Serve",
+     "Eat cold, or microwave 30–60 seconds if you like it warm, then add the toppings."
+    ]
+   ],
+   "notes": "Base recipe is the creator's; topping amounts and macros are estimated. Add the maple syrup and cinnamon before chilling, then top with blueberries, slivered almonds and another dash of cinnamon."
+  }
+ ]
+}
