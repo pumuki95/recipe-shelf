@@ -1,0 +1,20 @@
+{"src":{"key":"qJyVLoIa_W4","platform":"YouTube","creator":"Tasty","title":"Three Healthy Breakfasts In A Muffin Tin","url":"https://www.youtube.com/watch?v=qJyVLoIa_W4","recipes":3},
+"recipes":[
+{"id":"banana-oat-muffin-cups","title":"Banana Oat Muffin Cups (fruit-filled)","img":"img/banana-oat-muffin-cups.jpg","part":"Banana oat muffins","t":48,"servings":6,"unit":"muffin","time":"40 min","macros":{"cal":210,"protein":7,"carbs":36,"fat":4,"fiber":3,"sugar":17},"stated":[],"tags":["Breakfast","Meal prep","Baked","Vegetarian"],
+"groups":[{"name":"Muffins","items":[
+{"q":1,"i":"ripe banana, mashed","a":"Produce"},{"q":1,"i":"egg","a":"Dairy"},{"q":0.5,"u":"tsp","i":"vanilla","a":"Baking"},{"q":0.25,"u":"cup","i":"honey","a":"Pantry"},{"q":1,"u":"tsp","i":"cinnamon","a":"Pantry"},{"q":0.25,"u":"tsp","i":"salt","a":"Pantry"},{"q":0.5,"u":"cup","i":"Greek yogurt","a":"Dairy"},{"q":1,"u":"cup","i":"milk","a":"Dairy"},{"q":1.5,"u":"cup","i":"rolled oats","a":"Pantry"},
+{"i":"fillings: strawberries, blueberries, apple, blackberries, raspberries, almonds","a":"Produce"}]}],
+"steps":[["Batter","Heat the oven to 350°F (180°C). Mash the banana, stir in the egg, then the vanilla, honey, cinnamon, salt and yogurt. Stir in the oats, then the milk."],["Fill","Fill each cup of a greased 6-cup muffin tin a quarter full, add a different fruit or nuts to each, then top up with the rest of the batter."],["Bake","Bake 30 minutes and cool 5 minutes before removing."]],
+"notes":"Recipe from the creator's description; macros are estimated per muffin."},
+{"id":"customizable-veggie-egg-cups","title":"Customizable Veggie Egg Cups","img":"img/customizable-veggie-egg-cups.jpg","part":"Veggie egg cups","t":76,"servings":6,"unit":"egg cup","time":"25 min","macros":{"cal":90,"protein":6,"carbs":2,"fat":6,"fiber":1,"sugar":1},"stated":[],"tags":["Breakfast","Meal prep","Low carb","Gluten free","Vegetarian"],
+"groups":[{"name":"Egg cups","items":[
+{"q":5,"i":"eggs","a":"Dairy"},{"i":"salt and pepper","a":"Pantry"},
+{"i":"fillings to mix and match: chopped spinach, diced tomato, onion, bell pepper, small broccoli florets, cheddar","a":"Produce"}]}],
+"steps":[["Prep","Heat the oven to 350°F (180°C) and grease a 6-cup muffin tin. Beat the eggs until smooth."],["Fill","Put your chosen fillings in each cup and season with salt and pepper."],["Bake","Pour the eggs over until nearly full and bake 20 minutes until set."]],
+"notes":"Recipe from the creator's description; macros are estimated per cup with a little cheese."},
+{"id":"granola-yogurt-cups","title":"Baked Granola Cups with Yogurt & Berries","img":"img/granola-yogurt-cups.jpg","part":"Granola cups","t":125,"servings":6,"unit":"cup","time":"1 h 40 min (incl. chilling)","macros":{"cal":220,"protein":8,"carbs":38,"fat":4,"fiber":4,"sugar":18},"stated":[],"tags":["Breakfast","Snack","Meal prep","Baked","Vegetarian"],
+"groups":[{"name":"Granola cups","items":[
+{"q":1,"i":"ripe banana, mashed","a":"Produce"},{"q":0.25,"u":"cup","i":"honey","a":"Pantry"},{"q":1,"u":"tsp","i":"vanilla","a":"Baking"},{"q":1,"u":"tsp","i":"salt","a":"Pantry"},{"q":1,"u":"tsp","i":"cinnamon","a":"Pantry"},{"q":1.5,"u":"cup","i":"rolled oats","a":"Pantry"}]},
+{"name":"To fill","items":[{"q":1,"u":"cup","i":"Greek yogurt","a":"Dairy"},{"i":"berries and other fruit or nuts","a":"Produce"}]}],
+"steps":[["Mix","Mash the banana, stir in the honey and vanilla, then the salt, cinnamon and oats."],["Shape","Press about 2 tbsp into each cup of a greased muffin tin, forming a cup shape."],["Chill & bake","Refrigerate 1 hour, then bake at 350°F (180°C) for 30 minutes. Cool 5 minutes."],["Fill","Add a spoonful of Greek yogurt and your favorite fruit to each cup."]],
+"notes":"Recipe from the creator's description; macros are estimated per filled cup."}]}
