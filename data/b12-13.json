@@ -1,0 +1,28 @@
+{"src":{"key":"ey6drwA_xvE","platform":"YouTube","creator":"Epicurious (Chef Chris Scott)","title":"4 Levels of Fried Chicken: Amateur to Food Scientist | Epicurious","url":"https://www.youtube.com/watch?v=ey6drwA_xvE","recipes":1},
+"recipes":[{"id":"buttermilk-lemonade-fried-chicken","title":"Buttermilk Lemonade Fried Chicken (Chef Chris Scott)","img":"img/buttermilk-lemonade-fried-chicken.jpg","t":438,"servings":6,"unit":"2 drumsticks","time":"3 h (incl. brining)","macros":{"cal":620,"protein":38,"carbs":38,"fat":34,"fiber":2,"sugar":3},"stated":[],"tags":["Dinner","Chicken","Fried","Comfort food","Southern"],
+"groups":[
+{"name":"Lemonade brine","items":[
+{"q":0.25,"u":"cup","i":"granulated garlic","a":"Pantry"},
+{"q":0.25,"u":"cup","i":"onion powder","a":"Pantry"},
+{"q":1,"u":"tbsp","i":"ground cumin","a":"Pantry"},
+{"q":0.5,"u":"cup","i":"salt","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"sugar","a":"Baking"},
+{"q":1,"u":"cup","i":"hot sauce","a":"International"},
+{"q":1,"u":"cup","i":"fresh lemon juice","a":"Produce"},
+{"q":2,"u":"qt","i":"cold water","a":"Pantry"}]},
+{"name":"Chicken & coating","items":[
+{"q":12,"i":"chicken drumsticks (or a whole chicken cut into 8)","a":"Meat"},
+{"q":1,"u":"qt","i":"buttermilk","a":"Dairy"},
+{"q":4,"u":"cup","i":"all-purpose flour","a":"Baking"},
+{"q":1,"u":"cup","i":"cornmeal","a":"Baking"},
+{"q":3,"u":"tbsp","i":"cornstarch","a":"Baking"},
+{"q":3,"u":"tbsp","i":"baking powder","a":"Baking"},
+{"i":"peanut oil, for frying","a":"Pantry"},
+{"i":"lemon zest and flaky sea salt, to finish","a":"Produce"}]}],
+"steps":[
+["Brine","Whisk the brine ingredients until dissolved. Put the chicken in bags, pour over the brine and seal (vacuum-sealing pushes the flavor in fast). Refrigerate 1–4 hours."],
+["Buttermilk soak","Move the chicken to a clean container, cover with buttermilk and rest 1 hour."],
+["Dredge","Heat oil to 325°F (165°C). Combine the flour, cornmeal, cornstarch and baking powder, and dredge the chicken straight from the buttermilk."],
+["Fry","Fry in batches without crowding, about 12 minutes, until golden and 165°F (74°C) inside. If frying mixed pieces, start with the breasts, which take longest."],
+["Finish","Drain, rest briefly and finish with lemon zest and sea salt."]],
+"notes":"Recipe from the chef's published recipe (the 'level 3' version in the video); macros are estimated per 2 drumsticks, including absorbed oil."}]}
