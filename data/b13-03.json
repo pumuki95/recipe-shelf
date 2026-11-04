@@ -1,0 +1,610 @@
+{
+ "src": {
+  "key": "OzEj_LtLWL0",
+  "platform": "YouTube",
+  "creator": "Fit Men Cook",
+  "title": "7 Easy, Delicious Smoothies / 7 Batidos Saludables y Ricos",
+  "url": "https://www.youtube.com/watch?v=OzEj_LtLWL0",
+  "recipes": 7
+ },
+ "recipes": [
+  {
+   "id": "chocolate-almond-butter-banana-smoothie",
+   "title": "Cocoa-Nut Smoothie (chocolate, banana & almond butter)",
+   "img": "img/chocolate-almond-butter-banana-smoothie.jpg",
+   "part": "Smoothie 1 of 7",
+   "t": 170,
+   "servings": 1,
+   "unit": "glass",
+   "time": "5 min",
+   "macros": {
+    "cal": 410,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 20,
+    "fiber": 9,
+    "sugar": 28
+   },
+   "stated": [],
+   "tags": [
+    "Drinks",
+    "Breakfast",
+    "Smoothie",
+    "Quick",
+    "Post-workout"
+   ],
+   "groups": [
+    {
+     "name": "Smoothie",
+     "items": [
+      {
+       "i": "frozen banana",
+       "a": "Frozen",
+       "q": 1
+      },
+      {
+       "i": "almond butter",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "unsweetened cacao powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "almond milk",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "optional: 1 scoop chocolate or vanilla protein powder",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Add everything to a blender and blend until completely smooth, adding a splash more liquid if it's too thick."
+    ],
+    [
+     "Serve",
+     "Pour into a glass and drink right away."
+    ]
+   ],
+   "notes": "Estimated amounts and macros; the video lists the ingredients but the quantities are on the creator's site (fitmencook.com). Great after a workout; add a scoop of chocolate, vanilla or unflavored protein to boost the protein."
+  },
+  {
+   "id": "pineapple-coconut-cream-pie-smoothie",
+   "title": "Pineapple Cream Pie Smoothie",
+   "img": "img/pineapple-coconut-cream-pie-smoothie.jpg",
+   "part": "Smoothie 2 of 7",
+   "t": 202,
+   "servings": 1,
+   "unit": "glass",
+   "time": "5 min",
+   "macros": {
+    "cal": 390,
+    "protein": 4,
+    "carbs": 42,
+    "fat": 25,
+    "fiber": 4,
+    "sugar": 30
+   },
+   "stated": [],
+   "tags": [
+    "Drinks",
+    "Breakfast",
+    "Smoothie",
+    "Quick",
+    "Dairy free"
+   ],
+   "groups": [
+    {
+     "name": "Smoothie",
+     "items": [
+      {
+       "i": "fresh pineapple chunks",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "coconut cream",
+       "a": "International",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "fresh ginger, grated",
+       "a": "Produce",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "coconut milk (carton)",
+       "a": "Dairy",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "pinch of cinnamon",
+       "a": "Pantry"
+      },
+      {
+       "i": "handful of ice",
+       "a": "Frozen"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Add everything to a blender and blend until completely smooth, adding a splash more liquid if it's too thick."
+    ],
+    [
+     "Serve",
+     "Pour into a glass and drink right away."
+    ]
+   ],
+   "notes": "Estimated amounts and macros; the video lists the ingredients but the quantities are on the creator's site (fitmencook.com). Coconut cream (the thick fat from coconut, not coconut milk) makes it dairy-free but rich, so it's higher in calories. The creator likes it as an afternoon pick-me-up."
+  },
+  {
+   "id": "berry-breakfast-parfait-smoothie",
+   "title": "Berry Breakfast Parfait Smoothie",
+   "img": "img/berry-breakfast-parfait-smoothie.jpg",
+   "part": "Smoothie 3 of 7",
+   "t": 249,
+   "servings": 1,
+   "unit": "glass",
+   "time": "5 min",
+   "macros": {
+    "cal": 380,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 13,
+    "fiber": 8,
+    "sugar": 22
+   },
+   "stated": [],
+   "tags": [
+    "Drinks",
+    "Breakfast",
+    "Smoothie",
+    "Quick",
+    "High protein"
+   ],
+   "groups": [
+    {
+     "name": "Smoothie",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "frozen blueberries",
+       "a": "Frozen",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "frozen raspberries",
+       "a": "Frozen",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "raw almonds",
+       "a": "Pantry",
+       "q": 10
+      },
+      {
+       "i": "rolled oats",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "almond milk",
+       "a": "Dairy",
+       "q": 0.75,
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Add everything to a blender and blend until completely smooth, adding a splash more liquid if it's too thick."
+    ],
+    [
+     "Serve",
+     "Pour into a glass and drink right away."
+    ]
+   ],
+   "notes": "Estimated amounts and macros; the video lists the ingredients but the quantities are on the creator's site (fitmencook.com). All the parts of a yogurt parfait in a glass: Greek yogurt for protein, oats instead of granola, and frozen berries so it's thick and cold without ice."
+  },
+  {
+   "id": "green-v8-savory-smoothie",
+   "title": "Green V8 Savory Smoothie",
+   "img": "img/green-v8-savory-smoothie.jpg",
+   "part": "Smoothie 4 of 7",
+   "t": 303,
+   "servings": 1,
+   "unit": "glass",
+   "time": "5 min",
+   "macros": {
+    "cal": 90,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 1,
+    "fiber": 5,
+    "sugar": 10
+   },
+   "stated": [],
+   "tags": [
+    "Drinks",
+    "Breakfast",
+    "Smoothie",
+    "Quick",
+    "Vegan",
+    "Low calorie"
+   ],
+   "groups": [
+    {
+     "name": "Smoothie",
+     "items": [
+      {
+       "i": "spinach",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "cherry tomatoes",
+       "a": "Produce",
+       "q": 6
+      },
+      {
+       "i": "cucumber",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "small carrot",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "celery stalk",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "small garlic clove",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "handful of cilantro or parsley",
+       "a": "Produce"
+      },
+      {
+       "i": "no-salt-added tomato sauce",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "green onion",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "salt and pepper",
+       "a": "Pantry"
+      },
+      {
+       "i": "water (or part vegetable broth)",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "hot sauce, to taste",
+       "a": "International"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Add everything to a blender and blend until completely smooth, adding a splash more liquid if it's too thick."
+    ],
+    [
+     "Serve",
+     "Pour into a glass and drink right away."
+    ]
+   ],
+   "notes": "Estimated amounts and macros; the video lists the ingredients but the quantities are on the creator's site (fitmencook.com). A green take on tomato V8, with spinach instead of lettuce. Swap a few tablespoons of the water for vegetable broth if you like it savory, and add hot sauce for a kick."
+  },
+  {
+   "id": "sweet-green-avocado-matcha-smoothie",
+   "title": "Sweet Green Smoothie (avocado, kiwi & matcha)",
+   "img": "img/sweet-green-avocado-matcha-smoothie.jpg",
+   "part": "Smoothie 5 of 7",
+   "t": 358,
+   "servings": 1,
+   "unit": "glass",
+   "time": "5 min",
+   "macros": {
+    "cal": 330,
+    "protein": 5,
+    "carbs": 38,
+    "fat": 19,
+    "fiber": 10,
+    "sugar": 22
+   },
+   "stated": [],
+   "tags": [
+    "Drinks",
+    "Breakfast",
+    "Smoothie",
+    "Quick",
+    "Vegan"
+   ],
+   "groups": [
+    {
+     "name": "Smoothie",
+     "items": [
+      {
+       "i": "spinach",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "avocado",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "kiwi, peeled",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "matcha green tea powder",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "almond milk",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "raw honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "handful of ice",
+       "a": "Frozen"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Add everything to a blender and blend until completely smooth, adding a splash more liquid if it's too thick."
+    ],
+    [
+     "Serve",
+     "Pour into a glass and drink right away."
+    ]
+   ],
+   "notes": "Estimated amounts and macros; the video lists the ingredients but the quantities are on the creator's site (fitmencook.com). Avocado makes it very thick; add more almond or coconut milk if you like it thinner."
+  },
+  {
+   "id": "orange-cream-popsicle-smoothie",
+   "title": "Orange Cream Popsicle Smoothie",
+   "img": "img/orange-cream-popsicle-smoothie.jpg",
+   "part": "Smoothie 6 of 7",
+   "t": 405,
+   "servings": 1,
+   "unit": "glass",
+   "time": "5 min",
+   "macros": {
+    "cal": 350,
+    "protein": 4,
+    "carbs": 44,
+    "fat": 19,
+    "fiber": 4,
+    "sugar": 36
+   },
+   "stated": [],
+   "tags": [
+    "Drinks",
+    "Breakfast",
+    "Smoothie",
+    "Quick",
+    "Dairy free"
+   ],
+   "groups": [
+    {
+     "name": "Smoothie",
+     "items": [
+      {
+       "i": "orange, peeled",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "cantaloupe (melon) chunks",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "coconut cream",
+       "a": "International",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "ground turmeric",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "coconut milk (carton)",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "handful of ice",
+       "a": "Frozen"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Add everything to a blender and blend until completely smooth, adding a splash more liquid if it's too thick."
+    ],
+    [
+     "Serve",
+     "Pour into a glass and drink right away."
+    ]
+   ],
+   "notes": "Estimated amounts and macros; the video lists the ingredients but the quantities are on the creator's site (fitmencook.com). Tastes like an orange-and-cream popsicle. Turmeric gives it the bright yellow color and a gentle ginger-like warmth."
+  },
+  {
+   "id": "berry-mint-ginger-smoothie",
+   "title": "Berry Mint Smoothie",
+   "img": "img/berry-mint-ginger-smoothie.jpg",
+   "part": "Smoothie 7 of 7",
+   "t": 439,
+   "servings": 1,
+   "unit": "glass",
+   "time": "5 min",
+   "macros": {
+    "cal": 150,
+    "protein": 2,
+    "carbs": 36,
+    "fat": 1,
+    "fiber": 9,
+    "sugar": 22
+   },
+   "stated": [],
+   "tags": [
+    "Drinks",
+    "Breakfast",
+    "Smoothie",
+    "Quick",
+    "Vegan",
+    "Low calorie"
+   ],
+   "groups": [
+    {
+     "name": "Smoothie",
+     "items": [
+      {
+       "i": "frozen blueberries",
+       "a": "Frozen",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "fresh blackberries",
+       "a": "Produce",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "fresh mint leaves",
+       "a": "Produce",
+       "q": 6
+      },
+      {
+       "i": "fresh ginger, grated",
+       "a": "Produce",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "squeeze of lime juice",
+       "a": "Produce"
+      },
+      {
+       "i": "ice water",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Add everything to a blender and blend until completely smooth, adding a splash more liquid if it's too thick."
+    ],
+    [
+     "Serve",
+     "Pour into a glass and drink right away."
+    ]
+   ],
+   "notes": "Estimated amounts and macros; the video lists the ingredients but the quantities are on the creator's site (fitmencook.com). Light and refreshing; a squeeze of fresh lime really lifts the flavor."
+  }
+ ]
+}
