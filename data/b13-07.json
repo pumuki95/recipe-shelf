@@ -1,0 +1,29 @@
+{"src":{"key":"eZ0V3zDX0R0","platform":"YouTube","creator":"Gordon Ramsay","title":"Lamb with Fried Bread | Gordon Ramsay","url":"https://www.youtube.com/watch?v=eZ0V3zDX0R0","recipes":1},
+"recipes":[{"id":"lamb-leg-steaks-fried-bread-anchovy-caper","title":"Lamb Leg Steaks with Fried Bread & Anchovy-Caper Dressing","img":"img/lamb-leg-steaks-fried-bread-anchovy-caper.jpg","t":275,"servings":2,"unit":"plate","time":"35 min","macros":{"cal":780,"protein":45,"carbs":38,"fat":49,"fiber":2,"sugar":4},"stated":[],"tags":["Dinner","Lamb","High protein"],
+"groups":[
+{"name":"Lamb","items":[
+{"q":2,"i":"bone-in lamb leg steaks","a":"Meat"},
+{"i":"salt and plenty of black pepper","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"olive oil","a":"Pantry"},
+{"q":4,"i":"garlic cloves, lightly crushed (unpeeled)","a":"Produce"}]},
+{"name":"Milk-soaked croutons","items":[
+{"q":4,"u":"oz","i":"day-old firm bread, diced","a":"Bakery"},
+{"q":0.5,"u":"cup","i":"milk","a":"Dairy"},
+{"i":"salt and pepper","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"olive oil, for frying","a":"Pantry"}]},
+{"name":"Anchovy-caper dressing","items":[
+{"i":"the roasted garlic from the lamb pan","a":"Produce"},
+{"q":3,"i":"anchovy fillets","a":"International"},
+{"q":1,"u":"tbsp","i":"baby capers","a":"International"},
+{"q":1.5,"u":"tsp","i":"Dijon mustard","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"red wine vinegar","a":"Pantry"},
+{"q":4,"u":"tbsp","i":"extra virgin olive oil","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"fresh parsley, chopped","a":"Produce"}]}],
+"steps":[
+["Prep the lamb","Snip through the fat at each end of the steaks so they don't buckle. Season with salt and generously with pepper."],
+["Sear","Heat a pan until just smoking, add the oil and the steaks with the crushed garlic. Hold the fatty edge against the pan to render it, then sear both sides, tilting the pan to baste with the garlicky oil. Remove and rest."],
+["Soak the bread","Season the diced bread and toss with milk to soak in while you make the dressing."],
+["Dressing","In a mortar, pound the roasted garlic (squeezed from its skin), anchovies and capers to a paste. Stir in the Dijon, red wine vinegar, olive oil and parsley."],
+["Fry the croutons","Squeeze excess milk from the bread and fry in hot olive oil until golden and crisp outside, soft inside. Drain on paper towels."],
+["Plate","Spread dressing on the plate, add croutons, stack the lamb on top and spoon over more dressing and the crispy scraps."]],
+"notes":"Estimated amounts and macros; the video shows the method without quantities. Lamb leg steaks are an inexpensive cut that gets big flavor from a hard sear."}]}
