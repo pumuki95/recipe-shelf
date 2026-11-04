@@ -1,0 +1,357 @@
+{
+ "src": {
+  "key": "jDDZoT2VkfQ",
+  "platform": "YouTube",
+  "creator": "Fit Men Cook",
+  "title": "Fish in Bulk: Quick Recipes & FAQs / Preparando Pescado para la Semana",
+  "url": "https://www.youtube.com/watch?v=jDDZoT2VkfQ",
+  "recipes": 4
+ },
+ "recipes": [
+  {
+   "id": "orange-ginger-sriracha-baked-salmon",
+   "title": "Orange Ginger Sriracha Baked Salmon",
+   "img": "img/orange-ginger-sriracha-baked-salmon.jpg",
+   "part": "Recipe 1 of 4",
+   "t": 459,
+   "servings": 2,
+   "unit": "fillet",
+   "time": "20 min (+ marinating)",
+   "macros": {
+    "cal": 370,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+   },
+   "stated": [],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "Fish",
+    "High protein",
+    "Meal prep",
+    "Baked",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Ingredients",
+     "items": [
+      {
+       "i": "salmon fillets (6 oz each)",
+       "a": "Meat",
+       "q": 2
+      },
+      {
+       "i": "fresh orange juice (or lemon/lime)",
+       "a": "Produce",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "sriracha",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "fresh ginger, grated",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "orange, sliced into rounds",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry"
+      },
+      {
+       "i": "fresh mint, to garnish",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Stir together the orange juice, soy sauce, sriracha and ginger. Pour into a zip bag with the salmon, seal and marinate at least 30 minutes or overnight."
+    ],
+    [
+     "Bake",
+     "Heat the oven to 420°F (215°C). Place the salmon on a lined baking sheet, top with orange slices, black pepper and the remaining marinade, and bake 10–12 minutes until just opaque with a moist pink center."
+    ],
+    [
+     "Garnish",
+     "Finish with fresh mint."
+    ]
+   ],
+   "notes": "Estimated amounts and macros (per 6 oz fillet); the video shows the method, and full amounts are on the creator's site (fitmencook.com). Cooked fish keeps about 2–3 days in the fridge; freeze anything you won't eat by then. Marinating is the creator's top tip for taking away any fishy taste, and don't overcook salmon; a moist, slightly pink center is ideal."
+  },
+  {
+   "id": "smoked-paprika-cumin-baked-salmon",
+   "title": "Smoked Paprika & Cumin Rubbed Salmon",
+   "img": "img/smoked-paprika-cumin-baked-salmon.jpg",
+   "part": "Recipe 2 of 4",
+   "t": 452,
+   "servings": 2,
+   "unit": "fillet",
+   "time": "20 min",
+   "macros": {
+    "cal": 340,
+    "protein": 34,
+    "carbs": 2,
+    "fat": 22
+   },
+   "stated": [],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "Fish",
+    "High protein",
+    "Meal prep",
+    "Baked",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Ingredients",
+     "items": [
+      {
+       "i": "salmon fillets (6 oz each)",
+       "a": "Meat",
+       "q": 2
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "ground cumin",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper and salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "red pepper flakes",
+       "a": "Pantry"
+      },
+      {
+       "i": "cilantro and lime wedges, to serve",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Rub",
+     "Rub the salmon with olive oil, smoked paprika, cumin, salt and pepper and cook right away (no marinating needed)."
+    ],
+    [
+     "Bake",
+     "Bake on a lined sheet at 420°F (215°C) for 10–12 minutes, no more than 15."
+    ],
+    [
+     "Garnish",
+     "Sprinkle with red pepper flakes and cilantro and serve with lime."
+    ]
+   ],
+   "notes": "Estimated amounts and macros (per 6 oz fillet); the video shows the method, and full amounts are on the creator's site (fitmencook.com). Cooked fish keeps about 2–3 days in the fridge; freeze anything you won't eat by then. A quick no-marinade option for salmon meal prep."
+  },
+  {
+   "id": "greek-yogurt-dill-baked-cod",
+   "title": "Greek Yogurt Dill Baked Cod",
+   "img": "img/greek-yogurt-dill-baked-cod.jpg",
+   "part": "Recipe 3 of 4",
+   "t": 601,
+   "servings": 2,
+   "unit": "fillet",
+   "time": "20 min (+ marinating)",
+   "macros": {
+    "cal": 190,
+    "protein": 33,
+    "carbs": 4,
+    "fat": 3
+   },
+   "stated": [],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "Fish",
+    "High protein",
+    "Meal prep",
+    "Baked",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Ingredients",
+     "items": [
+      {
+       "i": "cod fillets (6 oz each)",
+       "a": "Meat",
+       "q": 2
+      },
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "fresh dill, chopped (plus extra)",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "lemon, juiced (plus wedges)",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "black pepper and salt",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Put the Greek yogurt, garlic, dill, lemon juice and pepper in a zip bag, add the cod, squeeze out the air and gently massage to coat. Marinate at least 30 minutes."
+    ],
+    [
+     "Bake",
+     "Heat the oven to 400°F (200°C). Bake the fillets on a lined sheet or rack for 12–15 minutes, no more than 20, until flaky."
+    ],
+    [
+     "Garnish",
+     "Finish with black pepper, dill and lemon."
+    ]
+   ],
+   "notes": "Estimated amounts and macros (per 6 oz fillet); the video shows the method, and full amounts are on the creator's site (fitmencook.com). Cooked fish keeps about 2–3 days in the fridge; freeze anything you won't eat by then. Lean white fish dries out easily; the yogurt keeps it moist and adds extra protein."
+  },
+  {
+   "id": "pecan-crusted-baked-white-fish",
+   "title": "Pecan-Crusted Baked White Fish",
+   "img": "img/pecan-crusted-baked-white-fish.jpg",
+   "part": "Recipe 4 of 4",
+   "t": 637,
+   "servings": 2,
+   "unit": "fillet",
+   "time": "20 min",
+   "macros": {
+    "cal": 330,
+    "protein": 33,
+    "carbs": 8,
+    "fat": 19
+   },
+   "stated": [],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "Fish",
+    "High protein",
+    "Meal prep",
+    "Baked"
+   ],
+   "groups": [
+    {
+     "name": "Ingredients",
+     "items": [
+      {
+       "i": "white fish fillets (cod or similar, 6 oz each)",
+       "a": "Meat",
+       "q": 2
+      },
+      {
+       "i": "egg, beaten",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "pecans, crushed",
+       "a": "Pantry",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "panko breadcrumbs",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "ground cumin",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt and pepper",
+       "a": "Pantry"
+      },
+      {
+       "i": "parsley and lemon, to serve",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Crust",
+     "Crush the pecans with a mallet or spoon and mix with the panko, cumin, garlic powder, salt and pepper."
+    ],
+    [
+     "Coat",
+     "Dip each fillet in beaten egg, then press into the pecan mixture."
+    ],
+    [
+     "Bake",
+     "Bake on a lined sheet or rack at 400°F (200°C) for about 15 minutes until golden and flaky."
+    ],
+    [
+     "Serve",
+     "Garnish with parsley and lemon."
+    ]
+   ],
+   "notes": "Estimated amounts and macros (per 6 oz fillet); the video shows the method, and full amounts are on the creator's site (fitmencook.com). Cooked fish keeps about 2–3 days in the fridge; freeze anything you won't eat by then. The creator made this with orange roughy but warns it's an oily fish (sold as escolar in some places) that upsets many people's stomachs, so cod or another white fish is the safer choice."
+  }
+ ]
+}

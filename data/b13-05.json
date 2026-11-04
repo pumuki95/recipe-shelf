@@ -1,0 +1,46 @@
+{"src":{"key":"32WcZdrMjxc","platform":"YouTube","creator":"Fit Men Cook","title":"How to Cook Protein in Bulk - Chicken & Beef Meal Prep / Cocer Proteína en Grandes Cantidades","url":"https://www.youtube.com/watch?v=32WcZdrMjxc","recipes":2},
+"recipes":[
+{"id":"muffin-tin-meal-prep-beef-meatballs","title":"Muffin-Tin Meal Prep Beef Meatballs","img":"img/muffin-tin-meal-prep-beef-meatballs.jpg","part":"Beef","t":298,"servings":6,"unit":"6 oz portion (3 meatballs)","time":"25 min","macros":{"cal":300,"protein":36,"carbs":3,"fat":16,"fiber":1},"stated":[],"tags":["Meal prep","High protein","Beef","Low carb","Baked","Kid friendly"],
+"groups":[{"name":"Meatballs","items":[
+{"q":2.5,"u":"lb","i":"lean ground beef (93/7)","a":"Meat"},
+{"q":0.5,"i":"bell pepper, finely diced","a":"Produce"},
+{"q":2,"i":"green onions, chopped","a":"Produce"},
+{"q":3,"i":"garlic cloves, minced","a":"Produce"},
+{"q":1,"u":"tsp","i":"smoked paprika","a":"Pantry"},
+{"q":1,"u":"tsp","i":"onion powder","a":"Pantry"},
+{"q":1,"u":"tsp","i":"ground cumin","a":"Pantry"},
+{"q":1,"u":"tsp","i":"dried thyme","a":"Pantry"},
+{"i":"sea salt and black pepper","a":"Pantry"}]}],
+"steps":[
+["Weigh","Zero a bowl on a kitchen scale, add the beef, vegetables and seasonings, and note the total weight so you can divide it evenly by the days you're prepping for."],
+["Mix & portion","Mix well, then weigh out 2–2¼ oz portions and roll into meatballs (about 3 make a 6 oz serving)."],
+["Bake in a mini muffin tin","Place one meatball in each cup of a mini muffin pan; they cook in their own juices, stay round and cook faster. Bake at 420°F (215°C) for 10–12 minutes (broil the last 2 minutes if you like), and don't overcook."],
+["Use through the week","Simmer in marinara, crumble over salads, or serve as an after-school snack; one 2 oz meatball is a good kid-sized portion."]],
+"notes":"Estimated amounts and macros; full recipes are on the creator's site. Weighing everything is the creator's \"exact meal prep\" method for counting calories accurately."},
+{"id":"three-flavor-sheet-pan-chicken-bites","title":"Three-Flavor Sheet Pan Chicken Bites (meal prep)","img":"img/three-flavor-sheet-pan-chicken-bites.jpg","part":"Chicken","t":598,"servings":12,"unit":"4 oz portion","time":"30 min","macros":{"cal":150,"protein":26,"carbs":3,"fat":3},"stated":[],"tags":["Meal prep","High protein","Chicken","Low carb","Baked","Sheet pan"],
+"groups":[
+{"name":"Base","items":[
+{"q":3,"u":"lb","i":"boneless skinless chicken breast, trimmed and cut into nickel-size pieces","a":"Meat"},
+{"q":1,"u":"tsp","i":"onion powder","a":"Pantry"},
+{"q":1,"u":"tsp","i":"garlic powder","a":"Pantry"}]},
+{"name":"Flavor 1: chili cumin","items":[
+{"q":1,"u":"tsp","i":"chili powder","a":"Pantry"},
+{"q":1,"u":"tsp","i":"ground cumin","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"fresh cilantro, chopped","a":"Produce"}]},
+{"name":"Flavor 2: five-spice","items":[
+{"q":1,"u":"tsp","i":"Chinese five-spice","a":"International"},
+{"q":1,"u":"tbsp","i":"liquid aminos or low-sodium soy sauce","a":"International"},
+{"q":1,"u":"tsp","i":"sesame oil","a":"International"}]},
+{"name":"Flavor 3: honey-Dijon","items":[
+{"q":2,"u":"tsp","i":"arrowroot starch (1 tsp for chicken, 1 tsp for sauce)","a":"Baking"},
+{"q":1,"u":"tbsp","i":"Dijon mustard","a":"Pantry"},
+{"q":1,"u":"tbsp","i":"agave or honey","a":"Pantry"},
+{"q":1,"u":"tbsp","i":"water","a":"Pantry"}]}],
+"steps":[
+["Pat dry","Cut the chicken into small bite-size pieces, then pat very dry and let it sit on paper towels a few minutes, especially if it was frozen, so the seasoning sticks."],
+["Base season","Toss with the onion and garlic powder, weigh it, and divide into three equal bowls."],
+["Flavor","Bowl 1: chili powder, cumin and cilantro. Bowl 2: five-spice, aminos and sesame oil. Bowl 3: toss with 1 tsp arrowroot, then coat with the Dijon, agave, water and another 1 tsp arrowroot mixed together."],
+["Make the pan","Line a sheet pan with foil (or parchment) and pinch up two ridges to make three sections so the juices don't mix."],
+["Bake","Spread one flavor in each section in a single layer and bake at 420°F (215°C) for 12–15 minutes; the small pieces cook fast."],
+["Portion","Weigh out portions for the week; leftovers work in chicken salad, frittatas or soup."]],
+"notes":"Estimated amounts and macros; full recipes are on the creator's site. Small pieces cook faster and stay easier to eat even if slightly overcooked."}]}
