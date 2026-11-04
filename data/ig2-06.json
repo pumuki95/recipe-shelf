@@ -1,0 +1,169 @@
+{
+ "src": {
+  "key": "DZA1bYjxRqY",
+  "platform": "Instagram",
+  "creator": "noahperlofit",
+  "title": "Make This Once Per Week‼️ (breakfast sandwiches)",
+  "url": "https://www.instagram.com/noahperlofit/reel/DZA1bYjxRqY/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "maple-turkey-beef-breakfast-sandwiches",
+   "title": "Maple Turkey & Beef Breakfast Sandwiches (Meal Prep)",
+   "img": "img/maple-turkey-beef-breakfast-sandwiches.jpg",
+   "t": 37,
+   "servings": 14,
+   "unit": "sandwich",
+   "time": "1 h",
+   "macros": {
+    "cal": 428,
+    "protein": 46,
+    "carbs": 25,
+    "fat": 16
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "High protein",
+    "Freezer friendly",
+    "Eggs",
+    "Beef"
+   ],
+   "groups": [
+    {
+     "name": "Patties",
+     "items": [
+      {
+       "i": "96/4 ground turkey",
+       "a": "Meat",
+       "q": 1000,
+       "u": "g"
+      },
+      {
+       "i": "93/7 ground beef",
+       "a": "Meat",
+       "q": 1000,
+       "u": "g"
+      },
+      {
+       "i": "sugar-free maple syrup",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Pantry",
+       "q": 4,
+       "u": "tbsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic and onion powder",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Eggs & cheese",
+     "items": [
+      {
+       "i": "whole eggs",
+       "a": "Dairy",
+       "q": 14
+      },
+      {
+       "i": "salt, pepper, garlic and onion powder",
+       "a": "Pantry"
+      },
+      {
+       "i": "thin slices pepper jack",
+       "a": "Dairy",
+       "q": 14
+      }
+     ]
+    },
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "yellow mustard",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Assembly",
+     "items": [
+      {
+       "i": "light English muffins",
+       "a": "Baking",
+       "q": 14
+      },
+      {
+       "i": "green apple, sliced thin (optional)",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "avocados, sliced (optional)",
+       "a": "Produce",
+       "q": 2
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Patties",
+     "Mix the turkey, beef, maple syrup and seasonings, form 14 thin patties and bake on lined sheet pans at 400°F (200°C) for 12–15 minutes."
+    ],
+    [
+     "Eggs",
+     "Whisk the eggs with the seasonings and soft-scramble them."
+    ],
+    [
+     "Sauce",
+     "Stir the mustard and honey together."
+    ],
+    [
+     "Assemble",
+     "Toast the muffins, then layer sauce, avocado, a patty, egg, cheese and apple slices."
+    ],
+    [
+     "Store",
+     "Wrap each sandwich in foil and refrigerate or freeze. Reheat in the oven or air fryer (unwrap and microwave from frozen if in a hurry)."
+    ]
+   ],
+   "notes": "Ingredients and macros (per sandwich) are the creator's. Cooking times and the reheat step are estimated from the video. Apple and avocado are optional, so the macros may not include them."
+  }
+ ]
+}

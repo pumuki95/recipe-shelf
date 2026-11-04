@@ -1,0 +1,728 @@
+{
+ "src": {
+  "key": "DaJuOq1sDpw",
+  "platform": "Instagram",
+  "creator": "jessica.momlifee",
+  "title": "8 easy freezer chicken marinades 🌿",
+  "url": "https://www.instagram.com/jessica.momlifee/reel/DaJuOq1sDpw/",
+  "recipes": 8
+ },
+ "recipes": [
+  {
+   "id": "honey-garlic-chicken-marinade",
+   "title": "Honey Garlic Chicken (Freezer Marinade)",
+   "img": "img/freezer-chicken-marinades.jpg",
+   "t": 2,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min prep + thaw and cook",
+   "macros": {
+    "cal": 330,
+    "protein": 40,
+    "carbs": 19,
+    "fat": 9
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken breasts",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "chopped green onion or parsley, pepper",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bag",
+     "Put the chicken in a gallon freezer bag and add all the marinade ingredients."
+    ],
+    [
+     "Freeze",
+     "Squeeze out the air, seal, massage to coat, label and freeze flat (up to about 3 months)."
+    ],
+    [
+     "Thaw",
+     "Thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Bake at 400°F (200°C) for 20–25 minutes, grill, or cook in a skillet until the chicken reaches 165°F (74°C). Serve with your favorite sides."
+    ]
+   ],
+   "notes": "Estimated. The creator only sends the marinade recipes by DM (\"comment CHICKEN\"), so ingredients and amounts are reconstructed from what goes into each bag in the video. Macros are rough estimates per serving and assume most of the marinade cooks onto the chicken.",
+   "part": "Marinade 1"
+  },
+  {
+   "id": "lemon-chicken-marinade",
+   "title": "Lemon Chicken (Freezer Marinade)",
+   "img": "img/freezer-chicken-marinades.jpg",
+   "t": 8,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min prep + thaw and cook",
+   "macros": {
+    "cal": 255,
+    "protein": 39,
+    "carbs": 3,
+    "fat": 9
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken breasts",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "lemon, juiced, plus a few slices",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "each dried oregano and thyme",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt and ½ tsp pepper",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bag",
+     "Put the chicken in a gallon freezer bag and add all the marinade ingredients."
+    ],
+    [
+     "Freeze",
+     "Squeeze out the air, seal, massage to coat, label and freeze flat (up to about 3 months)."
+    ],
+    [
+     "Thaw",
+     "Thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Bake at 400°F (200°C) for 20–25 minutes, grill, or cook in a skillet until the chicken reaches 165°F (74°C). Serve with your favorite sides."
+    ]
+   ],
+   "notes": "Estimated. The creator only sends the marinade recipes by DM (\"comment CHICKEN\"), so ingredients and amounts are reconstructed from what goes into each bag in the video. Macros are rough estimates per serving and assume most of the marinade cooks onto the chicken.",
+   "part": "Marinade 2"
+  },
+  {
+   "id": "greek-style-chicken-marinade",
+   "title": "Greek-Style Chicken (Freezer Marinade)",
+   "img": "img/freezer-chicken-marinades.jpg",
+   "t": 14,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min prep + thaw and cook",
+   "macros": {
+    "cal": 245,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 5
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free",
+    "Mediterranean"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken breasts",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "plain Greek yogurt",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "lemon, juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "Greek or Mediterranean seasoning (oregano, garlic, cumin)",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "red onion, sliced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bag",
+     "Put the chicken in a gallon freezer bag and add all the marinade ingredients."
+    ],
+    [
+     "Freeze",
+     "Squeeze out the air, seal, massage to coat, label and freeze flat (up to about 3 months)."
+    ],
+    [
+     "Thaw",
+     "Thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Bake at 400°F (200°C) for 20–25 minutes, grill, or cook in a skillet until the chicken reaches 165°F (74°C). Serve with your favorite sides."
+    ]
+   ],
+   "notes": "Estimated. The creator only sends the marinade recipes by DM (\"comment CHICKEN\"), so ingredients and amounts are reconstructed from what goes into each bag in the video. Macros are rough estimates per serving and assume most of the marinade cooks onto the chicken.",
+   "part": "Marinade 3"
+  },
+  {
+   "id": "basil-balsamic-chicken-marinade",
+   "title": "Basil Balsamic Chicken (Freezer Marinade)",
+   "img": "img/freezer-chicken-marinades.jpg",
+   "t": 22,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min prep + thaw and cook",
+   "macros": {
+    "cal": 285,
+    "protein": 40,
+    "carbs": 9,
+    "fat": 9
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free",
+    "Italian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken breasts",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "balsamic vinegar",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "handful of fresh basil",
+       "a": "Produce"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "cherry tomatoes",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "salt and ½ tsp pepper",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bag",
+     "Put the chicken in a gallon freezer bag and add all the marinade ingredients."
+    ],
+    [
+     "Freeze",
+     "Squeeze out the air, seal, massage to coat, label and freeze flat (up to about 3 months)."
+    ],
+    [
+     "Thaw",
+     "Thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Bake at 400°F (200°C) for 20–25 minutes, grill, or cook in a skillet until the chicken reaches 165°F (74°C). Serve with your favorite sides."
+    ]
+   ],
+   "notes": "Estimated. The creator only sends the marinade recipes by DM (\"comment CHICKEN\"), so ingredients and amounts are reconstructed from what goes into each bag in the video. Macros are rough estimates per serving and assume most of the marinade cooks onto the chicken.",
+   "part": "Marinade 4"
+  },
+  {
+   "id": "pineapple-teriyaki-chicken-marinade",
+   "title": "Pineapple Teriyaki Chicken (Freezer Marinade)",
+   "img": "img/freezer-chicken-marinades.jpg",
+   "t": 27,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min prep + thaw and cook",
+   "macros": {
+    "cal": 305,
+    "protein": 40,
+    "carbs": 24,
+    "fat": 4
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken breasts",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "pineapple chunks",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "teriyaki sauce",
+       "a": "International",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "green onions, sliced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "each garlic powder and ground ginger",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bag",
+     "Put the chicken in a gallon freezer bag and add all the marinade ingredients."
+    ],
+    [
+     "Freeze",
+     "Squeeze out the air, seal, massage to coat, label and freeze flat (up to about 3 months)."
+    ],
+    [
+     "Thaw",
+     "Thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Bake at 400°F (200°C) for 20–25 minutes, grill, or cook in a skillet until the chicken reaches 165°F (74°C). Serve with your favorite sides."
+    ]
+   ],
+   "notes": "Estimated. The creator only sends the marinade recipes by DM (\"comment CHICKEN\"), so ingredients and amounts are reconstructed from what goes into each bag in the video. Macros are rough estimates per serving and assume most of the marinade cooks onto the chicken.",
+   "part": "Marinade 5"
+  },
+  {
+   "id": "pesto-mozzarella-chicken-marinade",
+   "title": "Pesto Mozzarella Chicken (Freezer Marinade)",
+   "img": "img/freezer-chicken-marinades.jpg",
+   "t": 34,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min prep + thaw and cook",
+   "macros": {
+    "cal": 375,
+    "protein": 46,
+    "carbs": 4,
+    "fat": 19
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free",
+    "Italian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken breasts",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "basil pesto",
+       "a": "International",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "mozzarella pearls",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "cherry tomatoes",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "Italian seasoning",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt and pepper",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bag",
+     "Put the chicken in a gallon freezer bag and add all the marinade ingredients."
+    ],
+    [
+     "Freeze",
+     "Squeeze out the air, seal, massage to coat, label and freeze flat (up to about 3 months)."
+    ],
+    [
+     "Thaw",
+     "Thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Bake at 400°F (200°C) for 20–25 minutes, grill, or cook in a skillet until the chicken reaches 165°F (74°C). Serve with your favorite sides."
+    ]
+   ],
+   "notes": "Estimated. The creator only sends the marinade recipes by DM (\"comment CHICKEN\"), so ingredients and amounts are reconstructed from what goes into each bag in the video. Macros are rough estimates per serving and assume most of the marinade cooks onto the chicken.",
+   "part": "Marinade 6"
+  },
+  {
+   "id": "buffalo-ranch-chicken-marinade",
+   "title": "Buffalo Ranch Chicken (Freezer Marinade)",
+   "img": "img/freezer-chicken-marinades.jpg",
+   "t": 40,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min prep + thaw and cook",
+   "macros": {
+    "cal": 290,
+    "protein": 40,
+    "carbs": 3,
+    "fat": 12
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken breasts",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "buffalo sauce",
+       "a": "Pantry",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "ranch dressing",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bag",
+     "Put the chicken in a gallon freezer bag and add all the marinade ingredients."
+    ],
+    [
+     "Freeze",
+     "Squeeze out the air, seal, massage to coat, label and freeze flat (up to about 3 months)."
+    ],
+    [
+     "Thaw",
+     "Thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Bake at 400°F (200°C) for 20–25 minutes, grill, or cook in a skillet until the chicken reaches 165°F (74°C). Serve with your favorite sides."
+    ]
+   ],
+   "notes": "Estimated. The creator only sends the marinade recipes by DM (\"comment CHICKEN\"), so ingredients and amounts are reconstructed from what goes into each bag in the video. Macros are rough estimates per serving and assume most of the marinade cooks onto the chicken.",
+   "part": "Marinade 7"
+  },
+  {
+   "id": "honey-mustard-chicken-marinade",
+   "title": "Honey Mustard Chicken (Freezer Marinade)",
+   "img": "img/freezer-chicken-marinades.jpg",
+   "t": 46,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min prep + thaw and cook",
+   "macros": {
+    "cal": 315,
+    "protein": 39,
+    "carbs": 15,
+    "fat": 10
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken breasts",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "Dijon mustard",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "dried herbs, salt and pepper",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bag",
+     "Put the chicken in a gallon freezer bag and add all the marinade ingredients."
+    ],
+    [
+     "Freeze",
+     "Squeeze out the air, seal, massage to coat, label and freeze flat (up to about 3 months)."
+    ],
+    [
+     "Thaw",
+     "Thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Bake at 400°F (200°C) for 20–25 minutes, grill, or cook in a skillet until the chicken reaches 165°F (74°C). Serve with your favorite sides."
+    ]
+   ],
+   "notes": "Estimated. The creator only sends the marinade recipes by DM (\"comment CHICKEN\"), so ingredients and amounts are reconstructed from what goes into each bag in the video. Macros are rough estimates per serving and assume most of the marinade cooks onto the chicken.",
+   "part": "Marinade 8"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "src": {
+  "key": "DbEb9yzh4Ah",
+  "platform": "Instagram",
+  "creator": "noahperlofit",
+  "title": "Get Off Your Butt Man These Are Good‼️ (cornflake chicken sandwiches)",
+  "url": "https://www.instagram.com/noahperlofit/reel/DbEb9yzh4Ah/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "honey-mustard-cornflake-chicken-sandwiches",
+   "title": "Honey Mustard Cornflake Chicken Sandwiches (Meal Prep)",
+   "img": "img/honey-mustard-cornflake-chicken-sandwiches.jpg",
+   "t": 36,
+   "servings": 14,
+   "unit": "sandwich",
+   "time": "1 h",
+   "macros": {
+    "cal": 504,
+    "protein": 35,
+    "carbs": 54,
+    "fat": 16.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Baked",
+    "Sandwich"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken thighs, trimmed",
+       "a": "Meat",
+       "q": 14
+      },
+      {
+       "i": "all-purpose flour (not all will stick)",
+       "a": "Baking",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "whole eggs, beaten",
+       "a": "Dairy",
+       "q": 4
+      },
+      {
+       "i": "box cornflakes, crushed (not all will stick)",
+       "a": "Pantry",
+       "q": 1
+      },
+      {
+       "i": "salt, pepper and garlic powder",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "yellow mustard",
+       "a": "Pantry",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 0.33,
+       "u": "cup"
+      }
+     ]
+    },
+    {
+     "name": "Assembly",
+     "items": [
+      {
+       "i": "sesame buns",
+       "a": "Baking",
+       "q": 14
+      },
+      {
+       "i": "spicy pickle spread, per sandwich",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "3–4 dill pickle chips per sandwich",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bread",
+     "Season the chicken, then dredge in flour, dip in egg and press into the crushed cornflakes."
+    ],
+    [
+     "Bake",
+     "Bake on lined sheet pans at 400°F (200°C) for 25–30 minutes until golden and cooked through."
+    ],
+    [
+     "Sauce",
+     "Mix the mustard and honey and brush it over the hot chicken."
+    ],
+    [
+     "Assemble",
+     "Spread pickle spread on the buns and add the chicken and pickle chips."
+    ],
+    [
+     "Store",
+     "Wrap and refrigerate or freeze; reheat in the oven or air fryer to keep the coating crisp."
+    ]
+   ],
+   "notes": "Ingredients and macros (per sandwich) are the creator's. Seasoning, oven temperature and times are estimated from the video."
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "src": {
+  "key": "DcJQbsaO6OE",
+  "platform": "Instagram",
+  "creator": "christopherkaiyu",
+  "title": "Low-Calorie High-Protein Chocolate Swirl Banana Bread",
+  "url": "https://www.instagram.com/christopherkaiyu/reel/DcJQbsaO6OE/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chocolate-swirl-protein-banana-bread",
+   "title": "High-Protein Chocolate Swirl Banana Bread",
+   "img": "img/chocolate-swirl-protein-banana-bread.jpg",
+   "t": 2,
+   "servings": 8,
+   "unit": "slice",
+   "time": "1 h 15 min",
+   "macros": {
+    "cal": 207,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 3.8
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "Dessert",
+    "High protein",
+    "Baked",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Banana batter",
+     "items": [
+      {
+       "i": "medium ripe bananas",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "0% Greek yogurt (¾ cup)",
+       "a": "Dairy",
+       "q": 170,
+       "u": "g"
+      },
+      {
+       "i": "unsweetened almond milk (½ cup)",
+       "a": "Dairy",
+       "q": 120,
+       "u": "ml"
+      },
+      {
+       "i": "egg whites (¼ cup)",
+       "a": "Dairy",
+       "q": 60,
+       "u": "ml"
+      },
+      {
+       "i": "oat flour",
+       "a": "Baking",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "casein protein powder (about 2 scoops)",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "whey protein powder (about 1 scoop)",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "up to 60 g granulated sweetener, to taste",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate batter",
+     "items": [
+      {
+       "i": "medium egg",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "egg whites (2 tbsp)",
+       "a": "Dairy",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "0% Greek yogurt (⅜ cup)",
+       "a": "Dairy",
+       "q": 85,
+       "u": "g"
+      },
+      {
+       "i": "coconut oil, melted (½ tbsp)",
+       "a": "Pantry",
+       "q": 7.5,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract (optional)",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "granulated 1:1 sugar substitute",
+       "a": "Baking",
+       "q": 95,
+       "u": "g"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 17,
+       "u": "g"
+      },
+      {
+       "i": "cocoa powder",
+       "a": "Baking",
+       "q": 22,
+       "u": "g"
+      },
+      {
+       "i": "chocolate protein powder",
+       "a": "Pantry",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "baking powder (about ⅓ tsp)",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "g"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "sugar-free chocolate chunks (optional)",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Preheat",
+     "Heat the oven to 350°F (175°C) and line a loaf pan."
+    ],
+    [
+     "Banana batter",
+     "Mash the bananas, then mix in the Greek yogurt, almond milk and egg whites. Stir in the oat flour, casein, whey and sweetener until combined."
+    ],
+    [
+     "Chocolate batter",
+     "In a separate bowl, mix all the chocolate batter ingredients until smooth."
+    ],
+    [
+     "Swirl",
+     "Add the banana batter to the pan, layering and swirling the chocolate batter through it. Top with chocolate chunks if using."
+    ],
+    [
+     "Bake",
+     "Bake until the center is set and a toothpick comes out mostly clean (roughly 50–60 minutes; the creator doesn't give a time)."
+    ],
+    [
+     "Cool",
+     "Let it cool completely before slicing into 8 thick pieces."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (per slice, estimated by him). The bake time isn't given in the post, so the 50–60 minutes is an estimate; start checking at 45."
+  }
+ ]
+}

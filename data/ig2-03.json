@@ -1,0 +1,172 @@
+{
+ "src": {
+  "key": "DcmWbcwBBps",
+  "platform": "Instagram",
+  "creator": "noahperlofit",
+  "title": "Meal Prep Chipotle Lime Chicken‼️",
+  "url": "https://www.instagram.com/noahperlofit/reel/DcmWbcwBBps/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chipotle-honey-lime-shredded-chicken",
+   "title": "Chipotle Honey Lime Shredded Chicken (Meal Prep)",
+   "img": "img/chipotle-honey-lime-shredded-chicken.jpg",
+   "t": 30,
+   "servings": 10,
+   "unit": "serving",
+   "time": "4–7 h (slow cooker)",
+   "macros": {
+    "cal": 325,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 17.4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Mexican-inspired",
+    "Spicy",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken thighs, trimmed",
+       "a": "Meat",
+       "q": 3.5,
+       "u": "lb"
+      },
+      {
+       "i": "large yellow onion, quartered",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "garlic cloves",
+       "a": "Produce",
+       "q": 5
+      },
+      {
+       "i": "chipotle peppers in adobo",
+       "a": "International",
+       "q": 2
+      },
+      {
+       "i": "adobo sauce",
+       "a": "International",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "limes, juiced, plus zest of 1",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "honey (as written; ¼ cup is likely meant)",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tbsp"
+      },
+      {
+       "i": "tomato paste",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "low-sodium chicken broth",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "ground cumin",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "dried oregano",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "To finish",
+     "items": [
+      {
+       "i": "fresh cilantro, chopped",
+       "a": "Produce",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "cooked rice, to serve (not in macros)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Load",
+     "Put the chicken, onion, garlic, chipotles, adobo sauce, lime juice and zest, honey, tomato paste, broth and all the spices in a slow cooker."
+    ],
+    [
+     "Cook",
+     "Cook on low 6–7 hours or high 3–4 hours until the chicken shreds easily."
+    ],
+    [
+     "Shred",
+     "Shred the chicken in the sauce (remove the onion pieces first if you like)."
+    ],
+    [
+     "Finish",
+     "Stir in the cilantro and fresh lime juice."
+    ],
+    [
+     "Portion",
+     "Divide into 10 containers over rice and refrigerate or freeze."
+    ]
+   ],
+   "notes": "Ingredients and macros (per serving, without rice) are the creator's. He doesn't list the method or cook time, so the slow-cooker steps are estimated from the video. The caption says ¼ tbsp honey, which is probably a typo for ¼ cup."
+  }
+ ]
+}

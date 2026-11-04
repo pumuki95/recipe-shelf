@@ -199,7 +199,8 @@
   "beef-egg-cheese-breakfast-burritos-avocado-sauce",
   "turkey-sausage-hash-brown-breakfast-burritos",
   "freezer-breakfast-sandwiches-egg-bake",
-  "healthier-sweet-potato-breakfast-burritos"
+  "healthier-sweet-potato-breakfast-burritos",
+  "maple-turkey-beef-breakfast-sandwiches"
  ],
  "Crunchwraps & wraps": [
   "breakfast-crunchwraps",
@@ -222,7 +223,8 @@
   "smash-burger-tacos",
   "fdl-thick-mcchicken",
   "spicy-chicken-burgers-meal-prep",
-  "lean-double-cheeseburger-450"
+  "lean-double-cheeseburger-450",
+  "bacon-onion-jam-cheeseburgers-meal-prep"
  ],
  "Tacos": [
   "crispy-beef-tacos",
@@ -268,7 +270,8 @@
   "one-egg-souffle-pancake",
   "sheet-tray-pancakes",
   "spicy-indian-potato-breakfast-pancakes",
-  "farmer-cheese-chocolate-chip-protein-pancakes"
+  "farmer-cheese-chocolate-chip-protein-pancakes",
+  "cottage-cheese-chocolate-chip-pancakes-30"
  ],
  "Oats (baked & overnight)": [
   "choc-banana-baked-oats",
@@ -382,7 +385,9 @@
   "honey-bbq-chicken-garlic-parmesan-potatoes",
   "garlic-butter-steak-bites-tuscan-parmesan-rice",
   "caramelized-onion-creamy-chicken-lemon-herb-rice",
-  "chilli-lime-chicken-coconut-potatoes-mango-salsa"
+  "chilli-lime-chicken-coconut-potatoes-mango-salsa",
+  "chipotle-honey-lime-shredded-chicken",
+  "general-tso-chicken-meal-prep"
  ],
  "Chicken tenders & bites": [
   "garlic-parmesan-chicken-bites",
@@ -435,7 +440,8 @@
   "pb-protein-banana-bread",
   "blueberry-pb-banana-muffins",
   "cottage-cheese-blueberry-muffins",
-  "glazed-protein-blueberry-loaf"
+  "glazed-protein-blueberry-loaf",
+  "chocolate-swirl-protein-banana-bread"
  ],
  "Donuts": [
   "chocolate-protein-donuts",
@@ -494,5 +500,13 @@
   "bang-bang-cottage-cheese-sauce",
   "chili-lime-greek-yogurt-sauce",
   "peruvian-chicken-thighs-aji-verde"
+ ],
+ "Chicken sandwiches": [
+  "cilantro-lime-chicken-sandwich",
+  "lemon-garlic-chicken-sandwich",
+  "honey-mustard-cornflake-chicken-sandwiches",
+  "savory-french-toast-chicken-sandwich",
+  "fdl-thick-mcchicken",
+  "spicy-chicken-burgers-meal-prep"
  ]
 }

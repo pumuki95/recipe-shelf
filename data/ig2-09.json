@@ -1,0 +1,101 @@
+{
+ "src": {
+  "key": "DahQKqnBLVy",
+  "platform": "Instagram",
+  "creator": "noahperlofit",
+  "title": "Save Time, Money, And Eat Better‼️ (cottage cheese pancakes)",
+  "url": "https://www.instagram.com/noahperlofit/reel/DahQKqnBLVy/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "cottage-cheese-chocolate-chip-pancakes-30",
+   "title": "Cottage Cheese Chocolate Chip Pancakes (30, Meal Prep)",
+   "img": "img/cottage-cheese-chocolate-chip-pancakes-30.jpg",
+   "t": 22,
+   "servings": 30,
+   "unit": "pancake",
+   "time": "1 h",
+   "macros": {
+    "cal": 138,
+    "protein": 10,
+    "carbs": 15.5,
+    "fat": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "High protein",
+    "Vegetarian",
+    "Freezer friendly"
+   ],
+   "groups": [
+    {
+     "name": "Batter (makes 30; divide by 3 for a normal batch)",
+     "items": [
+      {
+       "i": "low-fat cottage cheese",
+       "a": "Dairy",
+       "q": 6,
+       "u": "cup"
+      },
+      {
+       "i": "whole eggs",
+       "a": "Dairy",
+       "q": 12
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "sugar-free maple syrup",
+       "a": "Pantry",
+       "q": 12,
+       "u": "tbsp"
+      },
+      {
+       "i": "self-rising flour",
+       "a": "Baking",
+       "q": 3.75,
+       "u": "cup"
+      },
+      {
+       "i": "stevia-sweetened chocolate chips, chopped",
+       "a": "Baking",
+       "q": 180,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the cottage cheese, eggs, vanilla and syrup until smooth."
+    ],
+    [
+     "Mix",
+     "Stir in the self-rising flour, then fold in the chopped chocolate."
+    ],
+    [
+     "Cook",
+     "Cook on a lightly greased griddle or pan over medium-low heat (he uses ring molds for thick, even pancakes), about 3 minutes per side until set."
+    ],
+    [
+     "Store",
+     "Cool, then refrigerate or freeze between parchment. Reheat in the toaster or microwave."
+    ]
+   ],
+   "notes": "Ingredients and macros (per pancake) are the creator's. Cook times are estimated from the video."
+  }
+ ]
+}

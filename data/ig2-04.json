@@ -1,0 +1,173 @@
+{
+ "src": {
+  "key": "DbYliu7AnIZ",
+  "platform": "Instagram",
+  "creator": "donaldo_cooks",
+  "title": "Lemon garlic chicken",
+  "url": "https://www.instagram.com/donaldo_cooks/reel/DbYliu7AnIZ/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "lemon-garlic-chicken-sandwich",
+   "title": "Crispy Lemon Garlic Chicken Sandwich",
+   "img": "img/lemon-garlic-chicken-sandwich.jpg",
+   "t": 4,
+   "servings": 2,
+   "unit": "sandwich",
+   "time": "45 min",
+   "macros": {
+    "cal": 660,
+    "protein": 33,
+    "carbs": 70,
+    "fat": 27
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Main meal",
+    "Lunch",
+    "Dinner",
+    "Chicken",
+    "Sandwich"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken breast or thighs, pounded into 2 cutlets",
+       "a": "Meat",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "salt, pepper and garlic powder",
+       "a": "Pantry"
+      },
+      {
+       "i": "flour",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "egg, beaten",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "panko or crushed crackers",
+       "a": "Baking",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "avocado oil, for frying",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Lemon garlic glaze",
+     "items": [
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "lemon, zested and juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "butter",
+       "a": "Dairy",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "chopped parsley",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Toppings",
+     "items": [
+      {
+       "i": "cucumber, thinly sliced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "shaved cabbage",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "splash of vinegar and pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "avocado oil mayo",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "sriracha",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "ciabatta or baguette rolls, toasted",
+       "a": "Baking",
+       "q": 2
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bread",
+     "Season the cutlets, then dredge in flour, egg and panko."
+    ],
+    [
+     "Fry",
+     "Shallow-fry in avocado oil 3–4 minutes per side until crisp and cooked through."
+    ],
+    [
+     "Glaze",
+     "Melt the butter with the garlic for a minute, add the honey, lemon zest and juice and simmer until syrupy. Toss the hot chicken in it and add parsley."
+    ],
+    [
+     "Slaw",
+     "Toss the cucumber and cabbage with a splash of vinegar and salt."
+    ],
+    [
+     "Sauce",
+     "Mix the mayo with sriracha."
+    ],
+    [
+     "Build",
+     "Layer the chicken, slaw and spicy mayo on the toasted rolls."
+    ]
+   ],
+   "notes": "Estimated. The full recipe is on the creator's website (donaldocooks.com), which couldn't be opened from here, so this is reconstructed from the video. He says it comes in at about 660 calories and 33 g protein; carbs and fat are estimates. He fries in avocado oil and uses avocado-oil mayo (no seed oils)."
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "src": {
+  "key": "DccHJrpgdba",
+  "platform": "Instagram",
+  "creator": "donaldo_cooks",
+  "title": "Cilantro lime chicken",
+  "url": "https://www.instagram.com/donaldo_cooks/reel/DccHJrpgdba/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "cilantro-lime-chicken-sandwich",
+   "title": "Crispy Cilantro Lime Chicken Sandwich",
+   "img": "img/cilantro-lime-chicken-sandwich.jpg",
+   "t": 7,
+   "servings": 2,
+   "unit": "sandwich",
+   "time": "45 min",
+   "macros": {
+    "cal": 610,
+    "protein": 45,
+    "carbs": 55,
+    "fat": 22
+   },
+   "stated": [
+    "protein"
+   ],
+   "tags": [
+    "Main meal",
+    "Lunch",
+    "Dinner",
+    "Chicken",
+    "High protein",
+    "Sandwich"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken breast, butterflied and pounded into 2 cutlets",
+       "a": "Meat",
+       "q": 400,
+       "u": "g"
+      },
+      {
+       "i": "limes, zested and juiced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "garlic cloves, grated",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "each salt, cumin and chili flakes",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "flour",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "egg, beaten",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "panko",
+       "a": "Baking",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "avocado oil, for frying",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "chopped cilantro",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Cilantro lime cucumbers",
+     "items": [
+      {
+       "i": "cucumber, thinly sliced or spiralized",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "handful of cilantro, chopped",
+       "a": "Produce"
+      },
+      {
+       "i": "salt and a splash of rice vinegar",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Sauce & bread",
+     "items": [
+      {
+       "i": "Greek yogurt or avocado mayo",
+       "a": "Dairy",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "lime juice, garlic and salt",
+       "a": "Produce"
+      },
+      {
+       "i": "crusty rolls or ciabatta, toasted",
+       "a": "Baking",
+       "q": 2
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Toss the cutlets with lime zest and half the juice, garlic, salt, cumin and chili flakes for at least 15 minutes."
+    ],
+    [
+     "Bread",
+     "Dredge in flour, dip in egg and press into panko."
+    ],
+    [
+     "Fry",
+     "Shallow-fry in avocado oil 3–4 minutes per side until golden and cooked through. Toss with honey, the remaining lime juice and cilantro so it's glossy."
+    ],
+    [
+     "Cucumbers",
+     "Mix the cucumber with lime, cilantro, salt and vinegar; let it sit while the chicken cooks."
+    ],
+    [
+     "Sauce",
+     "Stir the yogurt or mayo with lime, garlic and salt."
+    ],
+    [
+     "Build",
+     "Spread sauce on the toasted bread, add the chicken, pile on the cucumbers and drizzle more sauce."
+    ]
+   ],
+   "notes": "Estimated. The creator keeps the full recipe on his website (donaldocooks.com), which couldn't be opened from here, so ingredients, amounts and method are reconstructed from the video. The video says about 45 g protein; the other macros are estimates."
+  }
+ ]
+}

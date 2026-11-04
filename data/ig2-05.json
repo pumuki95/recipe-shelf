@@ -1,0 +1,193 @@
+{
+ "src": {
+  "key": "DbvmLaMR6JI",
+  "platform": "Instagram",
+  "creator": "noahperlofit",
+  "title": "Meal Prep General Tso‼️",
+  "url": "https://www.instagram.com/noahperlofit/reel/DbvmLaMR6JI/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "general-tso-chicken-meal-prep",
+   "title": "General Tso Chicken (Meal Prep)",
+   "img": "img/general-tso-chicken-meal-prep.jpg",
+   "t": 39,
+   "servings": 10,
+   "unit": "serving",
+   "time": "1 h",
+   "macros": {
+    "cal": 474,
+    "protein": 47,
+    "carbs": 37,
+    "fat": 15.3
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Chinese",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken breast, diced",
+       "a": "Meat",
+       "q": 2000,
+       "u": "g"
+      },
+      {
+       "i": "cornstarch",
+       "a": "Pantry",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "General Tso sauce",
+     "items": [
+      {
+       "i": "gochujang",
+       "a": "International",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "ketchup",
+       "a": "Pantry",
+       "q": 75,
+       "u": "g"
+      },
+      {
+       "i": "6–10 dried red chilies",
+       "a": "International"
+      },
+      {
+       "i": "hoisin sauce",
+       "a": "International",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 75,
+       "u": "g"
+      },
+      {
+       "i": "rice vinegar",
+       "a": "International",
+       "q": 35,
+       "u": "g"
+      },
+      {
+       "i": "toasted sesame oil",
+       "a": "International",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "8–10 garlic cloves, minced",
+       "a": "Produce"
+      },
+      {
+       "i": "fresh ginger, minced",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "water",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "cornstarch",
+       "a": "Pantry",
+       "q": 25,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "i": "cooked rice (not in macros)",
+       "a": "Pantry"
+      },
+      {
+       "i": "sliced green onions and sesame seeds",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Coat",
+     "Toss the chicken with the cornstarch, baking powder, salt, pepper and garlic powder until evenly coated."
+    ],
+    [
+     "Bake",
+     "Spread on lined sheet pans and bake at 425°F (220°C) for 20–25 minutes, flipping halfway, until crisp at the edges."
+    ],
+    [
+     "Sauce",
+     "Mix the cornstarch with the water. Simmer everything else for the sauce for a few minutes, then stir in the slurry until thick and glossy."
+    ],
+    [
+     "Toss",
+     "Toss the chicken in the sauce."
+    ],
+    [
+     "Portion",
+     "Divide over rice in 10 containers and top with green onions and sesame seeds."
+    ]
+   ],
+   "notes": "Ingredients and macros (per serving, without rice) are the creator's. The baking method and times are estimated from the video, since he doesn't list them."
+  }
+ ]
+}
