@@ -396,7 +396,8 @@
   "chocolate-banana-cottage-cheese-cake",
   "fdl-brownie-protein-pizookie",
   "banana-greek-yogurt-cheesecake",
-  "blueberry-greek-yogurt-bake"
+  "blueberry-greek-yogurt-bake",
+  "sweet-potato-brownies"
  ],
  "Protein bars, bites & bark": [
   "salted-caramel-twix-bars",
@@ -475,5 +476,9 @@
   "classic-cocoa-hot-chocolate",
   "french-style-thick-hot-chocolate",
   "spiced-oat-milk-hot-chocolate"
+ ],
+ "Sauces & dressings": [
+  "bang-bang-cottage-cheese-sauce",
+  "chili-lime-greek-yogurt-sauce"
  ]
 }
