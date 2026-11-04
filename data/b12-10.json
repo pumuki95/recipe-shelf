@@ -1,0 +1,51 @@
+{"src":{"key":"aXbO3fC3QoY","platform":"YouTube","creator":"Scrumdiddlyumptious","title":"3 Epic Stuffed Baguettes That Will Blow Your Mind","url":"https://www.youtube.com/watch?v=aXbO3fC3QoY","recipes":3},
+"recipes":[
+{"id":"toad-in-the-hole-breakfast-baguette","title":"Toad-in-the-Hole Breakfast Baguette (eggs, bacon & cheddar)","img":"img/toad-in-the-hole-breakfast-baguette.jpg","part":"Breakfast loaf","t":33,"servings":5,"unit":"egg section","time":"30 min","macros":{"cal":395,"protein":21,"carbs":32,"fat":20,"fiber":1,"sugar":2},"stated":[],"tags":["Breakfast","Brunch","Baked","Eggs"],
+"groups":[{"name":"Loaf","items":[
+{"q":1,"i":"baguette","a":"Bakery"},
+{"q":5,"i":"eggs","a":"Dairy"},
+{"q":5,"u":"oz","i":"bacon, diced","a":"Meat"},
+{"q":5,"u":"oz","i":"shredded cheddar","a":"Dairy"}]}],
+"steps":[
+["Hollow","Heat the oven to 350°F (175°C). Cut 5 evenly spaced holes in the top of the baguette and scoop out some of the inside."],
+["Fill","Cook the diced bacon until crisp and divide it between the holes, then sprinkle cheddar into each."],
+["Bake","Crack an egg into each hole and bake about 15 minutes, until the whites are set (longer for firm yolks)."]],
+"notes":"Recipe from the creator's description; macros are estimated per egg section."},
+{"id":"bacon-wrapped-pepperoni-baguette","title":"Bacon-Wrapped Pepperoni Cheese Baguette","img":"img/bacon-wrapped-pepperoni-baguette.jpg","part":"Bacon-wrapped baguette","t":80,"servings":8,"unit":"slice","time":"1 h","macros":{"cal":780,"protein":36,"carbs":28,"fat":58,"fiber":1,"sugar":4},"stated":[],"tags":["Party food","Baked","Comfort food"],
+"groups":[{"name":"Baguette","items":[
+{"q":1,"i":"baguette","a":"Bakery"},
+{"q":1.5,"u":"cup","i":"shredded mozzarella","a":"Dairy"},
+{"q":13,"i":"slices American cheese","a":"Dairy"},
+{"q":12,"u":"oz","i":"sliced pepperoni","a":"Meat"},
+{"q":0.25,"u":"cup","i":"ketchup","a":"Pantry"},
+{"q":0.25,"u":"cup","i":"mayonnaise","a":"Pantry"},
+{"q":14,"u":"oz","i":"bacon strips","a":"Meat"}]}],
+"steps":[
+["Split","Heat the oven to 350°F (175°C). Slice the baguette lengthwise, keeping the top and bottom attached."],
+["Layer","Spread mayo on the bottom, add 1/3 of the pepperoni, half the mozzarella, another 1/3 pepperoni, half the ketchup and the American cheese. Spread the rest of the ketchup and mayo, add the remaining pepperoni and mozzarella, and close."],
+["Wrap","Lay the bacon in one long, overlapping double row, set the baguette on top and wrap the bacon around it from both sides."],
+["Bake","Bake for 45 minutes until the bacon is crisp. Slice to serve."]],
+"notes":"Recipe from the creator's description; macros are estimated per slice (8). Very indulgent, best for sharing."},
+{"id":"italian-meatball-sub-boat","title":"Italian Sausage Meatball Sub Boat","img":"img/italian-meatball-sub-boat.jpg","part":"Meatball sub boat","t":124,"servings":4,"unit":"serving","time":"1 h","macros":{"cal":980,"protein":48,"carbs":75,"fat":53,"fiber":5,"sugar":10},"stated":[],"tags":["Dinner","Baked","Italian","Comfort food"],
+"groups":[
+{"name":"Meatballs","items":[
+{"q":1,"u":"lb","i":"ground Italian sausage","a":"Meat"},
+{"q":1,"u":"tsp","i":"garlic powder","a":"Pantry"},
+{"q":1,"u":"tsp","i":"black pepper","a":"Pantry"},
+{"q":2,"u":"tbsp","i":"dried basil","a":"Pantry"},
+{"q":0.5,"u":"cup","i":"grated parmesan","a":"Dairy"},
+{"q":1,"i":"egg","a":"Dairy"},
+{"q":2,"u":"cup","i":"breadcrumbs","a":"Bakery"},
+{"q":14,"u":"oz","i":"marinara sauce","a":"Pantry"},
+{"i":"olive oil, for frying","a":"Pantry"}]},
+{"name":"Boat","items":[
+{"q":1,"i":"baguette","a":"Bakery"},
+{"q":2,"u":"cup","i":"shredded mozzarella","a":"Dairy"},
+{"q":1,"u":"cup","i":"shredded parmesan","a":"Dairy"},
+{"i":"fresh basil, to garnish","a":"Produce"}]}],
+"steps":[
+["Meatballs","Heat the oven to 350°F (175°C). Mix the sausage with the garlic powder, pepper, basil, grated parmesan, egg and breadcrumbs. Shape into meatballs and fry in olive oil until golden."],
+["Simmer","Add the marinara and simmer about 15 minutes."],
+["Boat","Cut a long rectangle out of the top of the baguette and scoop out the inside."],
+["Fill & bake","Sprinkle in half the mozzarella and all the shredded parmesan, add the meatballs and sauce, top with the remaining mozzarella and bake 25 minutes. Garnish with fresh basil."]],
+"notes":"Recipe from the creator's description; macros are estimated per quarter."}]}
