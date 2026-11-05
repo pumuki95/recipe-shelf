@@ -1,0 +1,221 @@
+{
+ "src": {
+  "key": "DeXD-2FRLzE",
+  "platform": "Instagram",
+  "creator": "hunt4shredz",
+  "title": "Honey Chipotle Chicken Burrito Meal Prep 🌯",
+  "url": "https://www.instagram.com/hunt4shredz/reel/DeXD-2FRLzE/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "honey-chipotle-chicken-burritos-meal-prep",
+   "title": "Honey Chipotle Chicken Burritos with Chipotle Ranch (Meal Prep)",
+   "img": "img/honey-chipotle-chicken-burritos-meal-prep.jpg",
+   "t": 44,
+   "servings": 8,
+   "unit": "burrito",
+   "time": "45 min",
+   "macros": {
+    "cal": 370,
+    "protein": 39,
+    "carbs": 33,
+    "fat": 11
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Lunch",
+    "Tortillas",
+    "Mexican-inspired",
+    "Freezer friendly",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Honey chipotle chicken",
+     "items": [
+      {
+       "i": "chicken breast, diced",
+       "a": "Meat",
+       "q": 2,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "chili powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt and pepper, to taste",
+       "a": "Pantry"
+      },
+      {
+       "i": "chipotle peppers in adobo, minced",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 1
+      }
+     ]
+    },
+    {
+     "name": "Peppers & onions",
+     "items": [
+      {
+       "i": "red bell pepper, sliced or diced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "yellow or white onion, sliced or diced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "cooking spray",
+       "a": "Pantry"
+      },
+      {
+       "i": "salt, pepper and garlic powder, to taste",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Assembly",
+     "items": [
+      {
+       "i": "large low-calorie tortillas",
+       "a": "Baking",
+       "q": 8
+      },
+      {
+       "i": "reduced-fat Mexican cheese blend",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "chopped cilantro",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Chipotle ranch",
+     "items": [
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "ranch seasoning",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "chipotle peppers in adobo",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "water, to thin",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Toss the chicken with the olive oil, spices, salt, pepper, chipotle, honey and lime juice."
+    ],
+    [
+     "Peppers & onions",
+     "Cook the peppers and onion in a pan with cooking spray, salt, pepper and garlic powder until soft and lightly charred, then set aside."
+    ],
+    [
+     "Chicken",
+     "Cook the chicken in the same pan over medium-high heat for 8–10 minutes until cooked through and sticky, then stir the peppers and onions back in."
+    ],
+    [
+     "Assemble",
+     "Spoon the filling onto each tortilla, top with cheese and cilantro and roll up tightly, tucking in the sides."
+    ],
+    [
+     "Sear",
+     "Toast the burritos seam-side down in a pan over medium heat until golden on both sides."
+    ],
+    [
+     "Chipotle ranch",
+     "Blend the yogurt, ranch seasoning, chipotle, honey and lime juice, adding water until it's a drizzling or dipping consistency."
+    ],
+    [
+     "Store",
+     "Cool, wrap individually and refrigerate up to 4 days or freeze. Keep the sauce separate."
+    ]
+   ],
+   "notes": "Ingredients are the creator's. The post gives no macros (he keeps them in his paid cookbook), so the macros are estimates per burrito, not counting the chipotle ranch (about 20 cal per tablespoon). The method and times are estimated from the video. Macros depend a lot on the tortillas you use."
+  }
+ ]
+}
