@@ -1,0 +1,214 @@
+{
+ "src": {
+  "key": "builttogether-sweet-sour-crispy-bites",
+  "platform": "Instagram",
+  "creator": "Built Together",
+  "title": "Protein Crispy Bites with Sweet & Sour Built Sauce",
+  "recipes": 2
+ },
+ "recipes": [
+  {
+   "id": "protein-crispy-beef-rice-paper-bites",
+   "title": "Protein Crispy Bites (Beef & Rice Paper)",
+   "img": "img/protein-crispy-beef-rice-paper-bites.jpg",
+   "part": 1,
+   "t": 0,
+   "servings": 2,
+   "unit": "serving",
+   "time": "25 min",
+   "macros": {
+    "cal": 290,
+    "protein": 28,
+    "carbs": 18,
+    "fat": 11
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Main meal",
+    "Snack",
+    "High protein",
+    "Beef",
+    "Ground beef",
+    "Air fryer",
+    "Asian-inspired",
+    "Dairy free"
+   ],
+   "groups": [
+    {
+     "name": "Bites",
+     "items": [
+      {
+       "i": "beef mince",
+       "a": "Meat",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "rice paper sheets",
+       "a": "International",
+       "q": 3
+      },
+      {
+       "i": "carrot, grated",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "coconut aminos",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "small handful spring onion, chopped",
+       "a": "Produce"
+      },
+      {
+       "i": "grated ginger",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "diced garlic",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "spring onion and sesame seeds, to garnish",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "i": "Sweet & Sour Built Sauce (see the other recipe in this post)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Filling",
+     "Mix the mince, carrot, coconut aminos, sesame oil, spring onion, ginger and garlic in a bowl."
+    ],
+    [
+     "Soften",
+     "Dip a rice paper sheet in warm water for a few seconds until just soft, then lay it flat."
+    ],
+    [
+     "Roll",
+     "Spread a third of the mince along the sheet, fold in the sides and roll it up tight. Repeat with the other 2."
+    ],
+    [
+     "Air fry",
+     "Cut each roll into 4 or 5 bites. Air fry at 200°C (400°F) for 12–15 minutes, flipping halfway, until crispy and cooked through."
+    ],
+    [
+     "Sauce",
+     "While they cook, blend the Sweet & Sour sauce."
+    ],
+    [
+     "Serve",
+     "Top with spring onion and sesame seeds, then dunk."
+    ]
+   ],
+   "notes": "Recipe, calories and protein are the creator's (per serving, from the recipe card). Carbs and fat are estimates. The macros don't seem to include the dipping sauce (about 66 cal per 2 tbsp). Coconut aminos keep it soy-free; the bites are dairy-free but the sauce is not."
+  },
+  {
+   "id": "sweet-sour-cottage-cheese-sauce",
+   "title": "Sweet & Sour Built Sauce (Cottage Cheese)",
+   "img": "img/sweet-sour-cottage-cheese-sauce.jpg",
+   "part": 2,
+   "t": 0,
+   "servings": 8,
+   "unit": "serve (2 tbsp)",
+   "time": "5 min",
+   "macros": {
+    "cal": 66,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 1
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Snack",
+    "Quick",
+    "No cook",
+    "Vegetarian",
+    "Meal prep",
+    "Low fat"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "sweet chilli sauce (Mingle, or any brand)",
+       "a": "International",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "tomato sauce / ketchup (Mingle, or any brand)",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "white wine vinegar",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt and pepper, to taste",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Add everything to a blender and blend until completely smooth."
+    ],
+    [
+     "Season",
+     "Taste and adjust the salt and pepper."
+    ],
+    [
+     "Bottle",
+     "Pour into a 200 ml squeezy bottle or an airtight jar."
+    ],
+    [
+     "Store",
+     "Keep in the fridge and use within 5 days. Shake before using."
+    ]
+   ],
+   "notes": "Recipe, calories and protein are the creator's (per 2 tbsp serve). Carbs and fat are estimates. Mingle is an Australian brand, so any sweet chilli sauce and tomato sauce (ketchup) work. Great on crispy bites, spring rolls and fried rice."
+  }
+ ]
+}
