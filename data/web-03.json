@@ -1,0 +1,259 @@
+{
+ "src": {
+  "key": "heartandsoil-apple-cinnamon-protein-cheesecake",
+  "platform": "Website",
+  "creator": "Joshua Paque · Heart & Soil",
+  "title": "Easy Protein Cheesecake: No-Bake Apple Cinnamon Recipe",
+  "url": "https://heartandsoil.co/blog/apple-cinnamon-protein-cheesecake-recipe/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Heart & Soil"
+ },
+ "recipes": [
+  {
+   "id": "apple-cinnamon-protein-cheesecake",
+   "title": "No-Bake Apple Cinnamon Protein Cheesecake (Whey Crust)",
+   "img": "img/apple-cinnamon-protein-cheesecake.jpg",
+   "t": 0,
+   "servings": 12,
+   "unit": "slice",
+   "time": "1 h 15 min + overnight chill",
+   "macros": {
+    "cal": 450,
+    "protein": 28,
+    "carbs": 25,
+    "fat": 27
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "High protein",
+    "No-bake",
+    "Gluten-free",
+    "No refined sugar",
+    "Vegetarian",
+    "Make-ahead"
+   ],
+   "groups": [
+    {
+     "name": "Whey crust",
+     "items": [
+      {
+       "i": "grass-fed butter",
+       "a": "Dairy",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "unflavored whey protein powder",
+       "a": "Pantry",
+       "q": 270,
+       "u": "g"
+      },
+      {
+       "i": "raw honey",
+       "a": "Pantry",
+       "q": 20,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Cheesecake filling",
+     "items": [
+      {
+       "i": "cream cheese",
+       "a": "Dairy",
+       "q": 260,
+       "u": "g"
+      },
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 400,
+       "u": "g"
+      },
+      {
+       "i": "raw honey",
+       "a": "Pantry",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "unflavored whey protein powder",
+       "a": "Pantry",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "2 scoops unflavored colostrum powder (optional)",
+       "a": "Pantry"
+      },
+      {
+       "i": "vanilla powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "Ceylon cinnamon",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "beef gelatin powder",
+       "a": "Baking",
+       "q": 6,
+       "u": "g"
+      },
+      {
+       "i": "cold water",
+       "a": "Pantry",
+       "q": 4,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Apple sauce",
+     "items": [
+      {
+       "i": "apples",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "lemon or lime juice",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "water",
+       "a": "Pantry",
+       "q": 150,
+       "u": "ml"
+      },
+      {
+       "i": "nutmeg",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "Ceylon cinnamon",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "raw honey",
+       "a": "Pantry",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "beef gelatin powder",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "g"
+      },
+      {
+       "i": "cold water",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Golden apple cubes",
+     "items": [
+      {
+       "i": "apples",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "grass-fed butter",
+       "a": "Dairy",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "raw honey",
+       "a": "Pantry",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "nutmeg",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "Ceylon cinnamon",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon or lime juice",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Toast the crust",
+     "Melt the butter over low heat, sift in the whey and cook a few minutes, stirring and breaking up lumps with a potato masher, until lightly toasted but still slightly moist. Transfer to a bowl, cool slightly, then fork in the honey until fine and sandy."
+    ],
+    [
+     "Two crusts",
+     "Use two 17 cm (6.5 in) springform pans: line the base and sides of one, only the base of the other. Press ⅔ of the mix over the base and sides of the fully lined pan (just under 0.5 cm thick) and the rest into the base of the second. Chill until firm, ideally overnight."
+    ],
+    [
+     "Bloom gelatin",
+     "Sprinkle the 6 g gelatin over 4 tbsp cold water and let it firm up."
+    ],
+    [
+     "Filling",
+     "Whisk the yogurt, whey, colostrum, vanilla and cinnamon until smooth. Beat the cream cheese until creamy, mix in the honey, then whisk in the yogurt mixture."
+    ],
+    [
+     "Add gelatin",
+     "Melt the bloomed gelatin gently over low heat. Whisk in 2 tbsp of filling, then whisk this back into the rest of the filling. Refrigerate."
+    ],
+    [
+     "Apple sauce",
+     "Bloom the 1.5 g gelatin in 1 tbsp cold water. Peel, core and chop 3 apples and cook covered with the citrus juice, water, nutmeg and cinnamon until very soft and the water has evaporated. Mash smooth, stir in the gelatin, cool to lukewarm, add the honey and cool completely."
+    ],
+    [
+     "Golden apples",
+     "Peel, core and cube the other 4 apples (about 1 cm). Toss with citrus juice, cinnamon and nutmeg, cook covered in the butter until starting to soften, then uncover and cook until dry and golden. Cool to lukewarm, stir in the honey and cool completely."
+    ],
+    [
+     "Layer",
+     "Pour half the filling into the crust-lined pan and make a shallow well. Spoon in the apple sauce (away from the edges), scatter the apple cubes over it, then pour over the remaining filling and smooth."
+    ],
+    [
+     "Top",
+     "Place the second chilled crust on top, pressing any cracks back together."
+    ],
+    [
+     "Chill",
+     "Refrigerate at least 4 hours, ideally overnight."
+    ],
+    [
+     "Flip & serve",
+     "Put a plate over the pan, flip, release the pan and peel off the parchment. Drizzle with honey if you like and crack through the crust to serve."
+    ]
+   ],
+   "notes": "Recipe by Joshua Paque for Heart & Soil (their whey and colostrum are named, but any unflavored whey works). The post gives no servings or nutrition, so the 12 slices and the macros are estimates based on full-fat Greek yogurt and regular cream cheese; it's rich, since the crust alone has 200 g butter. Tips: don't overcook the crust, cool the apples completely before layering, and use springform pans."
+  }
+ ]
+}
