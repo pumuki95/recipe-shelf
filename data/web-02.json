@@ -1,0 +1,129 @@
+{
+ "src": {
+  "key": "choosingchia-cottage-cheese-chocolate-chip-buns",
+  "platform": "Website",
+  "creator": "Jessica Hoffman · Choosing Chia",
+  "title": "Cottage Cheese Chocolate Chip Buns",
+  "url": "https://choosingchia.com/cottage-cheese-chocolate-chip-buns/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Choosing Chia"
+ },
+ "recipes": [
+  {
+   "id": "cottage-cheese-chocolate-chip-buns",
+   "title": "Cottage Cheese Chocolate Chip Buns (No Yeast)",
+   "img": "img/cottage-cheese-chocolate-chip-buns.jpg",
+   "t": 0,
+   "servings": 6,
+   "unit": "bun",
+   "time": "35 min",
+   "macros": {
+    "cal": 165,
+    "protein": 8,
+    "carbs": 22,
+    "fat": 6,
+    "fiber": 1,
+    "sugar": 5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "fiber",
+    "sugar"
+   ],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "Baked",
+    "Vegetarian",
+    "Quick",
+    "Bread"
+   ],
+   "groups": [
+    {
+     "name": "Buns",
+     "items": [
+      {
+       "i": "thick cottage cheese (or thick Greek yogurt)",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "egg, at room temperature",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "all-purpose flour, plus more as needed",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.125,
+       "u": "tsp"
+      },
+      {
+       "i": "chocolate chips (or more)",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "melted butter or oil spray, for brushing",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Preheat",
+     "Heat the oven to 350°F (175°C) and line a baking sheet with parchment."
+    ],
+    [
+     "Blend",
+     "Blend the cottage cheese until completely smooth (immersion blender, small food processor or single-serve blender)."
+    ],
+    [
+     "Wet",
+     "Whisk the blended cottage cheese, egg and vanilla together."
+    ],
+    [
+     "Dry",
+     "In another bowl, whisk the flour, baking powder and salt."
+    ],
+    [
+     "Dough",
+     "Add the dry ingredients to the wet and mix until just combined. Add a little more flour if needed for a firm, scoopable dough, then gently fold in the chocolate chips."
+    ],
+    [
+     "Shape",
+     "Dollop into 6 mounds on the baking sheet (rustic is fine) and brush with melted butter or spray with oil."
+    ],
+    [
+     "Bake",
+     "Bake 20–24 minutes until golden. Let cool slightly before serving."
+    ]
+   ],
+   "notes": "Recipe and nutrition are the creator's, per bun. Use a thick cottage cheese: if the dough is runny, the buns spread flat, so add flour until it holds a mound. Add 1–2 tbsp sugar to the dry ingredients for a sweeter bun. Keeps 3 days in the fridge or 2 months frozen; warm in the oven."
+  }
+ ]
+}
