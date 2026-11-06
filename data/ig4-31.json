@@ -1,0 +1,205 @@
+{
+ "src": {
+  "key": "DfVDN54DUBQ",
+  "platform": "Instagram",
+  "creator": "nickkaz.fit",
+  "title": "300 Calorie Huge & Massive Crumbl Protein Brookie",
+  "url": "https://www.instagram.com/nickkaz.fit/reel/DfVDN54DUBQ/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "giant-protein-brookie",
+   "title": "Giant Crumbl-Style Protein Brookie",
+   "img": "img/giant-protein-brookie.jpg",
+   "t": 0,
+   "servings": 2,
+   "unit": "brookie",
+   "time": "50 min",
+   "macros": {
+    "cal": 305,
+    "protein": 32,
+    "carbs": 32,
+    "fat": 5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "High protein",
+    "Baked",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Cookie batter",
+     "items": [
+      {
+       "i": "plain or vanilla nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "egg whites",
+       "a": "Dairy",
+       "q": 25,
+       "u": "ml"
+      },
+      {
+       "i": "vanilla extract (optional)",
+       "a": "Baking",
+       "q": 2,
+       "u": "ml"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "casein protein powder",
+       "a": "Pantry",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "oat flour",
+       "a": "Baking",
+       "q": 5,
+       "u": "g"
+      },
+      {
+       "i": "granulated sugar substitute",
+       "a": "Baking",
+       "q": 24,
+       "u": "g"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 1,
+       "u": "g"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Brownie batter",
+     "items": [
+      {
+       "i": "egg whites",
+       "a": "Dairy",
+       "q": 120,
+       "u": "ml"
+      },
+      {
+       "i": "plain or vanilla nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "pumpkin purée",
+       "a": "Produce",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "almond milk",
+       "a": "Dairy",
+       "q": 120,
+       "u": "ml"
+      },
+      {
+       "i": "all-purpose flour (+35 g optional for denser)",
+       "a": "Baking",
+       "q": 35,
+       "u": "g"
+      },
+      {
+       "i": "granulated sugar substitute (72–96 g)",
+       "a": "Baking",
+       "q": 84,
+       "u": "g"
+      },
+      {
+       "i": "whey/casein blend protein powder",
+       "a": "Pantry",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "black or dark cocoa powder",
+       "a": "Baking",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 2,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 2,
+       "u": "g"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "i": "chocolate chips",
+       "a": "Baking",
+       "q": 10,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Prep",
+     "Heat the oven to 350°F (175°C) and spray two 5- or 6-inch springform pans."
+    ],
+    [
+     "Cookie batter",
+     "Mix the wet and dry cookie ingredients separately, then combine."
+    ],
+    [
+     "Brownie batter",
+     "Mix the brownie wet and dry separately, then combine without overmixing. Divide between the pans."
+    ],
+    [
+     "Layer",
+     "Dollop the cookie batter over the brownie, spread gently and add the chocolate chips."
+    ],
+    [
+     "Bake",
+     "Bake 28–38 minutes (6-inch) or 32–42 minutes (5-inch) until the edges are set and centers slightly soft."
+    ],
+    [
+     "Cool",
+     "Cool in the pans 30 minutes before releasing. Serve with ice cream and chocolate sauce if you like (not in the macros)."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per brookie (net carbs). A whey/casein blend gives the fudgiest texture."
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "src": {
+  "key": "DfH3-p2NYsF",
+  "platform": "Instagram",
+  "creator": "panaceapalm",
+  "title": "Tuna Egg Smash",
+  "url": "https://www.instagram.com/panaceapalm/reel/DfH3-p2NYsF/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "tuna-egg-smash-salad",
+   "title": "Tuna Egg Smash (High-Protein Egg Salad)",
+   "img": "img/tuna-egg-smash-salad.jpg",
+   "t": 0,
+   "servings": 3,
+   "unit": "serving",
+   "time": "20 min",
+   "macros": {
+    "cal": 294,
+    "protein": 32,
+    "carbs": 9,
+    "fat": 15
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Lunch",
+    "High protein",
+    "Fish",
+    "Gluten-free",
+    "Quick",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Salad",
+     "items": [
+      {
+       "i": "hard-boiled eggs",
+       "a": "Dairy",
+       "q": 6
+      },
+      {
+       "i": "canned tuna in water, drained",
+       "a": "Meat",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "0% Greek yogurt",
+       "a": "Dairy",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "sweetcorn",
+       "a": "Produce",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "chopped pickles",
+       "a": "Produce",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "green onion, chopped (green parts)",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "cracked black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt, to taste",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Smash",
+     "Smash the eggs in a bowl (a pastry cutter or fork works well)."
+    ],
+    [
+     "Mix",
+     "Add the tuna, yogurt, mayo, corn, pickles, green onion and seasoning and mix."
+    ],
+    [
+     "Serve",
+     "Serve on toast, in wraps or with crackers; keeps 3 days in the fridge."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving."
+  }
+ ]
+}

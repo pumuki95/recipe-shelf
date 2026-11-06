@@ -1,0 +1,175 @@
+{
+ "src": {
+  "key": "Ddp0d6euF_7",
+  "platform": "Instagram",
+  "creator": "kimsproteinkitchen",
+  "title": "Top 7 protein bars (Cookie Monster recipe)",
+  "url": "https://www.instagram.com/kimsproteinkitchen/reel/Ddp0d6euF_7/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "cookie-monster-protein-bars",
+   "title": "Cookie Monster Protein Bars",
+   "img": "img/cookie-monster-protein-bars.jpg",
+   "t": 0,
+   "servings": 7,
+   "unit": "bar",
+   "time": "20 min + freezing",
+   "macros": {
+    "cal": 200,
+    "protein": 20,
+    "carbs": 16,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Snack",
+    "Dessert",
+    "High protein",
+    "Vegetarian",
+    "No-bake"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "plain Greek yogurt",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "peanut butter",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "scoops vanilla protein powder",
+       "a": "Pantry",
+       "q": 3
+      },
+      {
+       "i": "oat flour",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "butter, softened",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "vanilla",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "mini chocolate chips",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Blue frosting (blended)",
+     "items": [
+      {
+       "i": "1% cottage cheese",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "light cream cheese",
+       "a": "Dairy",
+       "q": 2,
+       "u": "oz"
+      },
+      {
+       "i": "maple syrup",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "scoop vanilla protein powder",
+       "a": "Pantry",
+       "q": 1
+      },
+      {
+       "i": "blue spirulina",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "vanilla",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cake-batter extract (optional)",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "i": "chocolate sandwich cookie, broken up",
+       "a": "Baking",
+       "q": 1
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Base",
+     "Mix the base ingredients until thick, fold in the chocolate chips and press into a parchment-lined loaf pan."
+    ],
+    [
+     "Frosting",
+     "Blend the frosting ingredients until very smooth and pour over the base."
+    ],
+    [
+     "Top",
+     "Scatter the broken cookie over the top."
+    ],
+    [
+     "Set",
+     "Freeze 30–60 minutes, thaw 10 minutes and slice into 7 bars."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (approx. midpoint, per bar). The post shows her top 7 flavors; this is the one she shared the recipe for."
+  }
+ ]
+}

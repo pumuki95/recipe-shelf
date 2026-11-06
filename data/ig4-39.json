@@ -1,0 +1,129 @@
+{
+ "src": {
+  "key": "DeMowOVRbWB",
+  "platform": "Instagram",
+  "creator": "kin.elevital",
+  "title": "Homemade Snickers",
+  "url": "https://www.instagram.com/kin.elevital/reel/DeMowOVRbWB/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "homemade-snickers-bars",
+   "title": "Homemade Snickers Bars (No Refined Sugar)",
+   "img": "img/homemade-snickers-bars.jpg",
+   "t": 0,
+   "servings": 12,
+   "unit": "bar",
+   "time": "30 min + freezing",
+   "macros": {
+    "cal": 330,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 26
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "No-bake",
+    "Vegetarian",
+    "Gluten-free",
+    "No refined sugar",
+    "Indulgent"
+   ],
+   "groups": [
+    {
+     "name": "Nougat base",
+     "items": [
+      {
+       "i": "cashews (1 cup)",
+       "a": "Pantry",
+       "q": 130,
+       "u": "g"
+      },
+      {
+       "i": "coconut cream (1 cup)",
+       "a": "International",
+       "q": 240,
+       "u": "g"
+      },
+      {
+       "i": "maple syrup (3 tbsp)",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "pinch of flaky salt",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Peanut butter caramel",
+     "items": [
+      {
+       "i": "peanut butter (1 cup)",
+       "a": "Pantry",
+       "q": 260,
+       "u": "g"
+      },
+      {
+       "i": "maple syrup (3 tbsp)",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Topping & coating",
+     "items": [
+      {
+       "i": "roasted peanuts (⅓ cup)",
+       "a": "Pantry",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "dark chocolate, 70%+ (1¼ cups)",
+       "a": "Baking",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "flaky salt",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Nougat",
+     "Blend the base until completely smooth, spread into a lined 20 cm (8-inch) square pan and freeze until firm."
+    ],
+    [
+     "Caramel",
+     "Mix the caramel ingredients until smooth and spread over the frozen base."
+    ],
+    [
+     "Peanuts",
+     "Scatter the peanuts over and press in gently. Freeze until firm enough to slice."
+    ],
+    [
+     "Coat",
+     "Cut into bars, dip in melted dark chocolate and sprinkle with flaky salt while wet."
+    ]
+   ],
+   "notes": "Recipe is the creator's. She gives no servings or macros, so the 12 bars and macros are estimates; these are rich, not a protein recipe."
+  }
+ ]
+}

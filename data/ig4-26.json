@@ -1,0 +1,188 @@
+{
+ "src": {
+  "key": "DcUHl--B2SQ",
+  "platform": "Instagram",
+  "creator": "christopherkaiyu",
+  "title": "Low-Calorie, High-Protein Frosted Chocolate Oreo Loaf",
+  "url": "https://www.instagram.com/christopherkaiyu/reel/DcUHl--B2SQ/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "frosted-chocolate-oreo-protein-loaf",
+   "title": "Frosted Chocolate Oreo Protein Loaf",
+   "img": "img/frosted-chocolate-oreo-protein-loaf.jpg",
+   "t": 0,
+   "servings": 9,
+   "unit": "slice",
+   "time": "1 h",
+   "macros": {
+    "cal": 138,
+    "protein": 15,
+    "carbs": 14,
+    "fat": 2.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Baked",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Wet",
+     "items": [
+      {
+       "i": "whole eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "plain nonfat Greek yogurt (1½ cups)",
+       "a": "Dairy",
+       "q": 340,
+       "u": "g"
+      },
+      {
+       "i": "light butter, melted",
+       "a": "Dairy",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "unsweetened almond milk (75–90 ml)",
+       "a": "Dairy",
+       "q": 82,
+       "u": "ml"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Dry",
+     "items": [
+      {
+       "i": "oat flour",
+       "a": "Baking",
+       "q": 70,
+       "u": "g"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "chocolate protein powder (~2½ scoops)",
+       "a": "Pantry",
+       "q": 75,
+       "u": "g"
+      },
+      {
+       "i": "dark cocoa powder",
+       "a": "Baking",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "granular zero-calorie sweetener",
+       "a": "Baking",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "xanthan gum (optional)",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Frosting & topping",
+     "items": [
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 113,
+       "u": "g"
+      },
+      {
+       "i": "nonfat cream cheese",
+       "a": "Dairy",
+       "q": 24,
+       "u": "g"
+      },
+      {
+       "i": "powdered zero-calorie sweetener",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "splash of almond milk if needed",
+       "a": "Dairy"
+      },
+      {
+       "i": "Oreo cookie, crushed",
+       "a": "Baking",
+       "q": 1
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Preheat",
+     "Heat the oven to 350°F (175°C) and line a loaf pan."
+    ],
+    [
+     "Mix",
+     "Mix the wet ingredients (75 ml milk to start) until smooth, mix the dry separately, then combine. The batter should be thick and spreadable; add milk up to 90 ml if too dry."
+    ],
+    [
+     "Bake",
+     "Spread in the pan and bake 40–45 minutes until set and a toothpick comes out mostly clean; don't overbake."
+    ],
+    [
+     "Frosting",
+     "Mix the yogurt, cream cheese and powdered sweetener; chill while the loaf cools completely."
+    ],
+    [
+     "Finish",
+     "Frost, top with crushed Oreo and cut into 9 thick slices. Keep in the fridge."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (estimated by him, per slice, net carbs)."
+  }
+ ]
+}

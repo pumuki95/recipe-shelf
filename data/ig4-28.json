@@ -1,0 +1,135 @@
+{
+ "src": {
+  "key": "DeSbLBtvJxw",
+  "platform": "Instagram",
+  "creator": "sjbwellness",
+  "title": "Air fryer protein apple fritters",
+  "url": "https://www.instagram.com/sjbwellness/reel/DeSbLBtvJxw/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "air-fryer-protein-apple-fritters",
+   "title": "Air Fryer Protein Apple Fritters",
+   "img": "img/air-fryer-protein-apple-fritters.jpg",
+   "t": 0,
+   "servings": 7,
+   "unit": "fritter",
+   "time": "40 min",
+   "macros": {
+    "cal": 210,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 1.5
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Breakfast",
+    "Air fryer",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Stewed apples",
+     "items": [
+      {
+       "i": "apples, chopped (1–2)",
+       "a": "Produce",
+       "q": 1.5
+      },
+      {
+       "i": "brown sugar sweetener and cinnamon, to taste",
+       "a": "Baking"
+      },
+      {
+       "i": "water",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      }
+     ]
+    },
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "flour (self-rising or add the baking powder below)",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "plain Greek yogurt",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Baking"
+      }
+     ]
+    },
+    {
+     "name": "Glaze",
+     "items": [
+      {
+       "i": "powdered sugar or powdered sweetener",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "milk (2–3 tbsp)",
+       "a": "Dairy",
+       "q": 2.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "vanilla",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Apples",
+     "Cook the apples with sweetener, cinnamon and water over medium-low for 5–7 minutes until soft; cool."
+    ],
+    [
+     "Dough",
+     "Mix the flour, yogurt, baking powder and cinnamon into a dough and knead on a well-floured surface."
+    ],
+    [
+     "Fold in apples",
+     "Roll out, spread the apples over, fold, cut both ways and gently fold together so the apples are mixed through."
+    ],
+    [
+     "Shape",
+     "Divide into 6–8 fritters, using flour as needed."
+    ],
+    [
+     "Air fry",
+     "Spray and air fry at 375°F for 8 minutes, flip, spray and cook 5–8 minutes more."
+    ],
+    [
+     "Glaze",
+     "Cool completely, dip both sides in the glaze and set on a rack."
+    ]
+   ],
+   "notes": "Recipe, calories and protein are the creator's (per fritter, makes 6–8); carbs and fat are estimates. Calories assume a sugar-free glaze."
+  }
+ ]
+}

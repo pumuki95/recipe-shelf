@@ -1,0 +1,164 @@
+{
+ "src": {
+  "key": "DeM02KLxOjM",
+  "platform": "Instagram",
+  "creator": "theflexibledietinglifestyle",
+  "title": "239 Cal Cinnamon Roll Protein Pancakes",
+  "url": "https://www.instagram.com/theflexibledietinglifestyle/reel/DeM02KLxOjM/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "cinnamon-roll-protein-pancakes",
+   "title": "Cinnamon Roll Protein Pancakes with Icing",
+   "img": "img/cinnamon-roll-protein-pancakes.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "pancake",
+   "time": "25 min",
+   "macros": {
+    "cal": 239,
+    "protein": 22,
+    "carbs": 31,
+    "fat": 5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Pancake batter",
+     "items": [
+      {
+       "i": "pancake mix",
+       "a": "Baking",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "vanilla whey/casein protein powder",
+       "a": "Pantry",
+       "q": 65,
+       "u": "g"
+      },
+      {
+       "i": "fat-free milk (recipe lists it with the base)",
+       "a": "Dairy",
+       "q": 240,
+       "u": "g"
+      },
+      {
+       "i": "coconut flour",
+       "a": "Baking",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "zero-calorie sweetener",
+       "a": "Baking",
+       "q": 8,
+       "u": "g"
+      },
+      {
+       "i": "egg whites",
+       "a": "Dairy",
+       "q": 125,
+       "u": "g"
+      },
+      {
+       "i": "sugar-free maple syrup",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Cinnamon swirl",
+     "items": [
+      {
+       "i": "light butter, softened",
+       "a": "Dairy",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "light brown sugar",
+       "a": "Baking",
+       "q": 12,
+       "u": "g"
+      },
+      {
+       "i": "brown sugar substitute",
+       "a": "Baking",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "sugar-free maple syrup",
+       "a": "Pantry",
+       "q": 7,
+       "u": "g"
+      },
+      {
+       "i": "ground cinnamon",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Icing",
+     "items": [
+      {
+       "i": "zero-calorie powdered sweetener",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "water, to consistency",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Batter",
+     "Mix the pancake mix, protein powder, coconut flour and sweetener, then the egg whites, maple syrup and milk until smooth (add a splash of water if needed)."
+    ],
+    [
+     "Swirl",
+     "Mix the swirl ingredients until smooth and put in a piping bag with a small tip cut."
+    ],
+    [
+     "Cook",
+     "Heat a nonstick pan to medium-low with a sprayed 6-inch pancake ring. Add ¼ of the batter; once the top starts to set, pipe ¼ of the swirl in a spiral away from the edges."
+    ],
+    [
+     "Flip",
+     "Remove the ring, flip and cook 1–2 minutes more. Repeat for 4 pancakes."
+    ],
+    [
+     "Ice",
+     "Mix the powdered sweetener with water to a drizzle and pour over the warm pancakes."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per pancake. The caption lists the milk in the batter ingredients but not in the steps; add it with the egg whites."
+  }
+ ]
+}

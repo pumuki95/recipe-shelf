@@ -1,0 +1,120 @@
+{
+ "src": {
+  "key": "DfSWp2iKuRS",
+  "platform": "Instagram",
+  "creator": "raziyyz",
+  "title": "Low Calorie Creamy Garlic White Sauce",
+  "url": "https://www.instagram.com/raziyyz/reel/DfSWp2iKuRS/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "creamy-garlic-white-sauce",
+   "title": "Low-Calorie Creamy Garlic White Sauce",
+   "img": "img/creamy-garlic-white-sauce.jpg",
+   "t": 0,
+   "servings": 12,
+   "unit": "serve (1 oz)",
+   "time": "5 min",
+   "macros": {
+    "cal": 27,
+    "protein": 1,
+    "carbs": 2,
+    "fat": 2
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Snack",
+    "Quick",
+    "No cook",
+    "Vegetarian",
+    "Meal prep",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "garlic cloves",
+       "a": "Produce",
+       "q": 6
+      },
+      {
+       "i": "fat-free plain Greek yogurt",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "light mayo or Miracle Whip",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "milk",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "vinegar",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey or sweetener",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "lemon, juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin (optional)",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "cilantro, stirred in after blending (optional)",
+       "a": "Produce",
+       "q": 0.25,
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend everything except the cilantro until smooth."
+    ],
+    [
+     "Finish",
+     "Stir in the cilantro if using and keep in a squeeze bottle in the fridge. Great on chicken, shawarma, rice and wraps."
+    ]
+   ],
+   "notes": "Recipe and calories (27 per 1 oz, 12 servings) are the creator's; protein, carbs and fat are estimates."
+  }
+ ]
+}

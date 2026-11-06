@@ -1,0 +1,123 @@
+{
+ "src": {
+  "key": "De1vac_NjC6",
+  "platform": "Instagram",
+  "creator": "panaceapalm",
+  "title": "Spicy Korean Egg Salad",
+  "url": "https://www.instagram.com/panaceapalm/reel/De1vac_NjC6/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "spicy-korean-egg-salad",
+   "title": "Spicy Korean Egg Salad (Gochujang)",
+   "img": "img/spicy-korean-egg-salad.jpg",
+   "t": 0,
+   "servings": 2,
+   "unit": "serving",
+   "time": "20 min",
+   "macros": {
+    "cal": 376,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 24
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Lunch",
+    "High protein",
+    "Vegetarian",
+    "Gluten-free",
+    "Quick",
+    "Spicy",
+    "Asian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Salad",
+     "items": [
+      {
+       "i": "hard-boiled eggs",
+       "a": "Dairy",
+       "q": 6
+      },
+      {
+       "i": "0% cottage cheese",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "gochujang",
+       "a": "International",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "chives, chopped",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "white pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "sesame seeds",
+       "a": "International",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt, to taste",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Smash",
+     "Smash the eggs in a bowl."
+    ],
+    [
+     "Mix",
+     "Add everything else and mix until creamy."
+    ],
+    [
+     "Serve",
+     "Serve on toast, rice or lettuce cups. Makes 2–3 servings."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving if split in 2."
+  }
+ ]
+}

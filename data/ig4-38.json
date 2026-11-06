@@ -1,0 +1,245 @@
+{
+ "src": {
+  "key": "DdmFqUhtHyD",
+  "platform": "Instagram",
+  "creator": "shreddedandfed",
+  "title": "Freezer restock: butter chicken & tandoori marinades",
+  "url": "https://www.instagram.com/shreddedandfed/reel/DdmFqUhtHyD/",
+  "recipes": 2
+ },
+ "recipes": [
+  {
+   "id": "butter-chicken-freezer-marinade",
+   "title": "Butter Chicken Freezer Marinade",
+   "img": "img/freezer-beef-bulgogi.jpg",
+   "t": 0,
+   "servings": 10,
+   "unit": "serving",
+   "time": "15 min + cooking",
+   "macros": {
+    "cal": 270,
+    "protein": 44,
+    "carbs": 4,
+    "fat": 8
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Chicken & marinade",
+     "items": [
+      {
+       "i": "boneless, skinless chicken thighs",
+       "a": "Meat",
+       "q": 2,
+       "u": "kg"
+      },
+      {
+       "i": "Kashmiri chili powder (or paprika)",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "0% Greek yogurt",
+       "a": "Dairy",
+       "q": 365,
+       "u": "g"
+      },
+      {
+       "i": "ginger-garlic paste",
+       "a": "International",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "turmeric",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garam masala",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "coriander",
+       "a": "Pantry",
+       "q": 4,
+       "u": "tsp"
+      },
+      {
+       "i": "kasuri methi (dried fenugreek)",
+       "a": "International",
+       "q": 4,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Mix all the marinade ingredients, add the chicken and coat well."
+    ],
+    [
+     "Freeze",
+     "Divide into freezer bags and freeze raw (thaw overnight in the fridge)."
+    ],
+    [
+     "Cook",
+     "Cook the chicken in a hot pan or oven, then simmer in your butter chicken sauce."
+    ]
+   ],
+   "notes": "Marinade recipe and macros (per serving, marinade only) are the creator's. She makes it into a 10-portion curry (383 cal / 47 g protein per portion); that full sauce recipe is on her page, not in this post.",
+   "part": 1
+  },
+  {
+   "id": "tandoori-chicken-freezer-marinade",
+   "title": "Tandoori Chicken (Freezer Marinade)",
+   "img": "img/freezer-beef-bulgogi.jpg",
+   "t": 0,
+   "servings": 8,
+   "unit": "serving",
+   "time": "15 min + cooking",
+   "macros": {
+    "cal": 369,
+    "protein": 56,
+    "carbs": 5,
+    "fat": 14
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Chicken & marinade",
+     "items": [
+      {
+       "i": "boneless, skinless chicken thighs",
+       "a": "Meat",
+       "q": 1.8,
+       "u": "kg"
+      },
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 2,
+       "u": "cup"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "2-inch piece ginger, minced",
+       "a": "Produce"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "garam masala",
+       "a": "International",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "coriander powder",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "turmeric",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "salt (1½–2 tsp)",
+       "a": "Pantry",
+       "q": 1.75,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Mix the yogurt, garlic, ginger and spices, add the chicken and coat well."
+    ],
+    [
+     "Freeze",
+     "Bag and freeze raw; thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Roast at 220°C (425°F) for 20–25 minutes or grill until charred and the chicken reaches 74°C (165°F)."
+    ]
+   ],
+   "notes": "Marinade recipe and macros (per serving) are the creator's. Cooking method estimated.",
+   "part": 2
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "src": {
+  "key": "DfBiK7PuuK0",
+  "platform": "Instagram",
+  "creator": "recipeincaption",
+  "title": "The BEST Chocolate Chip Cookies",
+  "url": "https://www.instagram.com/recipeincaption/reel/DfBiK7PuuK0/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "bakery-style-chocolate-chip-cookies",
+   "title": "Bakery-Style Giant Chocolate Chip Cookies",
+   "img": "img/bakery-style-chocolate-chip-cookies.jpg",
+   "t": 0,
+   "servings": 6,
+   "unit": "cookie",
+   "time": "25 min + 1–2 h chill",
+   "macros": {
+    "cal": 690,
+    "protein": 7,
+    "carbs": 82,
+    "fat": 38
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Baked",
+    "Vegetarian",
+    "Indulgent"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "unsalted butter, softened",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "dark brown sugar",
+       "a": "Baking",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "granulated sugar",
+       "a": "Baking",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "large egg plus 1 egg yolk",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "vanilla bean paste or extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "all-purpose flour (2¼ cups)",
+       "a": "Baking",
+       "q": 290,
+       "u": "g"
+      },
+      {
+       "i": "cornstarch",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Pantry",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "semi-sweet chocolate chips",
+       "a": "Baking",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "good milk chocolate, chopped",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Cream",
+     "Whisk the butter and sugars hard for about 3 minutes until light."
+    ],
+    [
+     "Eggs",
+     "Add the egg, yolk, vanilla and honey and whisk 3 more minutes until smooth."
+    ],
+    [
+     "Dry",
+     "Whisk the flour, cornstarch, baking powder, baking soda and salt, then fold into the wet until just combined. Fold in the chocolate."
+    ],
+    [
+     "Chill",
+     "Chill at least 2 hours in the fridge, or 45–60 minutes in the freezer (the key step)."
+    ],
+    [
+     "Bake",
+     "Heat the oven to 350°F (175°C). Scoop 6 tall mounds, spaced well apart, and bake 15 minutes until the edges are crisp and centers gooey."
+    ]
+   ],
+   "notes": "Recipe is the creator's. It's a classic indulgent cookie, not a protein recipe; the macros are rough estimates per giant cookie."
+  }
+ ]
+}

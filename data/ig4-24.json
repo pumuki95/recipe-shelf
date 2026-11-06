@@ -1,0 +1,111 @@
+{
+ "src": {
+  "key": "Desn6B5ithT",
+  "platform": "Instagram",
+  "creator": "mediterranean_recipes_2026",
+  "title": "Fluffy Low-Carb Protein Pancakes",
+  "url": "https://www.instagram.com/mediterranean_recipes_2026/reel/Desn6B5ithT/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "low-carb-cottage-cheese-almond-flour-pancakes",
+   "title": "Fluffy Low-Carb Cottage Cheese Pancakes (Almond Flour)",
+   "img": "img/low-carb-cottage-cheese-almond-flour-pancakes.jpg",
+   "t": 0,
+   "servings": 2,
+   "unit": "serving",
+   "time": "20 min",
+   "macros": {
+    "cal": 250,
+    "protein": 17,
+    "carbs": 7,
+    "fat": 17
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "High protein",
+    "Low carb",
+    "Vegetarian",
+    "Gluten-free",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Batter",
+     "items": [
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "almond flour",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "powdered monk fruit sweetener (1–2 tbsp)",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "cinnamon (optional)",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "butter or coconut oil, for cooking",
+       "a": "Dairy"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the eggs, cottage cheese and vanilla until smooth."
+    ],
+    [
+     "Dry",
+     "Add the almond flour, baking powder, sweetener and cinnamon and blend briefly."
+    ],
+    [
+     "Rest",
+     "Let the batter rest 3–5 minutes to thicken."
+    ],
+    [
+     "Cook",
+     "Cook small rounds in a lightly buttered nonstick pan over medium-low heat for 2–3 minutes, until bubbles appear, then flip for 1–2 minutes."
+    ],
+    [
+     "Serve",
+     "Serve with strawberries, sugar-free syrup or Greek yogurt."
+    ]
+   ],
+   "notes": "Recipe is the creator's. The post gives no macros or yield, so the 2 servings and macros are estimates."
+  }
+ ]
+}

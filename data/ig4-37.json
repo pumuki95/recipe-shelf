@@ -1,0 +1,113 @@
+{
+ "src": {
+  "key": "DZdTzjHPnkQ",
+  "platform": "Instagram",
+  "creator": "shreddedandfed",
+  "title": "Freezer-friendly beef bulgogi",
+  "url": "https://www.instagram.com/shreddedandfed/reel/DZdTzjHPnkQ/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "freezer-beef-bulgogi",
+   "title": "Freezer-Prep Beef Bulgogi",
+   "img": "img/freezer-beef-bulgogi.jpg",
+   "t": 0,
+   "servings": 8,
+   "unit": "serving",
+   "time": "20 min + marinating",
+   "macros": {
+    "cal": 248,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Beef",
+    "Main meal",
+    "Asian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Beef & marinade",
+     "items": [
+      {
+       "i": "petite top sirloin (medallion), thinly sliced",
+       "a": "Meat",
+       "q": 1.2,
+       "u": "kg"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "gochujang",
+       "a": "International",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "brown sugar",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 9
+      },
+      {
+       "i": "ginger, minced",
+       "a": "Produce",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "green onions, sliced",
+       "a": "Produce",
+       "q": 6
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinade",
+     "Combine all the marinade ingredients."
+    ],
+    [
+     "Bag",
+     "Portion the beef into freezer bags or containers, divide the marinade between them and mix well."
+    ],
+    [
+     "Marinate or freeze",
+     "Marinate 1–2 hours before cooking, or freeze immediately (up to 3–4 months; thaw overnight)."
+    ],
+    [
+     "Cook",
+     "Sear in a very hot lightly oiled pan in a single layer, in batches, 2–3 minutes until caramelized. Serve with rice, noodles or in a stir-fry."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving (without rice). In her freezer-restock post she uses 1.32 kg beef with the same marinade and gives 251 cal / 39 g protein."
+  }
+ ]
+}

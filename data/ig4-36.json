@@ -1,0 +1,134 @@
+{
+ "src": {
+  "key": "DdcLh7PPD9k",
+  "platform": "Instagram",
+  "creator": "fontyfitness",
+  "title": "Buffalo Ranch",
+  "url": "https://www.instagram.com/fontyfitness/reel/DdcLh7PPD9k/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "greek-yogurt-buffalo-ranch",
+   "title": "Greek Yogurt Buffalo Ranch",
+   "img": "img/greek-yogurt-buffalo-ranch.jpg",
+   "t": 0,
+   "servings": 8,
+   "unit": "serve (3 tbsp)",
+   "time": "5 min + 15 min chill",
+   "macros": {
+    "cal": 40,
+    "protein": 4,
+    "carbs": 2,
+    "fat": 2
+   },
+   "stated": [],
+   "tags": [
+    "Snack",
+    "Quick",
+    "No cook",
+    "Vegetarian",
+    "Gluten-free",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Dressing",
+     "items": [
+      {
+       "i": "fat-free Greek yogurt (1¼ cups)",
+       "a": "Dairy",
+       "q": 280,
+       "u": "g"
+      },
+      {
+       "i": "light mayo (4 tbsp)",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "buffalo sauce (e.g. Frank's RedHot)",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "white vinegar",
+       "a": "Pantry",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "dill, minced",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "parsley, minced",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "chives, minced",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "ranch seasoning",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt, to taste",
+       "a": "Pantry"
+      },
+      {
+       "i": "fat-free milk, plus more to thin",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Stir everything plus 2 tbsp milk together in a jar until smooth."
+    ],
+    [
+     "Thin",
+     "Add more milk 1–2 tbsp at a time to reach the consistency you like."
+    ],
+    [
+     "Chill",
+     "Rest in the fridge 15–30 minutes. Use as a dip or dressing; fresh herbs taste best."
+    ]
+   ],
+   "notes": "Recipe is the creator's; she gives no macros, so they're estimates per 3 tbsp."
+  }
+ ]
+}

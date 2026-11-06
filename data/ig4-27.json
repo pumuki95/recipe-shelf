@@ -1,0 +1,191 @@
+{
+ "src": {
+  "key": "DeFFHEvI5f1",
+  "platform": "Instagram",
+  "creator": "fairfiteats",
+  "title": "Breakfast Hot Pockets",
+  "url": "https://www.instagram.com/fairfiteats/reel/DeFFHEvI5f1/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "breakfast-hot-pockets-meal-prep",
+   "title": "Breakfast Hot Pockets (Greek Yogurt Dough, Meal Prep)",
+   "img": "img/breakfast-hot-pockets-meal-prep.jpg",
+   "t": 0,
+   "servings": 10,
+   "unit": "hot pocket",
+   "time": "1 h 15 min",
+   "macros": {
+    "cal": 450,
+    "protein": 50,
+    "carbs": 49,
+    "fat": 6
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Meal prep",
+    "High protein",
+    "Freezer friendly",
+    "Beef",
+    "Eggs"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "self-rising flour",
+       "a": "Baking",
+       "q": 500,
+       "u": "g"
+      },
+      {
+       "i": "0% Greek yogurt",
+       "a": "Dairy",
+       "q": 520,
+       "u": "g"
+      },
+      {
+       "i": "garlic salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "Italian seasoning",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Beef",
+     "items": [
+      {
+       "i": "96/4 lean ground beef (20 oz)",
+       "a": "Meat",
+       "q": 565,
+       "u": "g"
+      },
+      {
+       "i": "white onion, diced",
+       "a": "Produce",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "taco seasoning (1 packet)",
+       "a": "Pantry",
+       "q": 28,
+       "u": "g"
+      },
+      {
+       "i": "minced garlic",
+       "a": "Produce",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "red enchilada sauce",
+       "a": "International",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "fat-free cheddar",
+       "a": "Dairy",
+       "q": 112,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Eggs",
+     "items": [
+      {
+       "i": "whole eggs",
+       "a": "Dairy",
+       "q": 10
+      },
+      {
+       "i": "garlic salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "fat-free cheddar",
+       "a": "Dairy",
+       "q": 112,
+       "u": "g"
+      },
+      {
+       "i": "center-cut bacon, cooked and chopped (6 slices)",
+       "a": "Meat",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "fresh chives",
+       "a": "Produce",
+       "q": 10,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Assembly",
+     "items": [
+      {
+       "i": "fat-free mozzarella (2½ cups)",
+       "a": "Dairy",
+       "q": 280,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dough",
+     "Mix the flour, yogurt, garlic salt and Italian seasoning into a dough, knead briefly and divide into 20 pieces."
+    ],
+    [
+     "Beef",
+     "Brown the beef with the onion, garlic and taco seasoning, then stir in the enchilada sauce and cheddar."
+    ],
+    [
+     "Eggs",
+     "Scramble the eggs with the seasonings, then fold in the cheddar, bacon and chives."
+    ],
+    [
+     "Fill",
+     "Roll out the dough, top half the rounds with beef, eggs and mozzarella, cover with the remaining rounds and seal the edges."
+    ],
+    [
+     "Cook",
+     "Cook in a skillet or bake at 400°F (200°C) until golden on both sides (about 4–5 minutes per side in a pan)."
+    ],
+    [
+     "Freeze",
+     "Wrap in foil or a freezer bag and freeze up to 3 months. Reheat wrapped in a damp paper towel in the microwave 3–4 minutes, then crisp in a pan or air fryer."
+    ]
+   ],
+   "notes": "Ingredients, macros (per hot pocket) and storage are the creator's. She doesn't give the assembly and cooking steps, so those are estimated from the video."
+  }
+ ]
+}

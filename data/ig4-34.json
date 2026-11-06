@@ -1,0 +1,151 @@
+{
+ "src": {
+  "key": "DfU0CI_NVf0",
+  "platform": "Instagram",
+  "creator": "panaceapalm",
+  "title": "Caramelised Onion Pasta (one pan dump)",
+  "url": "https://www.instagram.com/panaceapalm/reel/DfU0CI_NVf0/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "caramelised-onion-chicken-pasta-bake",
+   "title": "One-Pan Caramelised Onion Chicken Pasta",
+   "img": "img/caramelised-onion-chicken-pasta-bake.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "serving",
+   "time": "1 h 15 min",
+   "macros": {
+    "cal": 566,
+    "protein": 53,
+    "carbs": 66,
+    "fat": 7
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Pasta"
+   ],
+   "groups": [
+    {
+     "name": "Chicken & onions",
+     "items": [
+      {
+       "i": "chicken breast",
+       "a": "Meat",
+       "q": 650,
+       "u": "g"
+      },
+      {
+       "i": "each paprika, garlic powder, onion powder, oregano, salt and pepper",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "chili powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "large white onion (or 2 medium), sliced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "each paprika, salt and Italian herbs, for the onion",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "small garlic heads, tops cut off",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "sun-dried tomatoes, chopped",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Sauce & pasta",
+     "items": [
+      {
+       "i": "parmesan",
+       "a": "Dairy",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "light evaporated milk",
+       "a": "Dairy",
+       "q": 250,
+       "u": "ml"
+      },
+      {
+       "i": "light cream cheese",
+       "a": "Dairy",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "fresh parsley",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "dry pasta (fusilli), cooked al dente",
+       "a": "Pantry",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "squeeze of lemon",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bake",
+     "Oil and season the chicken and onions and put them in a baking dish with the garlic heads. Cover with foil and bake at 200°C (180°C fan) until the chicken reaches 75°C."
+    ],
+    [
+     "Caramelise",
+     "Remove the foil and the chicken (shred it). Add the sun-dried tomatoes and return the onions and garlic to the oven 10–20 minutes until browned and caramelised."
+    ],
+    [
+     "Sauce",
+     "While warm, squeeze in the roasted garlic and stir in the parmesan, evaporated milk, cream cheese and parsley until creamy."
+    ],
+    [
+     "Combine",
+     "Add the cooked pasta, shredded chicken and lemon juice, mix and portion."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (for 4; for 5 it's 453 cal and 43 g protein)."
+  }
+ ]
+}
