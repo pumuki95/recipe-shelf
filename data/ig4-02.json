@@ -1,0 +1,271 @@
+{
+ "src": {
+  "key": "DYZ4tHXCv-W",
+  "platform": "Instagram",
+  "creator": "jalalsamfit",
+  "title": "Korean BBQ Steak Fried Rice",
+  "url": "https://www.instagram.com/jalalsamfit/reel/DYZ4tHXCv-W/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "korean-bbq-steak-fried-rice",
+   "title": "Korean BBQ Steak Fried Rice with Yum Yum Sauce (Meal Prep)",
+   "img": "img/korean-bbq-steak-fried-rice.jpg",
+   "t": 0,
+   "servings": 8,
+   "unit": "container",
+   "time": "1 h",
+   "macros": {
+    "cal": 614,
+    "protein": 50,
+    "carbs": 63,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Beef",
+    "Main meal",
+    "Rice",
+    "Sheet pan",
+    "Asian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Korean BBQ steak bites",
+     "items": [
+      {
+       "i": "topside (top round) beef, cubed",
+       "a": "Meat",
+       "q": 1300,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 4,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 2.5,
+       "u": "tsp"
+      },
+      {
+       "i": "baking soda (2–3 tsp, tenderizes)",
+       "a": "Baking",
+       "q": 2.5,
+       "u": "tsp"
+      },
+      {
+       "i": "gochujang",
+       "a": "International",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "sesame seeds",
+       "a": "International",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "light soy sauce",
+       "a": "International",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "dark soy sauce",
+       "a": "International",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "red onion, sliced",
+       "a": "Produce",
+       "q": 1
+      }
+     ]
+    },
+    {
+     "name": "Korean garlic yum yum sauce",
+     "items": [
+      {
+       "i": "low-fat yogurt",
+       "a": "Dairy",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "light mayo (80–100 g)",
+       "a": "Pantry",
+       "q": 90,
+       "u": "g"
+      },
+      {
+       "i": "reduced-sugar ketchup",
+       "a": "Pantry",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "gochujang",
+       "a": "International",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "evaporated or regular milk",
+       "a": "Dairy",
+       "q": 0.125,
+       "u": "cup"
+      }
+     ]
+    },
+    {
+     "name": "Sesame fried rice",
+     "items": [
+      {
+       "i": "white onion, chopped",
+       "a": "Produce",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "green onion, chopped",
+       "a": "Produce",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "sweet corn",
+       "a": "Produce",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "carrots, chopped and grated",
+       "a": "Produce",
+       "q": 180,
+       "u": "g"
+      },
+      {
+       "i": "kimchi, chopped",
+       "a": "International",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "sesame seeds",
+       "a": "International",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "basmati rice, uncooked (350–400 g), cooked ahead",
+       "a": "Pantry",
+       "q": 375,
+       "u": "g"
+      },
+      {
+       "i": "light soy sauce",
+       "a": "International",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "dark soy sauce",
+       "a": "International",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "light butter (20–30 g)",
+       "a": "Dairy",
+       "q": 25,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Toss the beef with the seasonings, baking soda, gochujang, sesame seeds, honey and both soy sauces."
+    ],
+    [
+     "Sauce",
+     "Whisk all the yum yum sauce ingredients and bottle it for the week."
+    ],
+    [
+     "Steak",
+     "Spread the steak and red onion on a lined sheet pan, spray with oil and bake at 200°C (400°F) for 15 minutes, then broil 5 minutes until caramelized."
+    ],
+    [
+     "Veg",
+     "Remove the steak, toss the vegetables in the pan juices and roast at 190°C (390°F) for 15 minutes."
+    ],
+    [
+     "Fried rice",
+     "While the tray is hot, add the garlic powder, cooked rice, green onion, soy sauces and butter and mix until fluffy."
+    ],
+    [
+     "Portion",
+     "Serve the rice with the steak and yum yum sauce, divided between 8 containers."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per container."
+  }
+ ]
+}

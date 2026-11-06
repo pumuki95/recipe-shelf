@@ -1,0 +1,151 @@
+{
+ "src": {
+  "key": "DeJJwvHEROW",
+  "platform": "Instagram",
+  "creator": "jeoffre_nutrition_coach",
+  "title": "Mega High-Protein Chicken Sandwich",
+  "url": "https://www.instagram.com/jeoffre_nutrition_coach/reel/DeJJwvHEROW/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "buffalo-cornflake-chicken-sandwich",
+   "title": "Mega High-Protein Hot Honey Cornflake Chicken Sandwich",
+   "img": "img/buffalo-cornflake-chicken-sandwich.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "sandwich",
+   "time": "30 min",
+   "macros": {
+    "cal": 529,
+    "protein": 56,
+    "carbs": 47,
+    "fat": 13
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Chicken",
+    "Sandwich",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "trimmed chicken thigh",
+       "a": "Meat",
+       "q": 170,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Breading (generous; ~30 g sticks)",
+     "items": [
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "salt, pepper, garlic powder and paprika",
+       "a": "Pantry"
+      },
+      {
+       "i": "large egg",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "egg whites",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "cornflakes, crushed",
+       "a": "Pantry",
+       "q": 100,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Hot sauce",
+     "items": [
+      {
+       "i": "Frank's RedHot",
+       "a": "Pantry",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "chili powder",
+       "a": "Pantry"
+      },
+      {
+       "i": "light butter",
+       "a": "Dairy",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "brown sugar substitute",
+       "a": "Baking",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "To finish",
+     "items": [
+      {
+       "i": "4–5 pickle chips",
+       "a": "Produce"
+      },
+      {
+       "i": "brioche bun",
+       "a": "Baking",
+       "q": 1
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bread",
+     "Season the flour, dredge the chicken, dip in the egg and egg whites, then press into the cornflakes."
+    ],
+    [
+     "Cook",
+     "Bake at 400°F (200°C) for 25–30 minutes or air fry until golden and cooked through."
+    ],
+    [
+     "Sauce",
+     "Warm the hot sauce, chili powder, butter, sweetener and honey together."
+    ],
+    [
+     "Build",
+     "Toss the chicken in the sauce and serve on the bun with pickles."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (one sandwich; multiply for meal prep). He doesn't give a cooking method, so the oven time is estimated. Credited to @noahperlofit."
+  }
+ ]
+}

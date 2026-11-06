@@ -1,0 +1,128 @@
+{
+ "src": {
+  "key": "DeZttCEiO6H",
+  "platform": "Instagram",
+  "creator": "firsttakehadrian",
+  "title": "Hype or Hoax – Fat Loss Protein Cinnamon Roll",
+  "url": "https://www.instagram.com/firsttakehadrian/reel/DeZttCEiO6H/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "egg-white-protein-cinnamon-roll",
+   "title": "Fat-Loss Protein Cinnamon Roll (Egg White Roll)",
+   "img": "img/egg-white-protein-cinnamon-roll.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "roll",
+   "time": "20 min",
+   "macros": {
+    "cal": 260,
+    "protein": 33,
+    "carbs": 9,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Vegetarian",
+    "Gluten-free",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Roll",
+     "items": [
+      {
+       "i": "egg whites (about 1 cup)",
+       "a": "Dairy",
+       "q": 225,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "liquid or powdered sweetener, to taste",
+       "a": "Baking"
+      },
+      {
+       "i": "cinnamon and a pinch of salt",
+       "a": "Baking"
+      },
+      {
+       "i": "cooking spray",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "i": "light cream cheese",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "0% Greek yogurt",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "powdered monk fruit sweetener",
+       "a": "Baking",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "cinnamon and a touch of salt",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Whip",
+     "Beat the egg whites with the vanilla and sweetener until stiff."
+    ],
+    [
+     "Bake",
+     "Spread on a lined baking sheet, sprinkle with cinnamon and salt and bake at 400°F (200°C) for 8–10 minutes until set and lightly golden."
+    ],
+    [
+     "Filling",
+     "Mix the cream cheese, yogurt, vanilla and powdered sweetener until smooth."
+    ],
+    [
+     "Roll",
+     "Spread the filling over the baked sheet and roll it up gently."
+    ],
+    [
+     "Finish",
+     "Dust with cinnamon and powdered sweetener. Keeps 2 days in the fridge."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (fibre ~2 g). Original recipe by @madelainerascan."
+  }
+ ]
+}

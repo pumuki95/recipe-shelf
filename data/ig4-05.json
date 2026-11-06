@@ -1,0 +1,213 @@
+{
+ "src": {
+  "key": "DfFSuqhu3BX",
+  "platform": "Instagram",
+  "creator": "jalalsamfit",
+  "title": "Creamy Chipotle Steak & Potatoes",
+  "url": "https://www.instagram.com/jalalsamfit/reel/DfFSuqhu3BX/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "creamy-chipotle-steak-potatoes",
+   "title": "Creamy Chipotle Steak & Potatoes (Meal Prep)",
+   "img": "img/creamy-chipotle-steak-potatoes.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "45 min + marinating",
+   "macros": {
+    "cal": 533,
+    "protein": 60,
+    "carbs": 47,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Beef",
+    "Main meal",
+    "Potatoes",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Steak bites",
+     "items": [
+      {
+       "i": "topside (top round) steak, cubed",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "parsley",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "light butter",
+       "a": "Dairy",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "fresh garlic paste",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Chipotle creamy potatoes",
+     "items": [
+      {
+       "i": "white potatoes, cubed",
+       "a": "Produce",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "Italian herbs",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "olive oil (optional)",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "3–4 garlic cloves, chopped",
+       "a": "Produce"
+      },
+      {
+       "i": "red onion, chopped",
+       "a": "Produce",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "Italian herbs",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "chipotle chili paste",
+       "a": "International",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "light evaporated milk",
+       "a": "Dairy",
+       "q": 250,
+       "u": "ml"
+      },
+      {
+       "i": "light cream cheese",
+       "a": "Dairy",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "grated parmesan",
+       "a": "Dairy",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "fresh parsley",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Season the steak with the spices, lime juice and oil and marinate at least 30 minutes."
+    ],
+    [
+     "Potatoes",
+     "Toss the potatoes with seasoning and oil and bake or air fry at 200°C (400°F) for 20–22 minutes."
+    ],
+    [
+     "Steak",
+     "Sear in butter over medium-high heat 2–3 minutes per side without crowding, then finish with more butter and garlic."
+    ],
+    [
+     "Sauce",
+     "Cook the garlic and onion 5 minutes until soft, stir in the herbs and chipotle, then over low heat stir in the milk, cream cheese and parmesan until smooth (no need to simmer)."
+    ],
+    [
+     "Combine",
+     "Fold the potatoes into the sauce with parsley and portion with the steak into 4 containers."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per container."
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "src": {
+  "key": "DbYmVApitx1",
+  "platform": "Instagram",
+  "creator": "jalalsamfit",
+  "title": "Garlic Herb Grilled Chicken Bowl",
+  "url": "https://www.instagram.com/jalalsamfit/reel/DbYmVApitx1/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "garlic-herb-grilled-chicken-bowls",
+   "title": "Garlic Herb Grilled Chicken Bowls with Tabbouleh & Spicy Garlic Sauce",
+   "img": "img/garlic-herb-grilled-chicken-bowls.jpg",
+   "t": 0,
+   "servings": 6,
+   "unit": "bowl",
+   "time": "1 h + marinating",
+   "macros": {
+    "cal": 650,
+    "protein": 52,
+    "carbs": 59,
+    "fat": 22
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Rice",
+    "Mediterranean"
+   ],
+   "groups": [
+    {
+     "name": "Middle Eastern chicken",
+     "items": [
+      {
+       "i": "boneless chicken thighs",
+       "a": "Meat",
+       "q": 1200,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 2.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 4,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "oregano",
+       "a": "Pantry",
+       "q": 4,
+       "u": "tsp"
+      },
+      {
+       "i": "parsley",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 4,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "tomato paste (80–100 g)",
+       "a": "Pantry",
+       "q": 90,
+       "u": "g"
+      },
+      {
+       "i": "lemon, juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Golden herb rice",
+     "items": [
+      {
+       "i": "basmati rice, uncooked (cook ahead)",
+       "a": "Pantry",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "light butter",
+       "a": "Dairy",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "white onion, finely chopped",
+       "a": "Produce",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "Italian herbs",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "turmeric",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Tabbouleh",
+     "items": [
+      {
+       "i": "parsley, chopped",
+       "a": "Produce",
+       "q": 3,
+       "u": "cup"
+      },
+      {
+       "i": "tomatoes, seeded and chopped",
+       "a": "Produce",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "green onions, chopped",
+       "a": "Produce",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "sumac",
+       "a": "International",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "chili flakes",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Spicy garlic sauce",
+     "items": [
+      {
+       "i": "low-fat yogurt",
+       "a": "Dairy",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "chili garlic sauce (Lee Kum Kee)",
+       "a": "International",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "evaporated milk",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Mix the chicken with the spices, honey, tomato paste, lemon juice and oil."
+    ],
+    [
+     "Rice",
+     "Soften the onion in the butter 5 minutes, toast the spices 3–4 minutes, then stir in the cooked rice off the heat."
+    ],
+    [
+     "Tabbouleh",
+     "Mix the parsley, tomatoes, green onion, oil, lemon and seasonings; chill."
+    ],
+    [
+     "Chicken",
+     "Bake on a lined sheet pan at 200°C (400°F) for 20–25 minutes, then broil 5 minutes."
+    ],
+    [
+     "Sauce",
+     "Whisk the yogurt, mayo, chili garlic sauce, spices and evaporated milk."
+    ],
+    [
+     "Serve",
+     "Portion rice, chicken and tabbouleh into 6 bowls with the sauce on the side."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per bowl."
+  }
+ ]
+}

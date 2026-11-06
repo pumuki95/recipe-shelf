@@ -1,0 +1,117 @@
+{
+ "src": {
+  "key": "DeP6fUFxTlf",
+  "platform": "Instagram",
+  "creator": "restorativefoodie",
+  "title": "High Protein Rice Paper Buffalo Chicken Hot Pocket",
+  "url": "https://www.instagram.com/restorativefoodie/reel/DeP6fUFxTlf/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "rice-paper-buffalo-chicken-hot-pockets",
+   "title": "Rice Paper Buffalo Chicken Hot Pockets",
+   "img": "img/rice-paper-buffalo-chicken-hot-pockets.jpg",
+   "t": 0,
+   "servings": 8,
+   "unit": "hot pocket",
+   "time": "30 min",
+   "macros": {
+    "cal": 400,
+    "protein": 66,
+    "carbs": 19,
+    "fat": 7
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Snack",
+    "High protein",
+    "Chicken",
+    "Spicy",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "i": "cooked chicken breast, shredded",
+       "a": "Meat",
+       "q": 3,
+       "u": "lb"
+      },
+      {
+       "i": "cottage cheese, blended",
+       "a": "Dairy",
+       "q": 12,
+       "u": "oz"
+      },
+      {
+       "i": "Frank's RedHot buffalo sauce",
+       "a": "Pantry",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "green onion, finely chopped",
+       "a": "Produce",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "handful of low-fat shredded mozzarella",
+       "a": "Dairy"
+      },
+      {
+       "i": "salt, pepper and onion powder",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Wrapping",
+     "items": [
+      {
+       "i": "rice paper sheets (2 per pocket)",
+       "a": "International",
+       "q": 16
+      },
+      {
+       "i": "eggs, beaten, for dipping",
+       "a": "Dairy"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Filling",
+     "Mix the chicken, blended cottage cheese, buffalo sauce, mozzarella, green onion and seasonings."
+    ],
+    [
+     "Soften",
+     "Dip 2 rice paper sheets together in the egg wash just until they start to soften."
+    ],
+    [
+     "Fold",
+     "Add a big scoop of filling, fold in the sides, then the top and bottom to make a sealed rectangle."
+    ],
+    [
+     "Bake",
+     "Place seam-side up on parchment and bake at 450°F (230°C) for 10 minutes."
+    ],
+    [
+     "Crisp",
+     "Broil on low about 5 minutes until deep golden, watching closely. Serve with extra buffalo sauce or ranch."
+    ]
+   ],
+   "notes": "Recipe and macros (per pocket, the midpoint of her ranges) are the creator's. She doesn't say how many it makes; about 8 fits the macros."
+  }
+ ]
+}

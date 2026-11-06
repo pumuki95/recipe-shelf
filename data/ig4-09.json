@@ -1,0 +1,378 @@
+{
+ "src": {
+  "key": "DecL9L9RB9r",
+  "platform": "Instagram",
+  "creator": "hunt4shredz",
+  "title": "3 Chicken Marinades You NEED To Know! Part 2",
+  "url": "https://www.instagram.com/hunt4shredz/reel/DecL9L9RB9r/",
+  "recipes": 3
+ },
+ "recipes": [
+  {
+   "id": "garlic-parmesan-butter-chicken-marinade",
+   "title": "Garlic Parmesan Butter Chicken Marinade",
+   "img": "img/chicken-marinades-part-2.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min + 30 min–12 h marinating",
+   "macros": {
+    "cal": 290,
+    "protein": 41,
+    "carbs": 2,
+    "fat": 13
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken breast or boneless thighs (1½–2 lb)",
+       "a": "Meat",
+       "q": 1.75,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "butter, melted and cooled",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "parmesan, freshly grated (¼ cup)",
+       "a": "Dairy",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 5
+      },
+      {
+       "i": "Dijon mustard",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "Italian seasoning",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "fresh parsley, chopped",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Mix the marinade, add the chicken and coat well. Refrigerate at least 30 minutes, ideally 4–12 hours."
+    ],
+    [
+     "Cook",
+     "Grill, bake or air fry until the chicken reaches 165°F (74°C)."
+    ],
+    [
+     "Finish",
+     "For the best finish, mix the parmesan with some of the garlic butter and brush it over the chicken after cooking."
+    ]
+   ],
+   "notes": "Marinade recipe is the creator's (enough for 1½–2 lb chicken). Macros are estimates per serving with chicken breast.",
+   "part": "Marinade 1"
+  },
+  {
+   "id": "sweet-spicy-korean-bbq-chicken-marinade",
+   "title": "Sweet & Spicy Korean BBQ Chicken Marinade",
+   "img": "img/chicken-marinades-part-2.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min + 30 min–12 h marinating",
+   "macros": {
+    "cal": 280,
+    "protein": 40,
+    "carbs": 15,
+    "fat": 6
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Spicy",
+    "Asian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken breast or boneless thighs (1½–2 lb)",
+       "a": "Meat",
+       "q": 1.75,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "gochujang",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "International",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "rice vinegar",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "fresh ginger, grated",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lime juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "sesame seeds and green onions (optional)",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Mix the marinade, add the chicken and coat well. Refrigerate at least 30 minutes, ideally 4–12 hours."
+    ],
+    [
+     "Cook",
+     "Grill, bake or air fry until the chicken reaches 165°F (74°C)."
+    ],
+    [
+     "Finish",
+     "Reserve a little marinade before adding the chicken and simmer it into a sticky glaze to brush on after cooking."
+    ]
+   ],
+   "notes": "Marinade recipe is the creator's (enough for 1½–2 lb chicken). Macros are estimates per serving with chicken breast.",
+   "part": "Marinade 2"
+  },
+  {
+   "id": "creamy-mediterranean-shawarma-chicken-marinade",
+   "title": "Creamy Mediterranean Shawarma Chicken Marinade",
+   "img": "img/chicken-marinades-part-2.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min + 30 min–12 h marinating",
+   "macros": {
+    "cal": 250,
+    "protein": 44,
+    "carbs": 4,
+    "fat": 6
+   },
+   "stated": [],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Gluten-free",
+    "Mediterranean"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken breast or boneless thighs (1½–2 lb)",
+       "a": "Meat",
+       "q": 1.75,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "nonfat Greek yogurt (½ cup)",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "coriander",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "turmeric",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "ground cardamom (optional)",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Mix the marinade, add the chicken and coat well. Refrigerate at least 30 minutes, ideally 4–12 hours."
+    ],
+    [
+     "Cook",
+     "Grill, bake or air fry until the chicken reaches 165°F (74°C)."
+    ],
+    [
+     "Finish",
+     "Great with rice, warm pita, cucumber, tomatoes and a garlic sauce."
+    ]
+   ],
+   "notes": "Marinade recipe is the creator's (enough for 1½–2 lb chicken). Macros are estimates per serving with chicken breast.",
+   "part": "Marinade 3"
+  }
+ ]
+}

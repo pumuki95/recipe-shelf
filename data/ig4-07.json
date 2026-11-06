@@ -1,0 +1,131 @@
+{
+ "src": {
+  "key": "DfSBPsDx9um",
+  "platform": "Instagram",
+  "creator": "protein.hacks",
+  "title": "High Protein Chick-fil-A Sauce",
+  "url": "https://www.instagram.com/protein.hacks/reel/DfSBPsDx9um/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "protein-chick-fil-a-sauce",
+   "title": "High-Protein Chick-fil-A Sauce (Cottage Cheese)",
+   "img": "img/protein-chick-fil-a-sauce.jpg",
+   "t": 0,
+   "servings": 16,
+   "unit": "serve (2 tbsp)",
+   "time": "5 min + 1 h chill",
+   "macros": {
+    "cal": 20,
+    "protein": 1.7,
+    "carbs": 5.4,
+    "fat": 0.4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Snack",
+    "Quick",
+    "No cook",
+    "Vegetarian",
+    "Low fat",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "1% low-fat cottage cheese",
+       "a": "Dairy",
+       "q": 1.125,
+       "u": "cup"
+      },
+      {
+       "i": "hickory BBQ sauce (G Hughes)",
+       "a": "Pantry",
+       "q": 5,
+       "u": "tbsp"
+      },
+      {
+       "i": "sugar-free honey substitute",
+       "a": "Pantry",
+       "q": 4,
+       "u": "tbsp"
+      },
+      {
+       "i": "yellow mustard",
+       "a": "Pantry",
+       "q": 2.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "brown sugar sweetener",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "apple cider vinegar",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "Worcestershire sauce",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend everything until silky smooth (or mix in a bowl if the cottage cheese is already blended)."
+    ],
+    [
+     "Chill",
+     "Store in a squeeze bottle or jar and chill at least an hour so the flavors develop and it thickens."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (whole batch 321 cal, 28 g protein; per 2 tbsp as shown, net carbs). He says the G Hughes hickory BBQ sauce matters for the flavor."
+  }
+ ]
+}

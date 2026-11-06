@@ -11,7 +11,8 @@
   "low-cal-cinnabon-style-rolls",
   "greek-yogurt-protein-cinnamon-buns",
   "triple-chocolate-protein-cinnamon-rolls",
-  "banana-bread-cinnamon-roll-bars"
+  "banana-bread-cinnamon-roll-bars",
+  "egg-white-protein-cinnamon-roll"
  ],
  "Protein ice cream (all)": [
   "almond-joy-creami",
@@ -234,7 +235,8 @@
   "smash-burger-tacos",
   "fdl-crunchy-taco-pockets",
   "butter-shrimp-tacos-sriracha-mayo",
-  "pressure-cooker-pork-carnitas"
+  "pressure-cooker-pork-carnitas",
+  "crispy-chipotle-beef-tacos-pineapple-pico"
  ],
  "Pizza & pockets": [
   "chicken-pizza-pocket",
@@ -253,7 +255,9 @@
   "philly-cheesesteak-protein-pizza",
   "three-meat-tortilla-crust-protein-pizza",
   "turkish-pide-three-ways",
-  "protein-crazy-puffs-pizza-cups"
+  "protein-crazy-puffs-pizza-cups",
+  "rice-paper-buffalo-chicken-hot-pockets",
+  "chipotle-chicken-stuffed-pockets"
  ],
  "Pancakes & waffles": [
   "chocolate-chip-protein-pancakes",
@@ -389,7 +393,12 @@
   "caramelized-onion-creamy-chicken-lemon-herb-rice",
   "chilli-lime-chicken-coconut-potatoes-mango-salsa",
   "chipotle-honey-lime-shredded-chicken",
-  "general-tso-chicken-meal-prep"
+  "general-tso-chicken-meal-prep",
+  "creamy-chipotle-chicken-potatoes-sheet-pan",
+  "korean-bbq-steak-fried-rice",
+  "garlic-herb-grilled-chicken-bowls",
+  "creamy-chipotle-steak-potatoes",
+  "chicken-shawarma-rice-bake"
  ],
  "Chicken tenders & bites": [
   "garlic-parmesan-chicken-bites",
@@ -505,7 +514,9 @@
   "bang-bang-cottage-cheese-sauce",
   "chili-lime-greek-yogurt-sauce",
   "peruvian-chicken-thighs-aji-verde",
-  "sweet-sour-cottage-cheese-sauce"
+  "sweet-sour-cottage-cheese-sauce",
+  "protein-chick-fil-a-sauce",
+  "protein-canes-sauce"
  ],
  "Chicken sandwiches": [
   "cilantro-lime-chicken-sandwich",
@@ -513,6 +524,7 @@
   "honey-mustard-cornflake-chicken-sandwiches",
   "savory-french-toast-chicken-sandwich",
   "fdl-thick-mcchicken",
-  "spicy-chicken-burgers-meal-prep"
+  "spicy-chicken-burgers-meal-prep",
+  "buffalo-cornflake-chicken-sandwich"
  ]
 }

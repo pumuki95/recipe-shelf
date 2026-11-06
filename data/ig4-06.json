@@ -1,0 +1,196 @@
+{
+ "src": {
+  "key": "DfUtX7jqfS1",
+  "platform": "Instagram",
+  "creator": "adamwolfefitness",
+  "title": "Chicken Shawarma Rice Bake",
+  "url": "https://www.instagram.com/adamwolfefitness/reel/DfUtX7jqfS1/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chicken-shawarma-rice-bake",
+   "title": "One-Pan Chicken Shawarma Rice Bake",
+   "img": "img/chicken-shawarma-rice-bake.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "meal",
+   "time": "1 h",
+   "macros": {
+    "cal": 500,
+    "protein": 52,
+    "carbs": 40,
+    "fat": 11
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Rice",
+    "Mediterranean"
+   ],
+   "groups": [
+    {
+     "name": "Bake",
+     "items": [
+      {
+       "i": "boneless, skinless chicken thighs",
+       "a": "Meat",
+       "q": 2,
+       "u": "lb"
+      },
+      {
+       "i": "jasmine rice, uncooked",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "low-sodium chicken broth",
+       "a": "Pantry",
+       "q": 1.75,
+       "u": "cup"
+      },
+      {
+       "i": "cherry tomatoes, halved",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "red bell pepper, diced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "red onion, diced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "lemon",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "fresh spinach",
+       "a": "Produce",
+       "q": 2,
+       "u": "cup"
+      },
+      {
+       "i": "crumbled feta",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "fresh parsley",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Shawarma seasoning",
+     "items": [
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "ground cumin",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "ground coriander",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "turmeric",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "ground ginger",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Base",
+     "Heat the oven to 400°F (200°C). In a 9×13 dish combine the rice, tomatoes, pepper, onion, garlic, broth, juice of half the lemon and half the seasoning; keep the rice submerged."
+    ],
+    [
+     "Chicken",
+     "Coat the chicken thighs in the rest of the seasoning and lay them on top in one layer."
+    ],
+    [
+     "Bake",
+     "Cover tightly with foil and bake 40–50 minutes until the rice is tender and the chicken reaches 165°F."
+    ],
+    [
+     "Char",
+     "Uncover and broil 2–4 minutes, watching closely."
+    ],
+    [
+     "Finish",
+     "Dice the chicken and stir the spinach and remaining lemon juice into the hot rice until wilted. Top with feta and parsley."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's. The caption says it makes 4 meals (the macros match 4), though the last step says to divide into 6."
+  }
+ ]
+}
