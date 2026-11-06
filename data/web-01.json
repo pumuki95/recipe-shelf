@@ -1,0 +1,258 @@
+{
+ "src": {
+  "key": "banksalisa-banana-bread-cinnamon-roll-bars",
+  "platform": "Substack",
+  "creator": "Alisa · That Tastes Delish",
+  "title": "Healthy Banana Bread Buttermilk Cinnamon Roll Bars",
+  "url": "https://banksalisa.substack.com/p/healthy-banana-bread-buttermilk-cinnamon",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Substack"
+ },
+ "recipes": [
+  {
+   "id": "banana-bread-cinnamon-roll-bars",
+   "title": "Banana Bread Buttermilk Cinnamon Roll Bars",
+   "img": "img/banana-bread-cinnamon-roll-bars.jpg",
+   "t": 0,
+   "servings": 9,
+   "unit": "bar",
+   "time": "45 min",
+   "macros": {
+    "cal": 249,
+    "protein": 11,
+    "carbs": 39,
+    "fat": 8,
+    "fiber": 3
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "fiber"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Breakfast",
+    "Baked",
+    "High protein",
+    "Vegetarian",
+    "Gluten-free",
+    "No refined sugar"
+   ],
+   "groups": [
+    {
+     "name": "Bars",
+     "items": [
+      {
+       "i": "old-fashioned oats (1½ cups)",
+       "a": "Baking",
+       "q": 190,
+       "u": "g"
+      },
+      {
+       "i": "protein powder (2 scoops; plant-based to keep it dairy-free)",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "very ripe bananas (200 g)",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "buttermilk (recipe says 100 g)",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "eggs",
+       "a": "Dairy",
+       "q": 3
+      },
+      {
+       "i": "maple syrup (⅓ cup)",
+       "a": "Pantry",
+       "q": 90,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Pantry",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 0.75,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Date cinnamon swirl",
+     "items": [
+      {
+       "i": "pitted dates (~120 g), soaked; keep some soaking liquid",
+       "a": "Produce",
+       "q": 8
+      },
+      {
+       "i": "cinnamon",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Cream cheese frosting",
+     "items": [
+      {
+       "i": "cream cheese (dairy-free works)",
+       "a": "Dairy",
+       "q": 2,
+       "u": "oz"
+      },
+      {
+       "i": "butter",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "oz"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "powdered monk fruit sweetener (or powdered sugar)",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "i": "banana, sliced (seared on a griddle if you like)",
+       "a": "Produce",
+       "q": 0.5
+      }
+     ]
+    },
+    {
+     "name": "Optional caramel sauce",
+     "items": [
+      {
+       "i": "maple syrup (5 tbsp)",
+       "a": "Pantry",
+       "q": 75,
+       "u": "g"
+      },
+      {
+       "i": "monk fruit sweetener (5 tbsp)",
+       "a": "Baking",
+       "q": 75,
+       "u": "g"
+      },
+      {
+       "i": "molasses",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "pumpkin or sweet potato purée (¼ cup)",
+       "a": "Produce",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "half and half (¼ cup)",
+       "a": "Dairy",
+       "q": 60,
+       "u": "ml"
+      },
+      {
+       "i": "butter",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bars",
+     "Heat the oven to 350°F (175°C) and line an 8×8 pan with parchment. Blend all the bar ingredients in a food processor or blender and pour into the pan."
+    ],
+    [
+     "Date swirl",
+     "Food-process the soaked dates with the cinnamon, vanilla and salt until smooth, adding the soaking liquid ¼ tsp at a time until it's a smooth, spreadable sauce. Swirl it into the batter."
+    ],
+    [
+     "Bake",
+     "Bake 25–30 minutes, until just set in the middle."
+    ],
+    [
+     "Frosting",
+     "Beat the cream cheese, butter, vanilla, sweetener and salt with a mixer until smooth."
+    ],
+    [
+     "Caramel (optional)",
+     "Simmer the maple syrup, sweetener, molasses, purée, half and half and butter until thickened, then stir in the vanilla."
+    ],
+    [
+     "Finish",
+     "Once cooled a little, pipe the frosting over the top (a zip-top bag with the corner snipped works), drizzle with caramel if using, and decorate with the banana slices."
+    ],
+    [
+     "Serve",
+     "Slice into 9 bars."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per bar (the intro says 10 g protein, the macro line says 11 g). The optional caramel probably isn't in the macros, and the caramel method isn't given in the post, so that step is estimated. The buttermilk is listed as ¼ cup (100 g), which don't match; ¼ cup is about 60 g. Gluten-free if you use certified gluten-free oats."
+  }
+ ]
+}
