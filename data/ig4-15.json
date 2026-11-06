@@ -1,0 +1,149 @@
+{
+ "src": {
+  "key": "DetkxIby9sO",
+  "platform": "Instagram",
+  "creator": "torinredpath",
+  "title": "Viral Protein Doner Kebab",
+  "url": "https://www.instagram.com/torinredpath/reel/DetkxIby9sO/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "protein-doner-kebab",
+   "title": "High-Protein Doner Kebab (Lean Beef)",
+   "img": "img/protein-doner-kebab.jpg",
+   "t": 0,
+   "servings": 3,
+   "unit": "kebab",
+   "time": "40 min",
+   "macros": {
+    "cal": 420,
+    "protein": 42,
+    "carbs": 7,
+    "fat": 23
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Beef",
+    "Ground beef",
+    "Mediterranean"
+   ],
+   "groups": [
+    {
+     "name": "Doner meat",
+     "items": [
+      {
+       "i": "5% lean beef mince",
+       "a": "Meat",
+       "q": 500,
+       "u": "g"
+      },
+      {
+       "i": "onion, grated to a purée",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "cayenne",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "ground cumin",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "i": "flatbreads or pitas",
+       "a": "Baking",
+       "q": 3
+      },
+      {
+       "i": "chilli sauce and low-fat aioli",
+       "a": "Pantry"
+      },
+      {
+       "i": "lettuce and red onion",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Mix the grated onion with the beef, yogurt, oil and seasonings until completely combined."
+    ],
+    [
+     "Roll",
+     "Split into 2 portions, roll each thin between sheets of baking paper, remove the top sheet and roll tightly into a log."
+    ],
+    [
+     "Bake",
+     "Bake at 180°C (350°F) for 20–25 minutes until cooked through."
+    ],
+    [
+     "Slice",
+     "Unwrap, slice thinly and load into flatbreads with salad and sauces."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (approx., per kebab; the macros seem to be for the meat, before bread and sauces). Inspired by @feelgoodfoodie."
+  }
+ ]
+}

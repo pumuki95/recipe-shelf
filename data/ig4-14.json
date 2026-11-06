@@ -1,0 +1,162 @@
+{
+ "src": {
+  "key": "Ddl58InP2Ws",
+  "platform": "Instagram",
+  "creator": "ricebenderr_",
+  "title": "Satay Chicken",
+  "url": "https://www.instagram.com/ricebenderr_/reel/Ddl58InP2Ws/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chicken-satay-skewers-pb2-peanut-sauce",
+   "title": "Chicken Satay Skewers with Light PB2 Peanut Sauce",
+   "img": "img/chicken-satay-skewers-pb2-peanut-sauce.jpg",
+   "t": 0,
+   "servings": 2,
+   "unit": "serving (4 skewers)",
+   "time": "25 min + 2 h marinating",
+   "macros": {
+    "cal": 415,
+    "protein": 48,
+    "carbs": 14,
+    "fat": 17
+   },
+   "stated": [],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Chicken",
+    "Asian-inspired",
+    "Gluten-free",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Skewers (makes 8)",
+     "items": [
+      {
+       "i": "skinless chicken thighs, cut into 2.5 cm pieces",
+       "a": "Meat",
+       "q": 500,
+       "u": "g"
+      },
+      {
+       "i": "coconut milk",
+       "a": "International",
+       "q": 50,
+       "u": "ml"
+      },
+      {
+       "i": "red curry paste",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "curry powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Peanut sauce",
+     "items": [
+      {
+       "i": "PB2 powder",
+       "a": "Pantry",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "hot water (50–100 ml)",
+       "a": "Pantry",
+       "q": 75,
+       "u": "ml"
+      },
+      {
+       "i": "coconut milk",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "red curry paste",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "dark soy sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "squeeze of lime",
+       "a": "Produce"
+      },
+      {
+       "i": "crushed peanuts (optional)",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "i": "cilantro, chili and lime wedges",
+       "a": "Produce"
+      },
+      {
+       "i": "cooked rice per bowl (optional)",
+       "a": "Pantry",
+       "q": 150,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Whisk the coconut milk, curry paste, curry powder, honey and salt, coat the chicken and marinate at least 2 hours, ideally overnight."
+    ],
+    [
+     "Sauce",
+     "Whisk the PB2 into the hot water until smooth, then add the coconut milk, curry paste, soy and lime; adjust to taste."
+    ],
+    [
+     "Skewer",
+     "Thread onto 8 skewers, about 60 g chicken each."
+    ],
+    [
+     "Cook",
+     "Grill, barbecue or cook on the top shelf of a 220°C (430°F) oven 3–4 minutes a side until charred and cooked through."
+    ],
+    [
+     "Serve",
+     "Rest 2 minutes, scatter peanuts over the sauce and serve with cilantro, chili, lime and rice."
+    ]
+   ],
+   "notes": "Recipe is the creator's. He gives 104 cal and 12 g protein per skewer (chicken only); the macros here are an estimate for 4 skewers with sauce, without rice. With 150 g rice, he puts the bowl at about 720 cal and 64 g protein."
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "src": {
+  "key": "DfAIn5yN3Iz",
+  "platform": "Instagram",
+  "creator": "shreddedandfed",
+  "title": "Dak Bulgogi (freezer chicken bulgogi)",
+  "url": "https://www.instagram.com/shreddedandfed/reel/DfAIn5yN3Iz/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "dak-bulgogi-freezer-chicken",
+   "title": "Dak Bulgogi (Freezer-Prep Korean Chicken)",
+   "img": "img/dak-bulgogi-freezer-chicken.jpg",
+   "t": 0,
+   "servings": 8,
+   "unit": "serving",
+   "time": "30 min + marinating",
+   "macros": {
+    "cal": 371,
+    "protein": 51,
+    "carbs": 15,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Asian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Chicken & marinade",
+     "items": [
+      {
+       "i": "boneless, skinless chicken thighs, sliced into strips",
+       "a": "Meat",
+       "q": 2,
+       "u": "kg"
+      },
+      {
+       "i": "apple juice",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "Sprite or 7UP",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "maple syrup (¼–½ cup)",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, smashed",
+       "a": "Produce",
+       "q": 16
+      },
+      {
+       "i": "ginger, sliced ¼ inch",
+       "a": "Produce",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "bunch green onions, cut into 3-inch pieces",
+       "a": "Produce",
+       "q": 1
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bag",
+     "Divide the green onions, ginger and garlic between freezer bags, then the chicken strips."
+    ],
+    [
+     "Marinade",
+     "Mix the remaining ingredients and pour evenly into the bags."
+    ],
+    [
+     "Freeze",
+     "Freeze flat (3–4 months) or refrigerate up to 24 hours before cooking. Thaw overnight in the fridge."
+    ],
+    [
+     "Cook",
+     "Heat a lightly oiled nonstick pan until very hot. Discard the garlic, ginger and excess marinade, then sear the chicken and green onions in a single layer, 1–2 minutes per side, and stir-fry 2–3 minutes more to 165°F. Work in batches."
+    ],
+    [
+     "Serve",
+     "Serve with short-grain rice and a Korean cucumber salad."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving (without rice)."
+  }
+ ]
+}

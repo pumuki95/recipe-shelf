@@ -1,0 +1,124 @@
+{
+ "src": {
+  "key": "Dfas5kMpvhZ",
+  "platform": "Instagram",
+  "creator": "noahperlofit",
+  "title": "Make These This Weekend‼️ (stuffed baguette pockets)",
+  "url": "https://www.instagram.com/noahperlofit/reel/Dfas5kMpvhZ/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "stuffed-baguette-beef-kofta-pockets",
+   "title": "Grilled Beef Kofta Stuffed Baguette Pockets",
+   "img": "img/stuffed-baguette-beef-kofta-pockets.jpg",
+   "t": 0,
+   "servings": 10,
+   "unit": "pocket",
+   "time": "45 min",
+   "macros": {
+    "cal": 480,
+    "protein": 45,
+    "carbs": 26,
+    "fat": 22
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Beef",
+    "Ground beef",
+    "Meal prep",
+    "Mediterranean"
+   ],
+   "groups": [
+    {
+     "name": "Beef filling",
+     "items": [
+      {
+       "i": "93/7 ground beef",
+       "a": "Meat",
+       "q": 4,
+       "u": "lb"
+      },
+      {
+       "i": "white onion, diced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "parsley, chopped",
+       "a": "Produce",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Bread",
+     "items": [
+      {
+       "i": "mini baguettes, halved and fully hollowed out",
+       "a": "Baking",
+       "q": 5
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Filling",
+     "Mix the beef, onion, parsley and spices well."
+    ],
+    [
+     "Stuff",
+     "Pack the filling tightly into each hollowed baguette half."
+    ],
+    [
+     "Cook",
+     "Grill or bake at 400°F (200°C) for about 20–25 minutes, then sear the exposed meat ends on a grill pan for char marks, until the beef is cooked through."
+    ],
+    [
+     "Serve",
+     "Serve hot; wrap and refrigerate leftovers for the week."
+    ]
+   ],
+   "notes": "Ingredients and macros (per pocket) are the creator's. He doesn't give a method, so the cooking steps are estimated from the video."
+  }
+ ]
+}

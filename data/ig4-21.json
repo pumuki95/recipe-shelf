@@ -1,0 +1,111 @@
+{
+ "src": {
+  "key": "DfE8dQZowRW",
+  "platform": "Instagram",
+  "creator": "ajfoodie",
+  "title": "High Protein Bounty Bars",
+  "url": "https://www.instagram.com/ajfoodie/reel/DfE8dQZowRW/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "protein-bounty-bars-cottage-cheese",
+   "title": "High-Protein Coconut Bounty Bars (Cottage Cheese)",
+   "img": "img/protein-bounty-bars-cottage-cheese.jpg",
+   "t": 0,
+   "servings": 8,
+   "unit": "bar",
+   "time": "20 min + setting",
+   "macros": {
+    "cal": 235,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 18
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Snack",
+    "Dessert",
+    "High protein",
+    "Vegetarian",
+    "No-bake",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Bars",
+     "items": [
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "desiccated coconut",
+       "a": "Baking",
+       "q": 170,
+       "u": "g"
+      },
+      {
+       "i": "vanilla protein powder",
+       "a": "Pantry",
+       "q": 55,
+       "u": "g"
+      },
+      {
+       "i": "sugar-free syrup",
+       "a": "Pantry",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "dark chocolate",
+       "a": "Baking",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "coconut oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "splash of milk if needed",
+       "a": "Dairy"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the cottage cheese until smooth."
+    ],
+    [
+     "Mix",
+     "Mix in the syrup, protein powder and coconut, adding a splash of milk if it's too dry to shape."
+    ],
+    [
+     "Shape",
+     "Shape into 8 bars and freeze 30 minutes until firm."
+    ],
+    [
+     "Coat",
+     "Melt the chocolate with the coconut oil and dip or drizzle the bars."
+    ],
+    [
+     "Set",
+     "Refrigerate until set; keep in the fridge or freezer."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, approx. per bar."
+  }
+ ]
+}

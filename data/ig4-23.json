@@ -1,0 +1,179 @@
+{
+ "src": {
+  "key": "DfV3xHHTdNW",
+  "platform": "Instagram",
+  "creator": "tastyshreds",
+  "title": "Freezer protein pizzas with garlic parmesan dip",
+  "url": "https://www.instagram.com/tastyshreds/reel/DfV3xHHTdNW/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "freezer-pepperoni-protein-pizzas",
+   "title": "Freezer Pepperoni Protein Pizzas (2-Ingredient Dough) + Garlic Parmesan Dip",
+   "img": "img/freezer-pepperoni-protein-pizzas.jpg",
+   "t": 0,
+   "servings": 7,
+   "unit": "pizza",
+   "time": "45 min",
+   "macros": {
+    "cal": 570,
+    "protein": 54,
+    "carbs": 55,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Pizza",
+    "Meal prep",
+    "Freezer friendly"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "plain nonfat Greek yogurt (Oikos Triple Zero)",
+       "a": "Dairy",
+       "q": 700,
+       "u": "g"
+      },
+      {
+       "i": "self-rising flour",
+       "a": "Baking",
+       "q": 700,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Toppings (per pizza)",
+     "items": [
+      {
+       "i": "pizza sauce",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "reduced-fat mozzarella",
+       "a": "Dairy",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "part-skim low-moisture mozzarella",
+       "a": "Dairy",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "slices turkey pepperoni",
+       "a": "Meat",
+       "q": 20
+      }
+     ]
+    },
+    {
+     "name": "Garlic parmesan dip (7 × 3 tbsp)",
+     "items": [
+      {
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "freshly grated parmesan",
+       "a": "Dairy",
+       "q": 35,
+       "u": "g"
+      },
+      {
+       "i": "garlic paste",
+       "a": "Produce",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "Italian seasoning",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "dried parsley",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "1–2 tbsp water to thin",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dough",
+     "Mix the yogurt and flour into a dough, knead 2–3 minutes and divide into 7 balls."
+    ],
+    [
+     "Par-bake",
+     "Roll each into a medium crust and bake at 425°F (220°C) for 8–10 minutes until lightly set."
+    ],
+    [
+     "Top",
+     "Add sauce, both mozzarellas and pepperoni, and bake again until bubbly."
+    ],
+    [
+     "Freeze",
+     "Cool completely, wrap individually and freeze. Reheat from frozen in the oven or air fryer."
+    ],
+    [
+     "Dip",
+     "Stir all the dip ingredients together."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (approx., per pizza; the dip is about 73 cal and 6 g protein per 3 tbsp)."
+  }
+ ]
+}

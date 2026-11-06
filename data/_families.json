@@ -216,7 +216,8 @@
   "cottage-cheese-wrap",
   "fdl-buffalo-chicken-chalupas",
   "zaatar-chicken-chickpea-pita-wrap",
-  "smoky-chipotle-chicken-pineapple-salsa-wraps"
+  "smoky-chipotle-chicken-pineapple-salsa-wraps",
+  "protein-doner-kebab"
  ],
  "Burgers": [
   "smash-double-cheeseburger",
@@ -236,7 +237,8 @@
   "fdl-crunchy-taco-pockets",
   "butter-shrimp-tacos-sriracha-mayo",
   "pressure-cooker-pork-carnitas",
-  "crispy-chipotle-beef-tacos-pineapple-pico"
+  "crispy-chipotle-beef-tacos-pineapple-pico",
+  "chicken-chalupa-supremes-pita"
  ],
  "Pizza & pockets": [
   "chicken-pizza-pocket",
@@ -257,7 +259,10 @@
   "turkish-pide-three-ways",
   "protein-crazy-puffs-pizza-cups",
   "rice-paper-buffalo-chicken-hot-pockets",
-  "chipotle-chicken-stuffed-pockets"
+  "chipotle-chicken-stuffed-pockets",
+  "stuffed-baguette-beef-kofta-pockets",
+  "stuffed-chicken-mince-calzone",
+  "freezer-pepperoni-protein-pizzas"
  ],
  "Pancakes & waffles": [
   "chocolate-chip-protein-pancakes",
@@ -398,7 +403,9 @@
   "korean-bbq-steak-fried-rice",
   "garlic-herb-grilled-chicken-bowls",
   "creamy-chipotle-steak-potatoes",
-  "chicken-shawarma-rice-bake"
+  "chicken-shawarma-rice-bake",
+  "chicken-satay-skewers-pb2-peanut-sauce",
+  "dak-bulgogi-freezer-chicken"
  ],
  "Chicken tenders & bites": [
   "garlic-parmesan-chicken-bites",
@@ -445,7 +452,8 @@
   "black-bean-chocolate-protein-bars",
   "chickpea-peanut-butter-protein-bars",
   "strawberry-yogurt-protein-chocolate-clusters",
-  "medjool-date-bark-dark-chocolate"
+  "medjool-date-bark-dark-chocolate",
+  "protein-bounty-bars-cottage-cheese"
  ],
  "Banana bread, muffins & loaves": [
   "double-chocolate-banana-bread",
@@ -477,7 +485,8 @@
   "chocolate-orange-cottage-cheese-pots",
   "lemon-cottage-cheese-cheesecake-cup",
   "protein-yogurt-dessert-bowl",
-  "marsala-creme-caramel"
+  "marsala-creme-caramel",
+  "chocolate-shell-berry-chia-pudding"
  ],
  "Smoothies & shakes": [
   "oreo-blizzard-protein-shake",

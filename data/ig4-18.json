@@ -1,0 +1,144 @@
+{
+ "src": {
+  "key": "DfaGY_MOdhY",
+  "platform": "Instagram",
+  "creator": "jj.whittle",
+  "title": "Crispy Chilli Beef",
+  "url": "https://www.instagram.com/jj.whittle/reel/DfaGY_MOdhY/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "crispy-chilli-beef",
+   "title": "Crispy Chilli Beef (Fakeaway)",
+   "img": "img/crispy-chilli-beef.jpg",
+   "t": 0,
+   "servings": 3,
+   "unit": "serving",
+   "time": "30 min",
+   "macros": {
+    "cal": 379,
+    "protein": 38,
+    "carbs": 40,
+    "fat": 6
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Beef",
+    "Chinese",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Beef",
+     "items": [
+      {
+       "i": "lean steak, thinly sliced",
+       "a": "Meat",
+       "q": 454,
+       "u": "g"
+      },
+      {
+       "i": "egg whites",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "cornflour (cornstarch)",
+       "a": "Pantry",
+       "q": 95,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "light soy sauce",
+       "a": "International",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "reduced-sugar sweet chilli sauce",
+       "a": "International",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "no-added-sugar ketchup",
+       "a": "Pantry",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "garlic paste",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "rice vinegar",
+       "a": "International",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "fresh chillies, sliced",
+       "a": "Produce",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "spring onion, sliced",
+       "a": "Produce",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "sesame seeds",
+       "a": "International",
+       "q": 1,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "i": "cooked rice (not in macros)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Coat",
+     "Toss the steak strips in the egg whites, then in the cornflour."
+    ],
+    [
+     "Crisp",
+     "Air fry at 200°C (400°F) for 10–12 minutes, shaking halfway, until crispy (or shallow-fry)."
+    ],
+    [
+     "Sauce",
+     "In a hot pan, soften the garlic and chillies, then add the soy, sweet chilli, ketchup and vinegar and simmer until glossy."
+    ],
+    [
+     "Toss",
+     "Toss the crispy beef in the sauce, top with spring onion and sesame seeds and serve over rice."
+    ]
+   ],
+   "notes": "Ingredients, calories and protein are the creator's, per serving without rice; carbs and fat are estimates. He lists only ingredients, so the method is estimated from the video."
+  }
+ ]
+}

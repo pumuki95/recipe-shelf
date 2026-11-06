@@ -1,0 +1,103 @@
+{
+ "src": {
+  "key": "De6WfUGo-XY",
+  "platform": "Instagram",
+  "creator": "ajfoodie",
+  "title": "Chocolate Shell Chia Pudding",
+  "url": "https://www.instagram.com/ajfoodie/reel/De6WfUGo-XY/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chocolate-shell-berry-chia-pudding",
+   "title": "Chocolate Shell Berry Chia Pudding",
+   "img": "img/chocolate-shell-berry-chia-pudding.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "large serving",
+   "time": "10 min + 2 h chill",
+   "macros": {
+    "cal": 550,
+    "protein": 36,
+    "carbs": 43,
+    "fat": 24
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "High protein",
+    "Vegetarian",
+    "Meal prep",
+    "High fiber",
+    "No-bake"
+   ],
+   "groups": [
+    {
+     "name": "Pudding",
+     "items": [
+      {
+       "i": "chia seeds (2½ tbsp)",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "0% Greek yogurt",
+       "a": "Dairy",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "vanilla protein powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "frozen mixed berries, defrosted",
+       "a": "Produce",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "milk",
+       "a": "Dairy",
+       "q": 50,
+       "u": "ml"
+      },
+      {
+       "i": "dark chocolate, melted",
+       "a": "Baking",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "freeze-dried raspberries, to decorate",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Stir the yogurt, chia, protein powder, berries and milk together in a container."
+    ],
+    [
+     "Shell",
+     "Pour the melted chocolate over the top and sprinkle with freeze-dried raspberries."
+    ],
+    [
+     "Chill",
+     "Refrigerate at least 2 hours or overnight, then crack through the shell."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (13 g fibre)."
+  }
+ ]
+}

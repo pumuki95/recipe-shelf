@@ -1,0 +1,127 @@
+{
+ "src": {
+  "key": "Dcytp_XRL2e",
+  "platform": "Instagram",
+  "creator": "theflexibledietinglifestyle",
+  "title": "240 Cal Chicken Chalupa Supremes",
+  "url": "https://www.instagram.com/theflexibledietinglifestyle/reel/Dcytp_XRL2e/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chicken-chalupa-supremes-pita",
+   "title": "240-Calorie Chicken Chalupa Supremes (Pita, Air Fryer)",
+   "img": "img/chicken-chalupa-supremes-pita.jpg",
+   "t": 0,
+   "servings": 5,
+   "unit": "chalupa",
+   "time": "30 min",
+   "macros": {
+    "cal": 240,
+    "protein": 34,
+    "carbs": 16,
+    "fat": 6
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Main meal",
+    "Lunch",
+    "High protein",
+    "Chicken",
+    "Air fryer",
+    "Mexican-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Chalupas",
+     "items": [
+      {
+       "i": "chicken breast",
+       "a": "Meat",
+       "q": 16,
+       "u": "oz"
+      },
+      {
+       "i": "taco seasoning",
+       "a": "Pantry",
+       "q": 14,
+       "u": "g"
+      },
+      {
+       "i": "2% sharp cheddar (14 g per chalupa)",
+       "a": "Dairy",
+       "q": 70,
+       "u": "g"
+      },
+      {
+       "i": "low-calorie pitas",
+       "a": "Baking",
+       "q": 5
+      },
+      {
+       "i": "pico de gallo, red onion and romaine",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Creamy 'Taco Bell' sauce",
+     "items": [
+      {
+       "i": "plain nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 170,
+       "u": "g"
+      },
+      {
+       "i": "2% cottage cheese",
+       "a": "Dairy",
+       "q": 113,
+       "u": "g"
+      },
+      {
+       "i": "Taco Bell Fire sauce",
+       "a": "Pantry",
+       "q": 113,
+       "u": "g"
+      },
+      {
+       "i": "taco seasoning",
+       "a": "Pantry",
+       "q": 8,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Chicken",
+     "Pat the chicken dry, flatten, season both sides and air fry at 400°F for 9 minutes. Rest 10 minutes."
+    ],
+    [
+     "Sauce",
+     "Blend the sauce ingredients until smooth."
+    ],
+    [
+     "Fill",
+     "Chop the chicken and mix with half the sauce. Lay a pita flat, add 7 g cheese, ⅕ of the chicken and 7 g more cheese, then fold shut."
+    ],
+    [
+     "Air fry",
+     "Air fry at 400°F for 4 minutes with a ramekin on top to hold them closed, flipping halfway."
+    ],
+    [
+     "Top",
+     "Open and add pico, red onion and lettuce."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per chalupa (sauce: 16 cal per 2 tbsp)."
+  }
+ ]
+}
