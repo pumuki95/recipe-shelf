@@ -1,0 +1,1412 @@
+{
+ "src": {
+  "key": "DfQcSdnlYZ9",
+  "platform": "Instagram",
+  "creator": "successmealprep",
+  "title": "7 easy delicious high protein meal prep ideas for the week",
+  "url": "https://www.instagram.com/successmealprep/p/DfQcSdnlYZ9/",
+  "recipes": 7,
+  "linkLabel": "See the post on Instagram"
+ },
+ "recipes": [
+  {
+   "id": "smp-honey-bbq-chicken-mac-n-cheese",
+   "title": "Honey BBQ Chicken & High-Protein Mac n Cheese",
+   "img": "img/smp-honey-bbq-chicken-mac-n-cheese.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "40 min",
+   "macros": {
+    "cal": 511,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 15
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Chicken",
+    "Pasta"
+   ],
+   "groups": [
+    {
+     "name": "Honey BBQ chicken",
+     "items": [
+      {
+       "i": "boneless skinless chicken breast (680 g), bite-size cubes",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "sugar-free or low-calorie BBQ sauce (240 ml)",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "apple cider vinegar",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "High-protein mac n cheese",
+     "items": [
+      {
+       "i": "whole wheat or high-protein elbow macaroni (8 oz)",
+       "a": "Pantry",
+       "q": 227,
+       "u": "g"
+      },
+      {
+       "i": "low-fat cottage cheese (1 cup)",
+       "a": "Dairy",
+       "q": 225,
+       "u": "g"
+      },
+      {
+       "i": "plain Greek yogurt (½ cup)",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "reduced-fat cheddar, shredded (½ cup)",
+       "a": "Dairy",
+       "q": 56,
+       "u": "g"
+      },
+      {
+       "i": "mozzarella, shredded (¼ cup)",
+       "a": "Dairy",
+       "q": 28,
+       "u": "g"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt, pepper and parsley to garnish",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Pasta",
+     "Cook the macaroni in salted water until al dente; drain."
+    ],
+    [
+     "Chicken",
+     "Toss the chicken with oil, salt, pepper and smoked paprika and sauté over medium-high heat 6–8 minutes until golden and cooked through."
+    ],
+    [
+     "BBQ sauce",
+     "Whisk the BBQ sauce, honey, vinegar and garlic powder, pour over the chicken and simmer 2–3 minutes until it thickens and coats."
+    ],
+    [
+     "Cheese sauce",
+     "Blend the cottage cheese, yogurt, cheddar, mozzarella, garlic powder, paprika, salt and pepper until smooth."
+    ],
+    [
+     "Combine",
+     "Stir the sauce into the warm macaroni."
+    ],
+    [
+     "Portion",
+     "Divide the mac n cheese into 4 containers with the BBQ chicken beside it; garnish with parsley."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per container (makes 4). From a 7-recipe meal-prep carousel.",
+   "part": 1
+  },
+  {
+   "id": "smp-cheesy-beef-taco-potato-bowls",
+   "title": "Cheesy Beef Taco Potato Bowls",
+   "img": "img/smp-cheesy-beef-taco-potato-bowls.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "bowl",
+   "time": "45 min",
+   "macros": {
+    "cal": 522,
+    "protein": 54,
+    "carbs": 42,
+    "fat": 18
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Beef",
+    "Ground beef",
+    "Potatoes",
+    "Mexican-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Roasted potatoes",
+     "items": [
+      {
+       "i": "russet or gold potatoes (680 g), diced",
+       "a": "Produce",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Beef taco filling",
+     "items": [
+      {
+       "i": "extra lean ground beef, 93% or leaner (680 g)",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "medium onion, finely chopped (60 g)",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "packet low-sodium taco seasoning",
+       "a": "Pantry",
+       "q": 1
+      },
+      {
+       "i": "low-sodium beef broth (120 ml)",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "salt and pepper",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Pico de gallo",
+     "items": [
+      {
+       "i": "medium tomatoes, diced (250 g)",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "small red onion, diced (80 g)",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "jalapeño, finely chopped",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "cilantro, chopped",
+       "a": "Produce",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "salt",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Cheesy taco sauce",
+     "items": [
+      {
+       "i": "reduced-fat cheddar, shredded (½ cup)",
+       "a": "Dairy",
+       "q": 56,
+       "u": "g"
+      },
+      {
+       "i": "plain Greek yogurt (¼ cup)",
+       "a": "Dairy",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "low-fat milk (¼ cup)",
+       "a": "Dairy",
+       "q": 60,
+       "u": "ml"
+      },
+      {
+       "i": "hot sauce (optional)",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Potatoes",
+     "Heat the oven to 425°F (220°C). Toss the potatoes with oil and spices and roast on parchment 25–30 minutes, flipping halfway."
+    ],
+    [
+     "Beef",
+     "Brown the beef 5–6 minutes, add the onion and garlic for 2–3 minutes, then the taco seasoning and broth; simmer 3–4 minutes until thick."
+    ],
+    [
+     "Pico",
+     "Mix the tomatoes, onion, jalapeño, cilantro, lime and salt; chill."
+    ],
+    [
+     "Sauce",
+     "Whisk the cheddar, yogurt, milk, hot sauce, paprika and salt over low heat until smooth."
+    ],
+    [
+     "Assemble",
+     "Divide the potatoes into 4 containers, add the beef and pico, and drizzle with the cheesy sauce."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per bowl (makes 4). From a 7-recipe meal-prep carousel.",
+   "part": 2
+  },
+  {
+   "id": "smp-korean-beef-fried-rice",
+   "title": "Korean Beef Fried Rice with Spicy Mayo",
+   "img": "img/smp-korean-beef-fried-rice.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "bowl",
+   "time": "35 min",
+   "macros": {
+    "cal": 547,
+    "protein": 51,
+    "carbs": 45,
+    "fat": 18
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Beef",
+    "Ground beef",
+    "Rice",
+    "Asian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Korean beef",
+     "items": [
+      {
+       "i": "extra lean ground beef, 93% or leaner (680 g)",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "fresh ginger, grated",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "International",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "gochujang",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "brown sugar",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "rice vinegar",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Fried rice",
+     "items": [
+      {
+       "i": "cooked jasmine or basmati rice (480 g), ideally day-old",
+       "a": "Pantry",
+       "q": 3,
+       "u": "cup"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "small onion, diced (80 g)",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "shredded carrots",
+       "a": "Produce",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "green onions, chopped",
+       "a": "Produce",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "eggs, beaten",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Spicy drizzle (optional but recommended)",
+     "items": [
+      {
+       "i": "light mayonnaise (60 g)",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "sriracha",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "rice vinegar",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "water, to thin",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Garnish",
+     "items": [
+      {
+       "i": "toasted sesame seeds",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "green onions, sliced",
+       "a": "Produce",
+       "q": 2
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Beef",
+     "Brown the beef in oil 5–6 minutes, then add the garlic and ginger for 1 minute."
+    ],
+    [
+     "Sauce",
+     "Whisk the soy, gochujang, sugar, vinegar, sesame oil and pepper, pour over the beef and simmer 2–3 minutes until thick."
+    ],
+    [
+     "Veg",
+     "In another pan, cook the onion and carrots in oil 2–3 minutes."
+    ],
+    [
+     "Eggs",
+     "Push the veg aside, scramble the eggs, then mix together."
+    ],
+    [
+     "Rice",
+     "Add the rice, soy sauce and sesame oil and stir-fry 3–4 minutes."
+    ],
+    [
+     "Combine",
+     "Toss in the beef and green onions."
+    ],
+    [
+     "Finish",
+     "Mix the drizzle, divide into 4 containers, drizzle and top with sesame seeds and green onions."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per bowl (makes 4). From a 7-recipe meal-prep carousel.",
+   "part": 3
+  },
+  {
+   "id": "smp-garlic-butter-chicken-creamy-potatoes",
+   "title": "Garlic Butter Chicken & Creamy Potatoes",
+   "img": "img/smp-garlic-butter-chicken-creamy-potatoes.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "45 min",
+   "macros": {
+    "cal": 551,
+    "protein": 51,
+    "carbs": 38,
+    "fat": 20
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Chicken",
+    "Potatoes"
+   ],
+   "groups": [
+    {
+     "name": "Garlic butter chicken",
+     "items": [
+      {
+       "i": "boneless skinless chicken breast (680 g), bite-size chunks",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cayenne (optional)",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "unsalted butter (42 g)",
+       "a": "Dairy",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "fresh parsley, chopped",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Potatoes",
+     "items": [
+      {
+       "i": "baby red or gold potatoes (680 g), diced small",
+       "a": "Produce",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Cream sauce",
+     "items": [
+      {
+       "i": "plain Greek yogurt (½ cup)",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "light cream cheese (¼ cup)",
+       "a": "Dairy",
+       "q": 56,
+       "u": "g"
+      },
+      {
+       "i": "low-fat milk (¼ cup)",
+       "a": "Dairy",
+       "q": 60,
+       "u": "ml"
+      },
+      {
+       "i": "Dijon mustard",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "parsley, chopped",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Potatoes",
+     "Heat the oven to 425°F (220°C). Toss the potatoes with oil and seasonings and roast on parchment 25–30 minutes, flipping halfway."
+    ],
+    [
+     "Chicken",
+     "Toss the chicken with oil and spices and sear over medium-high heat 5–7 minutes until cooked; set aside."
+    ],
+    [
+     "Garlic butter",
+     "Lower the heat, melt the butter, cook the garlic 30 seconds, then return the chicken and toss with parsley."
+    ],
+    [
+     "Cream sauce",
+     "Stir the sauce ingredients over low heat until smooth, then add parsley."
+    ],
+    [
+     "Combine",
+     "Toss the roasted potatoes in the cream sauce."
+    ],
+    [
+     "Portion",
+     "Divide the potatoes and chicken into 4 containers and garnish with parsley."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per container (makes 4). From a 7-recipe meal-prep carousel.",
+   "part": 4
+  },
+  {
+   "id": "smp-garlic-butter-steak-bites-crispy-potatoes",
+   "title": "Garlic Butter Steak Bites & Crispy Potatoes",
+   "img": "img/smp-garlic-butter-steak-bites-crispy-potatoes.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "container",
+   "time": "45 min",
+   "macros": {
+    "cal": 480,
+    "protein": 50,
+    "carbs": 32,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Beef",
+    "Potatoes"
+   ],
+   "groups": [
+    {
+     "name": "Steak bites",
+     "items": [
+      {
+       "i": "sirloin or top round steak (680 g), 1-inch cubes",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "unsalted butter (28 g)",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "parsley, chopped (optional)",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Crispy potatoes",
+     "items": [
+      {
+       "i": "gold or russet potatoes (680 g), diced",
+       "a": "Produce",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "parsley, to garnish",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Spicy drizzle (optional but recommended)",
+     "items": [
+      {
+       "i": "light mayonnaise (60 g)",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "sriracha",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lime juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "water, to thin if needed",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Potatoes",
+     "Heat the oven to 425°F (220°C). Toss the potatoes with oil and seasonings and roast on parchment 25–30 minutes, flipping halfway."
+    ],
+    [
+     "Steak",
+     "Pat the steak dry and toss with oil and spices."
+    ],
+    [
+     "Sear",
+     "Sear in a single layer over medium-high heat, about 2 minutes per side (in batches); set aside."
+    ],
+    [
+     "Garlic butter",
+     "Lower the heat, melt the butter with the garlic 30 seconds, return the steak and toss with parsley."
+    ],
+    [
+     "Drizzle",
+     "Whisk the mayo, sriracha, garlic powder and lime, thinning with water."
+    ],
+    [
+     "Portion",
+     "Divide potatoes and steak into 4 containers and drizzle with the spicy mayo."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per container (makes 4). From a 7-recipe meal-prep carousel.",
+   "part": 5
+  },
+  {
+   "id": "smp-garlic-shrimp-fried-rice",
+   "title": "Garlic Shrimp Fried Rice with Spicy Garlic Drizzle",
+   "img": "img/smp-garlic-shrimp-fried-rice.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "bowl",
+   "time": "35 min",
+   "macros": {
+    "cal": 503,
+    "protein": 46,
+    "carbs": 42,
+    "fat": 15
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Fish",
+    "Rice",
+    "Asian-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Shrimp",
+     "items": [
+      {
+       "i": "large raw shrimp (680 g), peeled and deveined",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Fried rice",
+     "items": [
+      {
+       "i": "cooked jasmine or basmati rice (480 g), ideally day-old",
+       "a": "Pantry",
+       "q": 3,
+       "u": "cup"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "small onion, chopped (80 g)",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "mixed vegetables: carrots, peas and corn (120 g)",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "eggs, beaten",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "International",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "oyster sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "chili flakes (optional)",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "green onions, chopped",
+       "a": "Produce",
+       "q": 2
+      }
+     ]
+    },
+    {
+     "name": "Spicy garlic drizzle (optional but recommended)",
+     "items": [
+      {
+       "i": "light mayonnaise (60 g)",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "sriracha",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lime juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "water, to thin if needed",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Toss the shrimp with oil, soy, garlic powder, paprika and pepper; marinate 10–15 minutes."
+    ],
+    [
+     "Shrimp",
+     "Cook in a hot skillet or wok 2–3 minutes per side until pink; set aside."
+    ],
+    [
+     "Veg",
+     "In the same pan, cook the onion and garlic 2 minutes, then the mixed vegetables 3–4 minutes."
+    ],
+    [
+     "Eggs",
+     "Push the veg aside, scramble the eggs and mix in."
+    ],
+    [
+     "Rice",
+     "Add the rice with soy sauce, oyster sauce, sesame oil and chili flakes and toss until hot."
+    ],
+    [
+     "Combine",
+     "Return the shrimp and mix; adjust seasoning."
+    ],
+    [
+     "Serve",
+     "Whisk the drizzle, divide into 4 containers, drizzle and top with green onions."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per bowl (makes 4). From a 7-recipe meal-prep carousel.",
+   "part": 6
+  },
+  {
+   "id": "smp-creamy-spicy-chipotle-chicken-pasta",
+   "title": "Creamy Spicy Chipotle Chicken Pasta",
+   "img": "img/smp-creamy-spicy-chipotle-chicken-pasta.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "bowl",
+   "time": "35 min",
+   "macros": {
+    "cal": 533,
+    "protein": 55,
+    "carbs": 45,
+    "fat": 16
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Chicken",
+    "Pasta",
+    "Spicy",
+    "Mexican-inspired"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless skinless chicken breast (680 g), bite-size pieces",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Chipotle cream pasta",
+     "items": [
+      {
+       "i": "whole wheat or high-protein penne (8 oz)",
+       "a": "Pantry",
+       "q": 227,
+       "u": "g"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "chipotle peppers in adobo, finely chopped",
+       "a": "International",
+       "q": 2
+      },
+      {
+       "i": "adobo sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "low-sodium chicken broth (240 ml)",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "low-fat cream cheese (½ cup)",
+       "a": "Dairy",
+       "q": 113,
+       "u": "g"
+      },
+      {
+       "i": "plain Greek yogurt (½ cup)",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "Parmesan, grated (¼ cup)",
+       "a": "Dairy",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "paprika",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt, pepper and parsley or cilantro",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Pasta",
+     "Cook the penne in salted water until al dente; drain."
+    ],
+    [
+     "Chicken",
+     "Toss the chicken with oil and spices and cook 6–8 minutes over medium-high heat until golden; set aside."
+    ],
+    [
+     "Sauce base",
+     "In the same pan, cook the garlic 30 seconds in oil, then the chipotles and adobo 30 seconds more."
+    ],
+    [
+     "Creamy",
+     "Add the broth and scrape the pan, lower the heat, whisk in the cream cheese, then the yogurt, Parmesan and paprika."
+    ],
+    [
+     "Combine",
+     "Return the chicken and pasta and toss to coat; season."
+    ],
+    [
+     "Serve",
+     "Divide into 4 portions and sprinkle with parsley or cilantro."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per bowl (makes 4). From a 7-recipe meal-prep carousel.",
+   "part": 7
+  }
+ ]
+}

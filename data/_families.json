@@ -348,7 +348,8 @@
   "cacio-e-pepe",
   "garlic-parmesan-steak-alfredo-pasta",
   "chipotle-cottage-cheese-alfredo-chicken-pasta",
-  "caramelised-onion-chicken-pasta-bake"
+  "caramelised-onion-chicken-pasta-bake",
+  "smp-creamy-spicy-chipotle-chicken-pasta"
  ],
  "Alfredo": [
   "cauliflower-protein-alfredo",
@@ -410,7 +411,13 @@
   "chicken-shawarma-rice-bake",
   "chicken-satay-skewers-pb2-peanut-sauce",
   "dak-bulgogi-freezer-chicken",
-  "freezer-beef-bulgogi"
+  "freezer-beef-bulgogi",
+  "smp-honey-bbq-chicken-mac-n-cheese",
+  "smp-cheesy-beef-taco-potato-bowls",
+  "smp-korean-beef-fried-rice",
+  "smp-garlic-butter-chicken-creamy-potatoes",
+  "smp-garlic-butter-steak-bites-crispy-potatoes",
+  "smp-garlic-shrimp-fried-rice"
  ],
  "Chicken tenders & bites": [
   "garlic-parmesan-chicken-bites",
