@@ -1,0 +1,252 @@
+{
+ "src": {
+  "key": "DfYZ-jpRCn6",
+  "platform": "Instagram",
+  "creator": "cocinaparaforaneos.ec",
+  "title": "3 Mayonesas sin una gota de aceite (3 oil-free mayos)",
+  "url": "https://www.instagram.com/cocinaparaforaneos.ec/reel/DfYZ-jpRCn6/",
+  "recipes": 3
+ },
+ "recipes": [
+  {
+   "id": "oil-free-egg-yogurt-mayo",
+   "title": "Oil-Free Mayo (Egg & Yogurt) – Mayonesa sin aceite",
+   "img": "img/oil-free-egg-yogurt-mayo.jpg",
+   "t": 0,
+   "servings": 10,
+   "unit": "serve (2 tbsp)",
+   "time": "10 min",
+   "macros": {
+    "cal": 30,
+    "protein": 3,
+    "carbs": 1,
+    "fat": 1.5
+   },
+   "stated": [],
+   "tags": [
+    "Snack",
+    "Quick",
+    "No cook",
+    "Vegetarian",
+    "Gluten-free",
+    "Low carb",
+    "Low fat"
+   ],
+   "groups": [
+    {
+     "name": "Mayo",
+     "items": [
+      {
+       "i": "hard-boiled eggs, peeled",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "plain Greek yogurt (about ⅔ cup)",
+       "a": "Dairy",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "mustard",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "salt and black pepper, to taste",
+       "a": "Pantry"
+      },
+      {
+       "i": "splash of milk or water to loosen, if needed",
+       "a": "Dairy"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Add",
+     "Put the eggs and yogurt in a tall jug or immersion-blender cup."
+    ],
+    [
+     "Season",
+     "Add the mustard, lime juice, salt and pepper."
+    ],
+    [
+     "Blend",
+     "Blend with an immersion blender until thick and completely smooth, like mayonnaise."
+    ],
+    [
+     "Store",
+     "Transfer to a clean jar and refrigerate."
+    ]
+   ],
+   "notes": "Translated from Spanish (Cocina para Foráneos, Ecuador: '3 mayonesas sin una gota de aceite'). The post has no written recipe or measurements; ingredients are taken from the video and the amounts are estimated, so adjust to taste. As the creator says in the comments, without oil it's really a creamy yogurt-and-egg sauce in the style of mayonnaise. It keeps about 3 days in the fridge; extra lime or a splash of vinegar helps it last a little longer. Macros are estimates per 2 tbsp.",
+   "part": 1
+  },
+  {
+   "id": "oil-free-avocado-herb-mayo",
+   "title": "Green Avocado-Herb Mayo – Mayonesa verde sin aceite",
+   "img": "img/oil-free-avocado-herb-mayo.jpg",
+   "t": 0,
+   "servings": 10,
+   "unit": "serve (2 tbsp)",
+   "time": "10 min",
+   "macros": {
+    "cal": 45,
+    "protein": 2,
+    "carbs": 2,
+    "fat": 3.5
+   },
+   "stated": [],
+   "tags": [
+    "Snack",
+    "Quick",
+    "No cook",
+    "Vegetarian",
+    "Gluten-free",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Green mayo",
+     "items": [
+      {
+       "i": "ripe avocado, peeled and pitted",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "plain Greek yogurt (about ⅔ cup)",
+       "a": "Dairy",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "large handful of cilantro and/or parsley",
+       "a": "Produce"
+      },
+      {
+       "i": "garlic clove (optional)",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "salt and black pepper, to taste",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Add",
+     "Put the avocado, yogurt and herbs in a tall jug."
+    ],
+    [
+     "Season",
+     "Add the garlic, lime juice, salt and pepper."
+    ],
+    [
+     "Blend",
+     "Blend with an immersion blender until smooth and bright green."
+    ],
+    [
+     "Store",
+     "Transfer to a jar, press plastic wrap onto the surface and refrigerate. It's best within 2–3 days; the lime slows browning but it will still darken."
+    ]
+   ],
+   "notes": "Translated from Spanish (Cocina para Foráneos, Ecuador: '3 mayonesas sin una gota de aceite'). The post has no written recipe or measurements; ingredients are taken from the video and the amounts are estimated, so adjust to taste. As the creator says in the comments, without oil it's really a creamy yogurt-and-egg sauce in the style of mayonnaise. It keeps about 3 days in the fridge; extra lime or a splash of vinegar helps it last a little longer. Macros are estimates per 2 tbsp. In the video the green version is shown with onion rings for dipping.",
+   "part": 2
+  },
+  {
+   "id": "oil-free-spicy-red-mayo",
+   "title": "Spicy Red Mayo – Mayonesa roja picante sin aceite",
+   "img": "img/oil-free-spicy-red-mayo.jpg",
+   "t": 0,
+   "servings": 10,
+   "unit": "serve (2 tbsp)",
+   "time": "10 min",
+   "macros": {
+    "cal": 35,
+    "protein": 3,
+    "carbs": 2,
+    "fat": 1.5
+   },
+   "stated": [],
+   "tags": [
+    "Snack",
+    "Quick",
+    "No cook",
+    "Vegetarian",
+    "Gluten-free",
+    "Low carb",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Red mayo",
+     "items": [
+      {
+       "i": "hard-boiled eggs, peeled",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "plain Greek yogurt (about ⅔ cup)",
+       "a": "Dairy",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "hot chili sauce (sriracha-style), to taste",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic clove",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "salt, to taste",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Add",
+     "Put the eggs and yogurt in a tall jug or immersion-blender cup."
+    ],
+    [
+     "Season",
+     "Add the chili sauce, garlic and salt."
+    ],
+    [
+     "Blend",
+     "Blend with an immersion blender until thick and completely smooth, like mayonnaise."
+    ],
+    [
+     "Store",
+     "Transfer to a jar and refrigerate. A commenter's tip the creator liked: blend in a roasted red pepper."
+    ]
+   ],
+   "notes": "Translated from Spanish (Cocina para Foráneos, Ecuador: '3 mayonesas sin una gota de aceite'). The post has no written recipe or measurements; ingredients are taken from the video and the amounts are estimated, so adjust to taste. As the creator says in the comments, without oil it's really a creamy yogurt-and-egg sauce in the style of mayonnaise. It keeps about 3 days in the fridge; extra lime or a splash of vinegar helps it last a little longer. Macros are estimates per 2 tbsp.",
+   "part": 3
+  }
+ ]
+}
