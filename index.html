@@ -107,6 +107,9 @@ nav.tabs a[aria-current="page"]{background:var(--ink);color:var(--bg);border-col
 .nutri h3 span{font-family:var(--body);font-weight:500;font-size:12px;color:var(--muted)}
 .bar{display:flex;height:10px;border-radius:999px;overflow:hidden;background:var(--line);margin:8px 0 10px}
 .bar i{display:block}
+.yieldrow{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:13px;color:var(--muted);margin:0 0 10px}
+.ynote{font-size:12px;color:var(--muted);margin:-4px 0 10px;line-height:1.4}
+.ynote .linkbtn{font-size:12px;padding:0;margin-left:4px}
 .nrow{display:grid;grid-template-columns:1fr auto auto;gap:4px 14px;font-size:14px}
 .nrow .num{text-align:right}
 .dot{display:inline-block;width:9px;height:9px;border-radius:3px;margin-right:6px;vertical-align:middle}
@@ -329,6 +332,7 @@ let state = {
   q:"", tags:new Set(), sort:"new",
   grocery: store.get("rs-grocery", {}),   // id -> servings
   got: store.get("rs-got", {}),
+  yield: store.get("rs-yield", {}),        // id -> {sv, n}: servings actually got from a batch of sv
   plan: store.get("rs-plan", null) || {days:[[],[],[],[],[],[],[]]},   // days[0..6] = [{id, sv}]
   cmp: store.get("rs-cmp", []),           // recipe ids picked for "My comparison"
   goal: "ppc", basis: "serving",
@@ -488,7 +492,9 @@ function pickEx(r){ // excluded keys: from the list entry if on it, else from th
 function detail(r){
   const s = SRC[r.src];
   const sv = state.scale[r.id] || gEntry(r.id)?.sv || r.servings, k = sv / r.servings;
-  const m = r.macros, kc = {p:m.protein*4, c:m.carbs*4, f:m.fat*9}, tot = kc.p+kc.c+kc.f;
+  const yv = state.yield[r.id], got = yv ? Math.max(1, Math.round(yv.n * sv / yv.sv)) : sv, f = sv / got;
+  const m = {}; for(const x of NUTS){ const v = r.macros[x]; m[x] = v==null ? v : x==="cal" ? Math.round(v*f) : Math.round(v*f*10)/10; }
+  const kc = {p:m.protein*4, c:m.carbs*4, f:m.fat*9}, tot = kc.p+kc.c+kc.f;
   const est = x => isEst(r,x) ? ` <span class="est">est.</span>` : "";
   const siblings = RECIPES.filter(x=>x.src===r.src && x.id!==r.id);
   const entry = gEntry(r.id), inList = !!entry;
@@ -500,7 +506,10 @@ function detail(r){
         <img src="${r.img}" alt="${esc(r.title)}, finished dish">
         <div class="srcline"><span>${s.platform} · ${esc(s.creator)}</span>${s.url?`<a href="${s.url}${r.t&&s.platform==="YouTube"?`&t=${r.t}s`:""}" target="_blank" rel="noopener">${s.linkLabel?esc(s.linkLabel):s.platform==="Instagram"?"Watch on Instagram":r.t?`Watch from ${fmtTime(r.t)}`:"Watch the video"} ↗</a>`:""}${s.extra?`<a href="${s.extra.url}" target="_blank" rel="noopener">${esc(s.extra.label)} ↗</a>`:""}</div>
         <div class="nutri">
-          <h3>Nutrition per ${r.unit} <span>${NUTS.every(x=>!isEst(r,x))?"from the creator":"creator figures + estimates"}</span></h3>
+          <h3>Nutrition per ${r.unit} <span>${got!==sv?"adjusted for your servings":NUTS.every(x=>!isEst(r,x))?"from the creator":"creator figures + estimates"}</span></h3>
+          <div class="yieldrow"><span>${pl(r.unit,2)[0].toUpperCase()+pl(r.unit,2).slice(1)} you got from this batch</span>
+            <span class="scaler"><button id="yminus" aria-label="Fewer servings from this batch">−</button><span class="num" id="yv">${got}</span><button id="yplus" aria-label="More servings from this batch">+</button></span></div>
+          ${got!==sv?`<p class="ynote">The ingredients for ${sv} ${pl(r.unit,sv)} made ${got}, so each ${r.unit} has ${f>1?"more":"less"} than the recipe says. <button class="linkbtn" id="yreset">Reset to ${sv}</button></p>`:""}
           <div class="bar" role="img" aria-label="Calories split by macro"><i style="width:${kc.p/tot*100}%;background:var(--chili)"></i><i style="width:${kc.c/tot*100}%;background:var(--mustard)"></i><i style="width:${kc.f/tot*100}%;background:var(--basil)"></i></div>
           <div class="nrow">
             <span><i class="dot" style="background:var(--chili)"></i>Protein</span><span class="num">${m.protein} g${est("protein")}</span><span class="num est">${Math.round(kc.p/tot*100)}%</span>
@@ -511,7 +520,7 @@ function detail(r){
             <span class="sub">Sugar alcohols</span><span class="num">${m.sugarAlcohol} g${est("sugarAlcohol")}</span><span></span>
             <span><i class="dot" style="background:var(--basil)"></i>Fat</span><span class="num">${m.fat} g${est("fat")}</span><span class="num est">${Math.round(kc.f/tot*100)}%</span>
             <i class="sep"></i>
-            <span>Net carbs <small class="est">(carbs − fiber)</small></span><span class="num">${net(r)} g</span><span></span>
+            <span>Net carbs <small class="est">(carbs − fiber)</small></span><span class="num">${Math.max(0, Math.round((m.carbs-(m.fiber||0))*10)/10)} g</span><span></span>
             <span>Protein per 100 cal</span><span class="num">${ppc(r).toFixed(1)} g</span><span></span>
           </div>
           ${["fiber","sugar","addedSugar","sugarAlcohol"].some(x=>isEst(r,x))?`<p class="nfoot">Fiber and sugar figures marked est. are worked out from the ingredient list. Sugar alcohols come from sweeteners like erythritol, monk fruit blends and Swerve.</p>`:""}
@@ -561,6 +570,10 @@ function detail(r){
   const setSv = v => { state.scale[r.id] = Math.max(1, v); if(entry){ entry.sv=state.scale[r.id]; saveG(); } rerender(); };
   $("#minus").onclick = ()=>setSv(sv-1);
   $("#plus").onclick = ()=>setSv(sv+1);
+  const setGot = n => { n = Math.max(1, n); if(n===sv) delete state.yield[r.id]; else state.yield[r.id] = {sv, n}; store.set("rs-yield", state.yield); rerender(); };
+  $("#yminus").onclick = ()=>setGot(got-1);
+  $("#yplus").onclick = ()=>setGot(got+1);
+  const yr = $("#yreset"); if(yr) yr.onclick = ()=>setGot(sv);
   $("#all").onclick = ()=>setEx([]);
   $("#none").onclick = ()=>setEx(keys.slice());
   document.querySelectorAll("input.pick").forEach(cb=>cb.onchange=()=>{
