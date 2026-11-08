@@ -328,11 +328,12 @@ const store = {
   get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
   set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
 };
+try{ localStorage.removeItem("rs-yield"); }catch(e){}   /* batch yield is no longer saved */
 let state = {
   q:"", tags:new Set(), sort:"new",
   grocery: store.get("rs-grocery", {}),   // id -> servings
   got: store.get("rs-got", {}),
-  yield: store.get("rs-yield", {}),        // id -> {sv, n}: servings actually got from a batch of sv
+  yield: {},        // id -> {sv, n}: servings actually got from a batch of sv (not saved; resets when the recipe is reopened)
   plan: store.get("rs-plan", null) || {days:[[],[],[],[],[],[],[]]},   // days[0..6] = [{id, sv}]
   cmp: store.get("rs-cmp", []),           // recipe ids picked for "My comparison"
   goal: "ppc", basis: "serving",
@@ -570,7 +571,7 @@ function detail(r){
   const setSv = v => { state.scale[r.id] = Math.max(1, v); if(entry){ entry.sv=state.scale[r.id]; saveG(); } rerender(); };
   $("#minus").onclick = ()=>setSv(sv-1);
   $("#plus").onclick = ()=>setSv(sv+1);
-  const setGot = n => { n = Math.max(1, n); if(n===sv) delete state.yield[r.id]; else state.yield[r.id] = {sv, n}; store.set("rs-yield", state.yield); rerender(); };
+  const setGot = n => { n = Math.max(1, n); if(n===sv) delete state.yield[r.id]; else state.yield[r.id] = {sv, n}; rerender(); };
   $("#yminus").onclick = ()=>setGot(got-1);
   $("#yplus").onclick = ()=>setGot(got+1);
   const yr = $("#yreset"); if(yr) yr.onclick = ()=>setGot(sv);
@@ -1094,7 +1095,7 @@ function route(){
   if(h.startsWith("plan")){ $("#nav-plan").setAttribute("aria-current","page"); const code = h.startsWith("plan=") ? readPlanCode(h.slice(5)) : null; return planView(code); }
   if(h.startsWith("compare")){ $("#nav-compare").setAttribute("aria-current","page"); window.scrollTo(0,0); return h.startsWith("compare/") ? compareView(h.slice(8)) : compareHome(); }
   if(h.startsWith("edit-")){ const r = RECIPES.find(x=>x.id===h.slice(5)); if(r){ $("#nav-shelf").setAttribute("aria-current","page"); window.scrollTo(0,0); return editView(r); } }
-  if(h.startsWith("r-")){ const r = RECIPES.find(x=>x.id===h.slice(2)); if(r){ $("#nav-shelf").setAttribute("aria-current","page"); return detail(r); } }
+  if(h.startsWith("r-")){ const r = RECIPES.find(x=>x.id===h.slice(2)); if(r){ $("#nav-shelf").setAttribute("aria-current","page"); state.yield = {}; return detail(r); } }
   if(h==="grocery"){ $("#nav-grocery").setAttribute("aria-current","page"); return grocery(); }
   $("#nav-shelf").setAttribute("aria-current","page"); shelf();
 }
