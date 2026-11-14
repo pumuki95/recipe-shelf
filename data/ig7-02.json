@@ -10,21 +10,23 @@
  "recipes": [
   {
    "id": "chipotle-queso-steak-rice-bowls",
-   "title": "Slow Cooker Chipotle Queso Steak & Rice (10 Meals)",
+   "title": "Chipotle Queso Steak & Rice Bowls (10 Meals)",
    "img": "img/chipotle-queso-steak-rice-bowls.jpg",
    "t": 0,
    "servings": 10,
    "unit": "serving",
-   "time": "8 h slow cooker",
+   "time": "45 min",
    "macros": {
     "cal": 600,
     "protein": 54,
-    "carbs": 55,
-    "fat": 17
+    "carbs": 50,
+    "fat": 19
    },
    "stated": [
     "cal",
-    "protein"
+    "protein",
+    "carbs",
+    "fat"
    ],
    "tags": [
     "Meal prep",
@@ -40,10 +42,28 @@
      "name": "Steak",
      "items": [
       {
-       "i": "flank steak",
+       "i": "flank steak, diced",
        "a": "Meat",
        "q": 4.25,
        "u": "lb"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt and pepper",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
       },
       {
        "i": "cumin",
@@ -58,19 +78,13 @@
        "u": "tsp"
       },
       {
-       "i": "onion powder",
-       "a": "Pantry",
-       "q": 1,
-       "u": "tsp"
+       "i": "chipotle peppers in adobo",
+       "a": "International",
+       "q": 0.5,
+       "u": "cup"
       },
       {
-       "i": "garlic powder",
-       "a": "Pantry",
-       "q": 1,
-       "u": "tbsp"
-      },
-      {
-       "i": "Rotel tomatoes",
+       "i": "Rotel (diced tomatoes and green chiles)",
        "a": "Pantry",
        "q": 0.5,
        "u": "cup"
@@ -80,30 +94,52 @@
        "a": "Pantry",
        "q": 0.5,
        "u": "cup"
-      },
-      {
-       "i": "chipotle peppers in adobo, to taste",
-       "a": "International"
       }
      ]
     },
     {
-     "name": "To finish",
+     "name": "Queso",
      "items": [
       {
-       "i": "instant (minute) white rice, dry",
-       "a": "Pantry",
-       "q": 450,
+       "i": "fat-free cottage cheese",
+       "a": "Dairy",
+       "q": 650,
        "u": "g"
       },
       {
-       "i": "reduced-fat shredded cheese",
+       "i": "⅓-less-fat cream cheese",
        "a": "Dairy",
        "q": 200,
        "u": "g"
       },
       {
-       "i": "high-protein chipotle queso (his recipe is in his comments/eBook)",
+       "i": "Kraft mac & cheese powder packet",
+       "a": "Pantry",
+       "q": 1
+      },
+      {
+       "i": "chipotle peppers in adobo",
+       "a": "International",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "splash of bone broth",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Rice",
+     "items": [
+      {
+       "i": "instant white rice, dry",
+       "a": "Pantry",
+       "q": 450,
+       "u": "g"
+      },
+      {
+       "i": "reduced-fat cheddar (optional)",
        "a": "Dairy"
       }
      ]
@@ -111,27 +147,27 @@
    ],
    "steps": [
     [
-     "Load",
-     "Season the steak and add to the slow cooker with the Rotel, broth and chipotle."
+     "Sear",
+     "Dice the steak, season and sear in batches until browned."
     ],
     [
-     "Cook",
-     "Cook on low about 8 hours (or high 4–5) until it shreds."
+     "Simmer",
+     "Add the chipotle, Rotel and broth and simmer 3–5 minutes until the steak is cooked."
     ],
     [
-     "Shred",
-     "Shred the steak in the juices."
+     "Queso",
+     "Blend all the queso ingredients until smooth, then warm gently over low heat."
     ],
     [
      "Rice",
-     "Stir in the dry minute rice, cover and cook until tender (about 20–30 minutes), adding a little broth if dry."
+     "Cook the rice according to the package."
     ],
     [
-     "Cheese",
-     "Stir in the cheese and queso until creamy, then portion into 10 containers."
+     "Assemble",
+     "Divide the rice and steak between 10 bowls and pour the queso over. Top with reduced-fat cheddar if you like."
     ]
    ],
-   "notes": "Ingredients come from the on-screen text; the full recipe and the queso are sent by DM, so cook times and the queso are estimated. Calories and protein (about 600 cal, 53–55 g) are his; carbs and fat are estimates."
+   "notes": "Recipe and macros are the creator's, per bowl (10 servings)."
   }
  ]
 }
