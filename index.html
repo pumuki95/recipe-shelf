@@ -102,6 +102,10 @@ nav.tabs a[aria-current="page"]{background:var(--ink);color:var(--bg);border-col
 .stat .k{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
 .stat .v{font-family:var(--mono);font-size:20px;font-variant-numeric:tabular-nums}
 .stat .v small{font-size:12px;color:var(--muted)}
+.thumbs{display:flex;gap:8px;margin-top:8px}
+.thumbs .th{padding:0;border:2px solid transparent;border-radius:8px;overflow:hidden;width:72px;height:41px;background:none;cursor:pointer}
+.thumbs .th[aria-pressed="true"]{border-color:var(--chili)}
+.thumbs .th img{width:100%;height:100%;object-fit:cover;display:block}
 .nutri{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:14px;margin-top:14px}
 .nutri h3{font-size:15px;margin-bottom:8px;display:flex;justify-content:space-between;align-items:baseline}
 .nutri h3 span{font-family:var(--body);font-weight:500;font-size:12px;color:var(--muted)}
@@ -321,7 +325,8 @@ textarea.fin{resize:vertical;line-height:1.45}
 /* Recipes live in recipes.json (built from data/*.json); photos in img/. */
 let SRC = {}, RECIPES = [];
 /* ---------- helpers ---------- */
-const pl = (u,n) => n===1 ? u : ({half:"halves",serving:"servings"}[u] || (/(ch|sh|s|x)$/.test(u) ? u+"es" : u+"s"));
+const pl = (u,n) => { const m=/^(\S+)( \(.*\))$/.exec(u||""); return m ? pl0(m[1],n)+m[2] : pl0(u,n); };
+const pl0 = (u,n) => n===1 ? u : ({half:"halves",serving:"servings"}[u] || (/(ch|sh|s|x)$/.test(u) ? u+"es" : u+"s"));
 const $ = s => document.querySelector(s);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const store = {
@@ -506,7 +511,7 @@ function detail(r){
     <a class="back" href="#">← All recipes</a>
     <div class="detail">
       <div class="hero">
-        <img src="${r.img}" alt="${esc(r.title)}, finished dish">
+        <img id="heroimg" src="${r.img}" alt="${esc(r.title)}, finished dish">${r.imgs&&r.imgs.length?`<div class="thumbs">${[r.img,...r.imgs].map((u,i)=>`<button class="th" data-u="${u}" aria-pressed="${i===0}" aria-label="Photo ${i+1}"><img src="${u.replace("img/","img/t/")}" alt=""></button>`).join("")}</div>`:""}
         <div class="srcline"><span>${s.platform} · ${esc(s.creator)}</span>${s.url?`<a href="${s.url}${r.t&&s.platform==="YouTube"?`&t=${r.t}s`:""}" target="_blank" rel="noopener">${s.linkLabel?esc(s.linkLabel):s.platform==="Instagram"?"Watch on Instagram":r.t?`Watch from ${fmtTime(r.t)}`:"Watch the video"} ↗</a>`:""}${s.extra?`<a href="${s.extra.url}" target="_blank" rel="noopener">${esc(s.extra.label)} ↗</a>`:""}</div>
         <div class="nutri">
           <h3>Nutrition per ${r.unit} <span>${got!==sv?"adjusted for your servings":NUTS.every(x=>!isEst(r,x))?"from the creator":"creator figures + estimates"}</span></h3>
@@ -571,6 +576,7 @@ function detail(r){
   const rerender = () => { const y = window.scrollY; detail(r); window.scrollTo(0, y); };
   const setEx = list => { if(entry){ entry.ex = list; if(list.length===keys.length){ delete state.grocery[r.id]; toast("Removed from grocery list"); } saveG(); } else state.pick[r.id] = list; rerender(); };
   const setSv = v => { state.scale[r.id] = Math.max(1, v); if(entry){ entry.sv=state.scale[r.id]; saveG(); } rerender(); };
+  document.querySelectorAll(".thumbs .th").forEach(t=>t.onclick=()=>{ $("#heroimg").src=t.dataset.u; document.querySelectorAll(".thumbs .th").forEach(x=>x.setAttribute("aria-pressed", x===t)); });
   $("#minus").onclick = ()=>setSv(sv-1);
   $("#plus").onclick = ()=>setSv(sv+1);
   const setGot = n => { n = Math.max(1, n); if(n===sv) delete state.yield[r.id]; else state.yield[r.id] = {sv, n}; rerender(); };
