@@ -1,0 +1,189 @@
+{
+ "src": {
+  "key": "DfiEQzXNYZH",
+  "platform": "Instagram",
+  "creator": "shreddedandfed",
+  "title": "Lower-Fat Thai Red Curry (freezer cubes)",
+  "url": "https://www.instagram.com/shreddedandfed/reel/DfiEQzXNYZH/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "lower-fat-thai-red-curry-freezer",
+   "title": "Lower-Fat Thai Red Curry with Velvet Chicken (Freezer Prep)",
+   "img": "img/lower-fat-thai-red-curry-freezer.jpg",
+   "t": 0,
+   "servings": 13,
+   "unit": "serving (1 cup)",
+   "time": "50 min",
+   "macros": {
+    "cal": 371,
+    "protein": 41,
+    "carbs": 13,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "Freezer friendly",
+    "High protein",
+    "Chicken",
+    "Main meal",
+    "Asian-inspired",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Velvet chicken",
+     "items": [
+      {
+       "i": "chicken breast, thinly sliced",
+       "a": "Meat",
+       "q": 2.2,
+       "u": "kg"
+      },
+      {
+       "i": "water",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "cornstarch",
+       "a": "Pantry",
+       "q": 8,
+       "u": "tsp"
+      },
+      {
+       "i": "neutral oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "oyster sauce",
+       "a": "International",
+       "q": 4,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Curry",
+     "items": [
+      {
+       "i": "coconut oil",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 8
+      },
+      {
+       "i": "slices ginger, minced",
+       "a": "Produce",
+       "q": 8
+      },
+      {
+       "i": "Thai red curry paste (200–300 g)",
+       "a": "International",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "brown sugar",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "small onions, sliced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "red bell peppers, sliced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "fish sauce",
+       "a": "International",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "bamboo shoots, drained (optional)",
+       "a": "International",
+       "q": 15,
+       "u": "oz"
+      },
+      {
+       "i": "water (750 ml–1 L)",
+       "a": "Pantry",
+       "q": 875,
+       "u": "ml"
+      },
+      {
+       "i": "coconut milk",
+       "a": "International",
+       "q": 600,
+       "u": "g"
+      },
+      {
+       "i": "coconut extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "Thai basil leaves",
+       "a": "Produce",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "cilantro, to garnish",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Velvet",
+     "Toss the chicken with the velveting ingredients, marinate 20 minutes, then cook in batches in a lightly oiled wok until just done."
+    ],
+    [
+     "Aromatics",
+     "Fry the garlic and ginger in coconut oil 1–2 minutes over medium-low, then the curry paste 1–2 minutes over medium-high."
+    ],
+    [
+     "Veg",
+     "Stir in the sugar, then the onions, peppers, bamboo shoots and fish sauce until the onions soften."
+    ],
+    [
+     "Simmer",
+     "Add the water, then the coconut milk and bring to a gentle simmer without boiling."
+    ],
+    [
+     "Finish",
+     "Stir in the coconut extract and chicken for 1–2 minutes, then fold in the basil."
+    ],
+    [
+     "Freeze",
+     "Freeze in 1-cup molds, then bag for 3–4 months. Microwave a cube covered with up to ⅓ cup water for 4–8 minutes. Serve with rice, lime and cilantro."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per 1-cup serving without rice. Curry paste heat and salt vary a lot by brand, so start with 200 g."
+  }
+ ]
+}

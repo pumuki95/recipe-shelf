@@ -1,0 +1,201 @@
+{
+ "src": {
+  "key": "DfpxrIjvad9",
+  "platform": "Instagram",
+  "creator": "shredhappens",
+  "title": "Viral Brothy Beef Bowl, Part 2",
+  "url": "https://www.instagram.com/shredhappens/reel/DfpxrIjvad9/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "red-curry-brothy-beef-bowl",
+   "title": "Brothy Red Curry Beef Bowls (Shredded Chuck Roast)",
+   "img": "img/red-curry-brothy-beef-bowl.jpg",
+   "t": 0,
+   "servings": 6,
+   "unit": "bowl",
+   "time": "3 h 15 min",
+   "macros": {
+    "cal": 560,
+    "protein": 40,
+    "carbs": 45,
+    "fat": 23
+   },
+   "stated": [],
+   "tags": [
+    "Main meal",
+    "High protein",
+    "Beef",
+    "Rice",
+    "Asian-inspired",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Beef",
+     "items": [
+      {
+       "i": "chuck roast",
+       "a": "Meat",
+       "q": 2,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt and black pepper",
+       "a": "Pantry"
+      },
+      {
+       "i": "sweet paprika",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "dried oregano",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic cloves (5–6)",
+       "a": "Produce",
+       "q": 5.5
+      },
+      {
+       "i": "medium yellow onion, in wedges",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "bone broth",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "cup"
+      }
+     ]
+    },
+    {
+     "name": "Curry broth",
+     "items": [
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "red curry paste",
+       "a": "International",
+       "q": 1.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "small shallot, finely diced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "garlic clove, minced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "bone broth",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "half & half or coconut milk",
+       "a": "Dairy",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "salt; cilantro or mint; 1 tsp honey (optional)",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Bowls",
+     "items": [
+      {
+       "i": "servings cooked rice",
+       "a": "Pantry",
+       "q": 6
+      },
+      {
+       "i": "jammy eggs, halved",
+       "a": "Dairy",
+       "q": 3
+      },
+      {
+       "i": "finely shredded cabbage",
+       "a": "Produce",
+       "q": 2,
+       "u": "cup"
+      },
+      {
+       "i": "lime juice, cilantro, scallions, sesame seeds",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Roast",
+     "Season the chuck roast and put it in a lidded oven dish with the garlic, onion and broth. Cook covered at 375°F for 2½ hours."
+    ],
+    [
+     "Crisp",
+     "Shred it, then return uncovered at 425°F for 30 minutes."
+    ],
+    [
+     "Broth",
+     "Cook the oil, curry paste, shallot and garlic 30 seconds, add the broth, cream, soy, lime, salt and honey and simmer a few minutes until slightly thick."
+    ],
+    [
+     "Pickle",
+     "Toss the cabbage with lime juice (or 3–4 tbsp cider vinegar) and salt; rest 5 minutes."
+    ],
+    [
+     "Assemble",
+     "Rice in bowls, 3–4 oz beef, pickled cabbage, herbs, sesame and half an egg; pour the warm broth around and squeeze over lime."
+    ]
+   ],
+   "notes": "Recipe is the creator's (serves 6). He gives no macros, so they're estimates per bowl with regular rice."
+  }
+ ]
+}

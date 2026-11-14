@@ -1,0 +1,105 @@
+{
+ "src": {
+  "key": "DfkFEsixkSt",
+  "platform": "Instagram",
+  "creator": "protein.hacks",
+  "title": "High Protein Buttermilk Ranch",
+  "url": "https://www.instagram.com/protein.hacks/reel/DfkFEsixkSt/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "high-protein-buttermilk-ranch",
+   "title": "High-Protein Buttermilk Ranch (Cottage Cheese)",
+   "img": "img/high-protein-buttermilk-ranch.jpg",
+   "t": 0,
+   "servings": 16,
+   "unit": "serve (2 tbsp)",
+   "time": "5 min + 1 h chill",
+   "macros": {
+    "cal": 30,
+    "protein": 2.4,
+    "carbs": 1.4,
+    "fat": 1.6
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Snack",
+    "Quick",
+    "No cook",
+    "Vegetarian",
+    "Low carb",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Ranch",
+     "items": [
+      {
+       "i": "1% low-fat cottage cheese",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "reduced-fat buttermilk, plus more to thin",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "real mayonnaise",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "restaurant-style ranch seasoning",
+       "a": "Pantry",
+       "q": 4,
+       "u": "tsp"
+      },
+      {
+       "i": "white vinegar",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "Dijon mustard",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "Worcestershire sauce",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend everything until silky smooth (or mix in a bowl if the cottage cheese is pre-blended)."
+    ],
+    [
+     "Chill",
+     "Refrigerate at least an hour to set and let the flavor develop."
+    ],
+    [
+     "Thin",
+     "Thin with extra buttermilk for a pourable dressing."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (full batch about 2 cups: 486 cal, 38 g protein; net carbs)."
+  }
+ ]
+}

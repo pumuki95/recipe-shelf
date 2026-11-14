@@ -1,0 +1,131 @@
+{
+ "src": {
+  "key": "DflX4MdOSCW",
+  "platform": "Instagram",
+  "creator": "christopherkaiyu",
+  "title": "42 Cal Bakery Chocolate Chip Cookies",
+  "url": "https://www.instagram.com/christopherkaiyu/reel/DflX4MdOSCW/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "42-calorie-protein-chocolate-chip-cookies",
+   "title": "42-Calorie Protein Chocolate Chip Cookies",
+   "img": "img/42-calorie-protein-chocolate-chip-cookies.jpg",
+   "t": 0,
+   "servings": 11,
+   "unit": "cookie",
+   "time": "25 min",
+   "macros": {
+    "cal": 42,
+    "protein": 3.5,
+    "carbs": 2.9,
+    "fat": 2.8
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Baked",
+    "Vegetarian",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Cookies (10–12)",
+     "items": [
+      {
+       "i": "light butter (3 tbsp)",
+       "a": "Dairy",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "zero-calorie white sugar",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "zero-calorie brown sugar",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "applesauce",
+       "a": "Produce",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "egg whites",
+       "a": "Dairy",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "casein protein powder (⅓ cup)",
+       "a": "Pantry",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "chocolate or vanilla protein powder",
+       "a": "Pantry",
+       "q": 5,
+       "u": "g"
+      },
+      {
+       "i": "chocolate chips (¼ cup)",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Cream",
+     "Mix the butter and both zero-calorie sugars."
+    ],
+    [
+     "Mix",
+     "Add the applesauce, egg whites, both protein powders, baking powder, vanilla, chocolate chips and salt."
+    ],
+    [
+     "Shape",
+     "Roll into 10–12 balls on a lined tray."
+    ],
+    [
+     "Bake",
+     "Bake at 350°F (175°C) for 10–12 minutes, slightly underbaked; they finish setting as they cool."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per cookie. The caption leaves the protein powders out of the mixing step; add them with the wet ingredients."
+  }
+ ]
+}

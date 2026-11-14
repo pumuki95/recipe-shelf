@@ -1,0 +1,586 @@
+{
+ "src": {
+  "key": "DefGSW6hpQo",
+  "platform": "Instagram",
+  "creator": "fitfoodiestasia",
+  "title": "5 Asian-inspired takeout remakes (meal prep)",
+  "url": "https://www.instagram.com/fitfoodiestasia/reel/DefGSW6hpQo/",
+  "recipes": 5
+ },
+ "recipes": [
+  {
+   "id": "sticky-gochujang-beef-ramen",
+   "title": "Sticky Gochujang Beef Ramen",
+   "img": "img/sticky-gochujang-beef-ramen.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "serving",
+   "time": "25 min",
+   "macros": {
+    "cal": 380,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 11
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Asian-inspired",
+    "Beef",
+    "Ground beef",
+    "Noodles",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Ramen",
+     "items": [
+      {
+       "i": "lean ground beef",
+       "a": "Meat",
+       "q": 1,
+       "u": "lb"
+      },
+      {
+       "i": "packs ramen noodles (seasoning discarded)",
+       "a": "International",
+       "q": 3
+      },
+      {
+       "i": "baby bok choy, chopped",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "green onions",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Sticky sauce",
+     "items": [
+      {
+       "i": "gochujang",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "International",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "rice vinegar",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Beef",
+     "Brown the beef with the garlic and drain any fat."
+    ],
+    [
+     "Noodles",
+     "Cook the ramen 2 minutes less than the packet and drain."
+    ],
+    [
+     "Toss",
+     "Add the bok choy to the beef, then the noodles and sauce, and toss over high heat until sticky."
+    ],
+    [
+     "Portion",
+     "Divide into 4 containers and top with green onions."
+    ]
+   ],
+   "notes": "She sends the full recipes only by DM (\"comment DINNER\"), so ingredients, amounts and method are estimated from the video. Calories and protein are hers (shown on screen); carbs and fat are estimates.",
+   "part": 1
+  },
+  {
+   "id": "thai-red-curry-chicken-brothy-rice",
+   "title": "Thai Red Curry Chicken Brothy Rice",
+   "img": "img/thai-red-curry-chicken-brothy-rice.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "bowl",
+   "time": "35 min",
+   "macros": {
+    "cal": 500,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Asian-inspired",
+    "Chicken",
+    "Rice",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless chicken thighs",
+       "a": "Meat",
+       "q": 1.25,
+       "u": "lb"
+      },
+      {
+       "i": "sweet chili or teriyaki glaze",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Red curry broth",
+     "items": [
+      {
+       "i": "Thai red curry paste",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "light coconut milk",
+       "a": "International",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "chicken broth",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "fish sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 1
+      }
+     ]
+    },
+    {
+     "name": "Bowls",
+     "items": [
+      {
+       "i": "cooked jasmine rice",
+       "a": "Pantry",
+       "q": 3,
+       "u": "cup"
+      },
+      {
+       "i": "cucumber, smashed and dressed with chili and vinegar",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "cilantro, green onion, sesame seeds",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Chicken",
+     "Sear the chicken until cooked, brush with the glaze and slice."
+    ],
+    [
+     "Broth",
+     "Fry the curry paste a minute, then simmer with the coconut milk, broth, fish sauce and lime."
+    ],
+    [
+     "Assemble",
+     "Add rice to bowls, pour the broth around, top with chicken, smashed cucumber and herbs."
+    ]
+   ],
+   "notes": "She sends the full recipes only by DM (\"comment DINNER\"), so ingredients, amounts and method are estimated from the video. Calories and protein are hers (shown on screen); carbs and fat are estimates.",
+   "part": 2
+  },
+  {
+   "id": "bulgogi-beef-udon-stir-fry",
+   "title": "Bulgogi Beef Udon Stir Fry",
+   "img": "img/bulgogi-beef-udon-stir-fry.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "serving",
+   "time": "25 min",
+   "macros": {
+    "cal": 400,
+    "protein": 34,
+    "carbs": 45,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Asian-inspired",
+    "Beef",
+    "Noodles"
+   ],
+   "groups": [
+    {
+     "name": "Stir fry",
+     "items": [
+      {
+       "i": "thinly sliced sirloin",
+       "a": "Meat",
+       "q": 1,
+       "u": "lb"
+      },
+      {
+       "i": "udon noodles",
+       "a": "International",
+       "q": 400,
+       "u": "g"
+      },
+      {
+       "i": "onion, sliced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "green onions",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Bulgogi sauce",
+     "items": [
+      {
+       "i": "low-sodium soy sauce",
+       "a": "International",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "brown sugar or substitute",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "grated ginger",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "grated pear or apple (optional)",
+       "a": "Produce",
+       "q": 0.5
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Mix the sauce and toss with the beef for 15 minutes."
+    ],
+    [
+     "Sear",
+     "Stir-fry the beef and onion over high heat until browned."
+    ],
+    [
+     "Noodles",
+     "Add the loosened udon and remaining sauce and toss until glossy; finish with green onions and sesame seeds."
+    ]
+   ],
+   "notes": "She sends the full recipes only by DM (\"comment DINNER\"), so ingredients, amounts and method are estimated from the video. Calories and protein are hers (shown on screen); carbs and fat are estimates.",
+   "part": 3
+  },
+  {
+   "id": "chicken-tofu-pad-thai",
+   "title": "Chicken & Tofu Pad Thai",
+   "img": "img/chicken-tofu-pad-thai.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "serving",
+   "time": "30 min",
+   "macros": {
+    "cal": 670,
+    "protein": 57,
+    "carbs": 70,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Asian-inspired",
+    "Chicken",
+    "Noodles"
+   ],
+   "groups": [
+    {
+     "name": "Pad thai",
+     "items": [
+      {
+       "i": "chicken breast, sliced",
+       "a": "Meat",
+       "q": 1,
+       "u": "lb"
+      },
+      {
+       "i": "firm tofu, cubed",
+       "a": "International",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "flat rice noodles",
+       "a": "International",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "green onions and bean sprouts",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "fish sauce",
+       "a": "International",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "tamarind paste or lime juice",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "brown sugar or substitute",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sriracha",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Noodles",
+     "Soak or cook the rice noodles until just tender."
+    ],
+    [
+     "Protein",
+     "Stir-fry the chicken and tofu until golden; scramble in the eggs."
+    ],
+    [
+     "Toss",
+     "Add noodles and sauce and toss until coated; finish with green onions, sprouts and crushed peanuts if you like."
+    ]
+   ],
+   "notes": "She sends the full recipes only by DM (\"comment DINNER\"), so ingredients, amounts and method are estimated from the video. Calories and protein are hers (shown on screen); carbs and fat are estimates.",
+   "part": 4
+  },
+  {
+   "id": "firecracker-beef-brothy-rice",
+   "title": "Firecracker Beef Brothy Rice Bowls",
+   "img": "img/firecracker-beef-brothy-rice.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "bowl",
+   "time": "25 min",
+   "macros": {
+    "cal": 540,
+    "protein": 38,
+    "carbs": 52,
+    "fat": 19
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Main meal",
+    "Asian-inspired",
+    "Beef",
+    "Ground beef",
+    "Rice",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Firecracker beef",
+     "items": [
+      {
+       "i": "lean ground beef",
+       "a": "Meat",
+       "q": 1,
+       "u": "lb"
+      },
+      {
+       "i": "sriracha or chili paste",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves",
+       "a": "Produce",
+       "q": 2
+      }
+     ]
+    },
+    {
+     "name": "Broth & bowls",
+     "items": [
+      {
+       "i": "red curry paste",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "light coconut milk",
+       "a": "International",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "broth",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "cooked rice",
+       "a": "Pantry",
+       "q": 3,
+       "u": "cup"
+      },
+      {
+       "i": "baby bok choy, halved and steamed",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "green onions, cilantro, sesame",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Beef",
+     "Brown the beef with garlic, then add sriracha, soy and honey until crispy and sticky."
+    ],
+    [
+     "Broth",
+     "Simmer the curry paste, coconut milk and broth."
+    ],
+    [
+     "Assemble",
+     "Rice, bok choy and beef in bowls with the broth poured around; garnish."
+    ]
+   ],
+   "notes": "She sends the full recipes only by DM (\"comment DINNER\"), so ingredients, amounts and method are estimated from the video. Calories and protein are hers (shown on screen); carbs and fat are estimates.",
+   "part": 5
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "src": {
+  "key": "DfpWokLzzuH",
+  "platform": "Instagram",
+  "creator": "tastyshreds",
+  "title": "Extra Chipotle Queso Steak & Rice Bowls",
+  "url": "https://www.instagram.com/tastyshreds/reel/DfpWokLzzuH/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chipotle-queso-steak-rice-bowls",
+   "title": "Slow Cooker Chipotle Queso Steak & Rice (10 Meals)",
+   "img": "img/chipotle-queso-steak-rice-bowls.jpg",
+   "t": 0,
+   "servings": 10,
+   "unit": "serving",
+   "time": "8 h slow cooker",
+   "macros": {
+    "cal": 600,
+    "protein": 54,
+    "carbs": 55,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Beef",
+    "Main meal",
+    "Rice",
+    "Mexican-inspired",
+    "Spicy"
+   ],
+   "groups": [
+    {
+     "name": "Steak",
+     "items": [
+      {
+       "i": "flank steak",
+       "a": "Meat",
+       "q": 4.25,
+       "u": "lb"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "chili powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "Rotel tomatoes",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "bone broth",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "chipotle peppers in adobo, to taste",
+       "a": "International"
+      }
+     ]
+    },
+    {
+     "name": "To finish",
+     "items": [
+      {
+       "i": "instant (minute) white rice, dry",
+       "a": "Pantry",
+       "q": 450,
+       "u": "g"
+      },
+      {
+       "i": "reduced-fat shredded cheese",
+       "a": "Dairy",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "high-protein chipotle queso (his recipe is in his comments/eBook)",
+       "a": "Dairy"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Load",
+     "Season the steak and add to the slow cooker with the Rotel, broth and chipotle."
+    ],
+    [
+     "Cook",
+     "Cook on low about 8 hours (or high 4–5) until it shreds."
+    ],
+    [
+     "Shred",
+     "Shred the steak in the juices."
+    ],
+    [
+     "Rice",
+     "Stir in the dry minute rice, cover and cook until tender (about 20–30 minutes), adding a little broth if dry."
+    ],
+    [
+     "Cheese",
+     "Stir in the cheese and queso until creamy, then portion into 10 containers."
+    ]
+   ],
+   "notes": "Ingredients come from the on-screen text; the full recipe and the queso are sent by DM, so cook times and the queso are estimated. Calories and protein (about 600 cal, 53–55 g) are his; carbs and fat are estimates."
+  }
+ ]
+}
