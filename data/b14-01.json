@@ -1,0 +1,320 @@
+{
+ "src": {
+  "key": "2y4hoh_LvBc",
+  "platform": "YouTube",
+  "creator": "Danny Kim",
+  "title": "Korean Pork Ribs vs Black Pork Ribs",
+  "url": "https://www.youtube.com/watch?v=2y4hoh_LvBc",
+  "recipes": 2
+ },
+ "recipes": [
+  {
+   "id": "korean-braised-pork-ribs",
+   "title": "Korean Gochujang Braised Pork Ribs",
+   "img": "img/korean-braised-pork-ribs.jpg",
+   "part": 1,
+   "t": 3,
+   "servings": 4,
+   "unit": "serving",
+   "time": 150,
+   "macros": {
+    "cal": 620,
+    "protein": 42,
+    "carbs": 28,
+    "fat": 37
+   },
+   "stated": [],
+   "tags": [
+    "Main meal",
+    "Pork",
+    "Asian-inspired",
+    "Spicy",
+    "Comfort food"
+   ],
+   "groups": [
+    {
+     "name": "Ribs",
+     "items": [
+      {
+       "i": "pork spare ribs or baby back ribs, cut into individual ribs",
+       "a": "Meat",
+       "q": 3,
+       "u": "lb"
+      },
+      {
+       "i": "salt and pepper",
+       "a": "Pantry"
+      },
+      {
+       "i": "neutral oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Braising sauce",
+     "items": [
+      {
+       "i": "onion, diced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 6
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "gochugaru (Korean chili flakes)",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "mirin",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "gochujang",
+       "a": "International",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "Korean citron (yuja) tea / citrus jelly",
+       "a": "International",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "stock",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "cup"
+      }
+     ]
+    },
+    {
+     "name": "To finish",
+     "items": [
+      {
+       "i": "toasted sesame seeds",
+       "a": "International"
+      },
+      {
+       "i": "green onions, sliced",
+       "a": "Produce",
+       "q": 2
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Cut",
+     "Cut the rack into individual ribs and season with salt and pepper."
+    ],
+    [
+     "Sear",
+     "Sear the ribs in a hot Dutch oven in batches until browned, then take them out, leaving the browned bits (the fond)."
+    ],
+    [
+     "Aromatics",
+     "Add the onion, garlic and a pinch of salt and cook, scraping the fond, until soft."
+    ],
+    [
+     "Sauce",
+     "Stir in the gochugaru, mirin, soy sauce, gochujang, citron jelly and sesame oil and let it fry and toast a minute, then loosen with the stock."
+    ],
+    [
+     "Braise",
+     "Return the ribs, bring to a simmer, cover and bake at 350°F (175°C) for 2 hours."
+    ],
+    [
+     "Serve",
+     "Plate the ribs, spoon the sauce over and top with sesame seeds and green onions."
+    ]
+   ],
+   "notes": "The video gives no measurements (ingredients are named on screen as he adds them), so all amounts, the serving count and the macros are estimates. Korean citrus jelly is yuja-cha (citron tea), sold in jars at Korean markets; orange marmalade is a close swap."
+  },
+  {
+   "id": "black-cookout-bbq-pork-ribs",
+   "title": "Black Cookout BBQ Pork Ribs",
+   "img": "img/black-cookout-bbq-pork-ribs.jpg",
+   "part": 2,
+   "t": 48,
+   "servings": 4,
+   "unit": "serving",
+   "time": 170,
+   "macros": {
+    "cal": 690,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 44
+   },
+   "stated": [],
+   "tags": [
+    "Main meal",
+    "Pork",
+    "Comfort food"
+   ],
+   "groups": [
+    {
+     "name": "Ribs",
+     "items": [
+      {
+       "i": "pork spare ribs, cut into individual ribs",
+       "a": "Meat",
+       "q": 3,
+       "u": "lb"
+      },
+      {
+       "i": "pink Himalayan sea salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry"
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry"
+      },
+      {
+       "i": "butter",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "dark brown sugar",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "BBQ sauce",
+     "items": [
+      {
+       "i": "ketchup",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "Dijon mustard",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "apple cider vinegar",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "soy sauce",
+       "a": "International",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "ginger, grated",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "cumin",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "orange juice",
+       "a": "Produce",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "dark brown sugar",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Sides (optional)",
+     "items": [
+      {
+       "i": "pasta salad, baked beans and potato salad",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Season",
+     "Season the ribs well with salt, pepper and cumin."
+    ],
+    [
+     "Sear",
+     "Sear on all sides on a hot griddle or pan, then take them off."
+    ],
+    [
+     "Into the pot",
+     "Put the ribs in a pot with a little butter and dark brown sugar."
+    ],
+    [
+     "Bake",
+     "Cover and bake at 315°F (157°C) for about 2½ hours."
+    ],
+    [
+     "Sauce",
+     "Meanwhile simmer the ketchup, honey, mustard, vinegar, soy, ginger, garlic, cumin, orange juice and brown sugar on the stove for 10–15 minutes."
+    ],
+    [
+     "Serve",
+     "Plate the ribs on top of the sides and spoon the sauce over. Sides aren't in the macros."
+    ]
+   ],
+   "notes": "The video gives no measurements (ingredients are named on screen as he adds them), so all amounts, the serving count and the macros are estimates. "
+  }
+ ]
+}

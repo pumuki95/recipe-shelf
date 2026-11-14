@@ -1,0 +1,181 @@
+{
+ "src": {
+  "key": "xTg6MatIEW8",
+  "platform": "YouTube",
+  "creator": "Legend's_Cooking",
+  "title": "High Protein Grilled Cheese Burritos! Only 645 Calories!",
+  "url": "https://www.youtube.com/watch?v=xTg6MatIEW8",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "grilled-cheese-beef-rice-burritos-legends",
+   "title": "Grilled Cheese Beef & Mexican Rice Burritos",
+   "img": "img/grilled-cheese-beef-rice-burritos-legends.jpg",
+   "t": 2,
+   "servings": 6,
+   "unit": "burrito",
+   "time": 40,
+   "macros": {
+    "cal": 645,
+    "protein": 63,
+    "carbs": 43,
+    "fat": 21
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Meal prep",
+    "High protein",
+    "Beef",
+    "Ground beef",
+    "Tortillas",
+    "Mexican-inspired",
+    "Main meal",
+    "Freezer friendly"
+   ],
+   "groups": [
+    {
+     "name": "Beef filling",
+     "items": [
+      {
+       "i": "white onion, diced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "extra lean ground beef",
+       "a": "Meat",
+       "q": 900,
+       "u": "g"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "chili powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "ground cumin",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "onion and garlic powder",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "oregano",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "canned diced tomatoes",
+       "a": "Pantry",
+       "q": 400,
+       "u": "g"
+      },
+      {
+       "i": "light cheddar",
+       "a": "Dairy",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "chicken broth",
+       "a": "Pantry",
+       "q": 250,
+       "u": "ml"
+      },
+      {
+       "i": "cilantro",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Assembly",
+     "items": [
+      {
+       "i": "cooked Mexican-style rice (or any rice)",
+       "a": "Pantry",
+       "q": 600,
+       "u": "g"
+      },
+      {
+       "i": "tortillas",
+       "a": "Baking",
+       "q": 6
+      },
+      {
+       "i": "nacho cheese sauce (1 tbsp per burrito)",
+       "a": "Dairy",
+       "q": 6,
+       "u": "tbsp"
+      },
+      {
+       "i": "light grated mozzarella (20 g per burrito)",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Beef",
+     "Soften the onion, add the beef and garlic and brown it, then stir in the seasoning mix."
+    ],
+    [
+     "Simmer",
+     "Add the tomatoes and broth and simmer until thick, then stir in the cheddar and cilantro."
+    ],
+    [
+     "Fill",
+     "Lay out each tortilla with rice, beef filling and a tablespoon of nacho cheese sauce, then roll tightly."
+    ],
+    [
+     "Grill the cheese",
+     "Sprinkle 20 g mozzarella in a hot pan, place the burrito seam-side down on it and cook until the cheese crisps and sticks; repeat on the other side."
+    ],
+    [
+     "Store",
+     "Wrap in foil to meal prep; reheat in the oven or air fryer."
+    ]
+   ],
+   "notes": "Ingredients and macros (per burrito) are from the video description; the method is from the video. It's credited to @_aussiefitness, a version of the Aussie Fitness grilled cheese burritos already on the site but with rice and different numbers."
+  }
+ ]
+}
