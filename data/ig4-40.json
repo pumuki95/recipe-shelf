@@ -10,17 +10,17 @@
  "recipes": [
   {
    "id": "oil-free-egg-yogurt-mayo",
-   "title": "Oil-Free Mayo (Egg & Yogurt) – Mayonesa sin aceite",
+   "title": "Classic Oil-Free Mayo (Egg & Yogurt) – Mayonesa sin aceite",
    "img": "img/oil-free-egg-yogurt-mayo.jpg",
    "t": 0,
    "servings": 10,
    "unit": "serve (2 tbsp)",
    "time": "10 min",
    "macros": {
-    "cal": 30,
-    "protein": 3,
-    "carbs": 1,
-    "fat": 1.5
+    "cal": 22,
+    "protein": 2.4,
+    "carbs": 0.7,
+    "fat": 1.1
    },
    "stated": [],
    "tags": [
@@ -34,7 +34,7 @@
    ],
    "groups": [
     {
-     "name": "Mayo",
+     "name": "Classic mayo",
      "items": [
       {
        "i": "hard-boiled eggs, peeled",
@@ -42,29 +42,34 @@
        "q": 2
       },
       {
-       "i": "plain Greek yogurt (about ⅔ cup)",
+       "i": "Greek yogurt",
        "a": "Dairy",
-       "q": 150,
-       "u": "g"
+       "q": 0.5,
+       "u": "cup"
       },
       {
        "i": "mustard",
        "a": "Pantry",
        "q": 1,
-       "u": "tsp"
+       "u": "tbsp"
       },
       {
-       "i": "lime, juiced",
+       "i": "lemon, juiced",
        "a": "Produce",
        "q": 0.5
       },
       {
-       "i": "salt and black pepper, to taste",
+       "i": "salt",
        "a": "Pantry"
       },
       {
-       "i": "splash of milk or water to loosen, if needed",
-       "a": "Dairy"
+       "i": "pepper",
+       "a": "Pantry"
+      },
+      {
+       "i": "garlic clove (optional)",
+       "a": "Produce",
+       "q": 1
       }
      ]
     }
@@ -72,37 +77,33 @@
    "steps": [
     [
      "Add",
-     "Put the eggs and yogurt in a tall jug or immersion-blender cup."
-    ],
-    [
-     "Season",
-     "Add the mustard, lime juice, salt and pepper."
+     "Put the eggs, yogurt, mustard, lemon juice, salt, pepper and garlic (if using) in a tall jug."
     ],
     [
      "Blend",
-     "Blend with an immersion blender until thick and completely smooth, like mayonnaise."
+     "Blend with an immersion blender until thick and completely smooth."
     ],
     [
      "Store",
      "Transfer to a clean jar and refrigerate."
     ]
    ],
-   "notes": "Translated from Spanish (Cocina para Foráneos, Ecuador: '3 mayonesas sin una gota de aceite'). The post has no written recipe or measurements; ingredients are taken from the video and the amounts are estimated, so adjust to taste. As the creator says in the comments, without oil it's really a creamy yogurt-and-egg sauce in the style of mayonnaise. It keeps about 3 days in the fridge; extra lime or a splash of vinegar helps it last a little longer. Macros are estimates per 2 tbsp.",
+   "notes": "Translated from Spanish (Cocina para Foráneos, Ecuador: '3 mayonesas sin una gota de aceite'). Ingredients and amounts are the ones he says in the video; salt and pepper are to taste. As the creator says in the comments, without oil it's really a creamy yogurt-and-egg sauce in the style of mayonnaise. It keeps about 3 days in the fridge; extra lemon or a splash of vinegar helps it last a little longer. Macros are estimates per 2 tbsp.",
    "part": 1
   },
   {
    "id": "oil-free-avocado-herb-mayo",
-   "title": "Green Avocado-Herb Mayo – Mayonesa verde sin aceite",
+   "title": "Green Avocado Mayo – Mayonesa verde sin aceite",
    "img": "img/oil-free-avocado-herb-mayo.jpg",
    "t": 0,
    "servings": 10,
    "unit": "serve (2 tbsp)",
    "time": "10 min",
    "macros": {
-    "cal": 45,
-    "protein": 2,
-    "carbs": 2,
-    "fat": 3.5
+    "cal": 32,
+    "protein": 1.3,
+    "carbs": 1.6,
+    "fat": 2.3
    },
    "stated": [],
    "tags": [
@@ -123,27 +124,37 @@
        "q": 1
       },
       {
-       "i": "plain Greek yogurt (about ⅔ cup)",
+       "i": "Greek yogurt",
        "a": "Dairy",
-       "q": 150,
-       "u": "g"
+       "q": 0.5,
+       "u": "cup"
       },
       {
-       "i": "large handful of cilantro and/or parsley",
+       "i": "mustard",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "handful of cilantro",
        "a": "Produce"
       },
       {
-       "i": "garlic clove (optional)",
-       "a": "Produce",
-       "q": 1
-      },
-      {
-       "i": "lime, juiced",
+       "i": "lemon, juiced",
        "a": "Produce",
        "q": 0.5
       },
       {
-       "i": "salt and black pepper, to taste",
+       "i": "garlic clove",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "pepper",
        "a": "Pantry"
       }
      ]
@@ -152,11 +163,7 @@
    "steps": [
     [
      "Add",
-     "Put the avocado, yogurt and herbs in a tall jug."
-    ],
-    [
-     "Season",
-     "Add the garlic, lime juice, salt and pepper."
+     "Put the avocado, yogurt, mustard, cilantro, lemon juice, garlic, salt and pepper in a tall jug."
     ],
     [
      "Blend",
@@ -164,25 +171,25 @@
     ],
     [
      "Store",
-     "Transfer to a jar, press plastic wrap onto the surface and refrigerate. It's best within 2–3 days; the lime slows browning but it will still darken."
+     "Transfer to a jar, press plastic wrap onto the surface and refrigerate. Best within 2–3 days; the lemon slows browning but it will still darken."
     ]
    ],
-   "notes": "Translated from Spanish (Cocina para Foráneos, Ecuador: '3 mayonesas sin una gota de aceite'). The post has no written recipe or measurements; ingredients are taken from the video and the amounts are estimated, so adjust to taste. As the creator says in the comments, without oil it's really a creamy yogurt-and-egg sauce in the style of mayonnaise. It keeps about 3 days in the fridge; extra lime or a splash of vinegar helps it last a little longer. Macros are estimates per 2 tbsp. In the video the green version is shown with onion rings for dipping.",
+   "notes": "Translated from Spanish (Cocina para Foráneos, Ecuador: '3 mayonesas sin una gota de aceite'). Ingredients and amounts are the ones he says in the video; salt and pepper are to taste. As the creator says in the comments, without oil it's really a creamy yogurt-and-egg sauce in the style of mayonnaise. It keeps about 3 days in the fridge; extra lemon or a splash of vinegar helps it last a little longer. Macros are estimates per 2 tbsp. In the video the green version is shown with onion rings for dipping.",
    "part": 2
   },
   {
    "id": "oil-free-spicy-red-mayo",
-   "title": "Spicy Red Mayo – Mayonesa roja picante sin aceite",
+   "title": "Spicy Orange Mayo – Mayonesa naranja picante sin aceite",
    "img": "img/oil-free-spicy-red-mayo.jpg",
    "t": 0,
-   "servings": 10,
+   "servings": 12,
    "unit": "serve (2 tbsp)",
    "time": "10 min",
    "macros": {
-    "cal": 35,
-    "protein": 3,
-    "carbs": 2,
-    "fat": 1.5
+    "cal": 28,
+    "protein": 2,
+    "carbs": 2.5,
+    "fat": 0.9
    },
    "stated": [],
    "tags": [
@@ -196,7 +203,7 @@
    ],
    "groups": [
     {
-     "name": "Red mayo",
+     "name": "Orange mayo",
      "items": [
       {
        "i": "hard-boiled eggs, peeled",
@@ -204,15 +211,15 @@
        "q": 2
       },
       {
-       "i": "plain Greek yogurt (about ⅔ cup)",
+       "i": "Greek yogurt",
        "a": "Dairy",
-       "q": 150,
-       "u": "g"
+       "q": 0.5,
+       "u": "cup"
       },
       {
-       "i": "hot chili sauce (sriracha-style), to taste",
-       "a": "International",
-       "q": 2,
+       "i": "mustard",
+       "a": "Pantry",
+       "q": 1,
        "u": "tbsp"
       },
       {
@@ -221,8 +228,10 @@
        "q": 1
       },
       {
-       "i": "salt, to taste",
-       "a": "Pantry"
+       "i": "sriracha or another hot sauce",
+       "a": "International",
+       "q": 0.5,
+       "u": "cup"
       }
      ]
     }
@@ -230,22 +239,18 @@
    "steps": [
     [
      "Add",
-     "Put the eggs and yogurt in a tall jug or immersion-blender cup."
-    ],
-    [
-     "Season",
-     "Add the chili sauce, garlic and salt."
+     "Put the eggs, yogurt, mustard, garlic and sriracha in a tall jug."
     ],
     [
      "Blend",
-     "Blend with an immersion blender until thick and completely smooth, like mayonnaise."
+     "Blend with an immersion blender until smooth and orange."
     ],
     [
      "Store",
      "Transfer to a jar and refrigerate. A commenter's tip the creator liked: blend in a roasted red pepper."
     ]
    ],
-   "notes": "Translated from Spanish (Cocina para Foráneos, Ecuador: '3 mayonesas sin una gota de aceite'). The post has no written recipe or measurements; ingredients are taken from the video and the amounts are estimated, so adjust to taste. As the creator says in the comments, without oil it's really a creamy yogurt-and-egg sauce in the style of mayonnaise. It keeps about 3 days in the fridge; extra lime or a splash of vinegar helps it last a little longer. Macros are estimates per 2 tbsp.",
+   "notes": "Translated from Spanish (Cocina para Foráneos, Ecuador: '3 mayonesas sin una gota de aceite'). Ingredients and amounts are the ones he says in the video; salt and pepper are to taste. As the creator says in the comments, without oil it's really a creamy yogurt-and-egg sauce in the style of mayonnaise. It keeps about 3 days in the fridge; extra lemon or a splash of vinegar helps it last a little longer. Macros are estimates per 2 tbsp.",
    "part": 3
   }
  ]
