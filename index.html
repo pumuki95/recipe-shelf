@@ -129,6 +129,7 @@ nav.tabs a[aria-current="page"]{background:var(--ink);color:var(--bg);border-col
 .est{font-size:11px;color:var(--muted);font-family:var(--mono)}
 .section{margin-top:28px}
 .section h3{font-size:22px;font-weight:700;margin-bottom:10px;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.section h3 .seltog{font-family:var(--body);font-size:13px;font-weight:600;margin-left:auto}
 .scaler{display:flex;align-items:center;gap:8px;font-family:var(--body);font-size:13px;font-weight:500}
 .scaler button{width:30px;height:30px;border-radius:8px;border:1px solid var(--line);background:var(--paper);font-size:16px;line-height:1}
 .ing-group{margin-bottom:14px}
@@ -559,11 +560,10 @@ function detail(r){
         </div>
 
         <div class="section">
-          <h3>Ingredients
+          <h3><span>Ingredients</span>
+            <button class="linkbtn seltog" id="seltog">${ex.length?"Select all":"Select none"}</button>
             <span class="scaler"><button id="minus" aria-label="Fewer servings">−</button><span class="num" id="sv">${sv}</span> ${pl(r.unit,2)}<button id="plus" aria-label="More servings">+</button></span>
           </h3>
-          <div class="pickbar"><span>${inList?"Ticked items are on your grocery list.":"Tick what you need to buy."}</span>
-            <button class="linkbtn" id="all">Select all</button><button class="linkbtn" id="none">Select none</button></div>
           ${r.groups.map((g,gi)=>`<div class="ing-group"><h4>${esc(g.name)}</h4><ul class="ing">${g.items.map((it,ii)=>{ const key=gi+"-"+ii, on=!ex.includes(key); return `
             <li class="${on?"":"off"}"><input type="checkbox" class="pick" id="p-${key}" data-k="${key}" ${on?"checked":""}><label class="q" for="p-${key}">${it.q==null?"to taste":fmtQH(it.q*k)+(it.u?" "+it.u:"")}</label><label class="n" for="p-${key}">${fracText(esc(it.i))}${it.note?` <small>· ${fracText(esc(it.note))}</small>`:""}${it.est?`<span class="flag" title="Not stated in the video">est.</span>`:""}${it.staple?` <small class="staple">pantry staple</small>`:""}</label></li>`;}).join("")}</ul></div>`).join("")}
           <div class="addrow">
@@ -598,8 +598,7 @@ function detail(r){
   $("#yminus").onclick = ()=>setGot(got-1);
   $("#yplus").onclick = ()=>setGot(got+1);
   const yr = $("#yreset"); if(yr) yr.onclick = ()=>setGot(sv);
-  $("#all").onclick = ()=>setEx([]);
-  $("#none").onclick = ()=>setEx(keys.slice());
+  $("#seltog").onclick = ()=>setEx(ex.length ? [] : keys.slice());
   document.querySelectorAll("input.pick").forEach(cb=>cb.onchange=()=>{
     const cur = pickEx(r).slice(), key = cb.dataset.k;
     setEx(cb.checked ? cur.filter(x=>x!==key) : [...cur, key]);
