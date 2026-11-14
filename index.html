@@ -102,10 +102,19 @@ nav.tabs a[aria-current="page"]{background:var(--ink);color:var(--bg);border-col
 .stat .k{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
 .stat .v{font-family:var(--mono);font-size:20px;font-variant-numeric:tabular-nums}
 .stat .v small{font-size:12px;color:var(--muted)}
-.thumbs{display:flex;gap:8px;margin-top:8px}
-.thumbs .th{padding:0;border:2px solid transparent;border-radius:8px;overflow:hidden;width:72px;height:41px;background:none;cursor:pointer}
-.thumbs .th[aria-pressed="true"]{border-color:var(--chili)}
-.thumbs .th img{width:100%;height:100%;object-fit:cover;display:block}
+.gal{position:relative;border-radius:var(--r);overflow:hidden;background:#1b1a17}
+.gal-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.gal-track::-webkit-scrollbar{display:none}
+.gal-slide{flex:0 0 100%;scroll-snap-align:center;aspect-ratio:4/5;max-height:78vh;position:relative;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.gal-slide .bg{position:absolute;inset:-20px;background-size:cover;background-position:center;filter:blur(22px) brightness(.55)}
+.hero .gal-slide img{position:relative;width:auto;height:100%;max-width:100%;aspect-ratio:auto;object-fit:contain;border-radius:0}
+.gal-nav{position:absolute;top:0;bottom:0;width:35%;border:0;background:transparent;cursor:pointer;display:flex;align-items:center;padding:0 10px;color:#fff;font-size:26px;opacity:0;transition:opacity .15s}
+.gal-nav.prev{left:0;justify-content:flex-start}.gal-nav.next{right:0;justify-content:flex-end}
+.gal:hover .gal-nav{opacity:.9}.gal-nav[disabled]{display:none}
+.gal-nav span{width:36px;height:36px;border-radius:50%;background:rgba(0,0,0,.45);display:flex;align-items:center;justify-content:center;line-height:1}
+.gal-dots{position:absolute;bottom:10px;left:0;right:0;display:flex;justify-content:center;gap:6px;pointer-events:none}
+.gal-dots i{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.5)}.gal-dots i.on{background:#fff}
+@media (hover:none){.gal-nav{display:none}}
 .nutri{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:14px;margin-top:14px}
 .nutri h3{font-size:15px;margin-bottom:8px;display:flex;justify-content:space-between;align-items:baseline}
 .nutri h3 span{font-family:var(--body);font-weight:500;font-size:12px;color:var(--muted)}
@@ -511,7 +520,7 @@ function detail(r){
     <a class="back" href="#">← All recipes</a>
     <div class="detail">
       <div class="hero">
-        <img id="heroimg" src="${r.img}" alt="${esc(r.title)}, finished dish">${r.imgs&&r.imgs.length?`<div class="thumbs">${[r.img,...r.imgs].map((u,i)=>`<button class="th" data-u="${u}" aria-pressed="${i===0}" aria-label="Photo ${i+1}"><img src="${u.replace("img/","img/t/")}" alt=""></button>`).join("")}</div>`:""}
+        ${r.gallery&&r.gallery.length?`<div class="gal" aria-roledescription="carousel" aria-label="Photos of ${esc(r.title)}"><div class="gal-track">${r.gallery.map((u,i)=>`<div class="gal-slide" aria-label="Photo ${i+1} of ${r.gallery.length}"><div class="bg" style="background-image:url('${u}')"></div><img src="${u}" alt="${esc(r.title)}, photo ${i+1}" ${i?'loading="lazy"':""}></div>`).join("")}</div>${r.gallery.length>1?`<button class="gal-nav prev" aria-label="Previous photo" disabled><span>‹</span></button><button class="gal-nav next" aria-label="Next photo"><span>›</span></button><div class="gal-dots">${r.gallery.map((_,i)=>`<i class="${i?"":"on"}"></i>`).join("")}</div>`:""}</div>`:`<img src="${r.img}" alt="${esc(r.title)}, finished dish">`}
         <div class="srcline"><span>${s.platform} · ${esc(s.creator)}</span>${s.url?`<a href="${s.url}${r.t&&s.platform==="YouTube"?`&t=${r.t}s`:""}" target="_blank" rel="noopener">${s.linkLabel?esc(s.linkLabel):s.platform==="Instagram"?"Watch on Instagram":r.t?`Watch from ${fmtTime(r.t)}`:"Watch the video"} ↗</a>`:""}${s.extra?`<a href="${s.extra.url}" target="_blank" rel="noopener">${esc(s.extra.label)} ↗</a>`:""}</div>
         <div class="nutri">
           <h3>Nutrition per ${r.unit} <span>${got!==sv?"adjusted for your servings":NUTS.every(x=>!isEst(r,x))?"from the creator":"creator figures + estimates"}</span></h3>
@@ -576,7 +585,13 @@ function detail(r){
   const rerender = () => { const y = window.scrollY; detail(r); window.scrollTo(0, y); };
   const setEx = list => { if(entry){ entry.ex = list; if(list.length===keys.length){ delete state.grocery[r.id]; toast("Removed from grocery list"); } saveG(); } else state.pick[r.id] = list; rerender(); };
   const setSv = v => { state.scale[r.id] = Math.max(1, v); if(entry){ entry.sv=state.scale[r.id]; saveG(); } rerender(); };
-  document.querySelectorAll(".thumbs .th").forEach(t=>t.onclick=()=>{ $("#heroimg").src=t.dataset.u; document.querySelectorAll(".thumbs .th").forEach(x=>x.setAttribute("aria-pressed", x===t)); });
+  const gt = document.querySelector(".gal-track");
+  if(gt){ const n = gt.children.length, idx = () => Math.round(gt.scrollLeft / gt.clientWidth);
+    const upd = () => { const i = idx(); document.querySelectorAll(".gal-dots i").forEach((d,k)=>d.classList.toggle("on", k===i)); const pv=$(".gal-nav.prev"), nx=$(".gal-nav.next"); if(pv){ pv.disabled = i<=0; nx.disabled = i>=n-1; } };
+    gt.addEventListener("scroll", ()=>requestAnimationFrame(upd), {passive:true});
+    const go = d => gt.scrollTo({left: (idx()+d)*gt.clientWidth});
+    const pv=$(".gal-nav.prev"), nx=$(".gal-nav.next"); if(pv){ pv.onclick=()=>go(-1); nx.onclick=()=>go(1); }
+    gt.tabIndex = 0; gt.onkeydown = e => { if(e.key==="ArrowRight") go(1); if(e.key==="ArrowLeft") go(-1); }; }
   $("#minus").onclick = ()=>setSv(sv-1);
   $("#plus").onclick = ()=>setSv(sv+1);
   const setGot = n => { n = Math.max(1, n); if(n===sv) delete state.yield[r.id]; else state.yield[r.id] = {sv, n}; rerender(); };
