@@ -531,15 +531,15 @@ function detail(r){
             <span class="scaler"><button id="yminus" aria-label="Fewer servings from this batch">−</button><span class="num" id="yv">${got}</span><button id="yplus" aria-label="More servings from this batch">+</button></span></div>
           ${got!==sv?`<p class="ynote">The ingredients for ${sv} ${pl(r.unit,sv)} made ${got}, so each ${r.unit} has ${f>1?"more":"less"} than the recipe says. <button class="linkbtn" id="yreset">Reset to ${sv}</button></p>`:""}
           <div class="ncal"><span>Calories</span><span class="num">${m.cal}${est("cal")}</span></div>
-          <div class="bar" role="img" aria-label="Calories split by macro"><i style="width:${kc.p/tot*100}%;background:var(--chili)"></i><i style="width:${kc.c/tot*100}%;background:var(--mustard)"></i><i style="width:${kc.f/tot*100}%;background:var(--basil)"></i></div>
+          <div class="bar" role="img" aria-label="Calories split by macro"><i style="width:${kc.f/tot*100}%;background:var(--basil)"></i><i style="width:${kc.c/tot*100}%;background:var(--mustard)"></i><i style="width:${kc.p/tot*100}%;background:var(--chili)"></i></div>
           <div class="nrow">
-            <span><i class="dot" style="background:var(--chili)"></i>Protein</span><span class="num">${m.protein} g${est("protein")}</span><span class="num est">${Math.round(kc.p/tot*100)}%</span>
-            <span><i class="dot" style="background:var(--mustard)"></i>Carbs</span><span class="num">${m.carbs} g${est("carbs")}</span><span class="num est">${Math.round(kc.c/tot*100)}%</span>
-            <span class="sub">Fiber</span><span class="num">${m.fiber} g${est("fiber")}</span><span></span>
+            <span><i class="dot" style="background:var(--basil)"></i>Total fat</span><span class="num">${m.fat} g${est("fat")}</span><span class="num est">${Math.round(kc.f/tot*100)}%</span>
+            <span><i class="dot" style="background:var(--mustard)"></i>Total carbohydrate</span><span class="num">${m.carbs} g${est("carbs")}</span><span class="num est">${Math.round(kc.c/tot*100)}%</span>
+            <span class="sub">Dietary fiber</span><span class="num">${m.fiber} g${est("fiber")}</span><span></span>
             <span class="sub">Total sugars</span><span class="num">${m.sugar} g${est("sugar")}</span><span></span>
             <span class="sub2">incl. added sugars</span><span class="num">${m.addedSugar} g${est("addedSugar")}</span><span></span>
             <span class="sub">Sugar alcohols</span><span class="num">${m.sugarAlcohol} g${est("sugarAlcohol")}</span><span></span>
-            <span><i class="dot" style="background:var(--basil)"></i>Fat</span><span class="num">${m.fat} g${est("fat")}</span><span class="num est">${Math.round(kc.f/tot*100)}%</span>
+            <span><i class="dot" style="background:var(--chili)"></i>Protein</span><span class="num">${m.protein} g${est("protein")}</span><span class="num est">${Math.round(kc.p/tot*100)}%</span>
             <i class="sep"></i>
             <span>Net carbs <small class="est">(carbs − fiber)</small></span><span class="num">${Math.max(0, Math.round((m.carbs-(m.fiber||0))*10)/10)} g</span><span></span>
             <span>Protein per 100 cal</span><span class="num">${ppc(r).toFixed(1)} g</span><span></span>
