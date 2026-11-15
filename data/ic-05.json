@@ -17,12 +17,15 @@
    "unit": "pint",
    "time": "10 min + 24 h freeze",
    "macros": {
-    "cal": 400,
-    "protein": 46,
-    "carbs": 42,
-    "fat": 8
+    "cal": 385,
+    "protein": 45,
+    "carbs": 38,
+    "fat": 7
    },
-   "stated": [],
+   "stated": [
+    "cal",
+    "protein"
+   ],
    "tags": [
     "Dessert",
     "Snack",
@@ -94,7 +97,7 @@
      "Make a hole down the middle with a spoon or knife, add the mix-ins and run the Mix-in cycle."
     ]
    ],
-   "notes": "Ingredients are the creator's; macros are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
+   "notes": "Ingredients are the creator's. He shows 385 calories and 45 g protein on screen (at 4:03); carbs and fat are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
    "part": 1,
    "gallery": [
     "img/p/cck-oreo-blizzard-creami-1.jpg"
@@ -110,12 +113,15 @@
    "unit": "pint",
    "time": "10 min + 24 h freeze",
    "macros": {
-    "cal": 390,
-    "protein": 45,
-    "carbs": 40,
-    "fat": 9
+    "cal": 350,
+    "protein": 44,
+    "carbs": 33,
+    "fat": 5
    },
-   "stated": [],
+   "stated": [
+    "cal",
+    "protein"
+   ],
    "tags": [
     "Dessert",
     "Snack",
@@ -194,7 +200,7 @@
      "Make a hole down the middle with a spoon or knife, add the mix-ins and run the Mix-in cycle."
     ]
    ],
-   "notes": "Ingredients are the creator's; macros are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
+   "notes": "Ingredients are the creator's. He shows 350 calories and 44 g protein on screen; carbs and fat are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
    "part": 2
   },
   {
