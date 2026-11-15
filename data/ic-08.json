@@ -1,0 +1,105 @@
+{
+ "src": {
+  "key": "BStffbfzDrM",
+  "platform": "YouTube",
+  "creator": "Eli | FPF",
+  "title": "Oreo McFlurry Protein Ice Cream",
+  "url": "https://www.youtube.com/watch?v=BStffbfzDrM",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "eli-oreo-mcflurry-protein-creami-v2",
+   "title": "Oreo McFlurry Protein Creami (233-Calorie Pint)",
+   "img": "img/eli-oreo-mcflurry-protein-creami-v2.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 233,
+    "protein": 23,
+    "carbs": 29,
+    "fat": 2
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "fat-free ultra-filtered milk",
+       "a": "Dairy",
+       "q": 400,
+       "u": "g"
+      },
+      {
+       "i": "monk fruit sweetener",
+       "a": "Baking",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "vanilla bean paste or extract (1 tsp)",
+       "a": "Baking",
+       "q": 5,
+       "u": "g"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "xanthan gum (¼ tsp)",
+       "a": "Baking",
+       "q": 1,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "i": "Oreo Thins, cream removed",
+       "a": "Baking",
+       "q": 5
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend all the base ingredients and freeze at least 16 hours."
+    ],
+    [
+     "Thaw edge",
+     "Run the pint under hot water at least 60 seconds."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream; Re-spin if very powdery."
+    ],
+    [
+     "Mix in",
+     "Make a hole to the bottom with a butter knife, fill it with the Oreos and run Mix-in."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, for the whole pint. This is a newer, slightly bigger version of his McFlurry pint that's already on the site (no protein powder; the milk provides the protein)."
+  }
+ ]
+}

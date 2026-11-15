@@ -1,0 +1,301 @@
+{
+ "src": {
+  "key": "rZs7EZiF0-c",
+  "platform": "YouTube",
+  "creator": "The Cheat Code Kitchen",
+  "title": "These HIGH PROTEIN Ninja Creami Recipes are Insane!",
+  "url": "https://www.youtube.com/watch?v=rZs7EZiF0-c",
+  "recipes": 3
+ },
+ "recipes": [
+  {
+   "id": "cck-oreo-blizzard-creami",
+   "title": "Oreo Blizzard Protein Creami",
+   "img": "img/cck-three-creamis.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 400,
+    "protein": 46,
+    "carbs": 42,
+    "fat": 8
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "Fairlife skim milk",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "vanilla ice cream protein powder",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "xanthan gum",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "i": "mini Oreos",
+       "a": "Baking",
+       "q": 9
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the base until smooth (immersion blender or frother), adding the dry ingredients slowly while mixing, then keep blending 90 seconds."
+    ],
+    [
+     "Freeze",
+     "Pour into a Creami pint, lid on, and freeze on a level surface for 24 hours."
+    ],
+    [
+     "Spin",
+     "Run the pint under hot water for 1 minute, then spin on Lite Ice Cream. Re-spin if it's crumbly."
+    ],
+    [
+     "Mix in",
+     "Make a hole down the middle with a spoon or knife, add the mix-ins and run the Mix-in cycle."
+    ]
+   ],
+   "notes": "Ingredients are the creator's; macros are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
+   "part": 1
+  },
+  {
+   "id": "cck-confetti-crush-creami",
+   "title": "Confetti Crush Protein Creami",
+   "img": "img/cck-three-creamis.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 390,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 9
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "Fairlife skim milk",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "vanilla ice cream protein powder",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "xanthan gum",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "cake batter extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "i": "rainbow sprinkles",
+       "a": "Baking",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "mini M&Ms",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the base until smooth (immersion blender or frother), adding the dry ingredients slowly while mixing, then keep blending 90 seconds."
+    ],
+    [
+     "Freeze",
+     "Pour into a Creami pint, lid on, and freeze on a level surface for 24 hours."
+    ],
+    [
+     "Spin",
+     "Run the pint under hot water for 1 minute, then spin on Lite Ice Cream. Re-spin if it's crumbly."
+    ],
+    [
+     "Mix in",
+     "Make a hole down the middle with a spoon or knife, add the mix-ins and run the Mix-in cycle."
+    ]
+   ],
+   "notes": "Ingredients are the creator's; macros are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
+   "part": 2
+  },
+  {
+   "id": "cck-pb-candy-swirl-creami",
+   "title": "Peanut Butter Candy Swirl Protein Creami",
+   "img": "img/cck-three-creamis.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 530,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 20
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "Fairlife skim milk",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "vanilla ice cream protein powder",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "xanthan gum",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "PBfit powder",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "peanut butter (optional)",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "i": "mini peanut butter cups, chopped",
+       "a": "Baking",
+       "q": 4
+      },
+      {
+       "i": "mini M&Ms",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the base until smooth (immersion blender or frother), adding the dry ingredients slowly while mixing, then keep blending 90 seconds."
+    ],
+    [
+     "Freeze",
+     "Pour into a Creami pint, lid on, and freeze on a level surface for 24 hours."
+    ],
+    [
+     "Spin",
+     "Run the pint under hot water for 1 minute, then spin on Lite Ice Cream. Re-spin if it's crumbly."
+    ],
+    [
+     "Mix in",
+     "Make a hole down the middle with a spoon or knife, add the mix-ins and run the Mix-in cycle."
+    ]
+   ],
+   "notes": "Ingredients are the creator's. He shows 530 cal and 55 g protein with the peanut butter (440 cal, 47 g without); carbs and fat are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
+   "part": 3
+  }
+ ]
+}

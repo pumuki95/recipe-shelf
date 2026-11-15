@@ -84,7 +84,24 @@
   "strawberry-protein-creami",
   "thick-pb-chocolate-creami",
   "vanilla-bean-protein-creami",
-  "berry-cottage-cheese-ice-cream"
+  "berry-cottage-cheese-ice-cream",
+  "e4cm-oreo-protein-creami",
+  "cck-frosted-circus-crunch-creami",
+  "cck-vanilla-berry-burst-creami",
+  "cck-pb-fudge-swirl-creami",
+  "cck-smores-creami",
+  "cck-cinnamon-toast-swirl-creami",
+  "e4cm-vanilla-creami-good",
+  "e4cm-vanilla-creami-better",
+  "e4cm-vanilla-bean-creami-best",
+  "e4cm-cherry-garcia-protein-creami",
+  "cck-oreo-blizzard-creami",
+  "cck-confetti-crush-creami",
+  "cck-pb-candy-swirl-creami",
+  "cck-milk-and-cookies-creami",
+  "cck-pistachio-crunch-creami",
+  "eli-oreo-mcflurry-protein-creami-v2",
+  "strawberry-cream-creami-plant-slant"
  ],
  "Oreo & cookies-and-cream ice cream": [
   "oreo-protein-ninja-creami",
@@ -94,7 +111,10 @@
   "fdl-oreo-cereal-milk-creami",
   "oreo-protein-creami-justin",
   "pb-oreo-creami-alex",
-  "fdl-coffee-oreo-chip-creami"
+  "fdl-coffee-oreo-chip-creami",
+  "e4cm-oreo-protein-creami",
+  "cck-oreo-blizzard-creami",
+  "eli-oreo-mcflurry-protein-creami-v2"
  ],
  "Peanut butter ice cream": [
   "thick-pb-chocolate-creami",
@@ -103,7 +123,9 @@
   "peanut-butter-cup-protein-creami",
   "fdl-reeses-creami",
   "fdl-reeses-puffs-cereal-milk-creami",
-  "pb-oreo-creami-alex"
+  "pb-oreo-creami-alex",
+  "cck-pb-fudge-swirl-creami",
+  "cck-pb-candy-swirl-creami"
  ],
  "Strawberry ice cream": [
   "strawberry-coconut-creami",
@@ -111,7 +133,8 @@
   "strawberry-jello-protein-creami",
   "strawberry-cheesecake-protein-creami",
   "fdl-strawberry-cheesecake-creami",
-  "fdl-strawberry-italian-ice"
+  "fdl-strawberry-italian-ice",
+  "strawberry-cream-creami-plant-slant"
  ],
  "Cheesecake ice cream": [
   "blueberry-cheesecake-creami",
@@ -133,7 +156,8 @@
   "cookie-dough-protein-creami",
   "half-baked-protein-creami",
   "snickerdoodle-protein-creami",
-  "mm-mcflurry-creami-alex"
+  "mm-mcflurry-creami-alex",
+  "cck-milk-and-cookies-creami"
  ],
  "Chocolate ice cream": [
   "chocolate-banana-protein-creami",
@@ -149,7 +173,8 @@
   "fdl-cinnamon-toast-crunch-cereal-milk-creami",
   "fdl-fruity-pebbles-cereal-milk-creami",
   "fdl-reeses-puffs-cereal-milk-creami",
-  "fdl-oreo-cereal-milk-creami"
+  "fdl-oreo-cereal-milk-creami",
+  "cck-cinnamon-toast-swirl-creami"
  ],
  "Fruit ice cream & sorbet": [
   "banana-maple-creami",
@@ -163,14 +188,20 @@
   "blue-hawaiian-creami",
   "orange-creamsicle-protein-creami",
   "fdl-frosted-lemonade-creami",
-  "berry-cottage-cheese-ice-cream"
+  "berry-cottage-cheese-ice-cream",
+  "cck-vanilla-berry-burst-creami",
+  "e4cm-cherry-garcia-protein-creami",
+  "strawberry-cream-creami-plant-slant"
  ],
  "Vanilla ice cream": [
   "vanilla-bean-protein-creami",
   "fdl-75-calorie-vanilla-creami",
   "fdl-birthday-cake-batter-creami",
   "maple-protein-creami",
-  "caramel-pecan-protein-creami"
+  "caramel-pecan-protein-creami",
+  "e4cm-vanilla-creami-good",
+  "e4cm-vanilla-creami-better",
+  "e4cm-vanilla-bean-creami-best"
  ],
  "Burritos": [
   "grilled-cheese-burritos",

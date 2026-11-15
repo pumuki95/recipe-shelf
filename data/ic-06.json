@@ -1,0 +1,106 @@
+{
+ "src": {
+  "key": "rMTHIV_oQpg",
+  "platform": "YouTube",
+  "creator": "The Cheat Code Kitchen",
+  "title": "Milk and Cookies High Protein Ninja Creami Recipe",
+  "url": "https://www.youtube.com/watch?v=rMTHIV_oQpg",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "cck-milk-and-cookies-creami",
+   "title": "Milk & Cookies Protein Creami",
+   "img": "img/cck-milk-and-cookies-creami.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 514,
+    "protein": 46,
+    "carbs": 46,
+    "fat": 18
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "ultra-filtered milk (Fairlife)",
+       "a": "Dairy",
+       "q": 360,
+       "u": "g"
+      },
+      {
+       "i": "vanilla protein powder (1 scoop)",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "xanthan gum (¼ tsp)",
+       "a": "Baking",
+       "q": 1,
+       "u": "g"
+      },
+      {
+       "i": "vanilla bean paste or extract (½ tsp)",
+       "a": "Baking",
+       "q": 3,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "i": "mini Chips Ahoy cookies (20 g)",
+       "a": "Baking",
+       "q": 4
+      },
+      {
+       "i": "mini Oreos (18 g)",
+       "a": "Baking",
+       "q": 6
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the base until smooth (immersion blender or frother), adding the dry ingredients slowly while mixing, then keep blending 90 seconds."
+    ],
+    [
+     "Freeze",
+     "Pour into a Creami pint, lid on, and freeze on a level surface for 24 hours."
+    ],
+    [
+     "Spin",
+     "Run the pint under hot water for 1 minute, then spin on Lite Ice Cream. Re-spin if it's crumbly."
+    ],
+    [
+     "Mix in",
+     "Make a hole down the middle with a spoon or knife, add the mix-ins and run the Mix-in cycle."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per pint."
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "src": {
+  "key": "HbvidbBT-iA",
+  "platform": "YouTube",
+  "creator": "Exercise4CheatMeals",
+  "title": "The Secrets to Perfect Oreo Ice Cream",
+  "url": "https://www.youtube.com/watch?v=HbvidbBT-iA",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "e4cm-oreo-protein-creami",
+   "title": "Perfect Oreo Protein Ice Cream (Soft-Chunk Oreos)",
+   "img": "img/e4cm-oreo-protein-creami.jpg",
+   "t": 150,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 410,
+    "protein": 36,
+    "carbs": 52,
+    "fat": 8
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "Oreo",
+       "a": "Baking",
+       "q": 1
+      },
+      {
+       "i": "fat-free high-protein milk (Fairlife)",
+       "a": "Dairy",
+       "q": 410,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 4.2,
+       "u": "g"
+      },
+      {
+       "i": "scoop cookies & cream whey protein (~30 g)",
+       "a": "Pantry",
+       "q": 1
+      },
+      {
+       "i": "erythritol",
+       "a": "Baking",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "black cocoa powder",
+       "a": "Baking",
+       "q": 4,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "g"
+      },
+      {
+       "i": "xanthan gum",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "i": "Oreos, dunked in milk 15–20 seconds then frozen, halved",
+       "a": "Baking",
+       "q": 3
+      },
+      {
+       "i": "Oreo, chopped, for topping",
+       "a": "Baking",
+       "q": 1
+      },
+      {
+       "i": "milk for dunking",
+       "a": "Dairy",
+       "q": 4,
+       "u": "oz"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Base",
+     "Put 1 Oreo, the milk and vanilla in a tall container. Mix the protein, erythritol, black cocoa, salt and xanthan gum, then blend them in slowly over 30 seconds and blend 90 seconds more."
+    ],
+    [
+     "Freeze",
+     "Pour into a pint and freeze 24 hours."
+    ],
+    [
+     "Soft Oreos",
+     "Dunk Oreos in milk for 15–20 seconds, bag them and freeze alongside the pint (6–8 at a time if you make this often)."
+    ],
+    [
+     "Spin",
+     "Run the pint under hot water 1 minute and spin on Sorbet (Lite Ice Cream is a close second)."
+    ],
+    [
+     "Mix in",
+     "Make a hole near the edge, not the center, add the frozen dunked Oreos (halved), cover and run Mix-in. Keep the Oreos frozen until this moment."
+    ],
+    [
+     "Serve",
+     "Top with a chopped Oreo."
+    ]
+   ],
+   "notes": "Recipe from the video's narration (he says the black cocoa is what Oreo uses and that whey, not whey/casein, keeps it ice-cream-like). He doesn't give macros or how many Oreos go in the mix-in; 3 Oreos and the macros are estimates."
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "src": {
+  "key": "PXYceRAaIdI",
+  "platform": "YouTube",
+  "creator": "Exercise4CheatMeals",
+  "title": "Ice Cream is Great for Weight Loss (vanilla 3 ways)",
+  "url": "https://www.youtube.com/watch?v=PXYceRAaIdI",
+  "recipes": 3
+ },
+ "recipes": [
+  {
+   "id": "e4cm-vanilla-creami-good",
+   "title": "Low-Calorie Vanilla Creami – 'Good' (Milk + Almond Milk)",
+   "img": "img/e4cm-vanilla-creami-3-ways.jpg",
+   "t": 37,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 140,
+    "protein": 14,
+    "carbs": 6,
+    "fat": 3
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "fat-free Fairlife milk",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "2% Fairlife milk",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "almond milk",
+       "a": "Dairy",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 5,
+       "u": "g"
+      },
+      {
+       "i": "Swerve (erythritol)",
+       "a": "Baking",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "xanthan gum",
+       "a": "Baking",
+       "q": 1,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Base",
+     "Add the milks and vanilla to a pint. Mix the Swerve, xanthan gum and salt, then froth or blend the milk while slowly adding the dry mix; keep going 90 seconds."
+    ],
+    [
+     "Freeze",
+     "Lid on and freeze 24 hours."
+    ],
+    [
+     "Spin",
+     "Run under hot water 1 minute, spin on Ice Cream, then Re-spin once (twice for soft serve)."
+    ]
+   ],
+   "notes": "Recipe from the video's narration. The lowest-calorie and cheapest of the three; macros are estimates (Swerve's carbs don't count).",
+   "part": 1
+  },
+  {
+   "id": "e4cm-vanilla-creami-better",
+   "title": "Creamier Vanilla Creami – 'Better' (All Milk)",
+   "img": "img/e4cm-vanilla-creami-3-ways.jpg",
+   "t": 190,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 160,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 3
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "fat-free Fairlife milk",
+       "a": "Dairy",
+       "q": 220,
+       "u": "g"
+      },
+      {
+       "i": "2% Fairlife milk",
+       "a": "Dairy",
+       "q": 220,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 5,
+       "u": "g"
+      },
+      {
+       "i": "Swerve (erythritol)",
+       "a": "Baking",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "xanthan gum",
+       "a": "Baking",
+       "q": 1,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Base",
+     "Add the milk and vanilla to a pint. Mix the Swerve, xanthan gum and salt, then froth or blend the milk while slowly adding the dry mix; keep going 90 seconds."
+    ],
+    [
+     "Freeze",
+     "Lid on and freeze 24 hours."
+    ],
+    [
+     "Spin",
+     "Run under hot water 1 minute, spin on Ice Cream, then Re-spin once (twice for soft serve)."
+    ]
+   ],
+   "notes": "Recipe from the video's narration: 440 g 1% milk, made from half fat-free and half 2% Fairlife. Dropping the almond milk makes it creamier with fewer ice crystals. Macros are estimates.",
+   "part": 2
+  },
+  {
+   "id": "e4cm-vanilla-bean-creami-best",
+   "title": "Vanilla Bean Creami – 'Best' (Egg Yolk + Vanilla Bean)",
+   "img": "img/e4cm-vanilla-creami-3-ways.jpg",
+   "t": 255,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 285,
+    "protein": 24,
+    "carbs": 13,
+    "fat": 13
+   },
+   "stated": [
+    "cal",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "2% Fairlife milk",
+       "a": "Dairy",
+       "q": 430,
+       "u": "g"
+      },
+      {
+       "i": "egg yolk (or 15 g extra milk)",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 5,
+       "u": "g"
+      },
+      {
+       "i": "vanilla bean, seeds scraped",
+       "a": "Baking",
+       "q": 0.5
+      },
+      {
+       "i": "Swerve (erythritol)",
+       "a": "Baking",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "xanthan gum",
+       "a": "Baking",
+       "q": 1,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 1,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Base",
+     "In a tall container add the milk, egg yolk, vanilla and the seeds from half a vanilla bean (save the pod for homemade extract)."
+    ],
+    [
+     "Blend",
+     "Mix the Swerve, xanthan gum and salt. With an immersion blender running, slowly add the dry mix, then blend 90 seconds; pour into a pint. (With a frother, the seeds sink: swirl the pint after 1 hour in the freezer.)"
+    ],
+    [
+     "Freeze",
+     "Freeze 24 hours."
+    ],
+    [
+     "Spin",
+     "Run under hot water 1 minute, spin on Ice Cream and repeat until it's the texture you like."
+    ]
+   ],
+   "notes": "Recipe from the video's narration; his pick of the three. On-screen macros: 285 cal, 13 g fat, 13 g net carbs (58 g total including the Swerve); protein shown as about 24 g. The egg yolk acts as an emulsifier for a smoother, richer texture.",
+   "part": 3
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "src": {
+  "key": "viKFSTlzT3U",
+  "platform": "YouTube",
+  "creator": "The Plant Slant",
+  "title": "Strawberry & cream Ninja Creami (repost)",
+  "url": "https://www.youtube.com/watch?v=viKFSTlzT3U",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "strawberry-cream-creami-plant-slant",
+   "title": "3-Ingredient Berries & Cream Creami",
+   "img": "img/strawberry-cream-creami-plant-slant.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 260,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Pint",
+     "items": [
+      {
+       "i": "frozen raspberries or mixed berries",
+       "a": "Produce",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "milk, to cover the fruit",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "flavored coffee creamer (International Delight)",
+       "a": "Dairy",
+       "q": 3,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Fill",
+     "Fill a Creami pint with frozen berries and pour in milk until the fruit is just covered."
+    ],
+    [
+     "Freeze",
+     "Lid on and freeze 24 hours."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream."
+    ],
+    [
+     "Creamer",
+     "Make a well, pour in a splash of flavored coffee creamer and Re-spin until creamy."
+    ]
+   ],
+   "notes": "A viral 3-ingredient fruit creami he tries in the video; no measurements are given, so the amounts and macros are estimates. Not a high-protein recipe. He also tries a water + Crystal Light version and preferred this one."
+  }
+ ]
+}

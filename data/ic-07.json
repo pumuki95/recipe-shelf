@@ -1,0 +1,112 @@
+{
+ "src": {
+  "key": "ofGzMG9eVEM",
+  "platform": "YouTube",
+  "creator": "The Cheat Code Kitchen",
+  "title": "Ninja Creami Recipe for High Protein Pistachio Ice Cream",
+  "url": "https://www.youtube.com/watch?v=ofGzMG9eVEM",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "cck-pistachio-crunch-creami",
+   "title": "Double Pistachio Crunch Protein Creami",
+   "img": "img/cck-pistachio-crunch-creami.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 369,
+    "protein": 45,
+    "carbs": 21,
+    "fat": 11
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "2% Fairlife ultra-filtered milk (~366 g)",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "protein powder",
+       "a": "Pantry",
+       "q": 31,
+       "u": "g"
+      },
+      {
+       "i": "sugar-free pistachio Jell-O pudding mix (~12 g)",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "zero-calorie sweetener (2 tsp)",
+       "a": "Baking",
+       "q": 8,
+       "u": "g"
+      },
+      {
+       "i": "tara gum (or xanthan gum)",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Mix-in",
+     "items": [
+      {
+       "i": "pistachios (1 tbsp)",
+       "a": "Pantry",
+       "q": 10,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the base until smooth (immersion blender or frother), adding the dry ingredients slowly while mixing, then keep blending 90 seconds."
+    ],
+    [
+     "Freeze",
+     "Pour into a Creami pint, lid on, and freeze on a level surface for 24 hours."
+    ],
+    [
+     "Spin",
+     "Run the pint under hot water for 1 minute, then spin on Lite Ice Cream. Re-spin if it's crumbly."
+    ],
+    [
+     "Mix in",
+     "Make a hole down the middle with a spoon or knife, add the mix-ins and run the Mix-in cycle."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per pint."
+  }
+ ]
+}

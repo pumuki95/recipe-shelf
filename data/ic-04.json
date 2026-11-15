@@ -1,0 +1,129 @@
+{
+ "src": {
+  "key": "ILEOkNrHdek",
+  "platform": "YouTube",
+  "creator": "Exercise4CheatMeals",
+  "title": "Cherry Garcia Protein Ice Cream Creami Recipe",
+  "url": "https://www.youtube.com/watch?v=ILEOkNrHdek",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "e4cm-cherry-garcia-protein-creami",
+   "title": "Cherry Garcia Protein Creami (Ben & Jerry's Copycat)",
+   "img": "img/e4cm-cherry-garcia-protein-creami.jpg",
+   "t": 37,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 24 h freeze",
+   "macros": {
+    "cal": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 16
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "juice from jarred Bing cherries",
+       "a": "Produce",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "2% high-protein milk (Fairlife)",
+       "a": "Dairy",
+       "q": 380,
+       "u": "g"
+      },
+      {
+       "i": "egg yolks (or 30 g extra milk)",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 4,
+       "u": "g"
+      },
+      {
+       "i": "vanilla whey/casein protein powder",
+       "a": "Pantry",
+       "q": 16,
+       "u": "g"
+      },
+      {
+       "i": "Swerve (erythritol)",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "g"
+      },
+      {
+       "i": "xanthan gum",
+       "a": "Baking",
+       "q": 0.8,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "i": "jarred Bing cherries, stemmed, opened and blotted dry on paper towel",
+       "a": "Produce",
+       "q": 5
+      },
+      {
+       "i": "Hershey's dark chocolate, chopped into ⅛-inch chunks",
+       "a": "Baking",
+       "q": 15,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Base",
+     "In a tall container add the cherry juice, milk, egg yolks and vanilla. Mix the protein, Swerve, salt and xanthan gum, then blend them in slowly over 30 seconds and blend 90 seconds more."
+    ],
+    [
+     "Freeze",
+     "Pour into a pint, label and freeze 24 hours."
+    ],
+    [
+     "Cherries",
+     "Open the cherries and press them into a triple layer of paper towel to remove the juice (otherwise it turns icy)."
+    ],
+    [
+     "Spin",
+     "Run the pint under hot water 1 minute and spin on Sorbet (the thickest result)."
+    ],
+    [
+     "Mix in",
+     "Make a hole in the middle and layer chocolate and cherries until all are in, put the scooped ice cream back and run Mix-in."
+    ]
+   ],
+   "notes": "Recipe from the video's narration. Cheaper swap: 100 g pitted Rainier cherries tossed with 10 g sugar for 30 minutes, then blotted. He says it's about half the calories of the original pint; he doesn't give macros, so they're estimates."
+  }
+ ]
+}
