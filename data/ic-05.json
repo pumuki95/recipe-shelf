@@ -107,7 +107,7 @@
   {
    "id": "cck-confetti-crush-creami",
    "title": "Confetti Crush Protein Creami",
-   "img": "img/cck-three-creamis.jpg",
+   "img": "img/cck-confetti-crush-creami.jpg",
    "t": 0,
    "servings": 1,
    "unit": "pint",
@@ -200,8 +200,12 @@
      "Make a hole down the middle with a spoon or knife, add the mix-ins and run the Mix-in cycle."
     ]
    ],
-   "notes": "Ingredients are the creator's. He shows 350 calories and 44 g protein on screen; carbs and fat are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
-   "part": 2
+   "notes": "Ingredients are the creator's. He shows 350 calories and 44 g protein on screen (at 5:09); carbs and fat are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
+   "part": 2,
+   "gallery": [
+    "img/p/cck-confetti-crush-creami-1.jpg"
+   ],
+   "galleryRatio": "1554/1428"
   },
   {
    "id": "cck-pb-candy-swirl-creami",
