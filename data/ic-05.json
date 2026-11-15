@@ -11,7 +11,7 @@
   {
    "id": "cck-oreo-blizzard-creami",
    "title": "Oreo Blizzard Protein Creami",
-   "img": "img/cck-three-creamis.jpg",
+   "img": "img/cck-oreo-blizzard-creami.jpg",
    "t": 0,
    "servings": 1,
    "unit": "pint",
@@ -95,7 +95,11 @@
     ]
    ],
    "notes": "Ingredients are the creator's; macros are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
-   "part": 1
+   "part": 1,
+   "gallery": [
+    "img/p/cck-oreo-blizzard-creami-1.jpg"
+   ],
+   "galleryRatio": "2138/1668"
   },
   {
    "id": "cck-confetti-crush-creami",
