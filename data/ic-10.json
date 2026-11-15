@@ -1,0 +1,129 @@
+{
+ "src": {
+  "key": "KbNQacmXU88",
+  "platform": "YouTube",
+  "creator": "Eli | FPF",
+  "title": "Mint Chocolate Chip Protein Ice Cream",
+  "url": "https://www.youtube.com/shorts/KbNQacmXU88",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "eli-mint-chip-protein-creami",
+   "title": "Mint Chocolate Chip Protein Creami (211-Calorie Pint)",
+   "img": "img/eli-mint-chip-protein-creami.jpg",
+   "t": 0,
+   "servings": 1,
+   "unit": "pint",
+   "time": "10 min + 16 h freeze",
+   "macros": {
+    "cal": 211,
+    "protein": 23,
+    "carbs": 11,
+    "fat": 7,
+    "sugar": 10
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "sugar"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Ninja Creami",
+    "Vegetarian",
+    "Frozen"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "fat-free ultra-filtered milk (e.g. Fairlife)",
+       "a": "Dairy",
+       "q": 400,
+       "u": "g"
+      },
+      {
+       "i": "monk fruit sweetener (Lakanto)",
+       "a": "Baking",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "peppermint extract (5–6 drops)",
+       "a": "Baking",
+       "q": 0.125,
+       "u": "tsp"
+      },
+      {
+       "i": "vanilla bean paste or extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "drops green food coloring",
+       "a": "Baking",
+       "q": 2
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Pantry"
+      },
+      {
+       "i": "xanthan gum (1 g)",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate chips",
+     "items": [
+      {
+       "i": "chocolate chips",
+       "a": "Baking",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "coconut oil",
+       "a": "Pantry",
+       "q": 2,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend all the base ingredients (40–45 g sweetener to taste) and freeze at least 16 hours."
+    ],
+    [
+     "Thaw edge",
+     "Run the pint under hot water for 30–60 seconds."
+    ],
+    [
+     "Spin",
+     "Spin on Lite Ice Cream; Re-spin if it's very powdery."
+    ],
+    [
+     "Melt chocolate",
+     "Melt the chocolate chips with the coconut oil in the microwave in 30-second bursts, stirring in between."
+    ],
+    [
+     "Mix in",
+     "Make a hole down to the bottom with a butter knife, pour in the melted chocolate and run Mix-in. The chocolate sets into creamy chips as it spins."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, for the whole pint including the chocolate (he notes the 15 g chocolate is 60 cal and the 2 g coconut oil 27 cal). Fiber and sugar alcohols aren't given."
+  }
+ ]
+}
