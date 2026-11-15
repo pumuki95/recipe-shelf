@@ -210,7 +210,7 @@
   {
    "id": "cck-pb-candy-swirl-creami",
    "title": "Peanut Butter Candy Swirl Protein Creami",
-   "img": "img/cck-three-creamis.jpg",
+   "img": "img/cck-pb-candy-swirl-creami.jpg",
    "t": 0,
    "servings": 1,
    "unit": "pint",
@@ -309,7 +309,11 @@
     ]
    ],
    "notes": "Ingredients are the creator's. He shows 530 cal and 55 g protein with the peanut butter (440 cal, 47 g without); carbs and fat are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
-   "part": 3
+   "part": 3,
+   "gallery": [
+    "img/p/cck-pb-candy-swirl-creami-1.jpg"
+   ],
+   "galleryRatio": "760/744"
   }
  ]
 }
