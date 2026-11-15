@@ -120,6 +120,9 @@ nav.tabs a[aria-current="page"]{background:var(--ink);color:var(--bg);border-col
 .nutri h3 span{font-family:var(--body);font-weight:500;font-size:12px;color:var(--muted)}
 .bar{display:flex;height:10px;border-radius:999px;overflow:hidden;background:var(--line);margin:8px 0 10px}
 .bar i{display:block}
+.vtog{display:flex;gap:4px;background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:3px;margin:0 0 12px}
+.vtog button{flex:1;border:0;background:transparent;color:var(--muted);font:600 13px var(--body);padding:7px 10px;border-radius:999px;cursor:pointer}
+.vtog button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
 .ncal{display:flex;justify-content:space-between;align-items:baseline;font-weight:700;font-size:20px;margin:0 0 8px}
 .ncal .num{font-family:var(--mono)}
 .yieldrow{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:13px;color:var(--muted);margin:0 0 10px}
@@ -350,6 +353,7 @@ let state = {
   q:"", tags:new Set(), sort:"new",
   grocery: store.get("rs-grocery", {}),   // id -> servings
   got: store.get("rs-got", {}),
+  variant: {},     // id -> index of chosen nutrition variant (not saved)
   yield: {},        // id -> {sv, n}: servings actually got from a batch of sv (not saved; resets when the recipe is reopened)
   plan: store.get("rs-plan", null) || {days:[[],[],[],[],[],[],[]]},   // days[0..6] = [{id, sv}]
   cmp: store.get("rs-cmp", []),           // recipe ids picked for "My comparison"
@@ -513,7 +517,8 @@ function detail(r){
   const s = SRC[r.src];
   const sv = state.scale[r.id] || gEntry(r.id)?.sv || r.servings, k = sv / r.servings;
   const yv = state.yield[r.id], got = yv ? Math.max(1, Math.round(yv.n * sv / yv.sv)) : sv, f = sv / got;
-  const m = {}; for(const x of NUTS){ const v = r.macros[x]; m[x] = v==null ? v : x==="cal" ? Math.round(v*f) : Math.round(v*f*10)/10; }
+  const vi = r.variants ? (state.variant[r.id]||0) : 0, bm = r.variants ? {...r.macros, ...r.variants[vi].macros} : r.macros;
+  const m = {}; for(const x of NUTS){ const v = bm[x]; m[x] = v==null ? v : x==="cal" ? Math.round(v*f) : Math.round(v*f*10)/10; }
   const kc = {p:m.protein*4, c:m.carbs*4, f:m.fat*9}, tot = kc.p+kc.c+kc.f;
   const est = x => isEst(r,x) ? ` <span class="est">est.</span>` : "";
   const siblings = RECIPES.filter(x=>x.src===r.src && x.id!==r.id);
@@ -530,6 +535,7 @@ function detail(r){
           <div class="yieldrow"><span>${pl(r.unit,2)[0].toUpperCase()+pl(r.unit,2).slice(1)} you got from this batch</span>
             <span class="scaler"><button id="yminus" aria-label="Fewer servings from this batch">−</button><span class="num" id="yv">${got}</span><button id="yplus" aria-label="More servings from this batch">+</button></span></div>
           ${got!==sv?`<p class="ynote">The ingredients for ${sv} ${pl(r.unit,sv)} made ${got}, so each ${r.unit} has ${f>1?"more":"less"} than the recipe says. <button class="linkbtn" id="yreset">Reset to ${sv}</button></p>`:""}
+          ${r.variants?`<div class="vtog" role="group" aria-label="Recipe version">${r.variants.map((v,i)=>`<button data-vi="${i}" aria-pressed="${i===vi}">${esc(v.label)}</button>`).join("")}</div>`:""}
           <div class="ncal"><span>Calories</span><span class="num">${m.cal}${est("cal")}</span></div>
           <div class="bar" role="img" aria-label="Calories split by macro"><i style="width:${kc.f/tot*100}%;background:var(--basil)"></i><i style="width:${kc.c/tot*100}%;background:var(--mustard)"></i><i style="width:${kc.p/tot*100}%;background:var(--chili)"></i></div>
           <div class="nrow">
@@ -542,7 +548,7 @@ function detail(r){
             <span><i class="dot" style="background:var(--chili)"></i>Protein</span><span class="num">${m.protein} g${est("protein")}</span><span class="num est">${Math.round(kc.p/tot*100)}%</span>
             <i class="sep"></i>
             <span>Net carbs <small class="est">(carbs − fiber)</small></span><span class="num">${Math.max(0, Math.round((m.carbs-(m.fiber||0))*10)/10)} g</span><span></span>
-            <span>Protein per 100 cal</span><span class="num">${ppc(r).toFixed(1)} g</span><span></span>
+            <span>Protein per 100 cal</span><span class="num">${(m.protein/m.cal*100).toFixed(1)} g</span><span></span>
           </div>
           ${["fiber","sugar","addedSugar","sugarAlcohol"].some(x=>isEst(r,x))?`<p class="nfoot">Fiber and sugar figures marked est. are worked out from the ingredient list. Sugar alcohols come from sweeteners like erythritol, monk fruit blends and Swerve.</p>`:""}
         </div>
@@ -597,6 +603,7 @@ function detail(r){
     gt.tabIndex = 0; gt.onkeydown = e => { if(e.key==="ArrowRight") go(1); if(e.key==="ArrowLeft") go(-1); }; }
   $("#minus").onclick = ()=>setSv(sv-1);
   $("#plus").onclick = ()=>setSv(sv+1);
+  document.querySelectorAll(".vtog button").forEach(b=>b.onclick=()=>{ state.variant[r.id]=+b.dataset.vi; rerender(); });
   const setGot = n => { n = Math.max(1, n); if(n===sv) delete state.yield[r.id]; else state.yield[r.id] = {sv, n}; rerender(); };
   $("#yminus").onclick = ()=>setGot(got-1);
   $("#yplus").onclick = ()=>setGot(got+1);
@@ -1120,7 +1127,7 @@ function route(){
   if(h.startsWith("plan")){ $("#nav-plan").setAttribute("aria-current","page"); const code = h.startsWith("plan=") ? readPlanCode(h.slice(5)) : null; return planView(code); }
   if(h.startsWith("compare")){ $("#nav-compare").setAttribute("aria-current","page"); window.scrollTo(0,0); return h.startsWith("compare/") ? compareView(h.slice(8)) : compareHome(); }
   if(h.startsWith("edit-")){ const r = RECIPES.find(x=>x.id===h.slice(5)); if(r){ $("#nav-shelf").setAttribute("aria-current","page"); window.scrollTo(0,0); return editView(r); } }
-  if(h.startsWith("r-")){ const r = RECIPES.find(x=>x.id===h.slice(2)); if(r){ $("#nav-shelf").setAttribute("aria-current","page"); state.yield = {}; return detail(r); } }
+  if(h.startsWith("r-")){ const r = RECIPES.find(x=>x.id===h.slice(2)); if(r){ $("#nav-shelf").setAttribute("aria-current","page"); state.yield = {}; state.variant = {}; return detail(r); } }
   if(h==="grocery"){ $("#nav-grocery").setAttribute("aria-current","page"); return grocery(); }
   $("#nav-shelf").setAttribute("aria-current","page"); shelf();
 }

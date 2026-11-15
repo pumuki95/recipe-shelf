@@ -308,12 +308,27 @@
      "Make a hole down the middle with a spoon or knife, add the mix-ins and run the Mix-in cycle."
     ]
    ],
-   "notes": "Ingredients are the creator's. He shows 530 cal and 55 g protein with the peanut butter (440 cal, 47 g without); carbs and fat are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
+   "notes": "Ingredients are the creator's. He shows 530 calories and 55 g protein with the peanut butter, and 440 calories and 47 g without (switch between them in the nutrition box); carbs and fat are estimates. Tips from the creator: freeze without the lid (the bump can damage the blade), mix the base with a milk frother, and if the first spin is powdery re-spin rather than adding milk.",
    "part": 3,
    "gallery": [
     "img/p/cck-pb-candy-swirl-creami-1.jpg"
    ],
-   "galleryRatio": "760/744"
+   "galleryRatio": "760/744",
+   "variants": [
+    {
+     "label": "With peanut butter",
+     "macros": {}
+    },
+    {
+     "label": "Without peanut butter",
+     "macros": {
+      "cal": 440,
+      "protein": 47,
+      "carbs": 37,
+      "fat": 12
+     }
+    }
+   ]
   }
  ]
 }
