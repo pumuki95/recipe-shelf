@@ -105,7 +105,7 @@ nav.tabs a[aria-current="page"]{background:var(--ink);color:var(--bg);border-col
 .gal{position:relative;border-radius:var(--r);overflow:hidden;background:#1b1a17}
 .gal-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none;-webkit-overflow-scrolling:touch}
 .gal-track::-webkit-scrollbar{display:none}
-.gal-slide{flex:0 0 100%;scroll-snap-align:center;aspect-ratio:4/5;max-height:78vh;position:relative;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.gal-slide{flex:0 0 100%;scroll-snap-align:center;aspect-ratio:var(--gr,4/5);max-height:78vh;position:relative;display:flex;align-items:center;justify-content:center;overflow:hidden}
 .gal-slide .bg{position:absolute;inset:-20px;background-size:cover;background-position:center;filter:blur(22px) brightness(.55)}
 .hero .gal-slide img{position:relative;width:auto;height:100%;max-width:100%;aspect-ratio:auto;object-fit:contain;border-radius:0}
 .gal-nav{position:absolute;top:0;bottom:0;width:35%;border:0;background:transparent;cursor:pointer;display:flex;align-items:center;padding:0 10px;color:#fff;font-size:26px;opacity:0;transition:opacity .15s}
@@ -521,7 +521,7 @@ function detail(r){
     <a class="back" href="#">← All recipes</a>
     <div class="detail">
       <div class="hero">
-        ${r.gallery&&r.gallery.length?`<div class="gal" aria-roledescription="carousel" aria-label="Photos of ${esc(r.title)}"><div class="gal-track">${r.gallery.map((u,i)=>`<div class="gal-slide" aria-label="Photo ${i+1} of ${r.gallery.length}"><div class="bg" style="background-image:url('${u}')"></div><img src="${u}" alt="${esc(r.title)}, photo ${i+1}" ${i?'loading="lazy"':""}></div>`).join("")}</div>${r.gallery.length>1?`<button class="gal-nav prev" aria-label="Previous photo" disabled><span>‹</span></button><button class="gal-nav next" aria-label="Next photo"><span>›</span></button><div class="gal-dots">${r.gallery.map((_,i)=>`<i class="${i?"":"on"}"></i>`).join("")}</div>`:""}</div>`:`<img src="${r.img}" alt="${esc(r.title)}, finished dish">`}
+        ${r.gallery&&r.gallery.length?`<div class="gal" style="${r.galleryRatio?`--gr:${r.galleryRatio}`:""}" aria-roledescription="carousel" aria-label="Photos of ${esc(r.title)}"><div class="gal-track">${r.gallery.map((u,i)=>`<div class="gal-slide" aria-label="Photo ${i+1} of ${r.gallery.length}"><div class="bg" style="background-image:url('${u}')"></div><img src="${u}" alt="${esc(r.title)}, photo ${i+1}" ${i?'loading="lazy"':""}></div>`).join("")}</div>${r.gallery.length>1?`<button class="gal-nav prev" aria-label="Previous photo" disabled><span>‹</span></button><button class="gal-nav next" aria-label="Next photo"><span>›</span></button><div class="gal-dots">${r.gallery.map((_,i)=>`<i class="${i?"":"on"}"></i>`).join("")}</div>`:""}</div>`:`<img src="${r.img}" alt="${esc(r.title)}, finished dish">`}
         <div class="srcline"><span>${s.platform} · ${esc(s.creator)}</span>${s.url?`<a href="${s.url}${r.t&&s.platform==="YouTube"?`&t=${r.t}s`:""}" target="_blank" rel="noopener">${s.linkLabel?esc(s.linkLabel):s.platform==="Instagram"?"Watch on Instagram":r.t?`Watch from ${fmtTime(r.t)}`:"Watch the video"} ↗</a>`:""}${s.extra?`<a href="${s.extra.url}" target="_blank" rel="noopener">${esc(s.extra.label)} ↗</a>`:""}</div>
         <div class="nutri">
           <h3>Nutrition per ${r.unit} <span>${got!==sv?"adjusted for your servings":NUTS.every(x=>!isEst(r,x))?"from the creator":"creator figures + estimates"}</span></h3>
