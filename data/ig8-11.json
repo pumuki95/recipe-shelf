@@ -1,0 +1,186 @@
+{
+ "src": {
+  "key": "DfsySgthd8l",
+  "platform": "Instagram",
+  "creator": "Noah Perlo",
+  "title": "Meal Prep Sesame Honey Chicken",
+  "url": "https://www.instagram.com/p/DfsySgthd8l/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "honey-sesame-chicken-meal-prep",
+   "title": "Meal Prep Honey Sesame Chicken (10)",
+   "servings": 10,
+   "unit": "serving",
+   "time": "45 min",
+   "macros": {
+    "cal": 489,
+    "protein": 60,
+    "carbs": 42,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless, skinless chicken breast, cubed",
+       "a": "Meat",
+       "q": 2.5,
+       "u": "kg"
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "cornstarch",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cooking oil spray",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Sticky honey sesame sauce",
+     "items": [
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "Pantry",
+       "q": 180,
+       "u": "ml"
+      },
+      {
+       "i": "water or low-sodium chicken broth",
+       "a": "Pantry",
+       "q": 60,
+       "u": "ml"
+      },
+      {
+       "i": "rice vinegar",
+       "a": "Pantry",
+       "q": 80,
+       "u": "ml"
+      },
+      {
+       "i": "brown stevia",
+       "a": "Baking",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "fresh garlic, minced",
+       "a": "Produce",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "fresh ginger, grated",
+       "a": "Produce",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "sesame seeds",
+       "a": "Baking",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "chili flakes (optional)",
+       "a": "Spices",
+       "q": 1.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "To finish",
+     "items": [
+      {
+       "i": "green onions, thinly sliced",
+       "a": "Produce",
+       "q": 5
+      },
+      {
+       "i": "extra sesame seeds (optional)",
+       "a": "Baking"
+      },
+      {
+       "i": "cooked rice, to serve",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Coat",
+     "Toss the cubed chicken with the soy sauce, cornstarch, sesame oil, garlic powder and pepper."
+    ],
+    [
+     "Cook",
+     "Spray a large pot or pan and cook the chicken in batches until golden and cooked through."
+    ],
+    [
+     "Sauce",
+     "Whisk the sauce ingredients together and simmer until sticky and slightly thickened."
+    ],
+    [
+     "Toss",
+     "Pour the sauce over the chicken and toss until coated."
+    ],
+    [
+     "Pack",
+     "Divide over rice in 10 containers and top with green onions and sesame seeds."
+    ]
+   ],
+   "notes": "Ingredients and macros are the creator's, per serving without rice. Steps are from the video; he uses chicken thighs on camera although the list says breast.",
+   "t": 0,
+   "img": "img/honey-sesame-chicken-meal-prep.jpg"
+  }
+ ]
+}
