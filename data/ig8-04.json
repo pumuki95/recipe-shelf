@@ -1,0 +1,165 @@
+{
+ "src": {
+  "key": "DfxYtpnNJVs",
+  "platform": "Instagram",
+  "creator": "Zach Rocheleau",
+  "title": "Apple Pie Crumble Skillet",
+  "url": "https://www.instagram.com/p/DfxYtpnNJVs/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "apple-pie-crumble-protein-skillet",
+   "title": "201-Calorie Apple Pie Protein Crumble Skillet",
+   "servings": 3,
+   "unit": "skillet",
+   "time": "25 min",
+   "macros": {
+    "cal": 201,
+    "protein": 15,
+    "carbs": 29,
+    "fat": 3
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Air fryer",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Protein crumble",
+     "items": [
+      {
+       "i": "vanilla whey/casein protein powder",
+       "a": "Pantry",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "oat flour (or blended oats)",
+       "a": "Baking",
+       "q": 24,
+       "u": "g"
+      },
+      {
+       "i": "light brown sugar (or zero-cal brown sugar)",
+       "a": "Baking",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "zero-cal sweetener",
+       "a": "Baking",
+       "q": 16,
+       "u": "g"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of sea salt",
+       "a": "Spices"
+      },
+      {
+       "i": "unsweetened apple sauce",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "butter extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cooking spray",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "i": "can no-sugar-added apple pie filling",
+       "a": "Pantry",
+       "q": 1
+      },
+      {
+       "i": "ground cinnamon",
+       "a": "Spices",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "ground nutmeg",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Icing & dust",
+     "items": [
+      {
+       "i": "zero-cal powdered sugar (Swerve)",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "cold water, a little at a time",
+       "a": "Pantry"
+      },
+      {
+       "i": "zero-cal sweetener + cinnamon, equal parts",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Crumble dough",
+     "Mix the dry crumble ingredients so nothing clumps, then add the apple sauce and butter extract and mix into a crumbly dough."
+    ],
+    [
+     "Air fry crumble",
+     "Break it into granola-size pieces, spray, and air fry at 350°F for 2–3 minutes until lightly golden."
+    ],
+    [
+     "Filling",
+     "Mix the pie filling with the cinnamon and nutmeg and cut the apples into smaller pieces."
+    ],
+    [
+     "Skillet",
+     "Add a third of the apples to a 6.5-inch cast iron skillet and air fry at 350°F for 2–3 minutes."
+    ],
+    [
+     "Top",
+     "Add a third of the crumble and air fry another 2–3 minutes."
+    ],
+    [
+     "Finish",
+     "Mix the powdered sweetener with a little cold water into an icing. Dust the skillet with cinnamon-sweetener and drizzle with icing. Repeat for the other two skillets."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per skillet (the recipe makes 3).",
+   "t": 0,
+   "img": "img/apple-pie-crumble-protein-skillet.jpg"
+  }
+ ]
+}

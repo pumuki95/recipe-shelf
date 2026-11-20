@@ -1,0 +1,193 @@
+{
+ "src": {
+  "key": "Df5FylFNOof",
+  "platform": "Instagram",
+  "creator": "Jalal",
+  "title": "Creamy Garlic Cheesy Chicken & Potatoes",
+  "url": "https://www.instagram.com/p/Df5FylFNOof/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "creamy-garlic-cheesy-chicken-potatoes",
+   "title": "Creamy Garlic Cheesy Chicken & Potatoes Sheet Pan",
+   "servings": 8,
+   "unit": "serving",
+   "time": "1 h",
+   "macros": {
+    "cal": 536,
+    "protein": 52,
+    "carbs": 44,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep",
+    "Sheet pan"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken breast, cubed",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "boneless chicken thighs, cubed",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "Italian herbs seasoning",
+       "a": "Spices",
+       "q": 5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 4,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 4,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 4.5,
+       "u": "tsp"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 6,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Potatoes",
+     "items": [
+      {
+       "i": "potatoes, cubed",
+       "a": "Produce",
+       "q": 1600,
+       "u": "g"
+      },
+      {
+       "i": "red onion, chopped",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "Italian herbs seasoning",
+       "a": "Spices",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "chilli flakes",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "cooking spray or olive oil (3 tsp)",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Creamy sauce",
+     "items": [
+      {
+       "i": "regular or evaporated milk",
+       "a": "Dairy",
+       "q": 425,
+       "u": "ml"
+      },
+      {
+       "i": "light garlic & herb cream cheese",
+       "a": "Dairy",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "shredded mozzarella",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "fresh parsley, chopped",
+       "a": "Produce"
+      },
+      {
+       "i": "grated Parmesan (optional)",
+       "a": "Dairy"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Season chicken",
+     "Cube the chicken breast and thighs, season with the salt, spices and olive oil and mix until the colour changes. Set aside."
+    ],
+    [
+     "Roast potatoes",
+     "Spread the potatoes and red onion on a large lined sheet pan, season, spray and roast at 400°F (200°C) for 20–22 minutes; they don't need to be fully cooked."
+    ],
+    [
+     "Add chicken",
+     "Spread the chicken over the potatoes in one layer, spray and roast 25 minutes until cooked and juicy."
+    ],
+    [
+     "Sauce",
+     "Straight out of the oven, add the milk, cream cheese and mozzarella and stir; the pan's heat melts it into a creamy sauce."
+    ],
+    [
+     "Serve",
+     "Garnish with parsley and Parmesan and divide into 8 containers."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving of 8. The red onion is used in the video but isn't in his ingredient list, so the amount is a guess.",
+   "t": 0,
+   "img": "img/creamy-garlic-cheesy-chicken-potatoes.jpg"
+  }
+ ]
+}

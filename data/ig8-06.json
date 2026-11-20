@@ -1,0 +1,149 @@
+{
+ "src": {
+  "key": "Dd1l2EKREk9",
+  "platform": "Instagram",
+  "creator": "hunt4shredz",
+  "title": "High Protein McGriddles",
+  "url": "https://www.instagram.com/p/Dd1l2EKREk9/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "protein-mcgriddles-hunter",
+   "title": "High-Protein McGriddles",
+   "servings": 6,
+   "unit": "sandwich",
+   "time": "40 min",
+   "macros": {
+    "cal": 430,
+    "protein": 40,
+    "carbs": 28,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Protein pancakes",
+     "items": [
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "scoops vanilla whey protein",
+       "a": "Pantry",
+       "q": 2
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 2.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "Fairlife fat-free milk",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "light butter, melted",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "sugar-free maple syrup, plus extra for brushing",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "i": "lean turkey breakfast sausage",
+       "a": "Meat",
+       "q": 1,
+       "u": "lb"
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 6
+      },
+      {
+       "i": "slices sharp cheddar, halved",
+       "a": "Dairy",
+       "q": 3
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Batter",
+     "Whisk the flour, protein, baking powder and salt, then whisk in the eggs, milk, melted butter, syrup and vanilla until smooth."
+    ],
+    [
+     "Pancakes",
+     "Cook 12 small round pancakes in a non-stick pan until golden on both sides."
+    ],
+    [
+     "Eggs",
+     "Whisk the 6 eggs with salt and pepper and cook them in greased egg rings so you get 6 round patties."
+    ],
+    [
+     "Sausage",
+     "Shape the sausage into 6 patties and cook until browned and cooked through."
+    ],
+    [
+     "Syrup",
+     "Brush the pancakes with sugar-free syrup."
+    ],
+    [
+     "Build",
+     "Stack pancake, egg, sausage, half a slice of cheddar and another pancake."
+    ]
+   ],
+   "notes": "Ingredients and macros are the creator's (estimates per McGriddle, he says). Steps are from the video.",
+   "t": 0,
+   "img": "img/protein-mcgriddles-hunter.jpg"
+  }
+ ]
+}

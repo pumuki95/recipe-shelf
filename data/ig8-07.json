@@ -1,0 +1,263 @@
+{
+ "src": {
+  "key": "DfzyhnfphsV",
+  "platform": "Instagram",
+  "creator": "hunt4shredz",
+  "title": "Chipotle Steak Street Corn Protein Bowl",
+  "url": "https://www.instagram.com/p/DfzyhnfphsV/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chipotle-steak-street-corn-bowl",
+   "title": "Chipotle Steak Street Corn Protein Bowls",
+   "servings": 4,
+   "unit": "bowl",
+   "time": "45 min",
+   "macros": {
+    "cal": 565,
+    "protein": 51,
+    "carbs": 42,
+    "fat": 18
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep",
+    "Air fryer"
+   ],
+   "groups": [
+    {
+     "name": "Chipotle steak",
+     "items": [
+      {
+       "i": "NY strip or sirloin steak, cubed",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "lb"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "chili powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Potatoes",
+     "items": [
+      {
+       "i": "russet potatoes, diced",
+       "a": "Produce",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Street corn",
+     "items": [
+      {
+       "i": "corn",
+       "a": "Produce",
+       "q": 2,
+       "u": "cup"
+      },
+      {
+       "i": "non-fat Greek yogurt",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "cotija cheese",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "chili powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Chipotle cilantro crema",
+     "items": [
+      {
+       "i": "non-fat Greek yogurt",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "chipotle pepper in adobo",
+       "a": "Pantry",
+       "q": 1
+      },
+      {
+       "i": "adobo sauce",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lime, juiced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "garlic clove",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "handful fresh cilantro",
+       "a": "Produce"
+      },
+      {
+       "i": "splash of water",
+       "a": "Pantry"
+      },
+      {
+       "i": "salt",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Toppings (optional)",
+     "items": [
+      {
+       "i": "pickled red onions",
+       "a": "Produce"
+      },
+      {
+       "i": "fresh cilantro",
+       "a": "Produce"
+      },
+      {
+       "i": "avocado slices",
+       "a": "Produce"
+      },
+      {
+       "i": "lime wedges",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Potatoes",
+     "Toss the diced potatoes with oil, garlic powder, smoked paprika, salt and pepper and air fry (about 400°F, 18–20 minutes, shaking halfway) until crispy."
+    ],
+    [
+     "Steak",
+     "Season the steak cubes with the oil, spices, lime, salt and pepper and sear in a hot pan until browned outside and done to your liking."
+    ],
+    [
+     "Street corn",
+     "Mix the corn with the yogurt, mayo, lime, cotija, chili powder and salt."
+    ],
+    [
+     "Crema",
+     "Blend all the crema ingredients until smooth, thinning with water."
+    ],
+    [
+     "Assemble",
+     "Divide potatoes, street corn and steak between 4 bowls, drizzle with crema and add toppings."
+    ]
+   ],
+   "notes": "Ingredients and macros are the creator's, per bowl. Steps are from the video; the air-fryer time and temperature are my estimate.",
+   "t": 0,
+   "img": "img/chipotle-steak-street-corn-bowl.jpg"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "src": {
+  "key": "DfxSMIst9Fr",
+  "platform": "Instagram",
+  "creator": "Panacea Palm | Dij",
+  "title": "High Protein Japanese Potato Salad",
+  "url": "https://www.instagram.com/p/DfxSMIst9Fr/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "japanese-protein-potato-salad",
+   "title": "High-Protein Japanese Potato Salad",
+   "servings": 3,
+   "unit": "serving",
+   "time": "30 min",
+   "macros": {
+    "cal": 347,
+    "protein": 25,
+    "carbs": 24,
+    "fat": 15
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Lunch",
+    "Side",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Dressing",
+     "items": [
+      {
+       "i": "0% Greek yogurt",
+       "a": "Dairy",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "light mayo (or Kewpie)",
+       "a": "Pantry",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "Dijon mustard",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "fresh black pepper",
+       "a": "Spices"
+      },
+      {
+       "i": "low-fat milk",
+       "a": "Dairy",
+       "q": 65,
+       "u": "ml"
+      },
+      {
+       "i": "apple cider vinegar",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "dashi seasoning or MSG (optional)",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Salad",
+     "items": [
+      {
+       "i": "eggs, boiled",
+       "a": "Dairy",
+       "q": 4
+      },
+      {
+       "i": "potatoes, boiled",
+       "a": "Produce",
+       "q": 260,
+       "u": "g"
+      },
+      {
+       "i": "diced bacon",
+       "a": "Meat",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "mini cucumbers, thinly sliced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "carrot, diced (optional)",
+       "a": "Produce"
+      },
+      {
+       "i": "chives, to garnish",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bacon",
+     "Fry the diced bacon in a dry pan (no oil) until crispy."
+    ],
+    [
+     "Dressing",
+     "In a large bowl stir together the yogurt, mayo, mustard, pepper, 50–80 ml milk, vinegar and dashi or MSG if using."
+    ],
+    [
+     "Add",
+     "Add the boiled potatoes, boiled eggs, bacon, cucumber and carrot."
+    ],
+    [
+     "Mix",
+     "Mash and mix until the potatoes and eggs break down into a chunky, creamy salad. Top with chives."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's (1042 cal, 76 g protein for the whole bowl). Steps are from the video.",
+   "t": 0,
+   "img": "img/japanese-protein-potato-salad.jpg"
+  }
+ ]
+}

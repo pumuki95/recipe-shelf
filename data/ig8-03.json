@@ -1,0 +1,176 @@
+{
+ "src": {
+  "key": "Df2_wBKtZhu",
+  "platform": "Instagram",
+  "creator": "Noah Perlo",
+  "title": "Tajín Steak & Chicken Freezer Burritos",
+  "url": "https://www.instagram.com/p/Df2_wBKtZhu/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "tajin-steak-chicken-freezer-burritos",
+   "title": "Tajín Steak & Chicken Freezer Burritos",
+   "servings": 14,
+   "unit": "burrito",
+   "time": "1 h 30 min",
+   "macros": {
+    "cal": 688,
+    "protein": 56,
+    "carbs": 68,
+    "fat": 21.3
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Lunch",
+    "Dinner",
+    "High protein",
+    "Meal prep",
+    "Freezer"
+   ],
+   "groups": [
+    {
+     "name": "Steak",
+     "items": [
+      {
+       "i": "lean steak, fully trimmed",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "kg"
+      },
+      {
+       "i": "Tajín",
+       "a": "Spices",
+       "q": 4,
+       "u": "tbsp"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken thighs, trimmed",
+       "a": "Meat",
+       "q": 1.5,
+       "u": "kg"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Spices",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Burritos",
+     "items": [
+      {
+       "i": "dry white rice",
+       "a": "Pantry",
+       "q": 4,
+       "u": "cup"
+      },
+      {
+       "i": "limes",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "cilantro, packed",
+       "a": "Produce",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "cans black beans, drained",
+       "a": "Pantry",
+       "q": 3
+      },
+      {
+       "i": "jalapeños, diced",
+       "a": "Produce",
+       "q": 5
+      },
+      {
+       "i": "shredded Mexican cheese",
+       "a": "Dairy",
+       "q": 600,
+       "u": "g"
+      },
+      {
+       "i": "large low-carb tortillas",
+       "a": "Baking",
+       "q": 14
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Season",
+     "Season the steak with the Tajín, salt and cumin, and the chicken thighs with salt, pepper, paprika and cumin."
+    ],
+    [
+     "Cook meat",
+     "Cook the steak and chicken until done and nicely charred, then rest and chop into bite-size pieces."
+    ],
+    [
+     "Rice",
+     "Cook the rice, then stir in the lime juice and chopped cilantro."
+    ],
+    [
+     "Fill",
+     "Lay out the tortillas and divide the rice, steak, chicken, black beans, jalapeños and cheese between them."
+    ],
+    [
+     "Roll",
+     "Roll each one up tightly, tucking in the sides."
+    ],
+    [
+     "Freeze",
+     "Wrap each burrito in foil and freeze. Reheat from frozen in the oven or air fryer, or unwrap and microwave."
+    ]
+   ],
+   "notes": "Ingredients and macros are the creator's (per burrito; he says eat half if you want fewer calories). The steps are from the video; the cooking method for the meat isn't spelled out.",
+   "t": 0,
+   "img": "img/tajin-steak-chicken-freezer-burritos.jpg"
+  }
+ ]
+}
