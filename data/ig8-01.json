@@ -1,0 +1,123 @@
+{
+ "src": {
+  "key": "Df55zyLTDL1",
+  "platform": "Instagram",
+  "creator": "tastyshreds",
+  "title": "High-Protein Bacon Pepperoni Pizza",
+  "url": "https://www.instagram.com/p/Df55zyLTDL1/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "bacon-pepperoni-protein-pizza",
+   "title": "High-Protein Bacon Pepperoni Pizza",
+   "img": "img/bacon-pepperoni-protein-pizza.jpg",
+   "t": 0,
+   "servings": 4,
+   "unit": "slice",
+   "time": "35 min",
+   "macros": {
+    "cal": 219,
+    "protein": 30,
+    "carbs": 13.5,
+    "fat": 6.8
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Pizza"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "Fit Flour (or self-rising flour; macros will change)",
+       "a": "Baking",
+       "q": 95,
+       "u": "g"
+      },
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Toppings",
+     "items": [
+      {
+       "i": "pizza sauce",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "fat-free shredded cheese",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "light mozzarella",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "slices center-cut bacon, cooked",
+       "a": "Meat",
+       "q": 4
+      },
+      {
+       "i": "turkey pepperoni",
+       "a": "Meat",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "hot honey buffalo sauce (optional, +50–60 cal)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dough",
+     "Mix the flour and Greek yogurt into a dough."
+    ],
+    [
+     "Roll",
+     "Roll it out into a pizza crust."
+    ],
+    [
+     "Prebake",
+     "Prebake at 400°F until lightly golden."
+    ],
+    [
+     "Top",
+     "Add the pizza sauce, both cheeses, the bacon and the pepperoni."
+    ],
+    [
+     "Bake",
+     "Bake until the cheese melts and the crust is crispy."
+    ],
+    [
+     "Serve",
+     "Slice into 4. Drizzle with hot honey buffalo if you like."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's: 876 cal, 120 g protein, 54 g carbs and 27 g fat for the whole pizza (about 220 cal and 30 g protein a slice). Fit Flour is his high-protein flour; with regular self-rising flour the protein will be lower."
+  }
+ ]
+}
