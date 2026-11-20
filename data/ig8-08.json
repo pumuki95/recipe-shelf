@@ -1,0 +1,173 @@
+{
+ "src": {
+  "key": "DfusQMATp8F",
+  "platform": "Instagram",
+  "creator": "tastyshreds",
+  "title": "Chipotle Queso Beef & Rice Burritos",
+  "url": "https://www.instagram.com/p/DfusQMATp8F/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chipotle-queso-beef-rice-burritos",
+   "title": "Slow Cooker Chipotle Queso Beef & Rice Burritos (18)",
+   "servings": 18,
+   "unit": "burrito",
+   "time": "4 h 30 min (slow cooker)",
+   "macros": {
+    "cal": 425,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 13
+   },
+   "stated": [],
+   "tags": [
+    "Lunch",
+    "Dinner",
+    "High protein",
+    "Meal prep",
+    "Freezer",
+    "Slow cooker"
+   ],
+   "groups": [
+    {
+     "name": "Beef",
+     "items": [
+      {
+       "i": "96/4 lean ground beef",
+       "a": "Meat",
+       "q": 4,
+       "u": "lb"
+      },
+      {
+       "i": "Rotel tomatoes",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "white onion, diced",
+       "a": "Produce",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "bone broth",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "taco seasoning",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "chili powder",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "cumin",
+       "a": "Spices",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "ancho chili powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Rice & cheese",
+     "items": [
+      {
+       "i": "white rice, dry",
+       "a": "Pantry",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "reduced-fat cheddar, shredded",
+       "a": "Dairy",
+       "q": 250,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "High-protein queso",
+     "items": [
+      {
+       "i": "fat-free cottage cheese",
+       "a": "Dairy",
+       "q": 650,
+       "u": "g"
+      },
+      {
+       "i": "⅓-less-fat cream cheese",
+       "a": "Dairy",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "Kraft mac & cheese powder packet",
+       "a": "Pantry",
+       "q": 1
+      },
+      {
+       "i": "chipotle peppers in adobo",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "splash of chicken broth",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "To wrap",
+     "items": [
+      {
+       "i": "large tortillas",
+       "a": "Baking",
+       "q": 18
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Slow cooker",
+     "Add the beef, Rotel, onion, bone broth and all the seasonings to the slow cooker and cook on High for 4 hours, breaking up the beef."
+    ],
+    [
+     "Rice",
+     "Stir in the rice (measured dry) with enough liquid to cook it, and let it cook through in the slow cooker."
+    ],
+    [
+     "Cheese",
+     "Stir in the reduced-fat cheddar."
+    ],
+    [
+     "Queso",
+     "Blend the cottage cheese, cream cheese, mac & cheese powder, chipotles and a splash of broth until smooth, then stir it into the beef and rice."
+    ],
+    [
+     "Wrap",
+     "Fill and roll 18 burritos, wrap them and refrigerate or freeze for the week."
+    ]
+   ],
+   "notes": "Beef, rice and cheese amounts are from the video's on-screen text. The queso recipe is only shown as \"see comments\", so I used the same cottage-cheese queso from his Chipotle Queso Steak & Rice Bowls, which matches what he blends in the video. He also adds one Peak health drink to the slow cooker, which I left out. No macros were given; all numbers are my estimate, assuming regular large tortillas (about 120 cal each). How much liquid to add for the rice isn't shown.",
+   "t": 0,
+   "img": "img/chipotle-queso-beef-rice-burritos.jpg"
+  }
+ ]
+}
