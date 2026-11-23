@@ -301,7 +301,8 @@
   "stuffed-baguette-beef-kofta-pockets",
   "stuffed-chicken-mince-calzone",
   "freezer-pepperoni-protein-pizzas",
-  "bacon-pepperoni-protein-pizza"
+  "bacon-pepperoni-protein-pizza",
+  "mf-cottage-cheese-pizza-toast"
  ],
  "Pancakes & waffles": [
   "chocolate-chip-protein-pancakes",
@@ -324,7 +325,8 @@
   "cottage-cheese-chocolate-chip-pancakes-30",
   "low-carb-cottage-cheese-almond-flour-pancakes",
   "cinnamon-roll-protein-pancakes",
-  "protein-mcgriddles-hunter"
+  "protein-mcgriddles-hunter",
+  "mf-cinnamon-roll-cottage-cheese-pancakes"
  ],
  "Oats (baked & overnight)": [
   "choc-banana-baked-oats",
@@ -388,7 +390,8 @@
   "garlic-parmesan-steak-alfredo-pasta",
   "chipotle-cottage-cheese-alfredo-chicken-pasta",
   "caramelised-onion-chicken-pasta-bake",
-  "smp-creamy-spicy-chipotle-chicken-pasta"
+  "smp-creamy-spicy-chipotle-chicken-pasta",
+  "mf-butternut-squash-cottage-cheese-pasta"
  ],
  "Alfredo": [
   "cauliflower-protein-alfredo",
@@ -536,7 +539,11 @@
  "Donuts": [
   "chocolate-protein-donuts",
   "low-calorie-glazed-donuts",
-  "air-fryer-protein-apple-fritters"
+  "air-fryer-protein-apple-fritters",
+  "sam-2-ingredient-gf-donut-holes",
+  "mf-pumpkin-cottage-cheese-donut-holes",
+  "mf-lemon-blueberry-cottage-cheese-donut-holes",
+  "mf-cinnamon-sugar-cottage-cheese-donut-bites"
  ],
  "Breads & flatbreads": [
   "greek-yogurt-bagels",
@@ -546,7 +553,11 @@
   "carnivore-cream-cheese-bread",
   "spinach-oat-flatbread",
   "cottage-cheese-chocolate-chip-buns",
-  "three-ingredient-protein-bread-rolls"
+  "three-ingredient-protein-bread-rolls",
+  "mf-jalapeno-cheddar-cottage-cheese-bagels",
+  "mf-cheddar-rosemary-cottage-cheese-biscuits",
+  "mf-cottage-cheese-everything-bagels",
+  "carnivore-protein-bread-loaf"
  ],
  "Puddings, mousse & tiramisu": [
   "tiramisu-chia-pudding",
@@ -557,7 +568,8 @@
   "lemon-cottage-cheese-cheesecake-cup",
   "protein-yogurt-dessert-bowl",
   "marsala-creme-caramel",
-  "chocolate-shell-berry-chia-pudding"
+  "chocolate-shell-berry-chia-pudding",
+  "mf-cottage-cheese-chocolate-mousse"
  ],
  "Smoothies & shakes": [
   "oreo-blizzard-protein-shake",

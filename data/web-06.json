@@ -1,0 +1,136 @@
+{
+ "src": {
+  "key": "modernflavour-butternut-squash-cottage-cheese-pasta",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Butternut Squash Cottage Cheese Pasta",
+  "url": "https://modernflavour.com/butternut-squash-cottage-cheese-pasta/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-butternut-squash-cottage-cheese-pasta",
+   "title": "Butternut Squash Cottage Cheese Pasta",
+   "servings": 4,
+   "unit": "serving",
+   "time": "40 min",
+   "macros": {
+    "cal": 390,
+    "protein": 18,
+    "carbs": 62,
+    "fat": 9
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "Vegetarian",
+    "Pasta"
+   ],
+   "groups": [
+    {
+     "name": "Pasta",
+     "items": [
+      {
+       "i": "small butternut squash, cubed",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "olive oil, plus a drizzle",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      },
+      {
+       "i": "rigatoni",
+       "a": "Pantry",
+       "q": 8,
+       "u": "oz"
+      },
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "garlic cloves",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "milk",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "Dijon mustard",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "pasta water, plus more as needed",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "i": "Parmesan",
+       "a": "Dairy"
+      },
+      {
+       "i": "fresh sage",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Roast",
+     "Preheat the oven to 425°F (220°C). Toss the squash with olive oil, salt and pepper and roast 25–30 minutes until tender."
+    ],
+    [
+     "Pasta",
+     "Cook the rigatoni per the package, reserving pasta water before draining."
+    ],
+    [
+     "Sauce",
+     "Blend the roasted squash, cottage cheese, garlic, milk, Dijon, cinnamon, salt, pepper and a drizzle of olive oil until smooth, adding pasta water as needed."
+    ],
+    [
+     "Combine",
+     "Warm the sauce in a skillet over medium-low with about ½ cup pasta water until smooth, then toss with the rigatoni."
+    ],
+    [
+     "Serve",
+     "Top with Parmesan and fresh sage."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate. Go easy on the cinnamon; too much overpowers the sauce.",
+   "t": 0,
+   "img": "img/mf-butternut-squash-cottage-cheese-pasta.jpg"
+  }
+ ]
+}

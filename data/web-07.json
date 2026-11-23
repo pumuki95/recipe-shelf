@@ -1,0 +1,110 @@
+{
+ "src": {
+  "key": "modernflavour-cottage-cheese-pumpkin-donut-holes",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Cottage Cheese Pumpkin Donut Holes",
+  "url": "https://modernflavour.com/cottage-cheese-pumpkin-donut-holes/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-pumpkin-cottage-cheese-donut-holes",
+   "title": "Cottage Cheese Pumpkin Donut Holes",
+   "servings": 8,
+   "unit": "donut hole",
+   "time": "15 min",
+   "macros": {
+    "cal": 125,
+    "protein": 4,
+    "carbs": 19,
+    "fat": 3.7
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "Air fryer"
+   ],
+   "groups": [
+    {
+     "name": "Donut holes",
+     "items": [
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "pumpkin purée",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Pumpkin spice coating",
+     "items": [
+      {
+       "i": "butter, melted",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "granulated sugar",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "pumpkin pie spice",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dough",
+     "Blend the cottage cheese and pumpkin until smooth, then mix in the flour and baking powder to a soft dough. Add a little flour if it's too sticky."
+    ],
+    [
+     "Shape",
+     "Roll into small, even balls."
+    ],
+    [
+     "Air fry",
+     "Air fry at 350°F for 9 minutes, spaced apart, until lightly golden and cooked through."
+    ],
+    [
+     "Coat",
+     "Mix the sugar and pumpkin spice. Brush or toss the warm donut holes in melted butter, then in the spiced sugar. Serve warm."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate.",
+   "t": 0,
+   "img": "img/mf-pumpkin-cottage-cheese-donut-holes.jpg"
+  }
+ ]
+}

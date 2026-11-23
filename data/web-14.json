@@ -1,0 +1,104 @@
+{
+ "src": {
+  "key": "modernflavour-cottage-cheese-cinnamon-sugar-donut-bites",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Cottage Cheese Cinnamon Sugar Donut Bites",
+  "url": "https://modernflavour.com/cottage-cheese-cinnamon-sugar-donut-bites/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-cinnamon-sugar-cottage-cheese-donut-bites",
+   "title": "Cottage Cheese Cinnamon Sugar Donut Bites",
+   "servings": 4,
+   "unit": "serving",
+   "time": "20 min",
+   "macros": {
+    "cal": 240,
+    "protein": 8.5,
+    "carbs": 34,
+    "fat": 7.5
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "Air fryer"
+   ],
+   "groups": [
+    {
+     "name": "Donut bites",
+     "items": [
+      {
+       "i": "blended cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Cinnamon sugar coating",
+     "items": [
+      {
+       "i": "unsalted butter, melted",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "granulated sugar",
+       "a": "Baking",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "ground cinnamon",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dough",
+     "Mix the cottage cheese, flour and baking powder to a soft dough."
+    ],
+    [
+     "Shape",
+     "With damp hands roll into about 16 balls."
+    ],
+    [
+     "Air fry",
+     "Air fry in a greased basket at 350°F (175°C) for 8–9 minutes until lightly golden."
+    ],
+    [
+     "Coat",
+     "Mix the sugar and cinnamon. Brush or roll each warm bite in butter, then coat in cinnamon sugar. Serve warm."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate. Makes about 16 bites (4 each).",
+   "t": 0,
+   "img": "img/mf-cinnamon-sugar-cottage-cheese-donut-bites.jpg"
+  }
+ ]
+}

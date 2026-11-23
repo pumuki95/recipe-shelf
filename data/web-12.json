@@ -1,0 +1,119 @@
+{
+ "src": {
+  "key": "modernflavour-lemon-blueberry-cottage-cheese-donut-holes",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Lemon Blueberry Cottage Cheese Donut Holes",
+  "url": "https://modernflavour.com/lemon-blueberry-cottage-cheese-donut-holes/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-lemon-blueberry-cottage-cheese-donut-holes",
+   "title": "Lemon Blueberry Cottage Cheese Donut Holes",
+   "servings": 4,
+   "unit": "serving",
+   "time": "20 min",
+   "macros": {
+    "cal": 255,
+    "protein": 9,
+    "carbs": 49,
+    "fat": 2.8
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "Air fryer"
+   ],
+   "groups": [
+    {
+     "name": "Donut holes",
+     "items": [
+      {
+       "i": "blended cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon, zested",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "fresh blueberries",
+       "a": "Produce",
+       "q": 0.5,
+       "u": "cup"
+      }
+     ]
+    },
+    {
+     "name": "Lemon glaze",
+     "items": [
+      {
+       "i": "icing sugar",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "fresh lemon juice",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "powdered sugar, for dusting",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dough",
+     "Mix the cottage cheese, flour, baking powder and lemon zest to a soft dough, then gently fold in the blueberries."
+    ],
+    [
+     "Shape",
+     "With damp hands roll into about 16 balls."
+    ],
+    [
+     "Air fry",
+     "Air fry in a greased basket at 350°F (175°C) for 8–9 minutes, in batches if needed, until lightly golden."
+    ],
+    [
+     "Glaze",
+     "Whisk the icing sugar, lemon juice and vanilla. Dip the warm donut holes, let set, then dust with powdered sugar."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate. Makes about 16 donut holes (4 each).",
+   "t": 0,
+   "img": "img/mf-lemon-blueberry-cottage-cheese-donut-holes.jpg"
+  }
+ ]
+}

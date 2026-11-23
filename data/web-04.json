@@ -1,0 +1,109 @@
+{
+ "src": {
+  "key": "samdoesherbest-2-ingredient-donut-holes",
+  "platform": "Website",
+  "creator": "Sam · Sam Does Her Best",
+  "title": "2-Ingredient Gluten-Free Donut Holes",
+  "url": "https://samdoesherbest.com/2-ingredient-donut-holes/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Sam Does Her Best"
+ },
+ "recipes": [
+  {
+   "id": "sam-2-ingredient-gf-donut-holes",
+   "title": "2-Ingredient Gluten-Free Donut Holes",
+   "servings": 8,
+   "unit": "donut hole",
+   "time": "25 min",
+   "macros": {
+    "cal": 100,
+    "protein": 7,
+    "carbs": 17,
+    "fat": 1,
+    "fiber": 2,
+    "sugar": 2
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "fiber",
+    "sugar"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Donut holes",
+     "items": [
+      {
+       "i": "self-rising gluten-free flour (e.g. Oatsome baking mix)",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "plain Greek yogurt (thick), plus 1–3 tbsp if dry",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      }
+     ]
+    },
+    {
+     "name": "Cinnamon sugar coating (optional)",
+     "items": [
+      {
+       "i": "butter, melted",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "sugar",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Heat the oven to 425°F and line a baking sheet with parchment."
+    ],
+    [
+     "Dough",
+     "Mix the flour and yogurt into a dough, using your hands if needed. Start with 1½ cups flour and add up to 2 cups only if it's too sticky; add 1–3 tbsp more yogurt if it's too dry."
+    ],
+    [
+     "Shape",
+     "Roll about 2 tbsp of dough into each ball and place on the sheet."
+    ],
+    [
+     "Bake",
+     "Bake 15–20 minutes until golden. Meanwhile mix the sugar and cinnamon."
+    ],
+    [
+     "Coat",
+     "While still warm, toss the donut holes in the melted butter, then in the cinnamon sugar."
+    ]
+   ],
+   "notes": "Recipe and nutrition are the creator's; the nutrition is per donut hole without the coating. For homemade self-rising flour add 1½ tsp baking powder and ¼ tsp salt per cup of gluten-free 1:1 flour. Best the same day; freeze uncoated up to a month.",
+   "t": 0,
+   "img": "img/sam-2-ingredient-gf-donut-holes.jpg"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "src": {
+  "key": "modernflavour-cottage-cheese-chocolate-mousse",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Cottage Cheese Chocolate Mousse with Chocolate Shell",
+  "url": "https://modernflavour.com/cottage-cheese-chocolate-mousse/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-cottage-cheese-chocolate-mousse",
+   "title": "Cottage Cheese Chocolate Mousse with Chocolate Shell",
+   "servings": 4,
+   "unit": "serving",
+   "time": "10 min + 2 h chill",
+   "macros": {
+    "cal": 250,
+    "protein": 8,
+    "carbs": 27,
+    "fat": 12.5
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Dessert",
+    "Vegetarian",
+    "No-bake"
+   ],
+   "groups": [
+    {
+     "name": "Mousse",
+     "items": [
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "cocoa powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "maple syrup",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate topping",
+     "items": [
+      {
+       "i": "dark or semi-sweet chocolate chips",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "coconut oil (optional)",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "flaky sea salt",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the cottage cheese, cocoa and maple syrup until completely smooth."
+    ],
+    [
+     "Portion",
+     "Spoon into 4 small ramekins or glasses."
+    ],
+    [
+     "Topping",
+     "Melt the chocolate chips with the coconut oil in short microwave bursts and pour a layer over each mousse."
+    ],
+    [
+     "Chill",
+     "Sprinkle with flaky salt and chill at least 2 hours until the chocolate sets."
+    ]
+   ],
+   "notes": "Ingredients and calories are the creator's; the page has no step-by-step method, so the steps are my reading of it (blend, top with melted chocolate, chill), and protein, carbs and fat are my estimate.",
+   "t": 0,
+   "img": "img/mf-cottage-cheese-chocolate-mousse.jpg"
+  }
+ ]
+}

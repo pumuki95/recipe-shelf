@@ -1,0 +1,107 @@
+{
+ "src": {
+  "key": "modernflavour-cottage-cheese-everything-bagels",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Cottage Cheese Everything Bagels",
+  "url": "https://modernflavour.com/cottage-cheese-everything-bagels/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-cottage-cheese-everything-bagels",
+   "title": "Cottage Cheese Everything Bagels",
+   "servings": 4,
+   "unit": "bagel",
+   "time": "35 min",
+   "macros": {
+    "cal": 190,
+    "protein": 10.5,
+    "carbs": 27,
+    "fat": 4.5
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "Vegetarian",
+    "High protein"
+   ],
+   "groups": [
+    {
+     "name": "Bagels",
+     "items": [
+      {
+       "i": "blended cottage cheese",
+       "a": "Dairy",
+       "q": 240,
+       "u": "g"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "i": "large egg, whisked",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "everything bagel seasoning",
+       "a": "Spices",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 375°F (190°C) and line a baking sheet."
+    ],
+    [
+     "Dough",
+     "Mix the cottage cheese, flour, baking powder and salt to a thick dough, dusting with flour if sticky."
+    ],
+    [
+     "Shape",
+     "Divide into 4, roll each into a rope and join the ends into a ring."
+    ],
+    [
+     "Top",
+     "Brush with egg wash and sprinkle generously with seasoning."
+    ],
+    [
+     "Bake",
+     "Bake 20–25 minutes until puffed and golden. Cool 5–10 minutes before slicing."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate.",
+   "t": 0,
+   "img": "img/mf-cottage-cheese-everything-bagels.jpg"
+  }
+ ]
+}

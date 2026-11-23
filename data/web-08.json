@@ -1,0 +1,107 @@
+{
+ "src": {
+  "key": "modernflavour-cottage-cheese-egg-bites",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Bacon, Spinach & Gruyère Cottage Cheese Egg Bites",
+  "url": "https://modernflavour.com/cottage-cheese-egg-bites/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-cottage-cheese-egg-bites",
+   "title": "Bacon, Spinach & Gruyère Cottage Cheese Egg Bites",
+   "servings": 6,
+   "unit": "egg bite",
+   "time": "30 min",
+   "macros": {
+    "cal": 80,
+    "protein": 6.5,
+    "carbs": 1,
+    "fat": 5.5
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "High protein",
+    "Low carb",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Egg bites",
+     "items": [
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 3
+      },
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "strips bacon, cooked and chopped",
+       "a": "Meat",
+       "q": 2
+      },
+      {
+       "i": "Gruyère or smoked cheddar, grated",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "spinach, finely chopped",
+       "a": "Produce",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "green onion, thinly sliced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "fresh rosemary, finely chopped",
+       "a": "Produce",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 350°F (175°C) and grease a 6-cup muffin tin or silicone egg bite mould."
+    ],
+    [
+     "Blend",
+     "Blend the eggs and cottage cheese until smooth."
+    ],
+    [
+     "Fill",
+     "Divide the bacon, spinach, green onion, rosemary and cheese between the cups, then pour the egg mixture over to about three-quarters full. Season."
+    ],
+    [
+     "Bake",
+     "Bake 17–20 minutes until set and lightly golden. Cool a few minutes before unmoulding."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate. For veggie bites skip the bacon and add mushrooms, peppers or broccoli.",
+   "t": 0,
+   "img": "img/mf-cottage-cheese-egg-bites.jpg"
+  }
+ ]
+}

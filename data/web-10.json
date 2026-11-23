@@ -1,0 +1,158 @@
+{
+ "src": {
+  "key": "modernflavour-cheddar-rosemary-cottage-cheese-biscuits",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Cheddar Rosemary Cottage Cheese Biscuits",
+  "url": "https://modernflavour.com/cheddar-rosemary-cottage-cheese-biscuits/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-cheddar-rosemary-cottage-cheese-biscuits",
+   "title": "Cheddar Rosemary Cottage Cheese Biscuits",
+   "servings": 6,
+   "unit": "biscuit",
+   "time": "35 min",
+   "macros": {
+    "cal": 215,
+    "protein": 11,
+    "carbs": 19,
+    "fat": 10
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Snack",
+    "Side",
+    "Breakfast",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "2% cottage cheese",
+       "a": "Dairy",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 165,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "large egg",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "avocado oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "i": "sharp cheddar, shredded",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "fresh rosemary, finely chopped",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Topping (optional)",
+     "items": [
+      {
+       "i": "butter, melted",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "flaky salt",
+       "a": "Spices"
+      },
+      {
+       "i": "extra rosemary",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 425°F and line a baking sheet."
+    ],
+    [
+     "Blend",
+     "Blend the cottage cheese until completely smooth."
+    ],
+    [
+     "Dry",
+     "Whisk the flour, baking powder, salt, garlic powder and pepper."
+    ],
+    [
+     "Dough",
+     "Add the cottage cheese, egg and oil and mix to a rough, sticky dough. Fold in the cheddar and rosemary."
+    ],
+    [
+     "Rest",
+     "Rest the dough 10–15 minutes."
+    ],
+    [
+     "Bake",
+     "Scoop 6 portions (about ⅓ cup each) onto the sheet and bake 18–20 minutes until golden."
+    ],
+    [
+     "Finish",
+     "Brush with melted butter and sprinkle with flaky salt and rosemary. Cool 5 minutes."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate. Keeps 5 days in the fridge or 3 months frozen.",
+   "t": 0,
+   "img": "img/mf-cheddar-rosemary-cottage-cheese-biscuits.jpg"
+  }
+ ]
+}

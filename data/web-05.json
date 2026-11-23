@@ -1,0 +1,131 @@
+{
+ "src": {
+  "key": "modernflavour-jalapeno-cheddar-cottage-cheese-bagels",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Jalapeño Cheddar Cottage Cheese Bagels",
+  "url": "https://modernflavour.com/jalapeno-cheddar-cottage-cheese-bagels/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-jalapeno-cheddar-cottage-cheese-bagels",
+   "title": "Jalapeño Cheddar Cottage Cheese Bagels",
+   "servings": 4,
+   "unit": "bagel",
+   "time": "35 min",
+   "macros": {
+    "cal": 260,
+    "protein": 16,
+    "carbs": 25,
+    "fat": 11
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "Vegetarian",
+    "High protein"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "jalapeño, finely diced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "sharp cheddar, grated",
+       "a": "Dairy",
+       "q": 0.75,
+       "u": "cup"
+      }
+     ]
+    },
+    {
+     "name": "Topping",
+     "items": [
+      {
+       "i": "egg, beaten",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "sharp cheddar, grated",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "jalapeño, sliced",
+       "a": "Produce",
+       "q": 0.5
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 375°F and line a baking sheet with parchment."
+    ],
+    [
+     "Blend",
+     "Blend the cottage cheese until smooth."
+    ],
+    [
+     "Dry",
+     "Mix the flour, baking powder and salt."
+    ],
+    [
+     "Dough",
+     "Add the cottage cheese, cheddar and diced jalapeño, mix into a dough and knead until smooth."
+    ],
+    [
+     "Shape",
+     "Divide into 4 and shape into bagels."
+    ],
+    [
+     "Top",
+     "Brush with egg wash and top with the remaining cheddar and jalapeño slices."
+    ],
+    [
+     "Bake",
+     "Bake 22–25 minutes until golden brown. Cool slightly before serving."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate.",
+   "t": 0,
+   "img": "img/mf-jalapeno-cheddar-cottage-cheese-bagels.jpg"
+  }
+ ]
+}

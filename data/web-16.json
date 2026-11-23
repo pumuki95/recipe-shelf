@@ -1,0 +1,121 @@
+{
+ "src": {
+  "key": "cookbook-carnivore-bread-loaf",
+  "platform": "Cookbook",
+  "creator": "Carnivore cookbook (pages you sent)",
+  "title": "Carnivore Protein Bread Loaf (also burger buns)",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "carnivore-protein-bread-loaf",
+   "title": "Carnivore Protein Bread Loaf (also burger buns)",
+   "servings": 8,
+   "unit": "slice",
+   "time": "45 min",
+   "macros": {
+    "cal": 141,
+    "protein": 21,
+    "carbs": 1,
+    "fat": 5.6
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "High protein",
+    "Low carb",
+    "Gluten-free",
+    "Carnivore"
+   ],
+   "groups": [
+    {
+     "name": "Regular loaf",
+     "items": [
+      {
+       "i": "small eggs (about 46 g each)",
+       "a": "Dairy",
+       "q": 4
+      },
+      {
+       "i": "egg yolks",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 90,
+       "u": "g"
+      },
+      {
+       "i": "Heart & Soil unflavored whey protein powder",
+       "a": "Pantry",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "Lineage Provisions collagen powder",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "pinch of sea salt",
+       "a": "Spices"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "tallow or virgin coconut oil, melted (lukewarm)",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "tallow or ghee, for greasing",
+       "a": "Pantry",
+       "q": 5,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Wet",
+     "Whisk the eggs and yolks until smooth, then whisk in the Greek yogurt until fully combined."
+    ],
+    [
+     "Dry",
+     "In another bowl mix the whey, collagen, salt and baking soda. Add to the egg mixture, stirring gently at first, then whisk until smooth."
+    ],
+    [
+     "Fat",
+     "Mix in the lukewarm melted tallow until fully incorporated."
+    ],
+    [
+     "Pan",
+     "Grease a 16 × 10 × 6 cm loaf pan or glass dish with tallow or ghee and line with parchment. Pour in the batter, give one final gentle stir and level the top."
+    ],
+    [
+     "Bake",
+     "Bake at 190°C (375°F) for about 30 minutes, until golden and a toothpick comes out clean."
+    ]
+   ],
+   "gallery": [
+    "img/p/carnivore-protein-bread-loaf-1.jpg",
+    "img/p/carnivore-protein-bread-loaf-2.jpg",
+    "img/p/carnivore-protein-bread-loaf-3.jpg",
+    "img/p/carnivore-protein-bread-loaf-4.jpg"
+   ],
+   "notes": "From the cookbook pages you sent (pages 32–34). Other sizes use the same method: for 2 small burger buns use half of everything (2 eggs, 1 yolk, 45 g yogurt, 60 g whey, 15 g collagen, ½ tsp soda, ½ tbsp tallow) in 10.5 cm round greased, lined moulds, bake 15 min at 190°C (375°F) then 5 min at 165°C (330°F). For a family-size loaf use 1½ times everything (6 eggs, 3 yolks, 135 g yogurt, 180 g whey, 45 g collagen, 1½ tsp soda, 1½ tbsp tallow) in a 17 × 12 × 6.5 cm pan for about 35 minutes. The tallow/coconut oil keeps it moist and softer. The book gives no nutrition; the macros are my estimate for 8 slices of the regular loaf.",
+   "t": 0,
+   "img": "img/carnivore-protein-bread-loaf.jpg"
+  }
+ ]
+}

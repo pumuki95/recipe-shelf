@@ -1,0 +1,95 @@
+{
+ "src": {
+  "key": "modernflavour-cottage-cheese-pizza-toast",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Cottage Cheese Pizza Toast with Hot Honey",
+  "url": "https://modernflavour.com/cottage-cheese-pizza-toast/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-cottage-cheese-pizza-toast",
+   "title": "Cottage Cheese Pizza Toast with Hot Honey",
+   "servings": 1,
+   "unit": "serving",
+   "time": "15 min",
+   "macros": {
+    "cal": 520,
+    "protein": 29,
+    "carbs": 63,
+    "fat": 16
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Snack",
+    "Lunch",
+    "Vegetarian",
+    "Quick",
+    "Air fryer"
+   ],
+   "groups": [
+    {
+     "name": "Toast",
+     "items": [
+      {
+       "i": "slices sourdough bread",
+       "a": "Baking",
+       "q": 2
+      },
+      {
+       "i": "tomato or pizza sauce",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "fresh mozzarella, torn",
+       "a": "Dairy",
+       "q": 2,
+       "u": "oz"
+      },
+      {
+       "i": "fresh oregano",
+       "a": "Produce"
+      },
+      {
+       "i": "hot honey, to drizzle",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Heat",
+     "Preheat the oven or air fryer to 375°F."
+    ],
+    [
+     "Build",
+     "Spread about 2 tbsp sauce on each slice, then the cottage cheese, then the torn mozzarella."
+    ],
+    [
+     "Bake",
+     "Bake 12 minutes until the mozzarella melts and the edges are golden and crisp."
+    ],
+    [
+     "Finish",
+     "Top with oregano and drizzle with hot honey."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate. Add pepperoni or cooked chicken for more protein.",
+   "t": 0,
+   "img": "img/mf-cottage-cheese-pizza-toast.jpg"
+  }
+ ]
+}

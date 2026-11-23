@@ -1,0 +1,133 @@
+{
+ "src": {
+  "key": "modernflavour-cinnamon-roll-cottage-cheese-pancakes",
+  "platform": "Website",
+  "creator": "Alex Beauchesne · Modern Flavour",
+  "title": "Cinnamon Roll Cottage Cheese Pancakes (Swirl)",
+  "url": "https://modernflavour.com/cinnamon-roll-cottage-cheese-pancakes/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Modern Flavour"
+ },
+ "recipes": [
+  {
+   "id": "mf-cinnamon-roll-cottage-cheese-pancakes",
+   "title": "Cinnamon Roll Cottage Cheese Pancakes (Swirl)",
+   "servings": 6,
+   "unit": "pancake",
+   "time": "20 min",
+   "macros": {
+    "cal": 192,
+    "protein": 8,
+    "carbs": 23,
+    "fat": 7
+   },
+   "stated": [
+    "cal"
+   ],
+   "tags": [
+    "Breakfast",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Pancakes",
+     "items": [
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "pure maple syrup",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "whole milk",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "butter, for the pan",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Cinnamon swirl",
+     "items": [
+      {
+       "i": "butter, melted",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "brown sugar",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "ground cinnamon",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the cottage cheese, eggs, maple syrup and milk until smooth."
+    ],
+    [
+     "Batter",
+     "Whisk the flour, baking powder and soda, then gently mix in the wet mixture until just combined."
+    ],
+    [
+     "Swirl",
+     "Mix the melted butter, brown sugar and cinnamon."
+    ],
+    [
+     "Cook",
+     "On a buttered skillet over medium heat, pour about ¼ cup batter per pancake and drizzle some cinnamon butter on top."
+    ],
+    [
+     "Flip",
+     "When bubbles form and the bottom is golden, flip and cook until done and the swirl caramelizes. Serve with maple syrup or berries."
+    ]
+   ],
+   "notes": "Ingredients, steps and calories are the creator's; she only lists calories, so protein, carbs and fat are my estimate. Thin the batter with a little more milk if it's too thick.",
+   "t": 0,
+   "img": "img/mf-cinnamon-roll-cottage-cheese-pancakes.jpg"
+  }
+ ]
+}
