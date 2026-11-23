@@ -1,0 +1,92 @@
+{
+ "src": {
+  "key": "DTCnWa8k68X",
+  "platform": "Instagram",
+  "creator": "Stefan Bodegrajac",
+  "title": "Protein Cloud (caramel French toast cloud)",
+  "url": "https://www.instagram.com/p/DTCnWa8k68X/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "caramel-protein-french-toast-cloud",
+   "title": "Caramel Protein French Toast Cloud (Greek Yogurt)",
+   "servings": 8,
+   "unit": "slice",
+   "time": "1 h",
+   "macros": {
+    "cal": 83,
+    "protein": 8.3,
+    "carbs": 5.7,
+    "fat": 2.9
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Dessert",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Cloud",
+     "items": [
+      {
+       "i": "natural light Greek yogurt",
+       "a": "Dairy",
+       "q": 410,
+       "u": "g"
+      },
+      {
+       "i": "whole eggs",
+       "a": "Dairy",
+       "q": 5
+      },
+      {
+       "i": "cornflour (cornstarch)",
+       "a": "Baking",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "sugar-free caramel topping",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "powdered sugar or sweetener, to dust (optional)",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Whisk the yogurt and eggs, then whisk in the cornflour until smooth."
+    ],
+    [
+     "Pan",
+     "Pour into a small baking dish lined with baking paper."
+    ],
+    [
+     "Bake",
+     "Bake at 200°C (about 390°F) for around 45 minutes until puffed and deep golden; ovens vary, so keep an eye on it. (The original video bakes it at 350°F for 1 hour.)"
+    ],
+    [
+     "Serve",
+     "Drizzle with the sugar-free caramel and dust with powdered sugar."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's: 661 cal and 66 g protein for the whole thing, or 83 cal and 8.3 g protein per slice of 8.",
+   "t": 0,
+   "img": "img/caramel-protein-french-toast-cloud.jpg"
+  }
+ ]
+}

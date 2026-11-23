@@ -1,0 +1,156 @@
+{
+ "src": {
+  "key": "DgEOOSKh5dS",
+  "platform": "Instagram",
+  "creator": "Christopher Kai Yu",
+  "title": "Low-Calorie High-Protein Chocolate Chunk Pizza Cookie",
+  "url": "https://www.instagram.com/p/DgEOOSKh5dS/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "chocolate-chunk-protein-pizza-cookie",
+   "title": "Chocolate Chunk Protein Pizza Cookie (Skillet)",
+   "servings": 2,
+   "unit": "serving",
+   "time": "25 min",
+   "macros": {
+    "cal": 234,
+    "protein": 15.5,
+    "carbs": 29.5,
+    "fat": 6.75
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Wet",
+     "items": [
+      {
+       "i": "light butter or butter, softened",
+       "a": "Dairy",
+       "q": 35,
+       "u": "g"
+      },
+      {
+       "i": "unsweetened applesauce",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "sugar-free syrup",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "medium egg",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "vanilla extract (optional)",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Dry",
+     "items": [
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "casein protein powder (⅔ scoop)",
+       "a": "Pantry",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "oat flour",
+       "a": "Baking",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 0.67,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      },
+      {
+       "i": "granulated sugar substitute (or half real sugar)",
+       "a": "Baking",
+       "q": 96,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate",
+     "items": [
+      {
+       "i": "chocolate chips, plus 15 g extra for gooeyness (optional)",
+       "a": "Baking",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "chocolate chunks for the top (optional)",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 350°F (175°C) and lightly grease an 8-inch skillet."
+    ],
+    [
+     "Wet",
+     "Mix the butter, applesauce, syrup, egg and vanilla."
+    ],
+    [
+     "Dough",
+     "Add the flour, casein, oat flour, baking soda, salt and sweetener and mix into a thick cookie dough."
+    ],
+    [
+     "Skillet",
+     "Fold in the chocolate chips and press evenly into the skillet. Add extra chocolate on top if you like."
+    ],
+    [
+     "Bake",
+     "Bake 12–16 minutes, until the edges are golden and set but the centre is still slightly soft."
+    ],
+    [
+     "Rest",
+     "Cool 5–10 minutes before cutting."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's estimates, per half cookie (carbs are net carbs). Half real sugar gives the best texture.",
+   "t": 0,
+   "img": "img/chocolate-chunk-protein-pizza-cookie.jpg"
+  }
+ ]
+}

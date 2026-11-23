@@ -1,0 +1,221 @@
+{
+ "src": {
+  "key": "Df-EAcfuGO3",
+  "platform": "Instagram",
+  "creator": "Jalal",
+  "title": "Honey BBQ Chicken Mac & Cheese",
+  "url": "https://www.instagram.com/p/Df-EAcfuGO3/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "honey-bbq-chicken-mac-and-cheese",
+   "title": "Honey BBQ Chicken Mac & Cheese Meal Prep (10)",
+   "servings": 10,
+   "unit": "serving",
+   "time": "45 min",
+   "macros": {
+    "cal": 673,
+    "protein": 58,
+    "carbs": 66,
+    "fat": 20
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep",
+    "Pasta"
+   ],
+   "groups": [
+    {
+     "name": "Honey BBQ chicken",
+     "items": [
+      {
+       "i": "chicken breast, cubed",
+       "a": "Meat",
+       "q": 900,
+       "u": "g"
+      },
+      {
+       "i": "boneless chicken thighs, cubed",
+       "a": "Meat",
+       "q": 900,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "chilli flakes",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 4.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 5,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 5,
+       "u": "tsp"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 40,
+       "u": "ml"
+      },
+      {
+       "i": "light butter",
+       "a": "Dairy",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "reduced-sugar BBQ sauce",
+       "a": "Pantry",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "big handful parsley, chopped",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Cheesy garlic mac",
+     "items": [
+      {
+       "i": "macaroni, uncooked",
+       "a": "Pantry",
+       "q": 600,
+       "u": "g"
+      },
+      {
+       "i": "light butter",
+       "a": "Dairy",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "minced garlic",
+       "a": "Produce",
+       "q": 55,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "light evaporated milk",
+       "a": "Dairy",
+       "q": 600,
+       "u": "g"
+      },
+      {
+       "i": "skimmed milk",
+       "a": "Dairy",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "Cholula or buffalo hot sauce",
+       "a": "Pantry",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "garlic & herb cream cheese",
+       "a": "Dairy",
+       "q": 350,
+       "u": "g"
+      },
+      {
+       "i": "light cheddar, shredded",
+       "a": "Dairy",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "mozzarella, shredded",
+       "a": "Dairy",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "parsley, to garnish",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Season",
+     "Cube the chicken and mix with the seasonings and olive oil."
+    ],
+    [
+     "Pasta",
+     "Boil the macaroni, reserve some pasta water and set aside."
+    ],
+    [
+     "Chicken",
+     "Cook the chicken in light butter over medium heat 10–12 minutes until golden. Lower the heat, add extra butter, the BBQ sauce, honey and parsley and cook until coated and caramelized."
+    ],
+    [
+     "Sauce",
+     "In a second pan, cook the butter, garlic and seasoning 3–4 minutes until fragrant. Add both milks, the hot sauce and cream cheese and stir until smooth, then add the cheddar and mozzarella."
+    ],
+    [
+     "Combine",
+     "Fold in the macaroni (thin with pasta water if needed) and divide with the chicken into 10 containers."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving of 10.",
+   "t": 0,
+   "img": "img/honey-bbq-chicken-mac-and-cheese.jpg"
+  }
+ ]
+}

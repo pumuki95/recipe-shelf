@@ -1,0 +1,621 @@
+{
+ "src": {
+  "key": "DfpN8kzR0xd",
+  "platform": "Instagram",
+  "creator": "Carly L Lembo",
+  "title": "8 High Protein Greek Yogurt Sauces",
+  "url": "https://www.instagram.com/p/DfpN8kzR0xd/",
+  "recipes": 8
+ },
+ "recipes": [
+  {
+   "id": "greek-yogurt-sauce-peri-peri-garlic",
+   "title": "Peri Peri Garlic Yogurt Sauce",
+   "servings": 4,
+   "unit": "¼ cup",
+   "time": "5 min",
+   "macros": {
+    "cal": 39,
+    "protein": 5.8,
+    "carbs": 4,
+    "fat": 0.3
+   },
+   "stated": [],
+   "tags": [
+    "Sauce",
+    "High protein",
+    "Meal prep",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "peri peri seasoning",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make",
+     "Combine everything. Blend until smooth."
+    ],
+    [
+     "Store",
+     "Keep in a squeeze bottle in the fridge for the week."
+    ]
+   ],
+   "notes": "Sauce 1 of the creator's 8 high-protein Greek yogurt sauces; each makes about 1 cup. Macros are my estimate, assuming nonfat Greek yogurt.",
+   "t": 0,
+   "img": "img/greek-yogurt-sauce-peri-peri-garlic.jpg"
+  },
+  {
+   "id": "greek-yogurt-sauce-jalapeno-lime",
+   "title": "Jalapeño Lime Yogurt Sauce",
+   "servings": 4,
+   "unit": "¼ cup",
+   "time": "5 min",
+   "macros": {
+    "cal": 36,
+    "protein": 5.9,
+    "carbs": 3,
+    "fat": 0.2
+   },
+   "stated": [],
+   "tags": [
+    "Sauce",
+    "High protein",
+    "Meal prep",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "fresh jalapeño, seeded",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "coriander",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lime, zested",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "lime juice",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "sea salt",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make",
+     "Combine everything. Purée until smooth."
+    ],
+    [
+     "Store",
+     "Keep in a squeeze bottle in the fridge for the week."
+    ]
+   ],
+   "notes": "Sauce 2 of the creator's 8 high-protein Greek yogurt sauces; each makes about 1 cup. Macros are my estimate, assuming nonfat Greek yogurt.",
+   "t": 0,
+   "img": "img/greek-yogurt-sauce-jalapeno-lime.jpg"
+  },
+  {
+   "id": "greek-yogurt-sauce-smoky-chipotle",
+   "title": "Smoky Chipotle Yogurt Sauce",
+   "servings": 4,
+   "unit": "¼ cup",
+   "time": "5 min",
+   "macros": {
+    "cal": 40,
+    "protein": 5.9,
+    "carbs": 4,
+    "fat": 0.3
+   },
+   "stated": [],
+   "tags": [
+    "Sauce",
+    "High protein",
+    "Meal prep",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "chipotle powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make",
+     "Combine everything. Whisk until smooth."
+    ],
+    [
+     "Store",
+     "Keep in a squeeze bottle in the fridge for the week."
+    ]
+   ],
+   "notes": "Sauce 3 of the creator's 8 high-protein Greek yogurt sauces; each makes about 1 cup. Macros are my estimate, assuming nonfat Greek yogurt.",
+   "t": 0,
+   "img": "img/greek-yogurt-sauce-smoky-chipotle.jpg"
+  },
+  {
+   "id": "greek-yogurt-sauce-roasted-garlic-parmesan",
+   "title": "Garlic Parmesan Yogurt Sauce",
+   "servings": 4,
+   "unit": "¼ cup",
+   "time": "5 min",
+   "macros": {
+    "cal": 59,
+    "protein": 7.8,
+    "carbs": 3.5,
+    "fat": 1.6
+   },
+   "stated": [],
+   "tags": [
+    "Sauce",
+    "High protein",
+    "Meal prep",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "grated Parmesan",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make",
+     "Combine everything. Stir until smooth."
+    ],
+    [
+     "Store",
+     "Keep in a squeeze bottle in the fridge for the week."
+    ]
+   ],
+   "notes": "Sauce 4 of the creator's 8 high-protein Greek yogurt sauces; each makes about 1 cup. Macros are my estimate, assuming nonfat Greek yogurt.",
+   "t": 0,
+   "img": "img/greek-yogurt-sauce-roasted-garlic-parmesan.jpg"
+  },
+  {
+   "id": "greek-yogurt-sauce-buffalo",
+   "title": "Buffalo Yogurt Sauce",
+   "servings": 4,
+   "unit": "¼ cup",
+   "time": "5 min",
+   "macros": {
+    "cal": 39,
+    "protein": 5.8,
+    "carbs": 4,
+    "fat": 0.3
+   },
+   "stated": [],
+   "tags": [
+    "Sauce",
+    "High protein",
+    "Meal prep",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "cayenne hot sauce (e.g. Frank's)",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make",
+     "Combine everything. Stir until smooth."
+    ],
+    [
+     "Store",
+     "Keep in a squeeze bottle in the fridge for the week."
+    ]
+   ],
+   "notes": "Sauce 5 of the creator's 8 high-protein Greek yogurt sauces; each makes about 1 cup. Macros are my estimate, assuming nonfat Greek yogurt.",
+   "t": 0,
+   "img": "img/greek-yogurt-sauce-buffalo.jpg"
+  },
+  {
+   "id": "greek-yogurt-sauce-lemon-herb-dill",
+   "title": "Lemon Herb Dill Yogurt Sauce",
+   "servings": 4,
+   "unit": "¼ cup",
+   "time": "5 min",
+   "macros": {
+    "cal": 34,
+    "protein": 5.8,
+    "carbs": 2.5,
+    "fat": 0.2
+   },
+   "stated": [],
+   "tags": [
+    "Sauce",
+    "High protein",
+    "Meal prep",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "fresh dill, chopped",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "lemon, zested",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "cracked black pepper",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make",
+     "Combine everything. Fold together."
+    ],
+    [
+     "Store",
+     "Keep in a squeeze bottle in the fridge for the week."
+    ]
+   ],
+   "notes": "Sauce 6 of the creator's 8 high-protein Greek yogurt sauces; each makes about 1 cup. Macros are my estimate, assuming nonfat Greek yogurt.",
+   "t": 0,
+   "img": "img/greek-yogurt-sauce-lemon-herb-dill.jpg"
+  },
+  {
+   "id": "greek-yogurt-sauce-creamy-cajun",
+   "title": "Creamy Cajun Yogurt Sauce",
+   "servings": 4,
+   "unit": "¼ cup",
+   "time": "5 min",
+   "macros": {
+    "cal": 40,
+    "protein": 5.9,
+    "carbs": 4,
+    "fat": 0.3
+   },
+   "stated": [],
+   "tags": [
+    "Sauce",
+    "High protein",
+    "Meal prep",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "Cajun seasoning",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make",
+     "Combine everything. Mix until smooth."
+    ],
+    [
+     "Store",
+     "Keep in a squeeze bottle in the fridge for the week."
+    ]
+   ],
+   "notes": "Sauce 7 of the creator's 8 high-protein Greek yogurt sauces; each makes about 1 cup. Macros are my estimate, assuming nonfat Greek yogurt.",
+   "t": 0,
+   "img": "img/greek-yogurt-sauce-creamy-cajun.jpg"
+  },
+  {
+   "id": "greek-yogurt-sauce-roasted-red-pepper",
+   "title": "Roasted Red Pepper Yogurt Sauce",
+   "servings": 4,
+   "unit": "¼ cup",
+   "time": "5 min",
+   "macros": {
+    "cal": 71,
+    "protein": 6,
+    "carbs": 4.3,
+    "fat": 3.7
+   },
+   "stated": [],
+   "tags": [
+    "Sauce",
+    "High protein",
+    "Meal prep",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "roasted red peppers",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon juice",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Make",
+     "Combine everything. Purée until smooth."
+    ],
+    [
+     "Store",
+     "Keep in a squeeze bottle in the fridge for the week."
+    ]
+   ],
+   "notes": "Sauce 8 of the creator's 8 high-protein Greek yogurt sauces; each makes about 1 cup. Macros are my estimate, assuming nonfat Greek yogurt.",
+   "t": 0,
+   "img": "img/greek-yogurt-sauce-roasted-red-pepper.jpg"
+  }
+ ]
+}

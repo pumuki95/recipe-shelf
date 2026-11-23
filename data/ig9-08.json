@@ -1,0 +1,161 @@
+{
+ "src": {
+  "key": "Df-yWCmhvSN",
+  "platform": "Instagram",
+  "creator": "Noah Perlo",
+  "title": "Classic Cheeseburger Meal Prep",
+  "url": "https://www.instagram.com/p/Df-yWCmhvSN/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "caramelized-onion-cheeseburger-meal-prep",
+   "title": "Thick Cheeseburgers with Caramelized Onions (Meal Prep, 14)",
+   "servings": 14,
+   "unit": "burger",
+   "time": "1 h",
+   "macros": {
+    "cal": 497,
+    "protein": 49,
+    "carbs": 37,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep",
+    "Freezer"
+   ],
+   "groups": [
+    {
+     "name": "Beef",
+     "items": [
+      {
+       "i": "96/4 ground beef",
+       "a": "Meat",
+       "q": 6,
+       "u": "lb"
+      },
+      {
+       "i": "kosher salt",
+       "a": "Spices",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Sweet onions",
+     "items": [
+      {
+       "i": "large white onions, sliced",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "brown stevia",
+       "a": "Baking",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Burger sauce & build",
+     "items": [
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "sugar-free ketchup",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "slices ultra-thin cheese",
+       "a": "Dairy",
+       "q": 14
+      },
+      {
+       "i": "brioche buns",
+       "a": "Baking",
+       "q": 14
+      },
+      {
+       "i": "dill pickle chips (optional)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Patties",
+     "Season the beef and form 14 thick patties."
+    ],
+    [
+     "Onions",
+     "Cook the onions low and slow with the honey, stevia, salt and pepper until soft and caramelized."
+    ],
+    [
+     "Cook",
+     "Sear the patties in a hot pan until cooked through, adding a slice of cheese at the end to melt."
+    ],
+    [
+     "Sauce",
+     "Mix the light mayo and sugar-free ketchup."
+    ],
+    [
+     "Build",
+     "Spread sauce on the buns and add a patty, caramelized onions and pickles."
+    ],
+    [
+     "Store",
+     "Wrap each burger and refrigerate or freeze for the week."
+    ]
+   ],
+   "notes": "Ingredients and macros are the creator's, per burger. Steps are from the video.",
+   "t": 0,
+   "img": "img/caramelized-onion-cheeseburger-meal-prep.jpg"
+  }
+ ]
+}

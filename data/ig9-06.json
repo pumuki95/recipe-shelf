@@ -1,0 +1,165 @@
+{
+ "src": {
+  "key": "DgAxpuHIJaM",
+  "platform": "Instagram",
+  "creator": "Anna (ajfoodie)",
+  "title": "High Protein Brownie Loaf",
+  "url": "https://www.instagram.com/p/DgAxpuHIJaM/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "protein-brownie-loaf",
+   "title": "High-Protein Brownie Loaf with Chocolate Glaze",
+   "servings": 10,
+   "unit": "slice",
+   "time": "45 min + cooling",
+   "macros": {
+    "cal": 125,
+    "protein": 9,
+    "carbs": 12,
+    "fat": 4
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Brownie",
+     "items": [
+      {
+       "i": "0% Greek yogurt",
+       "a": "Dairy",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "milk",
+       "a": "Dairy",
+       "q": 60,
+       "u": "ml"
+      },
+      {
+       "i": "cocoa powder",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "oat flour",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "chocolate protein powder (1 scoop)",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "sweetener",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "chocolate, melted",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate glaze",
+     "items": [
+      {
+       "i": "0% Greek yogurt",
+       "a": "Dairy",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "cocoa powder",
+       "a": "Baking",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "dark chocolate, melted",
+       "a": "Baking",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "sweetener or honey",
+       "a": "Pantry",
+       "q": 17,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 170°C (340°F) and line a loaf tin."
+    ],
+    [
+     "Wet",
+     "Whisk the yogurt, eggs, milk, sweetener and melted chocolate."
+    ],
+    [
+     "Dry",
+     "Add the cocoa, oat flour, protein powder, baking powder and salt and mix until combined."
+    ],
+    [
+     "Bake",
+     "Bake 30–35 minutes until just set. Cool completely."
+    ],
+    [
+     "Glaze",
+     "Mix the glaze ingredients, stirring in the melted chocolate until smooth, and spread over the loaf."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per slice of 10.",
+   "t": 0,
+   "img": "img/protein-brownie-loaf.jpg"
+  }
+ ]
+}

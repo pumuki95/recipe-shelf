@@ -266,7 +266,8 @@
   "fdl-thick-mcchicken",
   "spicy-chicken-burgers-meal-prep",
   "lean-double-cheeseburger-450",
-  "bacon-onion-jam-cheeseburgers-meal-prep"
+  "bacon-onion-jam-cheeseburgers-meal-prep",
+  "caramelized-onion-cheeseburger-meal-prep"
  ],
  "Tacos": [
   "crispy-beef-tacos",
@@ -302,7 +303,8 @@
   "stuffed-chicken-mince-calzone",
   "freezer-pepperoni-protein-pizzas",
   "bacon-pepperoni-protein-pizza",
-  "mf-cottage-cheese-pizza-toast"
+  "mf-cottage-cheese-pizza-toast",
+  "buffalo-chicken-yogurt-dough-hot-pockets"
  ],
  "Pancakes & waffles": [
   "chocolate-chip-protein-pancakes",
@@ -364,7 +366,8 @@
   "savory-french-toast-chicken-sandwich",
   "french-toast-cloud",
   "classic-texas-toast-french-toast",
-  "chocolate-drizzle-protein-french-toast-meal-prep"
+  "chocolate-drizzle-protein-french-toast-meal-prep",
+  "caramel-protein-french-toast-cloud"
  ],
  "Protein pasta": [
   "spicy-protein-vodka-pasta",
@@ -391,7 +394,8 @@
   "chipotle-cottage-cheese-alfredo-chicken-pasta",
   "caramelised-onion-chicken-pasta-bake",
   "smp-creamy-spicy-chipotle-chicken-pasta",
-  "mf-butternut-squash-cottage-cheese-pasta"
+  "mf-butternut-squash-cottage-cheese-pasta",
+  "honey-bbq-chicken-mac-and-cheese"
  ],
  "Alfredo": [
   "cauliflower-protein-alfredo",
@@ -471,7 +475,8 @@
   "creamy-garlic-cheesy-chicken-potatoes",
   "chipotle-steak-street-corn-bowl",
   "mediterranean-sheet-pan-chicken-kebabs",
-  "honey-sesame-chicken-meal-prep"
+  "honey-sesame-chicken-meal-prep",
+  "honey-bbq-chicken-mac-and-cheese"
  ],
  "Chicken tenders & bites": [
   "garlic-parmesan-chicken-bites",
@@ -502,7 +507,8 @@
   "no-bake-mango-swirl-protein-cheesecake",
   "apple-cinnamon-protein-cheesecake",
   "giant-protein-brookie",
-  "chocolate-protein-cheesecake-bars"
+  "chocolate-protein-cheesecake-bars",
+  "protein-brownie-loaf"
  ],
  "Protein bars, bites & bark": [
   "salted-caramel-twix-bars",
@@ -534,7 +540,8 @@
   "glazed-protein-blueberry-loaf",
   "chocolate-swirl-protein-banana-bread",
   "banana-bread-cinnamon-roll-bars",
-  "frosted-chocolate-oreo-protein-loaf"
+  "frosted-chocolate-oreo-protein-loaf",
+  "protein-chocolate-chip-banana-bread-hunter"
  ],
  "Donuts": [
   "chocolate-protein-donuts",
@@ -543,7 +550,8 @@
   "sam-2-ingredient-gf-donut-holes",
   "mf-pumpkin-cottage-cheese-donut-holes",
   "mf-lemon-blueberry-cottage-cheese-donut-holes",
-  "mf-cinnamon-sugar-cottage-cheese-donut-bites"
+  "mf-cinnamon-sugar-cottage-cheese-donut-bites",
+  "carnivore-glazed-donuts"
  ],
  "Breads & flatbreads": [
   "greek-yogurt-bagels",
@@ -617,7 +625,15 @@
   "oil-free-egg-yogurt-mayo",
   "oil-free-avocado-herb-mayo",
   "oil-free-spicy-red-mayo",
-  "high-protein-buttermilk-ranch"
+  "high-protein-buttermilk-ranch",
+  "greek-yogurt-sauce-peri-peri-garlic",
+  "greek-yogurt-sauce-jalapeno-lime",
+  "greek-yogurt-sauce-smoky-chipotle",
+  "greek-yogurt-sauce-roasted-garlic-parmesan",
+  "greek-yogurt-sauce-buffalo",
+  "greek-yogurt-sauce-lemon-herb-dill",
+  "greek-yogurt-sauce-creamy-cajun",
+  "greek-yogurt-sauce-roasted-red-pepper"
  ],
  "Chicken sandwiches": [
   "cilantro-lime-chicken-sandwich",

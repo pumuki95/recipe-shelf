@@ -1,0 +1,155 @@
+{
+ "src": {
+  "key": "DfkY7-AJdSK",
+  "platform": "Instagram",
+  "creator": "hunt4shredz",
+  "title": "High-Protein Chocolate Chip Banana Bread",
+  "url": "https://www.instagram.com/p/DfkY7-AJdSK/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "protein-chocolate-chip-banana-bread-hunter",
+   "title": "High-Protein Chocolate Chip Banana Bread",
+   "servings": 8,
+   "unit": "slice",
+   "time": "1 h",
+   "macros": {
+    "cal": 285,
+    "protein": 13,
+    "carbs": 43,
+    "fat": 7
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "Dessert",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Wet",
+     "items": [
+      {
+       "i": "large ripe bananas, mashed (about 350 g)",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 170,
+       "u": "g"
+      },
+      {
+       "i": "pure maple syrup",
+       "a": "Pantry",
+       "q": 60,
+       "u": "ml"
+      },
+      {
+       "i": "light butter, melted",
+       "a": "Dairy",
+       "q": 28,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Dry",
+     "items": [
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "scoops vanilla whey protein",
+       "a": "Pantry",
+       "q": 2
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate",
+     "items": [
+      {
+       "i": "semi-sweet chocolate chips",
+       "a": "Baking",
+       "q": 85,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 350°F and line a loaf pan or small baking dish."
+    ],
+    [
+     "Wet",
+     "Mash the bananas, then whisk in the eggs, yogurt, maple syrup, melted butter and vanilla."
+    ],
+    [
+     "Dry",
+     "Mix in the flour, whey, baking soda, baking powder, cinnamon and salt without overmixing, then fold in most of the chocolate chips."
+    ],
+    [
+     "Bake",
+     "Pour in, top with the remaining chips and bake about 45–55 minutes until a toothpick comes out clean."
+    ],
+    [
+     "Cool",
+     "Cool before slicing into 8."
+    ]
+   ],
+   "notes": "Ingredients and macros are the creator's, per slice of 8. He doesn't give an oven temperature or time, so those are my estimate. Use very ripe bananas and don't overmix.",
+   "t": 0,
+   "img": "img/protein-chocolate-chip-banana-bread-hunter.jpg"
+  }
+ ]
+}

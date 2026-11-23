@@ -1,0 +1,170 @@
+{
+ "src": {
+  "key": "Delii5lB7mC",
+  "platform": "Instagram",
+  "creator": "Baxter Hill",
+  "title": "Buffalo Chicken Hot Pockets",
+  "url": "https://www.instagram.com/p/Delii5lB7mC/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "buffalo-chicken-yogurt-dough-hot-pockets",
+   "title": "Buffalo Chicken Hot Pockets (Greek Yogurt Dough)",
+   "servings": 5,
+   "unit": "hot pocket",
+   "time": "40 min",
+   "macros": {
+    "cal": 425,
+    "protein": 50,
+    "carbs": 36,
+    "fat": 10
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Lunch",
+    "Dinner",
+    "High protein",
+    "Meal prep",
+    "Freezer"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "self-raising flour, plus extra for kneading",
+       "a": "Baking",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "light Greek yogurt",
+       "a": "Dairy",
+       "q": 260,
+       "u": "g"
+      },
+      {
+       "i": "garlic salt",
+       "a": "Spices",
+       "q": 7,
+       "u": "g"
+      },
+      {
+       "i": "dried Italian herbs",
+       "a": "Spices",
+       "q": 4,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "i": "shredded roast chicken (about 1 roast chicken)",
+       "a": "Meat",
+       "q": 450,
+       "u": "g"
+      },
+      {
+       "i": "light mozzarella, shredded",
+       "a": "Dairy",
+       "q": 195,
+       "u": "g"
+      },
+      {
+       "i": "fresh chives, chopped",
+       "a": "Produce",
+       "q": 5,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "High-protein buffalo sauce",
+     "items": [
+      {
+       "i": "light cottage cheese",
+       "a": "Dairy",
+       "q": 168,
+       "u": "g"
+      },
+      {
+       "i": "light cream cheese",
+       "a": "Dairy",
+       "q": 28,
+       "u": "g"
+      },
+      {
+       "i": "garlic salt",
+       "a": "Spices",
+       "q": 4,
+       "u": "g"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 1.5,
+       "u": "g"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 1.5,
+       "u": "g"
+      },
+      {
+       "i": "Frank's RedHot Buffalo sauce",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "skim milk",
+       "a": "Dairy",
+       "q": 30,
+       "u": "ml"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Filling",
+     "Shred the chicken and add it to a bowl with the chives."
+    ],
+    [
+     "Sauce",
+     "Blend all the sauce ingredients until smooth, pour over the chicken and mix."
+    ],
+    [
+     "Dough",
+     "Mix the flour, yogurt, garlic salt and herbs into a dough, then knead 1–2 minutes on a floured bench until smooth."
+    ],
+    [
+     "Roll",
+     "Divide into 5 balls (about 104 g each) and roll each into an oval 3–4 mm thick."
+    ],
+    [
+     "Fill",
+     "Spoon the buffalo chicken onto one half, top with 39 g mozzarella, fold over and seal the edges with a fork."
+    ],
+    [
+     "Cook",
+     "Toast in a lightly oiled pan over medium-low heat, lid on, 4–5 minutes per side until golden and cooked through."
+    ],
+    [
+     "Reheat",
+     "Wrap in a damp paper towel and microwave 3–4 minutes from frozen or 1–2 from the fridge; crisp in a hot pan if you like."
+    ]
+   ],
+   "notes": "Recipe is from Baxter Hill (original video by fairfiteats). The 425 calories and 50 g protein per hot pocket are from the video; carbs and fat are my estimates.",
+   "t": 0,
+   "img": "img/buffalo-chicken-yogurt-dough-hot-pockets.jpg"
+  }
+ ]
+}

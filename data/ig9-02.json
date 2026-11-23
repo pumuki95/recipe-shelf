@@ -1,0 +1,105 @@
+{
+ "src": {
+  "key": "DfpR6AVqDa-",
+  "platform": "Instagram",
+  "creator": "Jordan Masuccio",
+  "title": "Carnivore Donuts",
+  "url": "https://www.instagram.com/p/DfpR6AVqDa-/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "carnivore-glazed-donuts",
+   "title": "Carnivore Glazed Donuts (Honey Cream Cheese Glaze)",
+   "servings": 6,
+   "unit": "donut",
+   "time": "20 min",
+   "macros": {
+    "cal": 159,
+    "protein": 7,
+    "carbs": 7,
+    "fat": 11.5
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Breakfast",
+    "Carnivore",
+    "Gluten-free",
+    "Low carb"
+   ],
+   "groups": [
+    {
+     "name": "Donuts",
+     "items": [
+      {
+       "i": "eggs",
+       "a": "Dairy",
+       "q": 4
+      },
+      {
+       "i": "milk powder or heavy cream powder",
+       "a": "Dairy",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "butter, melted",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Glaze",
+     "items": [
+      {
+       "i": "cream cheese (raw if you can get it), softened",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "raw honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Batter",
+     "Crack the eggs into a bowl and whisk in the milk powder (or cream powder), baking powder and melted butter until smooth."
+    ],
+    [
+     "Fill",
+     "Pour into a greased donut tray."
+    ],
+    [
+     "Bake",
+     "Bake about 10 minutes (around 350°F) until puffed and golden."
+    ],
+    [
+     "Glaze",
+     "While they bake, mix the raw honey and cream cheese until smooth."
+    ],
+    [
+     "Dip",
+     "Dip the warm donuts in the glaze."
+    ]
+   ],
+   "notes": "The caption only says to comment for the recipe, so this is put together from what he says and shows in the video: 4 eggs, milk or cream powder, baking powder and butter, baked about 10 minutes, then dipped in a raw honey and cream cheese glaze. The amounts, oven temperature, number of donuts and macros are my estimates.",
+   "t": 0,
+   "img": "img/carnivore-glazed-donuts.jpg"
+  }
+ ]
+}

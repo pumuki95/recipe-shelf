@@ -1,0 +1,127 @@
+{
+ "src": {
+  "key": "DctiihVsagh",
+  "platform": "Instagram",
+  "creator": "Nurlana Akif",
+  "title": "High Protein Strawberry Roll",
+  "url": "https://www.instagram.com/p/DctiihVsagh/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "protein-strawberry-roll",
+   "title": "109 g Protein Strawberry Cream Roll",
+   "servings": 4,
+   "unit": "slice",
+   "time": "35 min + chilling",
+   "macros": {
+    "cal": 192,
+    "protein": 27,
+    "carbs": 12.5,
+    "fat": 2.3
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Base",
+     "items": [
+      {
+       "i": "low-fat cottage cheese",
+       "a": "Dairy",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "cornstarch",
+       "a": "Baking",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "protein powder (optional)",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "i": "low-fat mascarpone (optional)",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "skyr, natural or vanilla",
+       "a": "Dairy",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "fresh strawberries",
+       "a": "Produce",
+       "q": 300,
+       "u": "g"
+      },
+      {
+       "i": "sweetener, syrup or honey, to taste",
+       "a": "Pantry"
+      },
+      {
+       "i": "powdered sweetener, to dust (optional)",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the cottage cheese, eggs, cornstarch and protein powder until smooth."
+    ],
+    [
+     "Spread",
+     "Spread onto baking paper in a thin rectangle."
+    ],
+    [
+     "Bake",
+     "Bake at 180°C (350°F) for 20–25 minutes, then let it cool slightly."
+    ],
+    [
+     "Filling",
+     "Mix the skyr (and mascarpone) with sweetener and chopped strawberries."
+    ],
+    [
+     "Roll",
+     "Spread over the base, add extra strawberries and carefully roll it up."
+    ],
+    [
+     "Chill",
+     "Chill before slicing."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's; she gives 766 kcal, 109 g protein, 50 g net carbs and 9 g fat for the whole roll. I split it into 4 slices (carbs are net carbs).",
+   "t": 0,
+   "img": "img/protein-strawberry-roll.jpg"
+  }
+ ]
+}
