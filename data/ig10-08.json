@@ -1,0 +1,81 @@
+{
+ "src": {
+  "key": "Dd4lA2HiCTm",
+  "platform": "Instagram",
+  "creator": "Joseph Abell",
+  "title": "Crispy Cheese Balls",
+  "url": "https://www.instagram.com/p/Dd4lA2HiCTm/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "crispy-parmesan-cheese-balls",
+   "title": "2-Ingredient Crispy Parmesan Cheese Balls",
+   "servings": 6,
+   "unit": "serving",
+   "time": "15 min + 1–2 h freeze",
+   "macros": {
+    "cal": 246,
+    "protein": 24,
+    "carbs": 1.7,
+    "fat": 15.3
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Snack",
+    "High protein",
+    "Low carb",
+    "Gluten-free",
+    "Air fryer",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Cheese balls",
+     "items": [
+      {
+       "i": "liquid egg whites",
+       "a": "Dairy",
+       "q": 130,
+       "u": "g"
+      },
+      {
+       "i": "grated Parmesan",
+       "a": "Dairy",
+       "q": 340,
+       "u": "g"
+      },
+      {
+       "i": "marinara, for dipping (optional)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Pour the egg whites into a bowl and mix in the Parmesan."
+    ],
+    [
+     "Roll",
+     "Roll into balls."
+    ],
+    [
+     "Freeze",
+     "Freeze 1–2 hours until firm."
+    ],
+    [
+     "Air fry",
+     "Air fry at 350°F for 10 minutes."
+    ]
+   ],
+   "notes": "Recipe, calories and protein are the creator's, per serving of 6; carbs and fat are my estimate.",
+   "t": 0,
+   "img": "img/crispy-parmesan-cheese-balls.jpg"
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "src": {
+  "key": "choosingchia-cottage-cheese-banana-bread",
+  "platform": "Website",
+  "creator": "Jessica Hoffman · Choosing Chia",
+  "title": "Cottage Cheese Chocolate Chip Banana Bread",
+  "url": "https://choosingchia.com/cottage-cheese-banana-bread/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Choosing Chia"
+ },
+ "recipes": [
+  {
+   "id": "cc-cottage-cheese-banana-bread",
+   "title": "Cottage Cheese Chocolate Chip Banana Bread",
+   "servings": 10,
+   "unit": "slice",
+   "time": "1 h 15 min + cooling",
+   "macros": {
+    "cal": 248,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 9,
+    "fiber": 2,
+    "sugar": 14
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "fiber",
+    "sugar"
+   ],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "Dessert",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Dry",
+     "items": [
+      {
+       "i": "all-purpose flour or oat flour",
+       "a": "Baking",
+       "q": 1.75,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "nutmeg",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Wet",
+     "items": [
+      {
+       "i": "medium overripe bananas, mashed (about 1 cup)",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "thick cottage cheese, blended smooth",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "maple syrup",
+       "a": "Pantry",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "butter, melted and cooled",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate",
+     "items": [
+      {
+       "i": "mini chocolate chips, plus more for topping",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 350°F and line an 8×4-inch loaf pan with parchment, leaving overhang."
+    ],
+    [
+     "Dry",
+     "Whisk the flour, baking powder, soda, salt, cinnamon and nutmeg."
+    ],
+    [
+     "Wet",
+     "Mash the bananas, blend the cottage cheese smooth and add with the eggs, maple syrup, butter and vanilla."
+    ],
+    [
+     "Combine",
+     "Stir wet into dry just until incorporated, then fold in the chocolate chips."
+    ],
+    [
+     "Bake",
+     "Pour in, top with extra chips and bake 50–60 minutes until a toothpick comes out clean; tent with foil for the last 15–20 minutes if browning fast."
+    ],
+    [
+     "Cool",
+     "Cool 15 minutes in the pan, lift out and cool completely before slicing."
+    ]
+   ],
+   "notes": "Recipe and nutrition are the creator's, per slice of 10.",
+   "t": 0,
+   "img": "img/cc-cottage-cheese-banana-bread.jpg"
+  }
+ ]
+}

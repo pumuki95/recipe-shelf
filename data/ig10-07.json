@@ -1,0 +1,204 @@
+{
+ "src": {
+  "key": "DdsO9SFx9AL",
+  "platform": "Instagram",
+  "creator": "Arash Hashemi",
+  "title": "Mediterranean Beef Shawarma Chuck Roast",
+  "url": "https://www.instagram.com/p/DdsO9SFx9AL/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "mediterranean-shawarma-chuck-roast",
+   "title": "Mediterranean Beef Shawarma Chuck Roast (One Dish)",
+   "servings": 4,
+   "unit": "serving",
+   "time": "4 h",
+   "macros": {
+    "cal": 700,
+    "protein": 57,
+    "carbs": 26,
+    "fat": 40
+   },
+   "stated": [],
+   "tags": [
+    "Dinner",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Beef",
+     "items": [
+      {
+       "i": "chuck roast",
+       "a": "Meat",
+       "q": 2,
+       "u": "lb"
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "Aleppo pepper",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "thyme (or oregano)",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "ground cumin",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic cloves",
+       "a": "Produce",
+       "q": 6
+      },
+      {
+       "i": "bone broth",
+       "a": "Pantry",
+       "q": 24,
+       "u": "oz"
+      }
+     ]
+    },
+    {
+     "name": "Veggies",
+     "items": [
+      {
+       "i": "medium eggplant, chopped",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "red onion, chopped",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "red bell pepper, chopped",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "can chickpeas, drained and rinsed",
+       "a": "Pantry",
+       "q": 15,
+       "u": "oz"
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Garlicky tahini sauce",
+     "items": [
+      {
+       "i": "plain Greek yogurt",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "tahini",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "lemon, juiced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "garlic clove, grated",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      },
+      {
+       "i": "water",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "i": "fresh parsley",
+       "a": "Produce"
+      },
+      {
+       "i": "Aleppo pepper and lemon juice",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Season",
+     "Preheat the oven to 350°F. Put the chuck roast in a lidded oven-safe dish and season both sides generously with salt, pepper and all the spices."
+    ],
+    [
+     "Braise",
+     "Add the garlic cloves and bone broth, cover and cook 3 hours."
+    ],
+    [
+     "Prep",
+     "Meanwhile chop the vegetables and drain and rinse the chickpeas."
+    ],
+    [
+     "Shred",
+     "Shred the beef with two forks, mix in the vegetables and chickpeas, cover and cook at 400°F for 40 minutes, then uncover for 10–15 minutes to get some colour."
+    ],
+    [
+     "Sauce",
+     "Mix the yogurt, tahini, lemon, garlic and salt, adding water until drizzly."
+    ],
+    [
+     "Serve",
+     "Top with parsley, the tahini sauce, Aleppo pepper and lemon."
+    ]
+   ],
+   "notes": "Recipe is the creator's; he doesn't give servings or macros, so 4 servings and the macros are my estimate (chuck is a fattier cut).",
+   "t": 0,
+   "img": "img/mediterranean-shawarma-chuck-roast.jpg"
+  }
+ ]
+}

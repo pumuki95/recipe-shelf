@@ -1,0 +1,150 @@
+{
+ "src": {
+  "key": "choosingchia-cottage-cheese-pizza-buns",
+  "platform": "Website",
+  "creator": "Jessica Hoffman · Choosing Chia",
+  "title": "Cottage Cheese Pizza Buns",
+  "url": "https://choosingchia.com/cottage-cheese-pizza-buns/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Choosing Chia"
+ },
+ "recipes": [
+  {
+   "id": "cc-cottage-cheese-pizza-buns",
+   "title": "Cottage Cheese Pizza Buns",
+   "servings": 4,
+   "unit": "bun",
+   "time": "30 min",
+   "macros": {
+    "cal": 250,
+    "protein": 20,
+    "carbs": 22,
+    "fat": 11,
+    "fiber": 1,
+    "sugar": 2
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "fiber",
+    "sugar"
+   ],
+   "tags": [
+    "Lunch",
+    "Snack",
+    "Vegetarian",
+    "Pizza"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "Italian seasoning",
+       "a": "Spices",
+       "q": 0.125,
+       "u": "tsp"
+      },
+      {
+       "i": "apple cider vinegar",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "2% cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "egg, room temperature",
+       "a": "Dairy",
+       "q": 1
+      }
+     ]
+    },
+    {
+     "name": "Toppings",
+     "items": [
+      {
+       "i": "pizza sauce",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "shredded mozzarella",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "pepperoni, bell pepper, mushrooms, onions (any)",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 400°F."
+    ],
+    [
+     "Wet",
+     "Whisk the egg, then whisk in the cottage cheese and vinegar."
+    ],
+    [
+     "Dry",
+     "Mix the flour, baking powder, garlic powder, salt and Italian seasoning."
+    ],
+    [
+     "Dough",
+     "Mix wet into dry until a soft dough forms (softer than bread dough)."
+    ],
+    [
+     "Shape",
+     "Divide into 4 on a lined baking sheet and flatten into ½-inch-thick circles with damp hands."
+    ],
+    [
+     "Top",
+     "Add about 2 tbsp sauce each, the mozzarella and any toppings."
+    ],
+    [
+     "Bake",
+     "Bake 18–24 minutes until bubbly and golden. Cool slightly."
+    ]
+   ],
+   "notes": "Recipe and nutrition are the creator's, per bun.",
+   "t": 0,
+   "img": "img/cc-cottage-cheese-pizza-buns.jpg"
+  }
+ ]
+}

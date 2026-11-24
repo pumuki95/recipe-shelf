@@ -1,0 +1,189 @@
+{
+ "src": {
+  "key": "Df0XvdQNvHC",
+  "platform": "Instagram",
+  "creator": "Panacea Palm | Dij",
+  "title": "High Protein Beijing Beef Rice Bowls",
+  "url": "https://www.instagram.com/p/Df0XvdQNvHC/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "beijing-beef-rice-bowls",
+   "title": "High-Protein Beijing Beef Rice Bowls",
+   "servings": 4,
+   "unit": "bowl",
+   "time": "40 min",
+   "macros": {
+    "cal": 535,
+    "protein": 53,
+    "carbs": 56,
+    "fat": 10
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep",
+    "Fakeaway"
+   ],
+   "groups": [
+    {
+     "name": "Crispy beef",
+     "items": [
+      {
+       "i": "lean steak, thinly sliced against the grain",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "soy sauce",
+       "a": "Pantry",
+       "q": 20,
+       "u": "ml"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cornflour",
+       "a": "Baking",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "baking soda (tenderises)",
+       "a": "Baking",
+       "q": 5,
+       "u": "g"
+      },
+      {
+       "i": "cooking spray",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Beijing glaze",
+     "items": [
+      {
+       "i": "soy sauce",
+       "a": "Pantry",
+       "q": 60,
+       "u": "ml"
+      },
+      {
+       "i": "water",
+       "a": "Pantry",
+       "q": 120,
+       "u": "ml"
+      },
+      {
+       "i": "sriracha",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "oyster sauce",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "hoisin",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "granulated sweetener",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "cornflour mixed with 1 tbsp water",
+       "a": "Baking",
+       "q": 5,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Other",
+     "items": [
+      {
+       "i": "white rice (uncooked)",
+       "a": "Pantry",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "garlic cloves, diced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "red bell pepper, in 1\" pieces",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "white onion, sliced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "sesame seeds (optional)",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Beef",
+     "Toss the steak with the soy sauce, pepper, cornflour and baking soda (freezing the steak 30 minutes first makes slicing easier)."
+    ],
+    [
+     "Crisp",
+     "Cook on high heat with cooking spray until golden and crispy on both sides, then set aside."
+    ],
+    [
+     "Rice",
+     "Cook the rice."
+    ],
+    [
+     "Veg",
+     "In the same pan cook the garlic, pepper and onion until just tender."
+    ],
+    [
+     "Glaze",
+     "Add the glaze ingredients and simmer until thick and glossy."
+    ],
+    [
+     "Toss",
+     "Return the beef and toss to coat. Divide over the rice in 4 containers and top with sesame seeds."
+    ],
+    [
+     "Store",
+     "Keeps 5 days in the fridge; add a teaspoon of water and microwave 3 minutes to reheat."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per bowl.",
+   "t": 0,
+   "img": "img/beijing-beef-rice-bowls.jpg"
+  }
+ ]
+}

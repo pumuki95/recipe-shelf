@@ -1,0 +1,168 @@
+{
+ "src": {
+  "key": "DfrwIxHnImA",
+  "platform": "Instagram",
+  "creator": "Eating Healthy Today (via foodeanie)",
+  "title": "Korean Chicken Brothy Rice",
+  "url": "https://www.instagram.com/p/DfrwIxHnImA/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "korean-chicken-brothy-rice",
+   "title": "Korean Gochujang Chicken Brothy Rice",
+   "servings": 2,
+   "unit": "bowl",
+   "time": "30 min",
+   "macros": {
+    "cal": 600,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 18
+   },
+   "stated": [],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken thighs",
+       "a": "Meat",
+       "q": 3
+      },
+      {
+       "i": "gochujang",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "soy sauce",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "dark soy sauce",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "mirin",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "rice wine vinegar",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "brown sugar",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sesame oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "shallot, diced",
+       "a": "Produce",
+       "q": 0.5
+      }
+     ]
+    },
+    {
+     "name": "Broth",
+     "items": [
+      {
+       "i": "bone broth",
+       "a": "Pantry",
+       "q": 350,
+       "u": "ml"
+      },
+      {
+       "i": "makrut lime leaves, torn",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "ginger (1-inch), in thin matchsticks",
+       "a": "Produce",
+       "q": 1
+      }
+     ]
+    },
+    {
+     "name": "Herb salad & bowls",
+     "items": [
+      {
+       "i": "fresh cilantro, Thai basil and mint, equal parts",
+       "a": "Produce"
+      },
+      {
+       "i": "shallot, thinly sliced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "fresh chives, chopped",
+       "a": "Produce"
+      },
+      {
+       "i": "olive oil, for tossing",
+       "a": "Pantry"
+      },
+      {
+       "i": "cooked jasmine rice",
+       "a": "Pantry",
+       "q": 2,
+       "u": "cup"
+      },
+      {
+       "i": "scallion greens and sesame seeds",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinade",
+     "Mix the gochujang, both soy sauces, mirin, vinegar, sugar, sesame oil and diced shallot and coat the chicken."
+    ],
+    [
+     "Broth",
+     "Gently simmer the broth with the ginger and torn lime leaves while the chicken cooks."
+    ],
+    [
+     "Chicken",
+     "Pan-fry the thighs over medium heat, turning, until cooked through and caramelized; lower the heat if the glaze darkens too fast."
+    ],
+    [
+     "Herbs",
+     "Toss the herbs, sliced shallot and chives with a little olive oil."
+    ],
+    [
+     "Bowls",
+     "Remove the lime leaves. Put rice in bowls, ladle the broth around it, then add sliced chicken and the herb salad. Finish with scallions and sesame seeds."
+    ]
+   ],
+   "notes": "Recipe is the creator's (ladle the broth around the rice before adding the chicken so the crispy edges stay above it). Servings and macros aren't given; I assumed 2 bowls with about a cup of rice each, so the macros are my estimate.",
+   "t": 0,
+   "img": "img/korean-chicken-brothy-rice.jpg"
+  }
+ ]
+}

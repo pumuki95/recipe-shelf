@@ -1,0 +1,134 @@
+{
+ "src": {
+  "key": "DgFobtWodFO",
+  "platform": "Instagram",
+  "creator": "Anna (ajfoodie)",
+  "title": "Mini Cheeseburger Tacos",
+  "url": "https://www.instagram.com/p/DgFobtWodFO/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "mini-cheeseburger-tacos",
+   "title": "Mini Cheeseburger Tacos",
+   "servings": 4,
+   "unit": "taco",
+   "time": "20 min",
+   "macros": {
+    "cal": 265,
+    "protein": 24,
+    "carbs": 23,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Tacos",
+     "items": [
+      {
+       "i": "5% lean beef mince",
+       "a": "Meat",
+       "q": 280,
+       "u": "g"
+      },
+      {
+       "i": "mini tortilla wraps",
+       "a": "Baking",
+       "q": 4
+      },
+      {
+       "i": "light cheese slices",
+       "a": "Dairy",
+       "q": 4
+      },
+      {
+       "i": "salt, pepper and taco seasoning",
+       "a": "Spices"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Toppings",
+     "items": [
+      {
+       "i": "red onion, finely diced",
+       "a": "Produce",
+       "q": 0.25
+      },
+      {
+       "i": "gherkins, finely chopped",
+       "a": "Pantry",
+       "q": 2.5
+      },
+      {
+       "i": "handful shredded lettuce",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Burger sauce",
+     "items": [
+      {
+       "i": "light mayonnaise",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "tomato ketchup",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "small gherkin, finely diced",
+       "a": "Pantry",
+       "q": 1
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Press",
+     "Divide the mince into 4 (70 g each) and press each thinly over one side of a mini tortilla. Season."
+    ],
+    [
+     "Cook",
+     "Fry mince-side down in a little oil over medium-high heat 3–5 minutes until browned and cooked."
+    ],
+    [
+     "Cheese",
+     "Flip, add a cheese slice and cook 1–2 minutes until crispy and melted."
+    ],
+    [
+     "Sauce",
+     "Mix the mayo, ketchup and diced gherkin."
+    ],
+    [
+     "Top",
+     "Top with lettuce, onion, gherkins and burger sauce."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per taco; she has 2 tacos as a meal.",
+   "t": 0,
+   "img": "img/mini-cheeseburger-tacos.jpg"
+  }
+ ]
+}

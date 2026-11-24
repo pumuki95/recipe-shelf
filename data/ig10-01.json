@@ -1,0 +1,210 @@
+{
+ "src": {
+  "key": "Df73zVuTWkA",
+  "platform": "Instagram",
+  "creator": "Dez Cerimagic · Aussie Fitness",
+  "title": "High Protein Meal Prep Buffalo Chicken Ranch Pizzas",
+  "url": "https://www.instagram.com/p/Df73zVuTWkA/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "buffalo-chicken-ranch-protein-pizzas",
+   "title": "Buffalo Chicken Ranch Protein Pizzas (Meal Prep, 8)",
+   "servings": 8,
+   "unit": "pizza",
+   "time": "1 h",
+   "macros": {
+    "cal": 578,
+    "protein": 68,
+    "carbs": 44,
+    "fat": 15.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep",
+    "Freezer",
+    "Pizza"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "diced boneless skinless chicken breast (raw)",
+       "a": "Meat",
+       "q": 640,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "Italian herb seasoning",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Spices",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cooking spray",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "self-raising flour (or plain flour + 2 tsp baking powder)",
+       "a": "Baking",
+       "q": 560,
+       "u": "g"
+      },
+      {
+       "i": "nutritional yeast, blended",
+       "a": "Pantry",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "Italian herb seasoning",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "low-fat Greek yogurt",
+       "a": "Dairy",
+       "q": 480,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Toppings (per pizza × 8)",
+     "items": [
+      {
+       "i": "Frank's RedHot Buffalo sauce (70 g per pizza)",
+       "a": "Pantry",
+       "q": 560,
+       "u": "g"
+      },
+      {
+       "i": "light grated mozzarella (80 g per pizza)",
+       "a": "Dairy",
+       "q": 640,
+       "u": "g"
+      },
+      {
+       "i": "red onion, sliced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "jalapeño, diced",
+       "a": "Produce",
+       "q": 0.5
+      }
+     ]
+    },
+    {
+     "name": "To finish (optional, per pizza)",
+     "items": [
+      {
+       "i": "extra Buffalo sauce (45 ml per pizza)",
+       "a": "Pantry",
+       "q": 360,
+       "u": "ml"
+      },
+      {
+       "i": "low-calorie ranch (80 ml per pizza)",
+       "a": "Pantry",
+       "q": 640,
+       "u": "ml"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Chicken",
+     "Season the chicken with salt, garlic and onion powder, Italian herbs and smoked paprika. Spray with oil and air fry at 200°C/400°F for 12–14 minutes (or oven bake 15–18 minutes)."
+    ],
+    [
+     "Dough",
+     "Mix the flour, yogurt, blended nutritional yeast and seasonings until crumbly, then knead into a ball. If it's sticky, add flour a little at a time until workable."
+    ],
+    [
+     "Shape",
+     "Divide into 8, roll each thin and wide on a floured surface, fold the edges over to form a crust and move to lined trays."
+    ],
+    [
+     "Top",
+     "Spread 70 g Buffalo sauce on each base, then add the chicken, 80 g cheese, red onion and jalapeño."
+    ],
+    [
+     "Bake",
+     "Spray the crusts with oil and bake at 185°C/365°F for about 15 minutes until crispy, in 2–3 batches if needed."
+    ],
+    [
+     "Finish",
+     "Drizzle with extra Buffalo sauce and light ranch."
+    ],
+    [
+     "Store",
+     "Freeze once cooled; reheat in the air fryer or oven at 200°C/400°F for about 7 minutes."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per pizza (8 total); the full amounts are from the recipe he messaged you. Amount of flour needed varies with how wet your yogurt is.",
+   "t": 0,
+   "img": "img/buffalo-chicken-ranch-protein-pizzas.jpg"
+  }
+ ]
+}

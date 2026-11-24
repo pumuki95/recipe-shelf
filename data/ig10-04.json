@@ -1,0 +1,103 @@
+{
+ "src": {
+  "key": "DfchrvIKMIm",
+  "platform": "Instagram",
+  "creator": "Jordan Masuccio",
+  "title": "Carnivore Pizza",
+  "url": "https://www.instagram.com/p/DfchrvIKMIm/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "carnivore-cottage-cheese-crust-pizza",
+   "title": "Carnivore Cottage Cheese Crust Pizza",
+   "servings": 2,
+   "unit": "serving",
+   "time": "45 min",
+   "macros": {
+    "cal": 441,
+    "protein": 34,
+    "carbs": 7.5,
+    "fat": 29.5
+   },
+   "stated": [],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Low carb",
+    "Gluten-free",
+    "Carnivore",
+    "Pizza"
+   ],
+   "groups": [
+    {
+     "name": "Crust",
+     "items": [
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "shredded mozzarella",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "egg",
+       "a": "Dairy",
+       "q": 1
+      }
+     ]
+    },
+    {
+     "name": "Toppings",
+     "items": [
+      {
+       "i": "pizza sauce (skip for strict carnivore)",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "pepperoni",
+       "a": "Meat",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "extra mozzarella",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend the cottage cheese, mozzarella and egg until smooth."
+    ],
+    [
+     "Spread",
+     "Spread thinly on a parchment-lined tray."
+    ],
+    [
+     "Bake",
+     "Bake at about 400°F for 25–30 minutes until golden and firm."
+    ],
+    [
+     "Top",
+     "Add your toppings and put it back in the oven until the cheese melts and bubbles."
+    ]
+   ],
+   "notes": "The caption only says to comment for the recipe; he says the crust is just cottage cheese, mozzarella and an egg, blended, baked, then topped and baked again. Amounts, temperature, times and macros are my estimates.",
+   "t": 0,
+   "img": "img/carnivore-cottage-cheese-crust-pizza.jpg"
+  }
+ ]
+}

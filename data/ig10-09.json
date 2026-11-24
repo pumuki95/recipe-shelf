@@ -1,0 +1,169 @@
+{
+ "src": {
+  "key": "DgGFDxrzTZU",
+  "platform": "Instagram",
+  "creator": "Dez Cerimagic · Aussie Fitness",
+  "title": "Cheesy Honey BBQ Chicken Quesadillas",
+  "url": "https://www.instagram.com/p/DgGFDxrzTZU/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "honey-bbq-chicken-quesadillas",
+   "title": "Cheesy Honey BBQ Chicken Quesadillas (Meal Prep, 10)",
+   "servings": 10,
+   "unit": "quesadilla",
+   "time": "1 h",
+   "macros": {
+    "cal": 477,
+    "protein": 65,
+    "carbs": 32.7,
+    "fat": 13
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Lunch",
+    "Dinner",
+    "High protein",
+    "Meal prep",
+    "Freezer"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "boneless skinless chicken breast",
+       "a": "Meat",
+       "q": 1.8,
+       "u": "kg"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "chilli powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Honey BBQ sauce",
+     "items": [
+      {
+       "i": "garlic cloves, diced",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "sugar-free BBQ sauce",
+       "a": "Pantry",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "chives, diced",
+       "a": "Produce"
+      },
+      {
+       "i": "red onion, diced",
+       "a": "Produce",
+       "q": 1
+      }
+     ]
+    },
+    {
+     "name": "To build",
+     "items": [
+      {
+       "i": "large low-carb tortillas (Mission Carb Balance)",
+       "a": "Baking",
+       "q": 10
+      },
+      {
+       "i": "light grated cheese",
+       "a": "Dairy",
+       "q": 350,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Season",
+     "Coat the chicken with the oil and BBQ seasoning."
+    ],
+    [
+     "Cook",
+     "Cook covered over medium heat about 8 minutes per side until done, then shred."
+    ],
+    [
+     "Sauce",
+     "In the same pan cook the garlic briefly, then add the BBQ sauce, honey and shredded chicken and stir until coated. Mix in the chives and red onion."
+    ],
+    [
+     "Build",
+     "Fill one half of each tortilla with cheese and BBQ chicken, add more cheese and fold."
+    ],
+    [
+     "Toast",
+     "Toast in a pan until golden and crispy on both sides."
+    ],
+    [
+     "Store",
+     "Cool, then refrigerate or freeze; reheat until crispy and melty."
+    ]
+   ],
+   "notes": "Ingredients and macros are the creator's (per quesadilla, 10 total), but his caption gives no amounts (the full recipe is sent by DM), so the amounts are my estimate sized to his macros.",
+   "t": 0,
+   "img": "img/honey-bbq-chicken-quesadillas.jpg"
+  }
+ ]
+}

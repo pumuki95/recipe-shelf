@@ -1,0 +1,152 @@
+{
+ "src": {
+  "key": "DgEY8BiOEVm",
+  "platform": "Instagram",
+  "creator": "Joseph Abell",
+  "title": "Bacon Egg Crescent Squares",
+  "url": "https://www.instagram.com/p/DgEY8BiOEVm/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "bacon-egg-crescent-breakfast-squares",
+   "title": "Bacon Egg Crescent Breakfast Squares (Meal Prep, 8)",
+   "servings": 8,
+   "unit": "square",
+   "time": "1 h 30 min",
+   "macros": {
+    "cal": 440,
+    "protein": 39,
+    "carbs": 16,
+    "fat": 23
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Bake",
+     "items": [
+      {
+       "i": "beef bacon, chopped",
+       "a": "Meat",
+       "q": 20,
+       "u": "oz"
+      },
+      {
+       "i": "can reduced-fat crescent rolls (8 rolls)",
+       "a": "Baking",
+       "q": 1
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 12
+      },
+      {
+       "i": "liquid egg whites",
+       "a": "Dairy",
+       "q": 2,
+       "u": "cup"
+      },
+      {
+       "i": "fat-free cottage cheese",
+       "a": "Dairy",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "grated Parmesan",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "chili paste",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Spices",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "extra-sharp yellow cheddar, grated",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "extra-sharp white cheddar, grated",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "green onions, sliced",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Bacon",
+     "Spread the bacon in a 9×13 dish and bake at 400°F about 20 minutes, stirring halfway, until crisp. Drain, pour off the grease and wipe the dish."
+    ],
+    [
+     "Crescents",
+     "Lower to 375°F and grease the dish. Roll up all 8 crescents, arrange in two rows of four and parbake 10–12 minutes until lightly golden."
+    ],
+    [
+     "Egg mix",
+     "Blend the eggs, egg whites, cottage cheese, Parmesan, chili paste and spices until smooth."
+    ],
+    [
+     "Bake",
+     "Set the dish on a sheet pan and slowly pour the egg mix around the crescents, leaving the tops exposed. Bake uncovered 30 minutes."
+    ],
+    [
+     "Cheese",
+     "Scatter both cheddars and the bacon on top and bake 10–15 minutes more, until melted and the centre reaches 165°F."
+    ],
+    [
+     "Serve",
+     "Rest 10 minutes, garnish with green onions and cut into 8 squares, one crescent each."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per square.",
+   "t": 0,
+   "img": "img/bacon-egg-crescent-breakfast-squares.jpg"
+  }
+ ]
+}

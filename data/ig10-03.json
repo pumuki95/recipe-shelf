@@ -1,0 +1,138 @@
+{
+ "src": {
+  "key": "DeUruyPTa0V",
+  "platform": "Instagram",
+  "creator": "tastyshreds",
+  "title": "Freezer Aisle Protein Mini Pizzas",
+  "url": "https://www.instagram.com/p/DeUruyPTa0V/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "hot-honey-freezer-mini-protein-pizzas",
+   "title": "Hot Honey Freezer Protein Mini Pizzas (14)",
+   "servings": 14,
+   "unit": "mini pizza",
+   "time": "1 h",
+   "macros": {
+    "cal": 235,
+    "protein": 25,
+    "carbs": 22,
+    "fat": 5.5
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Lunch",
+    "Dinner",
+    "Snack",
+    "High protein",
+    "Meal prep",
+    "Freezer",
+    "Pizza"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "Fit Flour (high-protein flour)",
+       "a": "Baking",
+       "q": 210,
+       "u": "g"
+      },
+      {
+       "i": "regular self-rising flour",
+       "a": "Baking",
+       "q": 210,
+       "u": "g"
+      },
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 420,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Toppings",
+     "items": [
+      {
+       "i": "pizza sauce",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "part-skim mozzarella, shredded",
+       "a": "Dairy",
+       "q": 210,
+       "u": "g"
+      },
+      {
+       "i": "turkey pepperoni",
+       "a": "Meat",
+       "q": 140,
+       "u": "g"
+      },
+      {
+       "i": "seasoned chicken sausage, cooked and crumbled",
+       "a": "Meat",
+       "q": 1,
+       "u": "lb"
+      }
+     ]
+    },
+    {
+     "name": "Hot honey (optional)",
+     "items": [
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "Buffalo sauce",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dough",
+     "Mix the two flours with the Greek yogurt and knead into a smooth dough."
+    ],
+    [
+     "Shape",
+     "Divide into 14 balls and roll each out thin."
+    ],
+    [
+     "Griddle",
+     "Cook the bases on a hot griddle or pan for a minute or two per side until set with light brown spots."
+    ],
+    [
+     "Top",
+     "Lay on a baking sheet and add about 1 tbsp sauce, the mozzarella, turkey pepperoni and chicken sausage."
+    ],
+    [
+     "Bake",
+     "Bake at about 425°F for 8–10 minutes until the cheese melts and bubbles."
+    ],
+    [
+     "Finish",
+     "Mix honey and Buffalo sauce for hot honey and drizzle. Cool, wrap and freeze; reheat in the air fryer or oven."
+    ]
+   ],
+   "notes": "Dough amounts (420 g flour, half Fit Flour, and 420 g nonfat Greek yogurt) are from the video; he says each pizza is about 235 cal and 25 g protein. The caption only says to comment for the full recipe, so topping amounts, oven temperature, carbs and fat are my estimates.",
+   "t": 0,
+   "img": "img/hot-honey-freezer-mini-protein-pizzas.jpg"
+  }
+ ]
+}
