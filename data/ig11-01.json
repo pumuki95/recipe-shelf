@@ -1,0 +1,146 @@
+{
+ "src": {
+  "key": "DfkUfKIgljp",
+  "platform": "Instagram",
+  "creator": "Yasmin · nourishedbyyasmin",
+  "title": "Juicy Sheet Pan Chicken Kebabs",
+  "url": "https://www.instagram.com/p/DfkUfKIgljp/",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "juicy-sheet-pan-chicken-kebabs",
+   "title": "Juicy Sheet Pan Harissa Chicken Kebabs",
+   "servings": 5,
+   "unit": "serving",
+   "time": "40 min",
+   "macros": {
+    "cal": 384,
+    "protein": 36,
+    "carbs": 2,
+    "fat": 26
+   },
+   "stated": [],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Low carb",
+    "Gluten-free",
+    "Meal prep",
+    "Sheet pan"
+   ],
+   "groups": [
+    {
+     "name": "Kebabs",
+     "items": [
+      {
+       "i": "chicken mince (preferably thigh)",
+       "a": "Meat",
+       "q": 1,
+       "u": "kg"
+      },
+      {
+       "i": "red chilli powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "garam masala",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "dried parsley",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "harissa paste",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt, or to taste",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "extra virgin olive oil",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Garnish",
+     "items": [
+      {
+       "i": "harissa paste",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "extra virgin olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "fresh parsley, chopped",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 200°C (400°F) and grease or line a large baking tray."
+    ],
+    [
+     "Mix",
+     "Mix the chicken mince with the seasonings, harissa and olive oil for 2–3 minutes until slightly sticky, so it binds without eggs or breadcrumbs."
+    ],
+    [
+     "Spread",
+     "Flatten evenly on the tray, about 2 cm thick."
+    ],
+    [
+     "Shape",
+     "Cut into equal strips with a knife, then press your fingers along each strip to make kebab ridges."
+    ],
+    [
+     "Bake",
+     "Bake near the top of the oven 20–25 minutes until lightly golden and cooked through (75°C inside). Don't overcook so they stay juicy."
+    ],
+    [
+     "Finish",
+     "Mix the harissa and olive oil with the pan juices, brush over the kebabs and garnish with parsley."
+    ]
+   ],
+   "notes": "Recipe is the creator's, from her comment on the post; it serves 5–6. She gives no macros, so they're my estimate for 5 servings with thigh mince (breast mince would be leaner).",
+   "t": 0,
+   "img": "img/juicy-sheet-pan-chicken-kebabs.jpg"
+  }
+ ]
+}
