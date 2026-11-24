@@ -144,7 +144,11 @@
    ],
    "notes": "Recipe and nutrition are the creator's, per bun.",
    "t": 0,
-   "img": "img/cc-cottage-cheese-pizza-buns.jpg"
+   "img": "img/cc-cottage-cheese-pizza-buns.jpg",
+   "gallery": [
+    "img/p/cc-cottage-cheese-pizza-buns-1.jpg"
+   ],
+   "galleryRatio": "1200/1800"
   }
  ]
 }
