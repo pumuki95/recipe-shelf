@@ -1,0 +1,167 @@
+{
+ "src": {
+  "key": "DdZnWE9sqZe",
+  "platform": "Instagram",
+  "creator": "Diana Conforti | Pushing Together",
+  "title": "Healthier Cinnamon Roll Recipe",
+  "url": "https://www.instagram.com/p/DdZnWE9sqZe/",
+  "recipes": 1,
+  "added": "2026-11-26T17:54:15+00:00"
+ },
+ "recipes": [
+  {
+   "id": "skyr-date-cinnamon-rolls",
+   "title": "Healthier Skyr Cinnamon Rolls with Date Filling",
+   "servings": 10,
+   "unit": "roll",
+   "time": "1 h",
+   "macros": {
+    "cal": 234,
+    "protein": 7.5,
+    "carbs": 31,
+    "fat": 8.8,
+    "fiber": 1.8
+   },
+   "stated": [],
+   "tags": [
+    "Breakfast",
+    "Dessert",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Date filling",
+     "items": [
+      {
+       "i": "large medjool dates, pitted",
+       "a": "Produce",
+       "q": 6
+      },
+      {
+       "i": "coconut oil (heaping)",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "all-purpose flour, plus more for kneading",
+       "a": "Baking",
+       "q": 1.75,
+       "u": "cup"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "plain skyr",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "butter, for the pan",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Cream cheese frosting",
+     "items": [
+      {
+       "i": "Philadelphia original cream cheese, room temperature",
+       "a": "Dairy",
+       "q": 125,
+       "u": "g"
+      },
+      {
+       "i": "plain Greek yogurt or skyr",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "maple syrup",
+       "a": "Pantry",
+       "q": 1.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dates",
+     "Soak the pitted dates in hot water 10–15 minutes, then mash or blend into a paste and mix with the coconut oil, salt and cinnamon."
+    ],
+    [
+     "Dough",
+     "Mix the flour, baking soda and salt; in a bigger bowl mix the skyr and eggs, then combine until a dough starts to form."
+    ],
+    [
+     "Knead",
+     "Knead on a well-floured surface, adding flour a little at a time so it doesn't stick."
+    ],
+    [
+     "Roll",
+     "Roll into a large rectangle about ¼ inch thick, spread with the filling (leaving a border) and roll up tightly."
+    ],
+    [
+     "Cut",
+     "Cut into 10–11 pieces (thread or unflavoured floss gives the cleanest cut) and arrange in a buttered 9×12-inch pan with about an inch between them."
+    ],
+    [
+     "Bake",
+     "Bake at 350°F for 30–35 minutes until golden, then cool."
+    ],
+    [
+     "Frost",
+     "Whip the frosting ingredients until smooth and spread over the rolls."
+    ]
+   ],
+   "notes": "Recipe is the creator's; she gives no nutrition, so the macros are my estimate for 10 rolls with frosting.",
+   "t": 0,
+   "img": "img/skyr-date-cinnamon-rolls.jpg"
+  }
+ ]
+}

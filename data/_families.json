@@ -13,7 +13,10 @@
   "triple-chocolate-protein-cinnamon-rolls",
   "banana-bread-cinnamon-roll-bars",
   "egg-white-protein-cinnamon-roll",
-  "hk-pumpkin-protein-cinnamon-rolls"
+  "hk-pumpkin-protein-cinnamon-rolls",
+  "egg-white-cinnamon-rolls-flourless",
+  "cottage-cheese-cinnamon-roll-bites",
+  "skyr-date-cinnamon-rolls"
  ],
  "Protein ice cream (all)": [
   "almond-joy-creami",
@@ -337,7 +340,8 @@
   "low-carb-cottage-cheese-almond-flour-pancakes",
   "cinnamon-roll-protein-pancakes",
   "protein-mcgriddles-hunter",
-  "mf-cinnamon-roll-cottage-cheese-pancakes"
+  "mf-cinnamon-roll-cottage-cheese-pancakes",
+  "protein-cottage-cheese-pancakes-lbs"
  ],
  "Oats (baked & overnight)": [
   "choc-banana-baked-oats",
@@ -502,7 +506,8 @@
   "fdl-crispy-chicken-tenders-garlic-parm",
   "korean-popcorn-chicken-meal-prep",
   "spicy-garlic-parmesan-chicken-skewers",
-  "three-flavor-sheet-pan-chicken-bites"
+  "three-flavor-sheet-pan-chicken-bites",
+  "garlic-parmesan-chicken-kebab-skewers"
  ],
  "Brownies, cakes & cheesecake": [
   "double-chocolate-protein-cheesecake",
@@ -522,7 +527,9 @@
   "apple-cinnamon-protein-cheesecake",
   "giant-protein-brookie",
   "chocolate-protein-cheesecake-bars",
-  "protein-brownie-loaf"
+  "protein-brownie-loaf",
+  "oreo-protein-swiss-roll-cake",
+  "japanese-style-protein-yogurt-cake"
  ],
  "Protein bars, bites & bark": [
   "salted-caramel-twix-bars",
@@ -557,7 +564,8 @@
   "banana-bread-cinnamon-roll-bars",
   "frosted-chocolate-oreo-protein-loaf",
   "protein-chocolate-chip-banana-bread-hunter",
-  "cc-cottage-cheese-banana-bread"
+  "cc-cottage-cheese-banana-bread",
+  "chocolate-chunk-protein-banana-bread-nick"
  ],
  "Donuts": [
   "chocolate-protein-donuts",
@@ -581,7 +589,8 @@
   "mf-jalapeno-cheddar-cottage-cheese-bagels",
   "mf-cheddar-rosemary-cottage-cheese-biscuits",
   "mf-cottage-cheese-everything-bagels",
-  "carnivore-protein-bread-loaf"
+  "carnivore-protein-bread-loaf",
+  "oat-cottage-cheese-protein-flatbreads"
  ],
  "Puddings, mousse & tiramisu": [
   "tiramisu-chia-pudding",

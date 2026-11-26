@@ -1,0 +1,155 @@
+{
+ "src": {
+  "key": "DfU_xt_jO2i",
+  "platform": "Instagram",
+  "creator": "nickkaz.fit",
+  "title": "Low Cal, High Protein Chocolate Chunk Banana Bread",
+  "url": "https://www.instagram.com/p/DfU_xt_jO2i/",
+  "recipes": 1,
+  "added": "2026-11-26T17:54:15+00:00"
+ },
+ "recipes": [
+  {
+   "id": "chocolate-chunk-protein-banana-bread-nick",
+   "title": "Chocolate Chunk Protein Banana Bread",
+   "servings": 6,
+   "unit": "thick slice",
+   "time": "1 h 15 min",
+   "macros": {
+    "cal": 177,
+    "protein": 15.5,
+    "carbs": 20.75,
+    "fat": 4.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "Snack",
+    "Dessert",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Wet",
+     "items": [
+      {
+       "i": "overripe bananas, mashed (3 large)",
+       "a": "Produce",
+       "q": 350,
+       "u": "g"
+      },
+      {
+       "i": "plain or vanilla nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 170,
+       "u": "g"
+      },
+      {
+       "i": "medium egg",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "cashew or almond milk",
+       "a": "Dairy",
+       "q": 120,
+       "u": "ml"
+      }
+     ]
+    },
+    {
+     "name": "Dry",
+     "items": [
+      {
+       "i": "oat flour",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "granular sugar substitute",
+       "a": "Baking",
+       "q": 96,
+       "u": "g"
+      },
+      {
+       "i": "scoops vanilla or chocolate whey/casein protein powder",
+       "a": "Pantry",
+       "q": 2
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 3,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 2,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 1,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate",
+     "items": [
+      {
+       "i": "chocolate chunks, plus extra for the top (optional)",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 350°F."
+    ],
+    [
+     "Wet",
+     "Mix the wet ingredients thoroughly."
+    ],
+    [
+     "Dry",
+     "Mix the dry ingredients, add to the wet and mix without over-beating."
+    ],
+    [
+     "Chocolate",
+     "Gently fold in the chocolate chunks."
+    ],
+    [
+     "Bake",
+     "Pour into a lined or greased loaf tin and bake 55–60 minutes, until it just passes the toothpick test."
+    ],
+    [
+     "Finish",
+     "Rest 15 minutes, add optional chunks on top, chill until set and slice into 6."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per slice (carbs are net carbs; optional toppings not counted). A whey/casein blend matters for texture; with pure whey use 3 scoops.",
+   "t": 0,
+   "img": "img/chocolate-chunk-protein-banana-bread-nick.jpg"
+  }
+ ]
+}

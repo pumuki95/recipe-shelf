@@ -1,0 +1,112 @@
+{
+ "src": {
+  "key": "Ddpc6RpNAC1",
+  "platform": "Instagram",
+  "creator": "liv carbonero",
+  "title": "Garlic Parmesan Chicken Kebabs",
+  "url": "https://www.instagram.com/p/Ddpc6RpNAC1/",
+  "recipes": 1,
+  "added": "2026-11-26T17:54:15+00:00"
+ },
+ "recipes": [
+  {
+   "id": "garlic-parmesan-chicken-kebab-skewers",
+   "title": "Garlic Butter Parmesan Chicken Skewers",
+   "servings": 4,
+   "unit": "skewer",
+   "time": "30 min",
+   "macros": {
+    "cal": 157,
+    "protein": 28,
+    "carbs": 0.5,
+    "fat": 5.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Low carb",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Skewers",
+     "items": [
+      {
+       "i": "chicken breast",
+       "a": "Meat",
+       "q": 16,
+       "u": "oz"
+      },
+      {
+       "i": "garlic powder, onion powder, paprika, salt & pepper",
+       "a": "Spices"
+      },
+      {
+       "i": "light butter",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "minced garlic",
+       "a": "Produce",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "parsley, to taste",
+       "a": "Produce"
+      },
+      {
+       "i": "grated Parmesan",
+       "a": "Dairy",
+       "q": 2.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "small skewers",
+       "a": "Pantry",
+       "q": 4
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 400°F."
+    ],
+    [
+     "Season",
+     "Cut the chicken into thick, even cubes and season generously."
+    ],
+    [
+     "Skewer",
+     "Divide between 4 small skewers on a baking sheet."
+    ],
+    [
+     "Bake",
+     "Bake 18–22 minutes until golden and 165°F inside."
+    ],
+    [
+     "Garlic butter",
+     "Microwave the butter, garlic and parsley until melted and stir."
+    ],
+    [
+     "Finish",
+     "Brush the garlic butter over the skewers and top with Parmesan."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per skewer. It's the protein part of a meal; she pairs it with carrot fries.",
+   "t": 0,
+   "img": "img/garlic-parmesan-chicken-kebab-skewers.jpg"
+  }
+ ]
+}

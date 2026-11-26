@@ -1,0 +1,105 @@
+{
+ "src": {
+  "key": "DdkUUriNzj_",
+  "platform": "Instagram",
+  "creator": "Jasmine Hyare",
+  "title": "Protein Flatbreads",
+  "url": "https://www.instagram.com/p/DdkUUriNzj_/",
+  "recipes": 1,
+  "added": "2026-11-26T17:54:15+00:00"
+ },
+ "recipes": [
+  {
+   "id": "oat-cottage-cheese-protein-flatbreads",
+   "title": "Blender Oat & Cottage Cheese Protein Flatbreads",
+   "servings": 4,
+   "unit": "flatbread",
+   "time": "30 min",
+   "macros": {
+    "cal": 176,
+    "protein": 13.7,
+    "carbs": 15.6,
+    "fat": 6.4,
+    "fiber": 2
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "fiber"
+   ],
+   "tags": [
+    "Lunch",
+    "Breakfast",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Flatbread",
+     "items": [
+      {
+       "i": "rolled oats (rounded)",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 3
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "fresh rosemary, finely chopped (or any seasoning)",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 375°F and line a 9×13-inch sheet pan with parchment."
+    ],
+    [
+     "Blend",
+     "Blend everything until smooth."
+    ],
+    [
+     "Spread",
+     "Pour onto the pan and spread into a thin, even layer."
+    ],
+    [
+     "Bake",
+     "Bake about 20 minutes until cooked in the centre and golden and crisp at the edges."
+    ],
+    [
+     "Slice",
+     "Cool slightly and cut into 4. Use for sandwiches, wraps or dipping."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per piece.",
+   "t": 0,
+   "img": "img/oat-cottage-cheese-protein-flatbreads.jpg"
+  }
+ ]
+}

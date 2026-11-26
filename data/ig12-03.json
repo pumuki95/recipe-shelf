@@ -1,0 +1,105 @@
+{
+ "src": {
+  "key": "Dfuvt4aNJtA",
+  "platform": "Instagram",
+  "creator": "Life Beyond Sugar",
+  "title": "High-Protein Cottage Cheese Pancakes",
+  "url": "https://www.instagram.com/p/Dfuvt4aNJtA/",
+  "recipes": 1,
+  "added": "2026-11-26T17:54:15+00:00"
+ },
+ "recipes": [
+  {
+   "id": "protein-cottage-cheese-pancakes-lbs",
+   "title": "High-Protein Cottage Cheese Oat Pancakes",
+   "servings": 2,
+   "unit": "serving",
+   "time": "15 min",
+   "macros": {
+    "cal": 340,
+    "protein": 38,
+    "carbs": 24,
+    "fat": 10
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "High protein",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Batter",
+     "items": [
+      {
+       "i": "low-fat cottage cheese",
+       "a": "Dairy",
+       "q": 225,
+       "u": "g"
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "oat flour",
+       "a": "Baking",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "vanilla protein powder (1 scoop)",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cinnamon (optional)",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend everything until smooth."
+    ],
+    [
+     "Heat",
+     "Heat a non-stick pan over medium-low."
+    ],
+    [
+     "Cook",
+     "Pour small portions and cook 2–3 minutes per side until golden and fluffy."
+    ],
+    [
+     "Serve",
+     "Serve with berries or your favourite toppings."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's estimates, per half recipe.",
+   "t": 0,
+   "img": "img/protein-cottage-cheese-pancakes-lbs.jpg"
+  }
+ ]
+}

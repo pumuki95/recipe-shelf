@@ -1,0 +1,123 @@
+{
+ "src": {
+  "key": "De-sH4Mh21s",
+  "platform": "Instagram",
+  "creator": "Recetas Saludables Fit | Julieta",
+  "title": "Cinnamon rolls sin harina y sin azúcar",
+  "url": "https://www.instagram.com/p/De-sH4Mh21s/",
+  "recipes": 1,
+  "added": "2026-11-26T17:54:15+00:00"
+ },
+ "recipes": [
+  {
+   "id": "egg-white-cinnamon-rolls-flourless",
+   "title": "Flourless Egg-White Cinnamon Rolls (No Sugar)",
+   "servings": 5,
+   "unit": "roll",
+   "time": "25 min",
+   "macros": {
+    "cal": 52,
+    "protein": 5.3,
+    "carbs": 1.5,
+    "fat": 3
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Low carb",
+    "Gluten-free",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Sheet",
+     "items": [
+      {
+       "i": "egg whites",
+       "a": "Dairy",
+       "q": 6
+      },
+      {
+       "i": "erythritol",
+       "a": "Baking",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "ground cinnamon, to taste",
+       "a": "Spices"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "i": "cream cheese",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "plain Greek yogurt",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "stevia",
+       "a": "Baking",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Whip",
+     "Whip the egg whites with the salt to stiff peaks, then beat in the erythritol and vanilla."
+    ],
+    [
+     "Spread",
+     "Spread on a baking tray lined with baking paper in a thin, even rectangle and dust generously with cinnamon."
+    ],
+    [
+     "Bake",
+     "Bake at 180°C (350°F) for 8–10 minutes until set and lightly golden. Let it cool a little."
+    ],
+    [
+     "Filling",
+     "Mix the cream cheese, yogurt, vanilla and stevia until smooth and spread over the sheet."
+    ],
+    [
+     "Roll",
+     "Roll up gently using the paper, then slice into 5 rolls."
+    ]
+   ],
+   "notes": "Translated from the creator's Spanish post. She gives 260 kcal and 25 g protein for the whole batch, about 52 kcal and 5–5.6 g protein per roll. Only the bake time is written; the method is from the video, and carbs and fat are my estimates (erythritol not counted).",
+   "t": 0,
+   "img": "img/egg-white-cinnamon-rolls-flourless.jpg"
+  }
+ ]
+}

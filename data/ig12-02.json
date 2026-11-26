@@ -1,0 +1,86 @@
+{
+ "src": {
+  "key": "DfzfeY2D_It",
+  "platform": "Instagram",
+  "creator": "Carly L Lembo",
+  "title": "4-Ingredient Cottage Cheese Cinnamon Roll Bites",
+  "url": "https://www.instagram.com/p/DfzfeY2D_It/",
+  "recipes": 1,
+  "added": "2026-11-26T17:54:15+00:00"
+ },
+ "recipes": [
+  {
+   "id": "cottage-cheese-cinnamon-roll-bites",
+   "title": "4-Ingredient Cottage Cheese Cinnamon Roll Bites",
+   "servings": 12,
+   "unit": "bite",
+   "time": "25 min",
+   "macros": {
+    "cal": 60,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 1
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Snack",
+    "Dessert",
+    "Breakfast",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Bites",
+     "items": [
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "ground cinnamon",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Mix all the ingredients together."
+    ],
+    [
+     "Portion",
+     "Spoon about 12 mounds onto a greased baking tray."
+    ],
+    [
+     "Bake",
+     "Bake at 375°F for 12–14 minutes."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per bite.",
+   "t": 0,
+   "img": "img/cottage-cheese-cinnamon-roll-bites.jpg"
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "src": {
+  "key": "Dfgepdbl954",
+  "platform": "Instagram",
+  "creator": "nickkaz.fit",
+  "title": "Low Calorie, High Protein Oreo Swiss Roll Cake",
+  "url": "https://www.instagram.com/p/Dfgepdbl954/",
+  "recipes": 1,
+  "added": "2026-11-26T17:54:15+00:00"
+ },
+ "recipes": [
+  {
+   "id": "oreo-protein-swiss-roll-cake",
+   "title": "Oreo Protein Swiss Roll Cake",
+   "servings": 12,
+   "unit": "slice",
+   "time": "45 min + 1 h chill",
+   "macros": {
+    "cal": 79,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 2
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Wet",
+     "items": [
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 170,
+       "u": "g"
+      },
+      {
+       "i": "warm water, as needed",
+       "a": "Pantry",
+       "q": 120,
+       "u": "ml"
+      },
+      {
+       "i": "medium eggs",
+       "a": "Dairy",
+       "q": 2
+      }
+     ]
+    },
+    {
+     "name": "Dry",
+     "items": [
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "oat flour or blended oats",
+       "a": "Baking",
+       "q": 8,
+       "u": "g"
+      },
+      {
+       "i": "scoop vanilla or chocolate protein powder",
+       "a": "Pantry",
+       "q": 1
+      },
+      {
+       "i": "granulated sugar substitute",
+       "a": "Baking",
+       "q": 48,
+       "u": "g"
+      },
+      {
+       "i": "dark or black cocoa powder",
+       "a": "Baking",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 4,
+       "u": "g"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 2,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 1,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Filling & frosting",
+     "items": [
+      {
+       "i": "zero-sugar Cool Whip",
+       "a": "Dairy",
+       "q": 144,
+       "u": "g"
+      },
+      {
+       "i": "vanilla protein powder (½ scoop)",
+       "a": "Pantry",
+       "q": 0.5
+      },
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 56,
+       "u": "g"
+      },
+      {
+       "i": "confectioners sugar substitute",
+       "a": "Baking",
+       "q": 24,
+       "u": "g"
+      },
+      {
+       "i": "Oreo cookies, crushed",
+       "a": "Baking",
+       "q": 2
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 350°F."
+    ],
+    [
+     "Batter",
+     "Mix the yogurt and eggs; mix the dry ingredients separately, combine and add warm water gradually until smooth and pourable."
+    ],
+    [
+     "Chill",
+     "Chill the batter 15 minutes, then spread in a parchment-lined 9×13-inch pan."
+    ],
+    [
+     "Bake",
+     "Bake 11–13 minutes until just set. Roll up warm in the parchment and let cool."
+    ],
+    [
+     "Fill",
+     "Unroll, spread with Cool Whip and roll back up."
+    ],
+    [
+     "Frost",
+     "Mix the frosting, spread over the roll and top with the crushed Oreos."
+    ],
+    [
+     "Chill",
+     "Refrigerate 1+ hour and slice into 12."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per slice of 12 (whole cake about 948 cal, 85 g protein).",
+   "t": 0,
+   "img": "img/oreo-protein-swiss-roll-cake.jpg"
+  }
+ ]
+}

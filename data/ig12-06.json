@@ -1,0 +1,101 @@
+{
+ "src": {
+  "key": "DgKvaiIhOFw",
+  "platform": "Instagram",
+  "creator": "Eva Slava",
+  "title": "Protein-Rich Japanese-Style Cake",
+  "url": "https://www.instagram.com/p/DgKvaiIhOFw/",
+  "recipes": 1,
+  "added": "2026-11-26T17:54:15+00:00"
+ },
+ "recipes": [
+  {
+   "id": "japanese-style-protein-yogurt-cake",
+   "title": "Japanese-Style Yogurt Soufflé Cake (Protein-Rich)",
+   "servings": 6,
+   "unit": "slice (about 100 g)",
+   "time": "1 h 20 min + cooling",
+   "macros": {
+    "cal": 103,
+    "protein": 9.5,
+    "carbs": 10.2,
+    "fat": 2.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Cake",
+     "items": [
+      {
+       "i": "eggs, separated",
+       "a": "Dairy",
+       "q": 4
+      },
+      {
+       "i": "natural yogurt",
+       "a": "Dairy",
+       "q": 350,
+       "u": "g"
+      },
+      {
+       "i": "rice flour",
+       "a": "Baking",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "cornstarch",
+       "a": "Baking",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "sweetener, to taste",
+       "a": "Baking"
+      },
+      {
+       "i": "pinch of citric acid or a few drops of lemon juice",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Whites",
+     "Whip the egg whites with the lemon juice or citric acid to stiff peaks."
+    ],
+    [
+     "Base",
+     "Mix the yolks, yogurt, rice flour, cornstarch and sweetener until smooth."
+    ],
+    [
+     "Fold",
+     "Gently fold in the whites with upward motions to keep it airy."
+    ],
+    [
+     "Bake",
+     "Pour into a lined tin and bake at 140°C (285°F) for exactly 1 hour in a water bath (bain-marie)."
+    ],
+    [
+     "Cool",
+     "Let it cool completely before serving so the texture sets."
+    ]
+   ],
+   "notes": "Recipe is the creator's; she gives the macros per 100 g. The whole cake weighs roughly 600 g, so I've counted 6 slices of about 100 g.",
+   "t": 0,
+   "img": "img/japanese-style-protein-yogurt-cake.jpg"
+  }
+ ]
+}
