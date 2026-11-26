@@ -82,9 +82,10 @@
    "t": 0,
    "img": "img/built-spicy-green-sauce-2.jpg",
    "gallery": [
-    "img/p/built-spicy-green-sauce-1.jpg",
+    "img/p/built-spicy-green-sauce-1b.jpg",
     "img/built-spicy-green-sauce.jpg"
-   ]
+   ],
+   "galleryRatio": "9/16"
   },
   {
    "id": "built-garlic-parm-sauce",
@@ -164,7 +165,8 @@
    "gallery": [
     "img/p/built-garlic-parm-sauce-1.jpg",
     "img/built-garlic-parm-sauce.jpg"
-   ]
+   ],
+   "galleryRatio": "9/16"
   }
  ]
 }

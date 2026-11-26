@@ -24,7 +24,8 @@ files = [d for d, _ in files]
 seen = set()
 for d in files:
     s = d["src"]; sources.append(s)
-    for r in d["recipes"]:
+    for n, r in enumerate(d["recipes"], 1):
+        if len(d["recipes"]) > 1: r.setdefault("part", n)   # "2 of 8" badge on multi-recipe posts
         assert r["id"] not in seen, f"duplicate id {r['id']}"; seen.add(r["id"])
         assert os.path.exists(r["img"]), f"missing image {r['img']}"
         nutrition.fill(r)
