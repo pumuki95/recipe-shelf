@@ -1,0 +1,202 @@
+{
+ "src": {
+  "key": "DgGxVODBlV5",
+  "platform": "Instagram",
+  "creator": "christopherkaiyu",
+  "title": "Juicy Quesadillas",
+  "url": "https://www.instagram.com/p/DgGxVODBlV5/",
+  "recipes": 1,
+  "added": "2026-11-26T22:35:27+00:00"
+ },
+ "recipes": [
+  {
+   "id": "beef-burger-sauce-protein-quesadillas",
+   "title": "Juicy Cheeseburger Protein Quesadillas",
+   "servings": 5,
+   "unit": "quesadilla",
+   "time": "30 min",
+   "macros": {
+    "cal": 415,
+    "protein": 56,
+    "carbs": 26,
+    "fat": 10
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Beef filling",
+     "items": [
+      {
+       "i": "96/4 ground beef",
+       "a": "Meat",
+       "q": 680,
+       "u": "g"
+      },
+      {
+       "i": "white onion, diced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "cooking spray",
+       "a": "Pantry"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tbsp"
+      },
+      {
+       "i": "fat-free cheddar",
+       "a": "Dairy",
+       "q": 112,
+       "u": "g"
+      },
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "sugar-free ketchup",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "mustard",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Burger sauce",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "sugar-free ketchup",
+       "a": "Pantry",
+       "q": 90,
+       "u": "g"
+      },
+      {
+       "i": "mustard",
+       "a": "Pantry",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "diced pickles",
+       "a": "Pantry",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "pickle juice",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Assembly",
+     "items": [
+      {
+       "i": "large low-carb tortillas",
+       "a": "Baking",
+       "q": 5
+      },
+      {
+       "i": "fat-free cheddar",
+       "a": "Dairy",
+       "q": 112,
+       "u": "g"
+      },
+      {
+       "i": "reduced-fat cheddar",
+       "a": "Dairy",
+       "q": 112,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Optional onions",
+     "items": [
+      {
+       "i": "white onion, diced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Beef",
+     "Cook the beef and onion in a sprayed skillet until browned."
+    ],
+    [
+     "Season",
+     "Add the seasonings, then stir in the fat-free cheddar, yogurt, ketchup and mustard."
+    ],
+    [
+     "Sauce",
+     "Mix the burger sauce ingredients separately."
+    ],
+    [
+     "Fill",
+     "Divide the beef, both cheeses, some sauce and the optional onions between the tortillas."
+    ],
+    [
+     "Toast",
+     "Fold and toast in a sprayed skillet until crispy on both sides. Serve with extra sauce for dipping."
+    ]
+   ],
+   "notes": "Recipe, calories and protein are the creator's, per quesadilla (optional onions not included). Carbs and fat are my estimates.",
+   "t": 0,
+   "img": "img/beef-burger-sauce-protein-quesadillas.jpg"
+  }
+ ]
+}

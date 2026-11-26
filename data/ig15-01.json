@@ -1,0 +1,129 @@
+{
+ "src": {
+  "key": "Dc18I_RhecF",
+  "platform": "Instagram",
+  "creator": "Alejandro Mendez Garcia",
+  "title": "Love bombing brownies",
+  "url": "https://www.instagram.com/p/Dc18I_RhecF/",
+  "recipes": 1,
+  "added": "2026-11-26T22:35:57+00:00"
+ },
+ "recipes": [
+  {
+   "id": "frosted-oat-protein-brownie-cups",
+   "title": "Frosted Oat Brownie Cups (Ramekin Brownies)",
+   "servings": 3,
+   "unit": "ramekin",
+   "time": "25 min",
+   "macros": {
+    "cal": 330,
+    "protein": 14,
+    "carbs": 42,
+    "fat": 11,
+    "fiber": 6
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Brownie",
+     "items": [
+      {
+       "i": "eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cocoa powder",
+       "a": "Baking",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "milk",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "oat flour or almond flour",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "cup"
+      },
+      {
+       "i": "stevia, to taste",
+       "a": "Baking"
+      },
+      {
+       "i": "pinch of coarse salt",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Frosting",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "stevia, to taste",
+       "a": "Baking"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cocoa powder",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Batter",
+     "In a bowl, crack the 2 eggs and add the vanilla, cocoa, milk and oat or almond flour. Mix well."
+    ],
+    [
+     "Season",
+     "Add stevia and a pinch of coarse salt and mix again."
+    ],
+    [
+     "Ramekins",
+     "Divide between ramekins lined with parchment paper."
+    ],
+    [
+     "Bake",
+     "Bake at 180°C (350°F) for 13–15 minutes. Or air fry at 180°C for 13–15 minutes, or cook in a covered pan over medium-low heat for about 10 minutes."
+    ],
+    [
+     "Frosting",
+     "Mix the Greek yogurt, stevia, vanilla and cocoa and spread on top of the brownies once they're out of the oven."
+    ]
+   ],
+   "notes": "Translated from the creator's Spanish audio (sent by you); cooking times are from his caption. The frosting yogurt amount, number of ramekins and macros are my estimates (made with oat flour; almond flour gives more fat and protein).",
+   "t": 0,
+   "img": "img/frosted-oat-protein-brownie-cups.jpg"
+  }
+ ]
+}
