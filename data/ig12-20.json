@@ -119,7 +119,12 @@
    ],
    "notes": "Recipe and macros are the creator's approximations for the whole sandwich (extra filling cheese not counted).",
    "t": 0,
-   "img": "img/cottage-cheese-bread-grilled-cheese.jpg"
+   "img": "img/cottage-cheese-bread-grilled-cheese-2.jpg",
+   "gallery": [
+    "img/p/cottage-cheese-bread-grilled-cheese-1.jpg",
+    "img/cottage-cheese-bread-grilled-cheese.jpg"
+   ],
+   "galleryRatio": "1080/1221"
   }
  ]
 }
