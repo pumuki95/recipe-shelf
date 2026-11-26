@@ -241,7 +241,11 @@
    ],
    "notes": "Recipe and macros are the creator's, per serving of 5.",
    "t": 0,
-   "img": "img/caramelized-onion-creamy-chicken-rice.jpg"
+   "img": "img/caramelized-onion-creamy-chicken-rice-2.jpg",
+   "gallery": [
+    "img/p/caramelized-onion-creamy-chicken-rice-1.jpg"
+   ],
+   "galleryRatio": "1206/1249"
   }
  ]
 }
