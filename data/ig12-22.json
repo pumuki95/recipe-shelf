@@ -160,7 +160,11 @@
    ],
    "notes": "Recipe and macros are the creator's, per burger (the caption says 'per McGriddle', a typo).",
    "t": 0,
-   "img": "img/garlic-bread-cheeseburgers.jpg"
+   "img": "img/garlic-bread-cheeseburgers-2.jpg",
+   "gallery": [
+    "img/p/garlic-bread-cheeseburgers-1.jpg"
+   ],
+   "galleryRatio": "1080/1920"
   }
  ]
 }
