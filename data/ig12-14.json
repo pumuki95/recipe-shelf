@@ -1,0 +1,178 @@
+{
+ "src": {
+  "key": "DfSeqGuCtN6",
+  "platform": "Instagram",
+  "creator": "nickkaz.fit",
+  "title": "89 Calorie Oreo Choc Chip Protein Crumbl Cookie",
+  "url": "https://www.instagram.com/p/DfSeqGuCtN6/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "oreo-choc-chip-protein-crumbl-cookies",
+   "title": "89-Calorie Oreo Choc Chip Protein Crumbl Cookies",
+   "servings": 12,
+   "unit": "cookie",
+   "time": "45 min",
+   "macros": {
+    "cal": 89,
+    "protein": 7.5,
+    "carbs": 7,
+    "fat": 3
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Wet",
+     "items": [
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "light butter, softened",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "medium egg",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "vanilla extract (optional)",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Dry",
+     "items": [
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 90,
+       "u": "g"
+      },
+      {
+       "i": "vanilla casein protein powder (about 2 scoops)",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "vanilla whey protein powder (½ scoop)",
+       "a": "Pantry",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "brown sugar substitute",
+       "a": "Baking",
+       "q": 140,
+       "u": "g"
+      },
+      {
+       "i": "granulated sugar substitute",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "cornstarch",
+       "a": "Baking",
+       "q": 8,
+       "u": "g"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 3,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 2,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 2,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Mix-ins",
+     "items": [
+      {
+       "i": "Oreo cookies, crushed",
+       "a": "Baking",
+       "q": 2
+      },
+      {
+       "i": "chocolate chips",
+       "a": "Baking",
+       "q": 14,
+       "u": "g"
+      },
+      {
+       "i": "mini marshmallows",
+       "a": "Baking",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "optional toppings: cookies 'n' creme bar, extra Oreos, marshmallows",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 350°F and line a baking sheet."
+    ],
+    [
+     "Wet",
+     "Mix the yogurt, butter, egg and vanilla."
+    ],
+    [
+     "Dough",
+     "Combine the dry ingredients, then mix into the wet to a thick dough. Fold in the Oreos, chocolate chips and marshmallows."
+    ],
+    [
+     "Chill",
+     "Chill 20–30 minutes, then divide into 12 tall cookie dough portions and add toppings."
+    ],
+    [
+     "Bake",
+     "Bake 10–13 minutes until the edges are set but the centres still look soft. Cool on the sheet 15–20 minutes."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per small cookie (carbs are net carbs; optional toppings not counted).",
+   "t": 0,
+   "img": "img/oreo-choc-chip-protein-crumbl-cookies.jpg"
+  }
+ ]
+}

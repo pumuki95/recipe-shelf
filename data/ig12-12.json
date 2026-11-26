@@ -1,0 +1,180 @@
+{
+ "src": {
+  "key": "DgIjnqeNmYF",
+  "platform": "Instagram",
+  "creator": "Sergio",
+  "title": "Homemade Kinder Milk Slice",
+  "url": "https://www.instagram.com/p/DgIjnqeNmYF/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "protein-kinder-milk-slice-cake",
+   "title": "High-Protein Kinder Milk Slice Cake",
+   "servings": 4,
+   "unit": "piece",
+   "time": "35 min + 4 h chill",
+   "macros": {
+    "cal": 300,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 9
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Dessert",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Chocolate sponge",
+     "items": [
+      {
+       "i": "eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "chocolate protein powder",
+       "a": "Pantry",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "unsweetened cocoa powder",
+       "a": "Baking",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "plain skyr",
+       "a": "Dairy",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "zero-calorie sweetener",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "milk",
+       "a": "Dairy",
+       "q": 30,
+       "u": "ml"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Vanilla filling",
+     "items": [
+      {
+       "i": "low-fat quark",
+       "a": "Dairy",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "plain skyr",
+       "a": "Dairy",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "vanilla protein powder",
+       "a": "Pantry",
+       "q": 25,
+       "u": "g"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Chocolate topping",
+     "items": [
+      {
+       "i": "dark chocolate",
+       "a": "Baking",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "coconut oil",
+       "a": "Pantry",
+       "q": 5,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 170°C (340°F)."
+    ],
+    [
+     "Sponge",
+     "Whisk the eggs and sweetener, add the skyr, milk and vanilla, then fold in the flour, protein, cocoa, baking powder and salt."
+    ],
+    [
+     "Bake",
+     "Spread in a lined 20×20 cm tin and bake 10–13 minutes. Cool completely."
+    ],
+    [
+     "Split",
+     "Cut the sponge horizontally into two layers."
+    ],
+    [
+     "Fill",
+     "Mix the filling until smooth, spread on the bottom layer and add the top. Refrigerate at least 4 hours."
+    ],
+    [
+     "Top",
+     "Melt the chocolate with the coconut oil, spread over the top and chill until set. Cut into 4."
+    ]
+   ],
+   "notes": "Recipe, calories and protein are the creator's (1,275 kcal and 120 g protein for the whole cake). Carbs and fat are my estimates.",
+   "t": 0,
+   "img": "img/protein-kinder-milk-slice-cake.jpg"
+  }
+ ]
+}

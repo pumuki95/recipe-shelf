@@ -1,0 +1,247 @@
+{
+ "src": {
+  "key": "DgK30giCPZn",
+  "platform": "Instagram",
+  "creator": "Jalal",
+  "title": "Caramelized Onion Creamy Chicken",
+  "url": "https://www.instagram.com/p/DgK30giCPZn/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "caramelized-onion-creamy-chicken-rice",
+   "title": "Caramelized Onion Creamy Chicken with Lemon Herb Rice (5)",
+   "servings": 5,
+   "unit": "serving",
+   "time": "50 min",
+   "macros": {
+    "cal": 609,
+    "protein": 56,
+    "carbs": 56,
+    "fat": 17
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep"
+   ],
+   "groups": [
+    {
+     "name": "Chicken",
+     "items": [
+      {
+       "i": "chicken breast, cubed",
+       "a": "Meat",
+       "q": 1000,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "oregano",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "dried basil",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "olive oil",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tsp"
+      },
+      {
+       "i": "reduced-fat butter",
+       "a": "Dairy",
+       "q": 20,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Caramelized onion sauce",
+     "items": [
+      {
+       "i": "reduced-fat butter",
+       "a": "Dairy",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "red or white onion, finely sliced",
+       "a": "Produce",
+       "q": 350,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "chilli flakes",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "sundried tomatoes, chopped",
+       "a": "Pantry",
+       "q": 80,
+       "u": "g"
+      },
+      {
+       "i": "minced garlic",
+       "a": "Produce",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "1% or skimmed milk",
+       "a": "Dairy",
+       "q": 380,
+       "u": "g"
+      },
+      {
+       "i": "50%-fat cream cheese",
+       "a": "Dairy",
+       "q": 180,
+       "u": "g"
+      },
+      {
+       "i": "Parmigiano Reggiano, grated",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "fresh parsley, chopped",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Lemon butter herb rice",
+     "items": [
+      {
+       "i": "reduced-fat butter",
+       "a": "Dairy",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "minced garlic",
+       "a": "Produce",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "mixed herbs",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "basmati rice, uncooked",
+       "a": "Pantry",
+       "q": 250,
+       "u": "g"
+      },
+      {
+       "i": "lemon zest",
+       "a": "Produce",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "lemon, juiced",
+       "a": "Produce",
+       "q": 0.5
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Chicken",
+     "Season the chicken and cook in batches in the butter over medium-high heat, about 5 minutes per side, until golden. Set aside."
+    ],
+    [
+     "Onions",
+     "Cook the onions in butter 10–12 minutes, stirring every 4–5 minutes, until soft and caramelized."
+    ],
+    [
+     "Sauce",
+     "Add the seasonings, sundried tomatoes and garlic, lower the heat, then stir in the milk and cream cheese until smooth. Add the Parmesan and parsley and return the chicken."
+    ],
+    [
+     "Rice",
+     "Cook the rice, then toss with the butter, garlic, salt, herbs, lemon zest and juice."
+    ],
+    [
+     "Pack",
+     "Divide between 5 containers, with veg if you like."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving of 5.",
+   "t": 0,
+   "img": "img/caramelized-onion-creamy-chicken-rice.jpg"
+  }
+ ]
+}

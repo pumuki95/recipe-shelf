@@ -1,0 +1,109 @@
+{
+ "src": {
+  "key": "DgKfRXSIvM2",
+  "platform": "Instagram",
+  "creator": "Roberto ChefBosquet",
+  "title": "Volcán de chocolate",
+  "url": "https://www.instagram.com/p/DgKfRXSIvM2/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "banana-chocolate-volcano-cake",
+   "title": "Banana Chocolate Volcano Cake (No Sugar)",
+   "servings": 6,
+   "unit": "slice",
+   "time": "50 min",
+   "macros": {
+    "cal": 150,
+    "protein": 5.5,
+    "carbs": 16,
+    "fat": 8
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Vegetarian",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Sponge",
+     "items": [
+      {
+       "i": "bananas",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "eggs",
+       "a": "Dairy",
+       "q": 3
+      },
+      {
+       "i": "almond flour (or other flour)",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "cocoa powder",
+       "a": "Baking",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 10,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Molten filling",
+     "items": [
+      {
+       "i": "chopped chocolate",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "hot coconut milk or cream",
+       "a": "Dairy",
+       "q": 90,
+       "u": "g"
+      },
+      {
+       "i": "cocoa powder, to dust",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend all the sponge ingredients and pour into a 15 cm ring (bundt-style) mould."
+    ],
+    [
+     "Bake",
+     "Bake at 180°C in the oven (or 170°C in the air fryer) for 40 minutes (35 in the air fryer)."
+    ],
+    [
+     "Filling",
+     "Stir the chocolate into the hot coconut milk or cream until melted."
+    ],
+    [
+     "Fill",
+     "Fill the centre with the chocolate, let it set a few minutes and dust with cocoa."
+    ]
+   ],
+   "notes": "Translated from the creator's Spanish post. If you don't have a ring mould, use a 15 cm tin with a glass in the middle or hollow out the centre after baking. No nutrition is given; the macros are my estimate for 6 slices.",
+   "t": 0,
+   "img": "img/banana-chocolate-volcano-cake.jpg"
+  }
+ ]
+}

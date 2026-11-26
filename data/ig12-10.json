@@ -1,0 +1,112 @@
+{
+ "src": {
+  "key": "Dc14u7ZhuSQ",
+  "platform": "Instagram",
+  "creator": "Gianfranco Potestá",
+  "title": "Nuggets de Papel de Arroz",
+  "url": "https://www.instagram.com/p/Dc14u7ZhuSQ/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "rice-paper-chicken-mozzarella-nuggets",
+   "title": "Rice Paper Chicken & Mozzarella Nuggets (Air Fryer)",
+   "servings": 3,
+   "unit": "serving",
+   "time": "35 min",
+   "macros": {
+    "cal": 390,
+    "protein": 42,
+    "carbs": 22,
+    "fat": 15
+   },
+   "stated": [],
+   "tags": [
+    "Snack",
+    "Lunch",
+    "Dinner",
+    "High protein",
+    "Air fryer",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Protein filling",
+     "items": [
+      {
+       "i": "ground chicken",
+       "a": "Meat",
+       "q": 500,
+       "u": "g"
+      },
+      {
+       "i": "egg",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "mozzarella, diced or shredded",
+       "a": "Dairy",
+       "q": 125,
+       "u": "g"
+      },
+      {
+       "i": "oregano",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "basil",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Nuggets",
+     "items": [
+      {
+       "i": "rice paper sheets",
+       "a": "Pantry",
+       "q": 6.5
+      },
+      {
+       "i": "cooking spray",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Filling",
+     "Mix the ground chicken, egg, mozzarella and seasonings."
+    ],
+    [
+     "Wrap",
+     "Briefly dip each rice paper sheet in water, cut it into strips or pieces, and wrap spoonfuls of the filling into small nugget parcels."
+    ],
+    [
+     "Air fry",
+     "Spray with oil and air fry at 200°C (390°F) for 15–20 minutes, turning halfway, until crisp and golden."
+    ]
+   ],
+   "notes": "Translated from the creator's Spanish post; makes 2–4 portions. Only ingredients and air-fryer time are written, so the wrapping method is from the video, and the macros are my estimate for 3 portions.",
+   "t": 0,
+   "img": "img/rice-paper-chicken-mozzarella-nuggets.jpg"
+  }
+ ]
+}

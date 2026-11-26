@@ -1,0 +1,125 @@
+{
+ "src": {
+  "key": "DewXAItjETT",
+  "platform": "Instagram",
+  "creator": "Carly L Lembo",
+  "title": "High Protein Cottage Cheese Grilled Cheese",
+  "url": "https://www.instagram.com/p/DewXAItjETT/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "cottage-cheese-bread-grilled-cheese",
+   "title": "Cottage Cheese 'Bread' Grilled Cheese (No Bread)",
+   "servings": 1,
+   "unit": "sandwich",
+   "time": "35 min",
+   "macros": {
+    "cal": 400,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 22
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Lunch",
+    "High protein",
+    "Low carb",
+    "Gluten-free",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "'Bread'",
+     "items": [
+      {
+       "i": "cottage cheese, blended smooth",
+       "a": "Dairy",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "large eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt & pepper",
+       "a": "Spices"
+      },
+      {
+       "i": "shredded mozzarella",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "shredded cheddar",
+       "a": "Dairy",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "grated Parmesan",
+       "a": "Dairy",
+       "q": 2,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "i": "extra cheese for inside",
+       "a": "Dairy"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 375°F and line a baking sheet with parchment."
+    ],
+    [
+     "Blend",
+     "Blend the cottage cheese, eggs and seasonings until smooth, then stir in the three cheeses."
+    ],
+    [
+     "Bake",
+     "Spread into 2 thin rectangular 'bread' shapes and bake 18–22 minutes until set and golden."
+    ],
+    [
+     "Build",
+     "Cool slightly, flip one piece, add extra cheese and top with the second."
+    ],
+    [
+     "Sear",
+     "Pan-sear like a grilled cheese until crispy on both sides."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's approximations for the whole sandwich (extra filling cheese not counted).",
+   "t": 0,
+   "img": "img/cottage-cheese-bread-grilled-cheese.jpg"
+  }
+ ]
+}

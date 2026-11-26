@@ -1,0 +1,138 @@
+{
+ "src": {
+  "key": "DgLQcmtPmR3",
+  "platform": "Instagram",
+  "creator": "Sean Fontaine",
+  "title": "Bloomin' Onion Sauce",
+  "url": "https://www.instagram.com/p/DgLQcmtPmR3/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "bloomin-onion-yogurt-sauce",
+   "title": "High-Protein Bloomin' Onion Sauce",
+   "servings": 8,
+   "unit": "4 tbsp",
+   "time": "5 min + 1 h chill",
+   "macros": {
+    "cal": 52.5,
+    "protein": 3.5,
+    "carbs": 4.5,
+    "fat": 2.5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Sauce",
+    "High protein",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "nonfat Greek yogurt",
+       "a": "Dairy",
+       "q": 280,
+       "u": "g"
+      },
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "ketchup",
+       "a": "Pantry",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "creamy horseradish",
+       "a": "Pantry",
+       "q": 45,
+       "u": "g"
+      },
+      {
+       "i": "smoked paprika",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.75,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "dried oregano",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cayenne (optional)",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt, to taste",
+       "a": "Spices"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Add everything to a mason jar and mix until completely smooth, scraping the sides."
+    ],
+    [
+     "Chill",
+     "Refrigerate at least 1 hour (best after 24 hours)."
+    ],
+    [
+     "Thin",
+     "Stir in water 1–2 tbsp at a time to your preferred consistency. Stir before serving."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per 4 tbsp (the whole jar is 420 cal and 27 g protein).",
+   "t": 0,
+   "img": "img/bloomin-onion-yogurt-sauce.jpg"
+  }
+ ]
+}

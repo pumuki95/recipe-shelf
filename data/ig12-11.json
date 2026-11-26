@@ -1,0 +1,163 @@
+{
+ "src": {
+  "key": "DfdSg6Ridtc",
+  "platform": "Instagram",
+  "creator": "nickkaz.fit",
+  "title": "Low Cal Crispy Top Protein Crumbl Brownie",
+  "url": "https://www.instagram.com/p/DfdSg6Ridtc/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "crispy-top-protein-crumbl-brownie",
+   "title": "Crispy-Top Protein Crumbl Brownie",
+   "servings": 10,
+   "unit": "slice",
+   "time": "45 min + cooling",
+   "macros": {
+    "cal": 95,
+    "protein": 6,
+    "carbs": 7.5,
+    "fat": 5.5
+   },
+   "stated": [
+    "cal",
+    "protein"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Wet",
+     "items": [
+      {
+       "i": "medium whole eggs",
+       "a": "Dairy",
+       "q": 2
+      },
+      {
+       "i": "medium egg yolk",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "light butter, softened (or butter for an ultra-crispy top)",
+       "a": "Dairy",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "semisweet chocolate chips, melted",
+       "a": "Baking",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "coffee powder (optional)",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Sweeteners",
+     "items": [
+      {
+       "i": "powdered sugar substitute",
+       "a": "Baking",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "brown sugar substitute",
+       "a": "Baking",
+       "q": 75,
+       "u": "g"
+      },
+      {
+       "i": "granulated sugar substitute",
+       "a": "Baking",
+       "q": 70,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Dry",
+     "items": [
+      {
+       "i": "unsweetened cocoa powder",
+       "a": "Baking",
+       "q": 32,
+       "u": "g"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "chocolate or vanilla protein powder (1 scoop)",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 1,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 1,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 1,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 350°F and line an 8.5×4.5-inch loaf pan with parchment."
+    ],
+    [
+     "Whip",
+     "Beat the eggs, yolk and sweeteners 4–5 minutes until thick, pale and glossy (this makes the crackly top)."
+    ],
+    [
+     "Chocolate",
+     "Melt the butter and chocolate chips together, cool slightly, then gently mix into the eggs."
+    ],
+    [
+     "Dry",
+     "Fold in the dry ingredients until just combined."
+    ],
+    [
+     "Bake",
+     "Bake 28–38 minutes until the top is crackly and the centre fudgy."
+    ],
+    [
+     "Cool",
+     "Cool completely, uncovered, before slicing."
+    ]
+   ],
+   "notes": "Recipe, calories and protein are the creator's: 95 cal and 6 g protein per slice of 10, or 477 cal and 27 g protein per brick if cut in 2. Carbs (excluding sweeteners) and fat are my estimates.",
+   "t": 0,
+   "img": "img/crispy-top-protein-crumbl-brownie.jpg"
+  }
+ ]
+}

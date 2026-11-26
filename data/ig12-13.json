@@ -1,0 +1,101 @@
+{
+ "src": {
+  "key": "DfhPDC8JOVD",
+  "platform": "Instagram",
+  "creator": "shirl's table",
+  "title": "Greek Yogurt Flatbread",
+  "url": "https://www.instagram.com/p/DfhPDC8JOVD/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "greek-yogurt-garlic-butter-flatbread",
+   "title": "2-Ingredient Greek Yogurt Flatbread with Garlic Butter",
+   "servings": 2,
+   "unit": "flatbread",
+   "time": "20 min",
+   "macros": {
+    "cal": 330,
+    "protein": 12,
+    "carbs": 57,
+    "fat": 6
+   },
+   "stated": [],
+   "tags": [
+    "Side",
+    "Lunch",
+    "Vegetarian",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 130,
+       "u": "g"
+      },
+      {
+       "i": "all-purpose flour, plus extra for dusting",
+       "a": "Baking",
+       "q": 150,
+       "u": "g"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      },
+      {
+       "i": "splash of olive oil",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Garlic butter",
+     "items": [
+      {
+       "i": "butter, melted",
+       "a": "Dairy",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic clove, minced",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "chopped parsley (optional)",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dough",
+     "Mix the yogurt, flour, salt and olive oil into a soft dough and knead briefly on a floured surface."
+    ],
+    [
+     "Shape",
+     "Divide in two and flatten each into an oval."
+    ],
+    [
+     "Cook",
+     "Cook in a lightly oiled pan over medium heat a few minutes per side until puffed and golden-spotted."
+    ],
+    [
+     "Brush",
+     "Brush with garlic butter and serve warm."
+    ]
+   ],
+   "notes": "Ingredients are the creator's; the method is from the video, and the macros are my estimate for 2 flatbreads.",
+   "t": 0,
+   "img": "img/greek-yogurt-garlic-butter-flatbread.jpg"
+  }
+ ]
+}

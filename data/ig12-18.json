@@ -1,0 +1,225 @@
+{
+ "src": {
+  "key": "DgIaoezAQEV",
+  "platform": "Instagram",
+  "creator": "Emilie | Shredded & Fed",
+  "title": "Lemongrass Chicken (freezer meal prep)",
+  "url": "https://www.instagram.com/p/DgIaoezAQEV/",
+  "recipes": 2,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "lemongrass-chicken-freezer-meal-prep",
+   "title": "Vietnamese Lemongrass Chicken (Freezer Meal Prep)",
+   "servings": 8,
+   "unit": "serving",
+   "time": "20 min + cooking",
+   "macros": {
+    "cal": 375,
+    "protein": 51,
+    "carbs": 9,
+    "fat": 15
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep",
+    "Freezer"
+   ],
+   "groups": [
+    {
+     "name": "Chicken & marinade",
+     "items": [
+      {
+       "i": "boneless, skinless chicken thighs",
+       "a": "Meat",
+       "q": 2,
+       "u": "kg"
+      },
+      {
+       "i": "lemongrass stalks, bruised and cut into 1½–2\" pieces",
+       "a": "Produce",
+       "q": 3
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 6
+      },
+      {
+       "i": "lime juice (about 3 limes)",
+       "a": "Produce",
+       "q": 6,
+       "u": "tbsp"
+      },
+      {
+       "i": "fish sauce",
+       "a": "Pantry",
+       "q": 6,
+       "u": "tbsp"
+      },
+      {
+       "i": "soy sauce",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "brown sugar",
+       "a": "Baking",
+       "q": 6,
+       "u": "tbsp"
+      },
+      {
+       "i": "avocado oil",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      }
+     ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "i": "vermicelli, rice or lettuce",
+       "a": "Pantry"
+      },
+      {
+       "i": "julienned carrots and cucumbers",
+       "a": "Produce"
+      },
+      {
+       "i": "cilantro and mint",
+       "a": "Produce"
+      },
+      {
+       "i": "lime wedges",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Toss the chicken with all the marinade ingredients."
+    ],
+    [
+     "Freeze",
+     "Portion into bags and freeze flat right away, for up to 3–4 months."
+    ],
+    [
+     "Thaw",
+     "Thaw in the fridge and remove the lemongrass."
+    ],
+    [
+     "Cook",
+     "Pan-cook over medium heat, flipping halfway, until the chicken reaches 165°F."
+    ],
+    [
+     "Serve",
+     "Serve over vermicelli, rice or lettuce with carrots, cucumber, herbs, nước chấm and lime."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving of chicken (without the noodles or rice).",
+   "t": 0,
+   "img": "img/lemongrass-chicken-freezer-meal-prep.jpg"
+  },
+  {
+   "id": "nuoc-cham-dipping-sauce",
+   "title": "Nước Chấm (Vietnamese Dipping Sauce)",
+   "img": "img/lemongrass-chicken-freezer-meal-prep.jpg",
+   "servings": 4,
+   "unit": "serving",
+   "time": "5 min",
+   "macros": {
+    "cal": 37,
+    "protein": 1,
+    "carbs": 14,
+    "fat": 0
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Sauce",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Sauce",
+     "items": [
+      {
+       "i": "water",
+       "a": "Pantry",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "sugar",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "allulose",
+       "a": "Baking",
+       "q": 2,
+       "u": "tbsp"
+      },
+      {
+       "i": "lemon or lime juice",
+       "a": "Produce",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "fish sauce",
+       "a": "Pantry",
+       "q": 0.25,
+       "u": "cup"
+      },
+      {
+       "i": "garlic cloves, minced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "bird's eye chili, thinly sliced",
+       "a": "Produce",
+       "q": 1
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dissolve",
+     "Stir the sugar and allulose into the water until dissolved."
+    ],
+    [
+     "Mix",
+     "Add the lime juice, fish sauce, garlic and chili."
+    ],
+    [
+     "Serve",
+     "Serve with the lemongrass chicken bowls."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving.",
+   "t": 0
+  }
+ ]
+}

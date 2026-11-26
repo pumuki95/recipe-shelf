@@ -1,0 +1,102 @@
+{
+ "src": {
+  "key": "DgKb_svoDcS",
+  "platform": "Instagram",
+  "creator": "Anna (ajfoodie)",
+  "title": "Choc Chip Cookie Baked Oats",
+  "url": "https://www.instagram.com/p/DgKb_svoDcS/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "choc-chip-cookie-protein-baked-oats",
+   "title": "Choc Chip Cookie Protein Baked Oats",
+   "servings": 1,
+   "unit": "serving",
+   "time": "20 min",
+   "macros": {
+    "cal": 395,
+    "protein": 29,
+    "carbs": 46,
+    "fat": 12
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Breakfast",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Baked oats",
+     "items": [
+      {
+       "i": "oat flour",
+       "a": "Baking",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "vanilla protein powder",
+       "a": "Pantry",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "milk",
+       "a": "Dairy",
+       "q": 70,
+       "u": "ml"
+      },
+      {
+       "i": "Greek yogurt",
+       "a": "Dairy",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "square of chocolate",
+       "a": "Baking",
+       "q": 1
+      },
+      {
+       "i": "chocolate chips",
+       "a": "Baking",
+       "q": 20,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Mix",
+     "Mix everything except the chocolate chips in an oven-safe dish."
+    ],
+    [
+     "Top",
+     "Press the chocolate square into the middle and scatter the chips on top."
+    ],
+    [
+     "Bake",
+     "Bake in the oven or air fryer at 170°C (340°F) for 15 minutes."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's.",
+   "t": 0,
+   "img": "img/choc-chip-cookie-protein-baked-oats.jpg"
+  }
+ ]
+}

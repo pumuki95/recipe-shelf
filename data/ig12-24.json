@@ -1,0 +1,110 @@
+{
+ "src": {
+  "key": "DgGIdm6gky5",
+  "platform": "Instagram",
+  "creator": "Daria Kisilitsa",
+  "title": "Cottage Cheese Air Fryer Bun",
+  "url": "https://www.instagram.com/p/DgGIdm6gky5/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "cottage-cheese-air-fryer-chicken-bun",
+   "title": "Cottage Cheese Air Fryer Bun with Chicken & Mozzarella",
+   "servings": 2,
+   "unit": "serving",
+   "time": "20 min",
+   "macros": {
+    "cal": 235,
+    "protein": 19,
+    "carbs": 30,
+    "fat": 5
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Lunch",
+    "Snack",
+    "High protein",
+    "Air fryer",
+    "Quick"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "low-fat cottage cheese",
+       "a": "Dairy",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "all-purpose flour",
+       "a": "Baking",
+       "q": 70,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 6,
+       "u": "g"
+      },
+      {
+       "i": "pinch of salt",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Toppings",
+     "items": [
+      {
+       "i": "mozzarella slice",
+       "a": "Dairy",
+       "q": 28,
+       "u": "g"
+      },
+      {
+       "i": "cooked chicken breast",
+       "a": "Meat",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "other toppings of choice",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Dough",
+     "Mix the cottage cheese, flour, baking powder and salt; the dough will be sticky, which is right."
+    ],
+    [
+     "Shape",
+     "Shape into a bun and place in the air fryer."
+    ],
+    [
+     "Air fry",
+     "Air fry at 380°F (193°C) for about 10 minutes."
+    ],
+    [
+     "Top",
+     "Flip, add the mozzarella, chicken and toppings, and cook until crispy and melted."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving (the recipe makes 2).",
+   "t": 0,
+   "img": "img/cottage-cheese-air-fryer-chicken-bun.jpg"
+  }
+ ]
+}

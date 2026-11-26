@@ -274,7 +274,8 @@
   "lean-double-cheeseburger-450",
   "bacon-onion-jam-cheeseburgers-meal-prep",
   "caramelized-onion-cheeseburger-meal-prep",
-  "mini-cheeseburger-tacos"
+  "mini-cheeseburger-tacos",
+  "garlic-bread-cheeseburgers"
  ],
  "Tacos": [
   "crispy-beef-tacos",
@@ -316,7 +317,8 @@
   "buffalo-chicken-ranch-protein-pizzas",
   "hot-honey-freezer-mini-protein-pizzas",
   "carnivore-cottage-cheese-crust-pizza",
-  "cc-cottage-cheese-pizza-buns"
+  "cc-cottage-cheese-pizza-buns",
+  "cottage-cheese-air-fryer-chicken-bun"
  ],
  "Pancakes & waffles": [
   "chocolate-chip-protein-pancakes",
@@ -368,7 +370,8 @@
   "chocolate-strawberry-overnight-oats",
   "banana-nut-overnight-oats",
   "pina-colada-overnight-oats",
-  "tiramisu-protein-overnight-oats"
+  "tiramisu-protein-overnight-oats",
+  "choc-chip-cookie-protein-baked-oats"
  ],
  "French toast": [
   "sourdough-french-toast-bake",
@@ -408,7 +411,8 @@
   "caramelised-onion-chicken-pasta-bake",
   "smp-creamy-spicy-chipotle-chicken-pasta",
   "mf-butternut-squash-cottage-cheese-pasta",
-  "honey-bbq-chicken-mac-and-cheese"
+  "honey-bbq-chicken-mac-and-cheese",
+  "one-pan-butter-chicken-protein-pasta"
  ],
  "Alfredo": [
   "cauliflower-protein-alfredo",
@@ -494,7 +498,11 @@
   "korean-chicken-brothy-rice",
   "mediterranean-shawarma-chuck-roast",
   "juicy-sheet-pan-chicken-kebabs",
-  "fdl-bang-bang-chicken-bowl"
+  "fdl-bang-bang-chicken-bowl",
+  "lemongrass-chicken-freezer-meal-prep",
+  "nuoc-cham-dipping-sauce",
+  "one-pan-butter-chicken-protein-pasta",
+  "caramelized-onion-creamy-chicken-rice"
  ],
  "Chicken tenders & bites": [
   "garlic-parmesan-chicken-bites",
@@ -507,7 +515,8 @@
   "korean-popcorn-chicken-meal-prep",
   "spicy-garlic-parmesan-chicken-skewers",
   "three-flavor-sheet-pan-chicken-bites",
-  "garlic-parmesan-chicken-kebab-skewers"
+  "garlic-parmesan-chicken-kebab-skewers",
+  "rice-paper-chicken-mozzarella-nuggets"
  ],
  "Brownies, cakes & cheesecake": [
   "double-chocolate-protein-cheesecake",
@@ -529,7 +538,10 @@
   "chocolate-protein-cheesecake-bars",
   "protein-brownie-loaf",
   "oreo-protein-swiss-roll-cake",
-  "japanese-style-protein-yogurt-cake"
+  "japanese-style-protein-yogurt-cake",
+  "crispy-top-protein-crumbl-brownie",
+  "protein-kinder-milk-slice-cake",
+  "banana-chocolate-volcano-cake"
  ],
  "Protein bars, bites & bark": [
   "salted-caramel-twix-bars",
@@ -590,7 +602,8 @@
   "mf-cheddar-rosemary-cottage-cheese-biscuits",
   "mf-cottage-cheese-everything-bagels",
   "carnivore-protein-bread-loaf",
-  "oat-cottage-cheese-protein-flatbreads"
+  "oat-cottage-cheese-protein-flatbreads",
+  "greek-yogurt-garlic-butter-flatbread"
  ],
  "Puddings, mousse & tiramisu": [
   "tiramisu-chia-pudding",
@@ -660,7 +673,9 @@
   "greek-yogurt-sauce-creamy-cajun",
   "greek-yogurt-sauce-roasted-red-pepper",
   "built-spicy-green-sauce",
-  "built-garlic-parm-sauce"
+  "built-garlic-parm-sauce",
+  "bloomin-onion-yogurt-sauce",
+  "protein-nutella-hazelnut-spread"
  ],
  "Chicken sandwiches": [
   "cilantro-lime-chicken-sandwich",

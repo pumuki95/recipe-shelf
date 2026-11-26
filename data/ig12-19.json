@@ -1,0 +1,219 @@
+{
+ "src": {
+  "key": "DgIY33XtDSR",
+  "platform": "Instagram",
+  "creator": "Panacea Palm | Dij",
+  "title": "High Protein One Pan Dump Butter Chicken Pasta",
+  "url": "https://www.instagram.com/p/DgIY33XtDSR/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "one-pan-butter-chicken-protein-pasta",
+   "title": "One-Pan Butter Chicken Protein Pasta (Meal Prep)",
+   "servings": 5,
+   "unit": "serving",
+   "time": "45 min",
+   "macros": {
+    "cal": 521,
+    "protein": 46,
+    "carbs": 53,
+    "fat": 11
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep",
+    "Pasta"
+   ],
+   "groups": [
+    {
+     "name": "Marinade",
+     "items": [
+      {
+       "i": "boneless skinless chicken thighs, trimmed and diced",
+       "a": "Meat",
+       "q": 800,
+       "u": "g"
+      },
+      {
+       "i": "0% Greek yogurt",
+       "a": "Dairy",
+       "q": 100,
+       "u": "g"
+      },
+      {
+       "i": "lemon, juiced",
+       "a": "Produce",
+       "q": 0.5
+      },
+      {
+       "i": "grated ginger",
+       "a": "Produce",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "garlic cloves, grated",
+       "a": "Produce",
+       "q": 4
+      },
+      {
+       "i": "garam masala",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "turmeric",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "cumin",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "chilli powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Butter chicken sauce",
+     "items": [
+      {
+       "i": "tomato passata",
+       "a": "Pantry",
+       "q": 500,
+       "u": "g"
+      },
+      {
+       "i": "tomato purée",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "butter, melted",
+       "a": "Dairy",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "sugar or honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garam masala",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "After baking",
+     "items": [
+      {
+       "i": "protein pasta, dry (e.g. Barilla Protein+ penne)",
+       "a": "Pantry",
+       "q": 350,
+       "u": "g"
+      },
+      {
+       "i": "light evaporated milk",
+       "a": "Dairy",
+       "q": 180,
+       "u": "ml"
+      },
+      {
+       "i": "light cream cheese",
+       "a": "Dairy",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "fresh coriander and single cream (optional)",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Mix the marinade in the baking dish and coat the chicken."
+    ],
+    [
+     "Sauce",
+     "Stir in all the sauce ingredients and wipe the sides of the dish."
+    ],
+    [
+     "Bake",
+     "Bake uncovered at 180°C fan / 200°C for 30–35 minutes, stirring halfway, until the chicken reaches 75°C and the sauce is deep orange."
+    ],
+    [
+     "Pasta",
+     "Meanwhile boil the pasta until al dente, saving a mug of pasta water."
+    ],
+    [
+     "Finish",
+     "Rest 1–2 minutes, stir in the evaporated milk and cream cheese, then the pasta (loosen with pasta water). Top with coriander and portion."
+    ],
+    [
+     "Store",
+     "Keeps 5–6 days in the fridge or can be frozen; microwave covered 2–3 minutes, then stir."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per serving of 5.",
+   "t": 0,
+   "img": "img/one-pan-butter-chicken-protein-pasta.jpg"
+  }
+ ]
+}

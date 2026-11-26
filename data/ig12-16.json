@@ -1,0 +1,108 @@
+{
+ "src": {
+  "key": "Df3Hi7riWmM",
+  "platform": "Instagram",
+  "creator": "nickkaz.fit",
+  "title": "34 Calorie High Protein Nutella Spread",
+  "url": "https://www.instagram.com/p/Df3Hi7riWmM/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "protein-nutella-hazelnut-spread",
+   "title": "34-Calorie Protein Nutella (Chocolate Hazelnut Spread)",
+   "servings": 13,
+   "unit": "tbsp",
+   "time": "20 min + 45 min chill",
+   "macros": {
+    "cal": 34,
+    "protein": 4.4,
+    "carbs": 1,
+    "fat": 1.8
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Snack",
+    "Sauce",
+    "High protein",
+    "Low carb",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Spread",
+     "items": [
+      {
+       "i": "unsweetened almond milk",
+       "a": "Dairy",
+       "q": 95,
+       "u": "ml"
+      },
+      {
+       "i": "raw hazelnuts",
+       "a": "Pantry",
+       "q": 34,
+       "u": "g"
+      },
+      {
+       "i": "scoops chocolate casein or whey/casein protein powder",
+       "a": "Pantry",
+       "q": 2
+      },
+      {
+       "i": "cocoa powder",
+       "a": "Baking",
+       "q": 8,
+       "u": "g"
+      },
+      {
+       "i": "granulated sugar substitute",
+       "a": "Baking",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "xanthan gum (optional, for thickness)",
+       "a": "Baking",
+       "q": 1,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Roast",
+     "Roast the hazelnuts at 350°F (175°C) for 8–10 minutes and rub the skins off with a towel."
+    ],
+    [
+     "Butter",
+     "Blend the hazelnuts alone until completely smooth and runny."
+    ],
+    [
+     "Blend",
+     "Add the almond milk, protein, cocoa, sweetener, salt and xanthan and blend until thick and smooth. Thin with milk a teaspoon at a time if needed."
+    ],
+    [
+     "Chill",
+     "Chill 30–45 minutes to set (it firms more overnight). Stir before spreading."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per tablespoon (13 per batch; carbs are net). Casein or a whey/casein blend is what makes it thick and spreadable.",
+   "t": 0,
+   "img": "img/protein-nutella-hazelnut-spread.jpg"
+  }
+ ]
+}

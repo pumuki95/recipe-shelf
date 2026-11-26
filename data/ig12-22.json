@@ -1,0 +1,166 @@
+{
+ "src": {
+  "key": "DgKX7sMtmo8",
+  "platform": "Instagram",
+  "creator": "Panacea Palm | Dij",
+  "title": "Easy High Protein Garlic Bread Cheese Burgers",
+  "url": "https://www.instagram.com/p/DgKX7sMtmo8/",
+  "recipes": 1,
+  "added": "2026-11-26T18:03:52+00:00"
+ },
+ "recipes": [
+  {
+   "id": "garlic-bread-cheeseburgers",
+   "title": "High-Protein Garlic Bread Cheeseburgers",
+   "servings": 3,
+   "unit": "burger",
+   "time": "25 min",
+   "macros": {
+    "cal": 515,
+    "protein": 52,
+    "carbs": 30,
+    "fat": 21
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein"
+   ],
+   "groups": [
+    {
+     "name": "Patties",
+     "items": [
+      {
+       "i": "lean beef mince (5% or less)",
+       "a": "Meat",
+       "q": 600,
+       "u": "g"
+      },
+      {
+       "i": "egg",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "salt & black pepper",
+       "a": "Spices"
+      },
+      {
+       "i": "cooking spray",
+       "a": "Pantry"
+      }
+     ]
+    },
+    {
+     "name": "Garlic bread buns",
+     "items": [
+      {
+       "i": "brioche burger buns",
+       "a": "Baking",
+       "q": 3
+      },
+      {
+       "i": "light butter",
+       "a": "Dairy",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "garlic cloves, finely diced",
+       "a": "Produce",
+       "q": 2
+      },
+      {
+       "i": "chopped parsley",
+       "a": "Produce"
+      }
+     ]
+    },
+    {
+     "name": "Burger sauce",
+     "items": [
+      {
+       "i": "light mayo",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "reduced-sugar ketchup",
+       "a": "Pantry",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "American mustard",
+       "a": "Pantry",
+       "q": 8,
+       "u": "g"
+      },
+      {
+       "i": "pickles, chopped",
+       "a": "Pantry",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "onion, chopped",
+       "a": "Produce",
+       "q": 10,
+       "u": "g"
+      },
+      {
+       "i": "black pepper and paprika",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "To build",
+     "items": [
+      {
+       "i": "light cheese singles",
+       "a": "Dairy",
+       "q": 3
+      },
+      {
+       "i": "shredded lettuce",
+       "a": "Produce"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Patties",
+     "Mix the beef with the egg, salt and pepper and shape 6 thin patties."
+    ],
+    [
+     "Sauce",
+     "Mix the burger sauce ingredients."
+    ],
+    [
+     "Garlic butter",
+     "Mix the butter, garlic and parsley, spread on the cut sides of the buns and toast in a pan until golden."
+    ],
+    [
+     "Sear",
+     "Sear the patties on high heat 1–2 minutes per side until crispy; add the cheese to melt."
+    ],
+    [
+     "Build",
+     "Build each burger with sauce, lettuce and two patties."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per burger (the caption says 'per McGriddle', a typo).",
+   "t": 0,
+   "img": "img/garlic-bread-cheeseburgers.jpg"
+  }
+ ]
+}
