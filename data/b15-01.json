@@ -1,0 +1,121 @@
+{
+ "src": {
+  "key": "Yiq0I1Up0iE",
+  "platform": "YouTube",
+  "creator": "It's not you, it's P",
+  "title": "Menstrual Health Brownies",
+  "url": "https://youtu.be/Yiq0I1Up0iE",
+  "recipes": 1
+ },
+ "recipes": [
+  {
+   "id": "sweet-potato-brownies",
+   "title": "Sweet Potato Brownies (Healthy, Gooey)",
+   "img": "img/sweet-potato-brownies.jpg",
+   "t": 0,
+   "servings": 9,
+   "unit": "square",
+   "time": "1 h 40 min (incl. roasting the potato)",
+   "macros": {
+    "cal": 160,
+    "protein": 3.7,
+    "carbs": 24.5,
+    "fat": 5.2,
+    "fiber": 1.8
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Vegetarian",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Brownies",
+     "items": [
+      {
+       "i": "small sweet potato, roasted and mashed",
+       "a": "Produce",
+       "q": 1
+      },
+      {
+       "i": "eggs",
+       "a": "Dairy",
+       "q": 3
+      },
+      {
+       "i": "maple syrup",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "vanilla",
+       "a": "Baking",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "cacao powder",
+       "a": "Baking",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "oat flour (more if your sweet potato is big)",
+       "a": "Baking",
+       "q": 0.33,
+       "u": "cup"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "baking soda",
+       "a": "Baking",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "dark chocolate chips, plus extra for the top",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "honey (optional, like the original)",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Roast",
+     "Roast the sweet potato at 425°F for about 50 minutes until soft, then mash."
+    ],
+    [
+     "Oven",
+     "Preheat the oven to 350°F and line a baking dish with parchment."
+    ],
+    [
+     "Wet",
+     "Mix the mashed sweet potato with the eggs, maple syrup and vanilla (and honey if you like), using an immersion blender until smooth."
+    ],
+    [
+     "Dry",
+     "Add the cacao, oat flour, salt and baking soda and mix until combined, then fold in the chocolate chips."
+    ],
+    [
+     "Bake",
+     "Pour into the dish, sprinkle with more chips and bake 30–45 minutes (she does 40). They stay softer than regular brownies."
+    ]
+   ],
+   "notes": "Recipe is the creator's version of wellwithkaija's brownies. She gives no macros or pan size; the macros are my estimate for 9 squares from an 8-inch pan."
+  }
+ ]
+}
