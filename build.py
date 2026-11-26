@@ -1,4 +1,4 @@
-"""Combine data/*.json (one file per video) into recipes.json, newest playlist videos first.
+"""Combine data/*.json (one file per video) into recipes.json, newest additions first.
 Also fills in estimated fiber / sugars (tools/nutrition.py) and attaches comparison families (data/_families.json)."""
 import json, glob, os, sys
 sys.path.insert(0, "tools"); import nutrition
@@ -8,8 +8,19 @@ fam_of = {}
 for name, ids in families.items():
     for i in ids: fam_of.setdefault(i, []).append(name)
 sources, recipes = [], []
-files = [json.load(open(f)) for f in sorted(glob.glob("data/*.json")) if not os.path.basename(f).startswith("_")]
-files.sort(key=lambda d: order.index(d["src"]["key"]) if d["src"]["key"] in order else len(order))
+import datetime
+now = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
+files = []
+for i, f in enumerate(sorted(glob.glob("data/*.json"))):
+    if os.path.basename(f).startswith("_"): continue
+    d = json.load(open(f))
+    if not d["src"].get("added"):          # first build after a recipe is added: stamp the date it went on the shelf
+        d["src"]["added"] = now
+        json.dump(d, open(f, "w"), ensure_ascii=False, indent=1)
+    files.append((d, i))
+# Newest first: by the date each source was added; ties keep playlist order, then later files first.
+files.sort(key=lambda x: (datetime.datetime.fromisoformat(x[0]["src"]["added"]), -(order.index(x[0]["src"]["key"]) if x[0]["src"]["key"] in order else len(order)), x[1]), reverse=True)
+files = [d for d, _ in files]
 seen = set()
 for d in files:
     s = d["src"]; sources.append(s)
