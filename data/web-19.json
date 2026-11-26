@@ -1,0 +1,187 @@
+{
+ "src": {
+  "key": "haylskitchen-pumpkin-protein-cinnamon-rolls",
+  "platform": "Website",
+  "creator": "Hayley · Hayl's Kitchen",
+  "title": "Pumpkin Protein Cinnamon Rolls (No Yeast)",
+  "url": "https://www.haylskitchen.com/pumpkin-protein-cinnamon-rolls/",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Hayl's Kitchen"
+ },
+ "recipes": [
+  {
+   "id": "hk-pumpkin-protein-cinnamon-rolls",
+   "title": "Pumpkin Protein Cinnamon Rolls (No Yeast)",
+   "servings": 6,
+   "unit": "roll",
+   "time": "1 h",
+   "macros": {
+    "cal": 197,
+    "protein": 15.8,
+    "carbs": 31,
+    "fat": 5,
+    "fiber": 2.5,
+    "sugar": 3.2
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "fiber",
+    "sugar"
+   ],
+   "tags": [
+    "Breakfast",
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Vegetarian"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "flour",
+       "a": "Baking",
+       "q": 120,
+       "u": "g"
+      },
+      {
+       "i": "unflavored plant-based protein powder",
+       "a": "Pantry",
+       "q": 30,
+       "u": "g"
+      },
+      {
+       "i": "vanilla whey-casein protein powder",
+       "a": "Pantry",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "baking powder",
+       "a": "Baking",
+       "q": 2,
+       "u": "tsp"
+      },
+      {
+       "i": "non-fat plain Greek yogurt",
+       "a": "Dairy",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "pumpkin purée",
+       "a": "Pantry",
+       "q": 105,
+       "u": "g"
+      },
+      {
+       "i": "almond milk, for baking (about 6 tsp)",
+       "a": "Dairy"
+      }
+     ]
+    },
+    {
+     "name": "Filling",
+     "items": [
+      {
+       "i": "zero-calorie brown sugar substitute",
+       "a": "Baking",
+       "q": 48,
+       "u": "g"
+      },
+      {
+       "i": "cinnamon",
+       "a": "Spices",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "pumpkin pie spice",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "butter, softened",
+       "a": "Dairy",
+       "q": 28,
+       "u": "g"
+      },
+      {
+       "i": "unsweetened applesauce",
+       "a": "Pantry",
+       "q": 42,
+       "u": "g"
+      }
+     ]
+    },
+    {
+     "name": "Frosting",
+     "items": [
+      {
+       "i": "non-fat plain Greek yogurt",
+       "a": "Dairy",
+       "q": 85,
+       "u": "g"
+      },
+      {
+       "i": "vanilla protein powder",
+       "a": "Pantry",
+       "q": 11,
+       "u": "g"
+      },
+      {
+       "i": "almond milk (optional)",
+       "a": "Dairy"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Oven",
+     "Preheat the oven to 350°F and lightly grease an 8-inch round pan."
+    ],
+    [
+     "Dry",
+     "Whisk the flour, both protein powders and baking powder."
+    ],
+    [
+     "Wet",
+     "Stir the Greek yogurt and pumpkin together until smooth, add to the dry and mix into rough crumbles."
+    ],
+    [
+     "Knead",
+     "Knead 30–45 seconds on a floured surface, just until smooth and not sticky."
+    ],
+    [
+     "Roll",
+     "Roll into a roughly 9×9-inch square about ⅓ inch thick, squaring off the edges."
+    ],
+    [
+     "Filling",
+     "Mix the sweetener, applesauce, butter, cinnamon and pumpkin spice and spread to the edges."
+    ],
+    [
+     "Shape",
+     "Cut into 6 strips about 1½ inches wide and roll each up tightly; lift with a knife if they stick."
+    ],
+    [
+     "Bake",
+     "Place in the pan with a little space, pour about 1 tsp almond milk over each and bake 30–32 minutes until puffed and just soft on top."
+    ],
+    [
+     "Frost",
+     "Cool 10 minutes. Stir the yogurt and protein powder (plus a splash of almond milk) and spread over the warm rolls."
+    ]
+   ],
+   "notes": "Recipe and nutrition are the creator's, per roll with frosting.",
+   "t": 0,
+   "img": "img/hk-pumpkin-protein-cinnamon-rolls.jpg"
+  }
+ ]
+}

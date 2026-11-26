@@ -1,0 +1,227 @@
+{
+ "src": {
+  "key": "fdl-bang-bang-chicken-bowl",
+  "platform": "Website",
+  "creator": "Flexible Dieting Lifestyle",
+  "title": "Bang Bang Chicken Skewer Bowls",
+  "url": "https://app.flexibledietinglifestyle.com/recipes/preview/ac7277da-5944-43c7-9824-932283d3903c/",
+  "recipes": 1,
+  "linkLabel": "Open the recipe in the FDL app"
+ },
+ "recipes": [
+  {
+   "id": "fdl-bang-bang-chicken-bowl",
+   "title": "Bang Bang Chicken Skewer Bowls",
+   "servings": 4,
+   "unit": "bowl",
+   "time": "35 min",
+   "macros": {
+    "cal": 573,
+    "protein": 53,
+    "carbs": 73,
+    "fat": 8
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat"
+   ],
+   "tags": [
+    "Dinner",
+    "Lunch",
+    "High protein",
+    "Meal prep",
+    "Air fryer"
+   ],
+   "groups": [
+    {
+     "name": "Honey soy chicken skewers",
+     "items": [
+      {
+       "i": "chicken breast, diced",
+       "a": "Meat",
+       "q": 24,
+       "u": "oz"
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "Pantry",
+       "q": 20,
+       "u": "g"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 15,
+       "u": "g"
+      },
+      {
+       "i": "olive or avocado oil",
+       "a": "Pantry",
+       "q": 5,
+       "u": "g"
+      },
+      {
+       "i": "onion powder",
+       "a": "Spices",
+       "q": 1,
+       "u": "tsp"
+      },
+      {
+       "i": "garlic powder",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "paprika",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "black pepper",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      },
+      {
+       "i": "salt",
+       "a": "Spices",
+       "q": 0.25,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Base & toppings",
+     "items": [
+      {
+       "i": "cooked jasmine rice",
+       "a": "Pantry",
+       "q": 600,
+       "u": "g"
+      },
+      {
+       "i": "cooked cauliflower rice",
+       "a": "Produce",
+       "q": 600,
+       "u": "g"
+      },
+      {
+       "i": "salt (or to taste)",
+       "a": "Spices",
+       "q": 0.5,
+       "u": "tsp"
+      },
+      {
+       "i": "cucumber, diced",
+       "a": "Produce",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "pickled red onions",
+       "a": "Pantry",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "carrots, shredded",
+       "a": "Produce",
+       "q": 200,
+       "u": "g"
+      },
+      {
+       "i": "green onions, sliced",
+       "a": "Produce",
+       "q": 40,
+       "u": "g"
+      },
+      {
+       "i": "red pepper flakes and sesame seeds",
+       "a": "Spices"
+      }
+     ]
+    },
+    {
+     "name": "Bang bang sauce",
+     "items": [
+      {
+       "i": "plain non-fat Greek yogurt",
+       "a": "Dairy",
+       "q": 170,
+       "u": "g"
+      },
+      {
+       "i": "2% cottage cheese",
+       "a": "Dairy",
+       "q": 113,
+       "u": "g"
+      },
+      {
+       "i": "sriracha",
+       "a": "Pantry",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "honey",
+       "a": "Pantry",
+       "q": 50,
+       "u": "g"
+      },
+      {
+       "i": "low-sodium soy sauce",
+       "a": "Pantry",
+       "q": 28,
+       "u": "g"
+      },
+      {
+       "i": "rice vinegar",
+       "a": "Pantry",
+       "q": 14,
+       "u": "g"
+      },
+      {
+       "i": "sesame oil",
+       "a": "Pantry",
+       "q": 7,
+       "u": "g"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Marinate",
+     "Toss the diced chicken with the soy sauce, honey, oil and seasonings."
+    ],
+    [
+     "Sauce",
+     "Blend all the bang bang sauce ingredients until smooth and chill."
+    ],
+    [
+     "Air fry",
+     "Thread the chicken onto skewers and air fry at 400°F for 9–10 minutes, brushing with a little extra marinade after 7–8 minutes if you like."
+    ],
+    [
+     "Veg",
+     "Dice the cucumber, shred the carrots and slice the green onions."
+    ],
+    [
+     "Rice",
+     "Heat the jasmine and cauliflower rice, mix together and season with salt."
+    ],
+    [
+     "Assemble",
+     "Divide the rice between 4 bowls, top with cucumber, pickled onion and carrots, then the skewers. Drizzle each with 64 g bang bang sauce and finish with green onions, pepper flakes and sesame seeds."
+    ]
+   ],
+   "notes": "Recipe and macros are the creator's, per bowl.",
+   "t": 0,
+   "img": "img/fdl-bang-bang-chicken-bowl.jpg"
+  }
+ ]
+}

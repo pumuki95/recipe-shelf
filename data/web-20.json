@@ -1,0 +1,124 @@
+{
+ "src": {
+  "key": "partandparcel-blue-honey-immunity-marshmallows",
+  "platform": "Website",
+  "creator": "Laura & Bren (Holist) · Part&Parcel",
+  "title": "Blue Honey Immunity Marshmallows",
+  "url": "https://partandparcel.com.au/blogs/news/blue-honey-immunity-marshmallows-by-laura-bren-of-holist",
+  "recipes": 1,
+  "linkLabel": "Read the recipe on Part&Parcel"
+ },
+ "recipes": [
+  {
+   "id": "blue-honey-immunity-marshmallows",
+   "title": "Blue Honey Immunity Marshmallows",
+   "servings": 22,
+   "unit": "marshmallow",
+   "time": "20 min + 3 h setting",
+   "macros": {
+    "cal": 56,
+    "protein": 2.3,
+    "carbs": 12.7,
+    "fat": 0
+   },
+   "stated": [],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "Gluten-free"
+   ],
+   "groups": [
+    {
+     "name": "Marshmallows",
+     "items": [
+      {
+       "i": "powdered gelatin (grass-fed)",
+       "a": "Pantry",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "cold water (to bloom)",
+       "a": "Pantry",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "raw honey",
+       "a": "Pantry",
+       "q": 1,
+       "u": "cup"
+      },
+      {
+       "i": "water",
+       "a": "Pantry",
+       "q": 0.75,
+       "u": "cup"
+      },
+      {
+       "i": "vanilla extract",
+       "a": "Baking",
+       "q": 1.5,
+       "u": "tsp"
+      },
+      {
+       "i": "generous pinch of sea salt",
+       "a": "Spices"
+      },
+      {
+       "i": "Stardust Blue Immunity Powder, plus extra for dusting",
+       "a": "Pantry",
+       "q": 3,
+       "u": "tbsp"
+      },
+      {
+       "i": "bee pollen, to finish (optional)",
+       "a": "Pantry"
+      },
+      {
+       "i": "coconut oil, for greasing",
+       "a": "Pantry"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Tin",
+     "Grease a 20 cm square tin with coconut oil, line with baking paper and grease the paper."
+    ],
+    [
+     "Bloom",
+     "Pour the cold water into a large heatproof bowl, sprinkle the gelatin over and leave 5–10 minutes until thick."
+    ],
+    [
+     "Syrup",
+     "Warm the honey, water, vanilla and salt in a small saucepan (gently at first if the honey is crystallised), then bring to a full boil, about 100°C. Watch it, as honey foams up fast."
+    ],
+    [
+     "Melt",
+     "Pour the hot syrup over the gelatin and stir until fully melted and smooth."
+    ],
+    [
+     "Whip",
+     "Beat with electric beaters, low then high, about 5 minutes until pale, thick, glossy and tripled; it should fall in thick ribbons that hold briefly."
+    ],
+    [
+     "Colour",
+     "At the very end beat in the 3 tbsp Stardust powder until evenly blue."
+    ],
+    [
+     "Set",
+     "Spread into the tin leaving soft swirls, dust with more Stardust and scatter bee pollen. Leave at room temperature at least 3 hours until set and springy."
+    ],
+    [
+     "Cut",
+     "Lift out and cut into 4–5 cm squares with an oiled knife, pressing straight down and re-oiling between cuts."
+    ]
+   ],
+   "notes": "Recipe is from Laura and Bren of Holist on the Part&Parcel blog; makes 20–24. Stardust Blue Immunity Powder is a blend of butterfly pea flower, blue spirulina, elderberry, ginger and astragalus. No nutrition is given, so the macros are my estimate for 22.",
+   "t": 0,
+   "img": "img/blue-honey-immunity-marshmallows.jpg"
+  }
+ ]
+}
