@@ -1,0 +1,108 @@
+{
+ "src": {
+  "key": "DfVsPvJt2Rz",
+  "platform": "Instagram",
+  "creator": "Bethany (lilsipper)",
+  "title": "Zero Carb Carnivore Cookies",
+  "url": "https://www.instagram.com/p/DfVsPvJt2Rz/",
+  "recipes": 1,
+  "added": "2026-11-26T22:19:02+00:00"
+ },
+ "recipes": [
+  {
+   "id": "carnivore-protein-cookies",
+   "title": "Zero-Carb Carnivore Protein Cookies",
+   "servings": 6,
+   "unit": "cookie",
+   "time": "25 min",
+   "macros": {
+    "cal": 93,
+    "protein": 12.5,
+    "carbs": 1,
+    "fat": 4,
+    "sugar": 0
+   },
+   "stated": [
+    "cal",
+    "protein",
+    "carbs",
+    "fat",
+    "sugar"
+   ],
+   "tags": [
+    "Dessert",
+    "Snack",
+    "High protein",
+    "Low carb",
+    "Gluten-free",
+    "Carnivore"
+   ],
+   "groups": [
+    {
+     "name": "Dough",
+     "items": [
+      {
+       "i": "unflavored whey protein isolate (about 2 scoops)",
+       "a": "Pantry",
+       "q": 60,
+       "u": "g"
+      },
+      {
+       "i": "cottage cheese",
+       "a": "Dairy",
+       "q": 0.5,
+       "u": "cup"
+      },
+      {
+       "i": "egg",
+       "a": "Dairy",
+       "q": 1
+      },
+      {
+       "i": "butter, melted",
+       "a": "Dairy",
+       "q": 1,
+       "u": "tbsp"
+      },
+      {
+       "i": "baking powder (optional)",
+       "a": "Baking",
+       "q": 0.5,
+       "u": "tsp"
+      }
+     ]
+    },
+    {
+     "name": "Mix-in",
+     "items": [
+      {
+       "i": "chocolate chips, to taste (not carnivore, not in the macros)",
+       "a": "Baking"
+      }
+     ]
+    }
+   ],
+   "steps": [
+    [
+     "Blend",
+     "Blend all the dough ingredients until smooth."
+    ],
+    [
+     "Chocolate",
+     "Transfer to a bowl and stir in as many chocolate chips as you like."
+    ],
+    [
+     "Scoop",
+     "Scoop 6 portions onto a lined baking sheet and spread them a little; they bake thin and flat."
+    ],
+    [
+     "Bake",
+     "Bake at about 350°F for 10–12 minutes until golden at the edges, then cool on the tray."
+    ]
+   ],
+   "notes": "From Bethany's video: blend everything until smooth, then add chocolate chips. Her numbers are 560 cal and 76 g protein for the whole batch, or 93 cal, 12.5 g protein, 4 g fat and 1 g carbs per cookie (chocolate not included). She sends the exact recipe by message, so the ingredient amounts, oven temperature and time here are my estimates sized to her macros (the video shows cottage cheese, an egg and a protein powder). Swap in her amounts if you get her message.",
+   "t": 0,
+   "img": "img/carnivore-protein-cookies.jpg"
+  }
+ ]
+}
