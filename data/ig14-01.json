@@ -196,7 +196,12 @@
    ],
    "notes": "Recipe, calories and protein are the creator's, per quesadilla (optional onions not included). Carbs and fat are my estimates.",
    "t": 0,
-   "img": "img/beef-burger-sauce-protein-quesadillas.jpg"
+   "img": "img/beef-burger-sauce-protein-quesadillas-2.jpg",
+   "gallery": [
+    "img/p/beef-burger-sauce-protein-quesadillas-1.jpg",
+    "img/beef-burger-sauce-protein-quesadillas.jpg"
+   ],
+   "galleryRatio": "1206/2227"
   }
  ]
 }
