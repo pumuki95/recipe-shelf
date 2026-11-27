@@ -147,7 +147,12 @@
    ],
    "notes": "Recipe and macros are the creator's, per square.",
    "t": 0,
-   "img": "img/bacon-egg-crescent-breakfast-squares.jpg"
+   "img": "img/bacon-egg-crescent-breakfast-squares-2.jpg",
+   "gallery": [
+    "img/p/bacon-egg-crescent-breakfast-squares-1.jpg",
+    "img/p/bacon-egg-crescent-breakfast-squares-2.jpg"
+   ],
+   "galleryRatio": "1206/2223"
   }
  ]
 }
