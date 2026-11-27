@@ -98,7 +98,12 @@
    ],
    "notes": "The caption only says to comment for the recipe; he says the crust is just cottage cheese, mozzarella and an egg, blended, baked, then topped and baked again. Amounts, temperature, times and macros are my estimates.",
    "t": 0,
-   "img": "img/carnivore-cottage-cheese-crust-pizza-2.jpg"
+   "img": "img/carnivore-cottage-cheese-crust-pizza-3.jpg",
+   "gallery": [
+    "img/p/carnivore-cottage-cheese-crust-pizza-1.jpg",
+    "img/carnivore-cottage-cheese-crust-pizza-2.jpg"
+   ],
+   "galleryRatio": "9/16"
   }
  ]
 }
