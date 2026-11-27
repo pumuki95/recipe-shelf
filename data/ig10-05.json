@@ -184,7 +184,11 @@
    ],
    "notes": "Recipe and macros are the creator's, per bowl.",
    "t": 0,
-   "img": "img/beijing-beef-rice-bowls.jpg"
+   "img": "img/beijing-beef-rice-bowls-2.jpg",
+   "gallery": [
+    "img/p/beijing-beef-rice-bowls-1.jpg"
+   ],
+   "galleryRatio": "1206/2200"
   }
  ]
 }
