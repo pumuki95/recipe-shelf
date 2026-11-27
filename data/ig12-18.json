@@ -5,7 +5,7 @@
   "creator": "Emilie | Shredded & Fed",
   "title": "Lemongrass Chicken (freezer meal prep)",
   "url": "https://www.instagram.com/p/DgIaoezAQEV/",
-  "recipes": 2,
+  "recipes": 1,
   "added": "2026-11-26T18:03:52+00:00"
  },
  "recipes": [
@@ -87,79 +87,7 @@
      ]
     },
     {
-     "name": "To serve",
-     "items": [
-      {
-       "i": "vermicelli, rice or lettuce",
-       "a": "Pantry"
-      },
-      {
-       "i": "julienned carrots and cucumbers",
-       "a": "Produce"
-      },
-      {
-       "i": "cilantro and mint",
-       "a": "Produce"
-      },
-      {
-       "i": "lime wedges",
-       "a": "Produce"
-      }
-     ]
-    }
-   ],
-   "steps": [
-    [
-     "Marinate",
-     "Toss the chicken with all the marinade ingredients."
-    ],
-    [
-     "Freeze",
-     "Portion into bags and freeze flat right away, for up to 3–4 months."
-    ],
-    [
-     "Thaw",
-     "Thaw in the fridge and remove the lemongrass."
-    ],
-    [
-     "Cook",
-     "Pan-cook over medium heat, flipping halfway, until the chicken reaches 165°F."
-    ],
-    [
-     "Serve",
-     "Serve over vermicelli, rice or lettuce with carrots, cucumber, herbs, nước chấm and lime."
-    ]
-   ],
-   "notes": "Recipe and macros are the creator's, per serving of chicken (without the noodles or rice).",
-   "t": 0,
-   "img": "img/lemongrass-chicken-freezer-meal-prep.jpg"
-  },
-  {
-   "id": "nuoc-cham-dipping-sauce",
-   "title": "Nước Chấm (Vietnamese Dipping Sauce)",
-   "img": "img/lemongrass-chicken-freezer-meal-prep.jpg",
-   "servings": 4,
-   "unit": "serving",
-   "time": "5 min",
-   "macros": {
-    "cal": 37,
-    "protein": 1,
-    "carbs": 14,
-    "fat": 0
-   },
-   "stated": [
-    "cal",
-    "protein",
-    "carbs",
-    "fat"
-   ],
-   "tags": [
-    "Sauce",
-    "Quick"
-   ],
-   "groups": [
-    {
-     "name": "Sauce",
+     "name": "Nước chấm dipping sauce (optional)",
      "items": [
       {
        "i": "water",
@@ -202,24 +130,63 @@
        "q": 1
       }
      ]
+    },
+    {
+     "name": "To serve",
+     "items": [
+      {
+       "i": "vermicelli, rice or lettuce",
+       "a": "Pantry"
+      },
+      {
+       "i": "julienned carrots and cucumbers",
+       "a": "Produce"
+      },
+      {
+       "i": "cilantro and mint",
+       "a": "Produce"
+      },
+      {
+       "i": "lime wedges",
+       "a": "Produce"
+      }
+     ]
     }
    ],
    "steps": [
     [
-     "Dissolve",
-     "Stir the sugar and allulose into the water until dissolved."
+     "Marinate",
+     "Toss the chicken with all the marinade ingredients."
     ],
     [
-     "Mix",
-     "Add the lime juice, fish sauce, garlic and chili."
+     "Freeze",
+     "Portion into bags and freeze flat right away, for up to 3–4 months."
+    ],
+    [
+     "Thaw",
+     "Thaw in the fridge and remove the lemongrass."
+    ],
+    [
+     "Sauce (optional)",
+     "For the nước chấm, stir the sugar and allulose into the water until dissolved, then add the lime juice, fish sauce, garlic and chili."
+    ],
+    [
+     "Cook",
+     "Pan-cook over medium heat, flipping halfway, until the chicken reaches 165°F."
     ],
     [
      "Serve",
-     "Serve with the lemongrass chicken bowls."
+     "Serve over vermicelli, rice or lettuce with carrots, cucumber, herbs, the nước chấm (if making) and lime."
     ]
    ],
-   "notes": "Recipe and macros are the creator's, per serving.",
-   "t": 0
+   "notes": "Recipe and macros are the creator's, per serving of chicken (without the noodles or rice). The optional nước chấm makes 4 servings at 37 cal, 1 g protein and 14 g carbs each (creator's numbers), not included in the chicken macros.",
+   "t": 0,
+   "img": "img/lemongrass-chicken-freezer-meal-prep.jpg",
+   "gallery": [
+    "img/lemongrass-chicken-freezer-meal-prep.jpg",
+    "img/p/lemongrass-chicken-nuoc-cham.jpg"
+   ],
+   "galleryRatio": "16/9"
   }
  ]
 }
