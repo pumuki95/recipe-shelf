@@ -152,9 +152,10 @@
    "t": 0,
    "img": "img/protein-chocolate-chip-banana-bread-hunter-2.jpg",
    "gallery": [
-    "img/p/protein-chocolate-chip-banana-bread-hunter-1.jpg"
+    "img/p/protein-chocolate-chip-banana-bread-hunter-1.jpg",
+    "img/p/protein-chocolate-chip-banana-bread-hunter-2.jpg"
    ],
-   "galleryRatio": "1206/2242"
+   "galleryRatio": "4/5"
   }
  ]
 }
