@@ -149,7 +149,12 @@
    ],
    "notes": "Recipe and macros are the creator's, per slice (carbs are net carbs; optional toppings not counted). A whey/casein blend matters for texture; with pure whey use 3 scoops.",
    "t": 0,
-   "img": "img/chocolate-chunk-protein-banana-bread-nick.jpg"
+   "img": "img/chocolate-chunk-protein-banana-bread-nick-2.jpg",
+   "gallery": [
+    "img/p/chocolate-chunk-protein-banana-bread-nick-1.jpg",
+    "img/p/chocolate-chunk-protein-banana-bread-nick-2.jpg"
+   ],
+   "galleryRatio": "1080/1920"
   }
  ]
 }
