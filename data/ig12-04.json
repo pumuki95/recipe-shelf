@@ -174,7 +174,12 @@
    ],
    "notes": "Recipe and macros are the creator's, per slice of 12 (whole cake about 948 cal, 85 g protein).",
    "t": 0,
-   "img": "img/oreo-protein-swiss-roll-cake.jpg"
+   "img": "img/oreo-protein-swiss-roll-cake-2.jpg",
+   "gallery": [
+    "img/p/oreo-protein-swiss-roll-cake-1.jpg",
+    "img/p/oreo-protein-swiss-roll-cake-2.jpg"
+   ],
+   "galleryRatio": "911/1343"
   }
  ]
 }
