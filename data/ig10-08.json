@@ -76,7 +76,12 @@
    ],
    "notes": "Recipe, calories and protein are the creator's, per serving of 6; carbs and fat are my estimate.",
    "t": 0,
-   "img": "img/crispy-parmesan-cheese-balls.jpg"
+   "img": "img/crispy-parmesan-cheese-balls-2.jpg",
+   "gallery": [
+    "img/crispy-parmesan-cheese-balls-2.jpg",
+    "img/p/crispy-parmesan-cheese-balls-1.jpg"
+   ],
+   "galleryRatio": "9/16"
   }
  ]
 }
