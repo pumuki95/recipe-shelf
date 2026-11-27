@@ -199,7 +199,12 @@
    ],
    "notes": "Recipe is the creator's; he doesn't give servings or macros, so 4 servings and the macros are my estimate (chuck is a fattier cut).",
    "t": 0,
-   "img": "img/mediterranean-shawarma-chuck-roast.jpg"
+   "img": "img/mediterranean-shawarma-chuck-roast-2.jpg",
+   "gallery": [
+    "img/p/mediterranean-shawarma-chuck-roast-1.jpg",
+    "img/p/mediterranean-shawarma-chuck-roast-2.jpg"
+   ],
+   "galleryRatio": "9/16"
   }
  ]
 }
