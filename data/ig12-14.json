@@ -172,7 +172,12 @@
    ],
    "notes": "Recipe and macros are the creator's, per small cookie (carbs are net carbs; optional toppings not counted).",
    "t": 0,
-   "img": "img/oreo-choc-chip-protein-crumbl-cookies.jpg"
+   "img": "img/oreo-choc-chip-protein-crumbl-cookies-2.jpg",
+   "gallery": [
+    "img/p/oreo-choc-chip-protein-crumbl-cookies-1.jpg",
+    "img/p/oreo-choc-chip-protein-crumbl-cookies-2.jpg"
+   ],
+   "galleryRatio": "1080/1920"
   }
  ]
 }
