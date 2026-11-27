@@ -174,7 +174,13 @@
    ],
    "notes": "Recipe, calories and protein are the creator's (1,275 kcal and 120 g protein for the whole cake). Carbs and fat are my estimates.",
    "t": 0,
-   "img": "img/protein-kinder-milk-slice-cake-2.jpg"
+   "img": "img/protein-kinder-milk-slice-cake-2.jpg",
+   "gallery": [
+    "img/protein-kinder-milk-slice-cake-2.jpg",
+    "img/p/protein-kinder-milk-slice-cake-1.jpg",
+    "img/p/protein-kinder-milk-slice-cake-2.jpg"
+   ],
+   "galleryRatio": "9/16"
   }
  ]
 }
